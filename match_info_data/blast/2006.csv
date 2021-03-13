@@ -1,0 +1,80 @@
+match_id,venue,match_type,city,date,full_league,team_one,team_two,inn_one,inn_two,winner,margin,inn_one_score,inn_one_wickets,inn_two_score,inn_two_wickets
+225345,"Trent Bridge, Nottingham",Final,Nottingham,2006-08-12,Twenty20 Cup,Leicestershire,Nottinghamshire,177/2,173/8,Leicestershire,4 runs,177,2,173,8
+254572,"Trent Bridge, Nottingham",2nd Semi Final,Nottingham,2006-08-12,Twenty20 Cup,Nottinghamshire,Surrey,176/6,139,Nottinghamshire,37 runs,176,6,139,10
+254573,"Trent Bridge, Nottingham",1st Semi Final,Nottingham,2006-08-12,Twenty20 Cup,Leicestershire,Essex,173/4,150/9,Leicestershire,23 runs,173,4,150,9
+225344,"County Ground, Chelmsford",Quarter Final (N),Chelmsford,2006-07-24,Twenty20 Cup,Yorkshire,Essex,143/7,149/5,Essex,5 wickets,143,7,149,5
+253109,"Grace Road, Leicester",Quarter Final,Leicester,2006-07-24,Twenty20 Cup,Kent,Leicestershire,153/5,156/1,Leicestershire,9 wickets,153,5,156,1
+253111,"Trent Bridge, Nottingham",Quarter Final,Nottingham,2006-07-24,Twenty20 Cup,Nottinghamshire,Northamptonshire,213/6,150/6,Nottinghamshire,63 runs,213,6,150,6
+253110,"County Ground, Bristol",Quarter Final,Bristol,2006-07-24,Twenty20 Cup,Surrey,Gloucestershire,224/5,144,Surrey,80 runs,224,5,144,10
+225341,"County Ground, Hove",,Brighton,2006-07-11,Twenty20 Cup,Sussex,Essex,173/5,177/6,Essex,4 wickets,173,5,177,6
+225343,"Headingley, Leeds",,Leeds,2006-07-11,Twenty20 Cup,Lancashire,Yorkshire,131/9,137/3,Yorkshire,7 wickets,131,9,137,3
+225342,"County Ground, New Road, Worcester",,Worcester,2006-07-11,Twenty20 Cup,Warwickshire,Worcestershire,196/7,185/6,Warwickshire,11 runs,196,7,185,6
+225340,"The Cooper Associates County Ground, Taunton",,Taunton,2006-07-11,Twenty20 Cup,Somerset,Glamorgan,219/5,206/6,Somerset,13 runs,219,5,206,6
+225339,"Trent Bridge, Nottingham",,Nottingham,2006-07-11,Twenty20 Cup,Derbyshire,Nottinghamshire,141/6,142/1,Nottinghamshire,9 wickets,141,6,142,1
+225338,"The Walker Cricket Ground, Southgate",,Southgate,2006-07-11,Twenty20 Cup,Hampshire,Middlesex,111,116/1,Middlesex,9 wickets,111,10,116,1
+225337,"St Lawrence Ground, Canterbury",,Canterbury,2006-07-11,Twenty20 Cup,Surrey,Kent,217/4,157,Surrey,60 runs,217,4,157,10
+225336,"County Ground, Bristol",,Bristol,2006-07-11,Twenty20 Cup,Gloucestershire,Northamptonshire,154/7,155/2,Northamptonshire,8 wickets,154,7,155,2
+225335,"Riverside Ground, Chester-le-Street",,Chester-le-Street,2006-07-11,Twenty20 Cup,Leicestershire,Durham,183/7,104/8,Leicestershire,79 runs,183,7,104,8
+225332,"Sophia Gardens, Cardiff",(N),Cardiff,2006-07-10,Twenty20 Cup,Glamorgan,Gloucestershire,190/5,191/5,Gloucestershire,5 wickets,190,5,191,5
+225331,"County Ground, Derby",(N),Derby,2006-07-10,Twenty20 Cup,Yorkshire,Derbyshire,210/3,34/0,,,210,3,34,0
+225334,"Edgbaston, Birmingham",,Birmingham,2006-07-10,Twenty20 Cup,Warwickshire,Northamptonshire,187/7,167/9,Warwickshire,20 runs,187,7,167,9
+225330,"County Ground, New Road, Worcester",,Worcester,2006-07-09,Twenty20 Cup,Somerset,Worcestershire,198/4,200/7,Worcestershire,3 wickets,198,4,200,7
+225329,"Old Trafford, Manchester",,Manchester,2006-07-09,Twenty20 Cup,Nottinghamshire,Lancashire,91,93/3,Lancashire,7 wickets,91,10,93,3
+225327,"Riverside Ground, Chester-le-Street",,Chester-le-Street,2006-07-08,Twenty20 Cup,Derbyshire,Durham,172/4,170/8,Derbyshire,2 runs,172,4,170,8
+225328,"Headingley, Leeds",,Leeds,2006-07-08,Twenty20 Cup,Leicestershire,Yorkshire,155/8,134,Leicestershire,21 runs,155,8,134,10
+225319,"County Ground, Chelmsford",(N),Chelmsford,2006-07-07,Twenty20 Cup,Kent,Essex,157,160/5,Essex,5 wickets,157,10,160,5
+225318,"County Ground, Derby",(N),Derby,2006-07-07,Twenty20 Cup,Derbyshire,Nottinghamshire,128,132/3,Nottinghamshire,7 wickets,128,10,132,3
+225322,"Old Trafford, Manchester",,Manchester,2006-07-07,Twenty20 Cup,Yorkshire,Lancashire,156/7,141/9,Yorkshire,15 runs,156,7,141,9
+225326,"Edgbaston, Birmingham",,Birmingham,2006-07-07,Twenty20 Cup,Worcestershire,Warwickshire,186/5,182/8,Worcestershire,4 runs,186,5,182,8
+225325,"Kennington Oval, London",,London,2006-07-07,Twenty20 Cup,Middlesex,Surrey,115,116/3,Surrey,7 wickets,115,10,116,3
+225324,"County Ground, Northampton",,Northampton,2006-07-07,Twenty20 Cup,Northamptonshire,Glamorgan,174/6,160/6,Northamptonshire,14 runs,174,6,160,6
+225323,"Grace Road, Leicester",,Leicester,2006-07-07,Twenty20 Cup,Leicestershire,Durham,144/5,112,Leicestershire,32 runs,144,5,112,10
+225321,"The Rose Bowl, Southampton",,Southampton,2006-07-07,Twenty20 Cup,Hampshire,Sussex,112/5,97/9,Hampshire,15 runs,112,5,97,9
+225320,"County Ground, Bristol",,Bristol,2006-07-07,Twenty20 Cup,Gloucestershire,Somerset,227/4,200,Gloucestershire,27 runs,227,4,200,10
+225315,"County Ground, Chelmsford",(N),Chelmsford,2006-07-06,Twenty20 Cup,Middlesex,Essex,177/6,178/7,Essex,3 wickets,177,6,178,7
+225316,"County Ground, Hove",(N),Brighton,2006-07-06,Twenty20 Cup,Kent,Sussex,155/7,145,Kent,10 runs,155,7,145,10
+225317,"County Ground, New Road, Worcester",,Worcester,2006-07-06,Twenty20 Cup,Gloucestershire,Worcestershire,203/7,179/7,Gloucestershire,24 runs,203,7,179,7
+225311,"Old Trafford, Manchester",,Manchester,2006-07-06,Twenty20 Cup,Lancashire,Durham,117/8,118/5,Durham,5 wickets,117,8,118,5
+225310,"The Rose Bowl, Southampton",,Southampton,2006-07-06,Twenty20 Cup,Surrey,Hampshire,141/5,131,Surrey,10 runs,141,5,131,10
+225309,"Sophia Gardens, Cardiff",(N),Cardiff,2006-07-05,Twenty20 Cup,Glamorgan,Warwickshire,,,,,,,,
+225314,"Headingley, Leeds",,Leeds,2006-07-05,Twenty20 Cup,Yorkshire,Nottinghamshire,159/6,160/3,Nottinghamshire,7 wickets,159,6,160,3
+225313,"The Cooper Associates County Ground, Taunton",,Taunton,2006-07-05,Twenty20 Cup,Somerset,Northamptonshire,188/6,191/5,Northamptonshire,5 wickets,188,6,191,5
+225312,"Grace Road, Leicester",,Leicester,2006-07-05,Twenty20 Cup,Leicestershire,Derbyshire,161/6,143/6,Leicestershire,18 runs,161,6,143,6
+225308,"Kennington Oval, London",,London,2006-07-04,Twenty20 Cup,Surrey,Sussex,131,135/5,Sussex,5 wickets,131,10,135,5
+225307,"Trent Bridge, Nottingham",,Nottingham,2006-07-04,Twenty20 Cup,Leicestershire,Nottinghamshire,136/8,137/5,Nottinghamshire,5 wickets,136,8,137,5
+225306,"The Kent County Cricket Ground, Beckenham",,Beckenham,2006-07-04,Twenty20 Cup,Kent,Middlesex,178/5,126,Kent,52 runs,178,5,126,10
+225305,"County Ground, Bristol",,Bristol,2006-07-04,Twenty20 Cup,Glamorgan,Gloucestershire,162/5,165/3,Gloucestershire,7 wickets,162,5,165,3
+225302,"Riverside Ground, Chester-le-Street",,Chester-le-Street,2006-07-03,Twenty20 Cup,Yorkshire,Durham,149/6,98,Yorkshire,51 runs,149,6,98,10
+225304,"County Ground, Northampton",,Northampton,2006-07-03,Twenty20 Cup,Northamptonshire,Worcestershire,190/3,179/5,Northamptonshire,11 runs,190,3,179,5
+225333,"The Rose Bowl, Southampton",,Southampton,2006-07-03,Twenty20 Cup,Hampshire,Essex,151/4,115,Hampshire,36 runs,151,4,115,10
+225303,"Old Trafford, Manchester",,Manchester,2006-07-03,Twenty20 Cup,Lancashire,Derbyshire,173/5,125,Lancashire,48 runs,173,5,125,10
+225301,"The Cooper Associates County Ground, Taunton",,Taunton,2006-07-02,Twenty20 Cup,Somerset,Warwickshire,167/7,169/3,Warwickshire,7 wickets,167,7,169,3
+225300,"Old Deer Park, Richmond",,Richmond,2006-07-02,Twenty20 Cup,Middlesex,Sussex,108,111/1,Sussex,9 wickets,108,10,111,1
+225299,"The Kent County Cricket Ground, Beckenham",,Beckenham,2006-07-02,Twenty20 Cup,Kent,Hampshire,134/9,119,Kent,15 runs,134,9,119,10
+225298,"Kennington Oval, London",,London,2006-07-01,Twenty20 Cup,Surrey,Essex,188/7,189/6,Essex,4 wickets,188,7,189,6
+225295,"County Ground, Hove",(N),Brighton,2006-06-30,Twenty20 Cup,Surrey,Sussex,123,126/5,Sussex,5 wickets,123,10,126,5
+225292,"Sophia Gardens, Cardiff",(N),Cardiff,2006-06-30,Twenty20 Cup,Somerset,Glamorgan,185/3,186/9,Glamorgan,1 wicket,185,3,186,9
+225291,"County Ground, Chelmsford",(N),Chelmsford,2006-06-30,Twenty20 Cup,Hampshire,Essex,158/7,162/3,Essex,7 wickets,158,7,162,3
+225289,"County Ground, Derby",(N),Derby,2006-06-30,Twenty20 Cup,Leicestershire,Derbyshire,204/6,118,Leicestershire,86 runs,204,6,118,10
+225297,"County Ground, New Road, Worcester",,Worcester,2006-06-30,Twenty20 Cup,Worcestershire,Northamptonshire,86,87/1,Northamptonshire,9 wickets,86,10,87,1
+225296,"Edgbaston, Birmingham",,Birmingham,2006-06-30,Twenty20 Cup,Gloucestershire,Warwickshire,188/6,185/8,Gloucestershire,3 runs,188,6,185,8
+225294,"Trent Bridge, Nottingham",,Nottingham,2006-06-30,Twenty20 Cup,Nottinghamshire,Yorkshire,195/4,174/6,Nottinghamshire,21 runs,195,4,174,6
+225293,"Lord's, London",,London,2006-06-30,Twenty20 Cup,Kent,Middlesex,182/5,165/7,Kent,17 runs,182,5,165,7
+225290,"Riverside Ground, Chester-le-Street",,Chester-le-Street,2006-06-30,Twenty20 Cup,Lancashire,Durham,135/9,139/4,Durham,6 wickets,135,9,139,4
+225288,"County Ground, Northampton",,Northampton,2006-06-29,Twenty20 Cup,Somerset,Northamptonshire,151/9,151/6,,Super Over,151,9,151,6
+225287,"Grace Road, Leicester",,Leicester,2006-06-29,Twenty20 Cup,Leicestershire,Lancashire,160/6,164/5,Lancashire,5 wickets,160,6,164,5
+225286,"The Rose Bowl, Southampton",,Southampton,2006-06-29,Twenty20 Cup,Hampshire,Middlesex,225/2,166/9,Hampshire,59 runs,225,2,166,9
+225285,"County Ground, Bristol",,Bristol,2006-06-29,Twenty20 Cup,Gloucestershire,Worcestershire,181/7,180/5,Gloucestershire,1 run,181,7,180,5
+225281,"County Ground, Chelmsford",(N),Chelmsford,2006-06-28,Twenty20 Cup,Essex,Sussex,196/6,109,Essex,87 runs,196,6,109,10
+225284,"Edgbaston, Birmingham",,Birmingham,2006-06-28,Twenty20 Cup,Warwickshire,Glamorgan,170/9,174/4,Glamorgan,6 wickets,170,9,174,4
+225283,"Kennington Oval, London",,London,2006-06-28,Twenty20 Cup,Surrey,Kent,198/6,91,Surrey,107 runs,198,6,91,10
+225282,"Trent Bridge, Nottingham",,Nottingham,2006-06-28,Twenty20 Cup,Nottinghamshire,Durham,175/7,123,Nottinghamshire,52 runs,175,7,123,10
+225273,"Sophia Gardens, Cardiff",(N),Cardiff,2006-06-27,Twenty20 Cup,Worcestershire,Glamorgan,163/7,164/3,Glamorgan,7 wickets,163,7,164,3
+225272,"County Ground, Derby",(N),Derby,2006-06-27,Twenty20 Cup,Lancashire,Derbyshire,114,118/5,Derbyshire,5 wickets,114,10,118,5
+225280,"Headingley, Leeds",,Leeds,2006-06-27,Twenty20 Cup,Durham,Yorkshire,121/8,123/2,Yorkshire,8 wickets,121,8,123,2
+225279,Arundel Castle Cricket Club Ground,,Arundel,2006-06-27,Twenty20 Cup,Hampshire,Sussex,152/6,153/6,Sussex,4 wickets,152,6,153,6
+225278,"The Cooper Associates County Ground, Taunton",,Taunton,2006-06-27,Twenty20 Cup,Somerset,Gloucestershire,250/3,133,Somerset,117 runs,250,3,133,10
+225277,"County Ground, Northampton",,Northampton,2006-06-27,Twenty20 Cup,Warwickshire,Northamptonshire,185/5,161,Warwickshire,24 runs,185,5,161,10
+225276,"Lord's, London",,London,2006-06-27,Twenty20 Cup,Surrey,Middlesex,218/7,178/7,Surrey,40 runs,218,7,178,7
+225275,"Grace Road, Leicester",,Leicester,2006-06-27,Twenty20 Cup,Leicestershire,Nottinghamshire,137/6,123/8,Leicestershire,14 runs,137,6,123,8
+225274,"The Kent County Cricket Ground, Beckenham",,Beckenham,2006-06-27,Twenty20 Cup,Kent,Essex,186/6,147,Kent,39 runs,186,6,147,10

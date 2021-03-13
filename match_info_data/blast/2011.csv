@@ -1,0 +1,152 @@
+match_id,venue,match_type,city,date,full_league,team_one,team_two,inn_one,inn_two,winner,margin,inn_one_score,inn_one_wickets,inn_two_score,inn_two_wickets
+492510,"Edgbaston, Birmingham",Final (N),Birmingham,2011-08-27,Friends Life t20,Leicestershire,Somerset,145/6,127/9,Leicestershire,18 runs,145,6,127,9
+492509,"Edgbaston, Birmingham",2nd Semi-Final,Birmingham,2011-08-27,Friends Life t20,Hampshire,Somerset,138/4,94/6,Somerset,Super Over,138,4,94,6
+492508,"Edgbaston, Birmingham",1st Semi-Final,Birmingham,2011-08-27,Friends Life t20,Leicestershire,Lancashire,132/6,79/6,Leicestershire,Super Over,132,6,79,6
+492507,"County Ground, Hove",4th Quarter-Final (N),Brighton,2011-08-08,Friends Life t20,Lancashire,Sussex,152/8,132/8,Lancashire,20 runs,152,8,132,8
+492505,"The Rose Bowl, Southampton",3rd Quarter-Final,Southampton,2011-08-07,Friends Life t20,Hampshire,Durham,154/6,99,Hampshire,55 runs,154,6,99,10
+492506,"Trent Bridge, Nottingham",2nd Quarter-Final,Nottingham,2011-08-07,Friends Life t20,Nottinghamshire,Somerset,169/5,172/4,Somerset,6 wickets,169,5,172,4
+492504,"Grace Road, Leicester",1st Quarter-Final,Leicester,2011-08-06,Friends Life t20,Kent,Leicestershire,203/3,206/7,Leicestershire,3 wickets,203,3,206,7
+492503,"County Ground, Hove",South Group (N),Brighton,2011-07-15,Friends Life t20,Sussex,Surrey,178/8,167/7,Sussex,11 runs,178,8,167,7
+492502,"County Ground, Derby",North Group (N),Derby,2011-07-15,Friends Life t20,Derbyshire,Yorkshire,127/7,128/2,Yorkshire,8 wickets,127,7,128,2
+492501,"County Ground, Chelmsford",South Group (N),Chelmsford,2011-07-15,Friends Life t20,Kent,Essex,183/3,168/9,Kent,15 runs,183,3,168,9
+492500,"Sophia Gardens, Cardiff",South Group (N),Cardiff,2011-07-15,Friends Life t20,Gloucestershire,Glamorgan,133,67/2,Glamorgan,8 wickets,133,10,67,2
+492499,"The Rose Bowl, Southampton",South Group (N),Southampton,2011-07-15,Friends Life t20,Hampshire,Middlesex,,,,,,,,
+492498,"Old Trafford, Manchester",North Group (N),Manchester,2011-07-15,Friends Life t20,Lancashire,Northamptonshire,188/5,124/7,Lancashire,64 runs,188,5,124,7
+492497,"Edgbaston, Birmingham",North Group (N),Birmingham,2011-07-15,Friends Life t20,Warwickshire,Leicestershire,166/8,136/5,Leicestershire,5 wickets,166,8,136,5
+492496,"Trent Bridge, Nottingham",North Group (N),Nottingham,2011-07-15,Friends Life t20,Nottinghamshire,Worcestershire,167/6,142,Nottinghamshire,25 runs,167,6,142,10
+492494,"Kennington Oval, London",South Group (N),London,2011-07-14,Friends Life t20,Kent,Surrey,181/9,166,Kent,15 runs,181,9,166,10
+492495,"Riverside Ground, Chester-le-Street",North Group,Chester-le-Street,2011-07-14,Friends Life t20,Durham,Northamptonshire,144/7,47,Durham,97 runs,144,7,47,10
+492493,"Old Trafford, Manchester",North Group (N),Manchester,2011-07-13,Friends Life t20,Lancashire,Warwickshire,139/8,127/4,Lancashire,12 runs,139,8,127,4
+492492,"County Ground, Bristol",South Group,Bristol,2011-07-13,Friends Life t20,Gloucestershire,Middlesex,165/4,140/7,Gloucestershire,25 runs,165,4,140,7
+492491,"County Ground, Northampton",North Group,Northampton,2011-07-12,Friends Life t20,Lancashire,Northamptonshire,110/9,107/5,Lancashire,3 runs,110,9,107,5
+492490,"Edgbaston, Birmingham",North Group,Birmingham,2011-07-11,Friends Life t20,Durham,Warwickshire,145/5,148/6,Warwickshire,4 wickets,145,5,148,6
+492488,"County Ground, Bristol",South Group,Bristol,2011-07-10,Friends Life t20,Gloucestershire,Glamorgan,81,86/0,Glamorgan,10 wickets,81,10,86,0
+492486,"County Ground, Hove",South Group,Brighton,2011-07-10,Friends Life t20,Hampshire,Sussex,193/2,81,Hampshire,112 runs,193,2,81,10
+492489,"Old Trafford, Manchester",North Group,Manchester,2011-07-10,Friends Life t20,Nottinghamshire,Lancashire,105/5,106/1,Lancashire,9 wickets,105,5,106,1
+492487,"The Walker Cricket Ground, Southgate",South Group,Southgate,2011-07-10,Friends Life t20,Somerset,Middlesex,143/6,143/7,,Super Over,143,6,143,7
+492485,"North Marine Road Ground, Scarborough",North Group,Scarborough,2011-07-10,Friends Life t20,Durham,Yorkshire,144/8,150/7,Yorkshire,3 wickets,144,8,150,7
+492484,"County Ground, Derby",North Group,Derby,2011-07-09,Friends Life t20,Derbyshire,Northamptonshire,133/5,135/3,Northamptonshire,7 wickets,133,5,135,3
+492480,"St Lawrence Ground, Canterbury",South Group (N),Canterbury,2011-07-08,Friends Life t20,Sussex,Kent,159/6,144/8,Sussex,15 runs,159,6,144,8
+492481,"County Ground, Chelmsford",South Group (N),Chelmsford,2011-07-08,Friends Life t20,Glamorgan,Essex,144/9,146/5,Essex,5 wickets,144,9,146,5
+492479,"County Ground, Northampton",North Group (N),Northampton,2011-07-08,Friends Life t20,Northamptonshire,Nottinghamshire,,,,,,,,
+492478,"Kennington Oval, London",South Group (N),London,2011-07-08,Friends Life t20,Surrey,Hampshire,151/5,113,Surrey,38 runs,151,5,113,10
+492483,"The Cooper Associates County Ground, Taunton",South Group,Taunton,2011-07-08,Friends Life t20,Somerset,Gloucestershire,170/4,155/9,Somerset,15 runs,170,4,155,9
+492482,"Riverside Ground, Chester-le-Street",North Group,Chester-le-Street,2011-07-08,Friends Life t20,Durham,Yorkshire,,,,,,,,
+492477,"County Ground, New Road, Worcester",North Group,Worcester,2011-07-08,Friends Life t20,Worcestershire,Warwickshire,112/7,106/8,Worcestershire,6 runs,112,7,106,8
+492476,"Grace Road, Leicester",North Group,Leicester,2011-07-08,Friends Life t20,Derbyshire,Leicestershire,150,151/8,Leicestershire,2 wickets,150,10,151,8
+492475,"County Ground, Hove",South Group (N),Brighton,2011-07-07,Friends Life t20,Glamorgan,Sussex,132/8,134/6,Sussex,4 wickets,132,8,134,6
+492474,"Lord's, London",South Group (N),London,2011-07-07,Friends Life t20,Surrey,Middlesex,182/3,173/8,Surrey,9 runs,182,3,173,8
+492473,"The Rose Bowl, Southampton",South Group (N),Southampton,2011-07-06,Friends Life t20,Hampshire,Essex,151/7,122/6,Hampshire,9 runs,151,7,122,6
+492470,"Headingley, Leeds",North Group,Leeds,2011-07-06,Friends Life t20,Leicestershire,Yorkshire,191/4,174/9,Leicestershire,18 runs,191,4,174,9
+492472,"Edgbaston, Birmingham",North Group,Birmingham,2011-07-06,Friends Life t20,Derbyshire,Warwickshire,162/5,129,Derbyshire,33 runs,162,5,129,10
+492471,"County Ground, Bristol",South Group,Bristol,2011-07-06,Friends Life t20,Gloucestershire,Kent,115/4,79/3,Kent,7 wickets,115,4,79,3
+492469,"Sophia Gardens, Cardiff",South Group (N),Cardiff,2011-07-05,Friends Life t20,Glamorgan,Somerset,98,99/5,Somerset,5 wickets,98,10,99,5
+492468,"County Ground, New Road, Worcester",North Group,Worcester,2011-07-05,Friends Life t20,Nottinghamshire,Worcestershire,152,142/5,Nottinghamshire,10 runs,152,10,142,5
+492467,"Whitgift School, Croydon",South Group,Croydon,2011-07-04,Friends Life t20,Surrey,Sussex,203/2,185/5,Surrey,18 runs,203,2,185,5
+492466,"Recreation Ground, Bath",South Group,Bath,2011-07-04,Friends Life t20,Essex,Somerset,209/5,144,Essex,65 runs,209,5,144,10
+492460,"St Lawrence Ground, Canterbury",South Group,Canterbury,2011-07-03,Friends Life t20,Glamorgan,Kent,138/6,142/5,Kent,5 wickets,138,6,142,5
+492462,Arundel Castle Cricket Club Ground,South Group,Arundel,2011-07-03,Friends Life t20,Gloucestershire,Sussex,121,125/4,Sussex,6 wickets,121,10,125,4
+492465,"Grace Road, Leicester",North Group,Leicester,2011-07-03,Friends Life t20,Northamptonshire,Leicestershire,130/9,131/4,Leicestershire,6 wickets,130,9,131,4
+492464,"Riverside Ground, Chester-le-Street",North Group,Chester-le-Street,2011-07-03,Friends Life t20,Durham,Worcestershire,161/6,133,Durham,28 runs,161,6,133,10
+492463,"Old Trafford, Manchester",North Group,Manchester,2011-07-03,Friends Life t20,Derbyshire,Lancashire,81/8,82/0,Lancashire,10 wickets,81,8,82,0
+492461,"Headingley, Leeds",North Group,Leeds,2011-07-03,Friends Life t20,Yorkshire,Nottinghamshire,152/5,156/4,Nottinghamshire,6 wickets,152,5,156,4
+492459,"County Ground, Chelmsford",South Group,Chelmsford,2011-07-02,Friends Life t20,Essex,Middlesex,139/9,131/8,Essex,8 runs,139,9,131,8
+492455,"Sophia Gardens, Cardiff",South Group (N),Cardiff,2011-07-01,Friends Life t20,Surrey,Glamorgan,169/4,151/7,Surrey,18 runs,169,4,151,7
+492456,"County Ground, Derby",North Group (N),Derby,2011-07-01,Friends Life t20,Derbyshire,Nottinghamshire,170/5,174/5,Nottinghamshire,5 wickets,170,5,174,5
+492454,"St Lawrence Ground, Canterbury",South Group (N),Canterbury,2011-07-01,Friends Life t20,Essex,Kent,153/8,156/2,Kent,8 wickets,153,8,156,2
+492457,"County Ground, Northampton",North Group (N),Northampton,2011-07-01,Friends Life t20,Yorkshire,Northamptonshire,144,132/7,Yorkshire,12 runs,144,10,132,7
+492458,"County Ground, Bristol",South Group,Bristol,2011-07-01,Friends Life t20,Somerset,Gloucestershire,121/9,124/8,Gloucestershire,2 wickets,121,9,124,8
+492453,Uxbridge Cricket Club Ground,South Group,Uxbridge,2011-07-01,Friends Life t20,Middlesex,Hampshire,121/9,124/3,Hampshire,7 wickets,121,9,124,3
+492452,"County Ground, New Road, Worcester",North Group,Worcester,2011-07-01,Friends Life t20,Worcestershire,Leicestershire,130/7,134/4,Leicestershire,6 wickets,130,7,134,4
+492451,"Old Trafford, Manchester",North Group,Manchester,2011-07-01,Friends Life t20,Lancashire,Durham,161/5,135/9,Lancashire,26 runs,161,5,135,9
+492449,"The Rose Bowl, Southampton",South Group (N),Southampton,2011-06-30,Friends Life t20,Hampshire,Kent,141/6,72,Hampshire,69 runs,141,6,72,10
+492450,"Kennington Oval, London",South Group (N),London,2011-06-30,Friends Life t20,Somerset,Surrey,169/7,131/8,Somerset,38 runs,169,7,131,8
+492447,"Grace Road, Leicester",North Group,Leicester,2011-06-29,Friends Life t20,Yorkshire,Leicestershire,144,147/2,Leicestershire,8 wickets,144,10,147,2
+492448,"Campbell Park, Milton Keynes",North Group,Milton Keynes,2011-06-29,Friends Life t20,Northamptonshire,Worcestershire,129/9,130/4,Worcestershire,6 wickets,129,9,130,4
+492446,"The Rose Bowl, Southampton",South Group (N),Southampton,2011-06-27,Friends Life t20,Hampshire,Sussex,126/8,91,Hampshire,35 runs,126,8,91,10
+492445,"The Cooper Associates County Ground, Taunton",South Group,Taunton,2011-06-26,Friends Life t20,Glamorgan,Somerset,166/8,172/3,Somerset,7 wickets,166,8,172,3
+492442,"The Kent County Cricket Ground, Beckenham",South Group,Beckenham,2011-06-26,Friends Life t20,Surrey,Kent,150/4,153/4,Kent,6 wickets,150,4,153,4
+492443,"Riverside Ground, Chester-le-Street",North Group,Chester-le-Street,2011-06-26,Friends Life t20,Durham,Leicestershire,187/5,184/7,Durham,3 runs,187,5,184,7
+492441,Uxbridge Cricket Club Ground,South Group,Uxbridge,2011-06-26,Friends Life t20,Gloucestershire,Middlesex,254/3,149/8,Gloucestershire,105 runs,254,3,149,8
+492440,"Trent Bridge, Nottingham",North Group,Nottingham,2011-06-26,Friends Life t20,Nottinghamshire,Lancashire,184/4,131,Nottinghamshire,53 runs,184,4,131,10
+492439,"County Ground, New Road, Worcester",North Group,Worcester,2011-06-26,Friends Life t20,Worcestershire,Yorkshire,183/7,142,Worcestershire,41 runs,183,7,142,10
+492444,"Highfield, Leek",North Group,Leek,2011-06-26,Friends Life t20,Warwickshire,Derbyshire,137/4,141/4,Derbyshire,6 wickets,137,4,141,4
+492438,"Grace Road, Leicester",North Group,Leicester,2011-06-25,Friends Life t20,Leicestershire,Worcestershire,151/8,132/7,Leicestershire,19 runs,151,8,132,7
+492436,"The Rose Bowl, Southampton",South Group (N),Southampton,2011-06-24,Friends Life t20,Hampshire,Gloucestershire,139/7,107,Hampshire,16 runs,139,7,107,10
+492434,"County Ground, Chelmsford",South Group (N),Chelmsford,2011-06-24,Friends Life t20,Essex,Surrey,,,,,,,,
+492433,"Trent Bridge, Nottingham",North Group,Nottingham,2011-06-24,Friends Life t20,Nottinghamshire,Leicestershire,,,,,,,,
+492437,"The Cooper Associates County Ground, Taunton",South Group,Taunton,2011-06-24,Friends Life t20,Somerset,Sussex,177/4,40/2,,,177,4,40,2
+492435,"Riverside Ground, Chester-le-Street",North Group,Chester-le-Street,2011-06-24,Friends Life t20,Durham,Lancashire,200/6,117,Durham,83 runs,200,6,117,10
+492432,"Edgbaston, Birmingham",North Group,Birmingham,2011-06-24,Friends Life t20,Warwickshire,Yorkshire,,,,,,,,
+492431,"County Ground, New Road, Worcester",North Group,Worcester,2011-06-24,Friends Life t20,Worcestershire,Derbyshire,,,,,,,,
+492430,Uxbridge Cricket Club Ground,South Group,Uxbridge,2011-06-24,Friends Life t20,Kent,Middlesex,149/3,79/1,Middlesex,28 runs,149,3,79,1
+492427,"County Ground, Chelmsford",South Group (N),Chelmsford,2011-06-23,Friends Life t20,Essex,Hampshire,162/7,136,Essex,26 runs,162,7,136,10
+492428,"Sophia Gardens, Cardiff",South Group (N),Cardiff,2011-06-23,Friends Life t20,Glamorgan,Sussex,137/3,135/4,Glamorgan,2 runs,137,3,135,4
+492429,"Kennington Oval, London",South Group (N),London,2011-06-23,Friends Life t20,Surrey,Middlesex,163/5,142/3,Surrey,21 runs,163,5,142,3
+492426,"Headingley, Leeds",North Group,Leeds,2011-06-22,Friends Life t20,Derbyshire,Yorkshire,152/4,140/5,Derbyshire,12 runs,152,4,140,5
+492425,"Sophia Gardens, Cardiff",South Group (N),Cardiff,2011-06-21,Friends Life t20,Glamorgan,Essex,141/7,145/6,Essex,4 wickets,141,7,145,6
+492424,"Edgbaston, Birmingham",North Group,Birmingham,2011-06-19,Friends Life t20,Warwickshire,Lancashire,109,110/0,Lancashire,10 wickets,109,10,110,0
+492422,"St Lawrence Ground, Canterbury",South Group (N),Canterbury,2011-06-18,Friends Life t20,Kent,Middlesex,115/9,106/7,Kent,9 runs,115,9,106,7
+492423,"Trent Bridge, Nottingham",North Group (N),Nottingham,2011-06-18,Friends Life t20,Nottinghamshire,Northamptonshire,183/6,160/6,Nottinghamshire,23 runs,183,6,160,6
+492421,"County Ground, Derby",North Group,Derby,2011-06-18,Friends Life t20,Derbyshire,Leicestershire,160/4,161/5,Leicestershire,5 wickets,160,4,161,5
+492419,"Sophia Gardens, Cardiff",South Group (N),Cardiff,2011-06-17,Friends Life t20,Hampshire,Glamorgan,,,,,,,,
+492416,"County Ground, Hove",South Group (N),Brighton,2011-06-17,Friends Life t20,Sussex,Kent,,,,,,,,
+492417,"County Ground, Northampton",North Group (N),Northampton,2011-06-17,Friends Life t20,Northamptonshire,Derbyshire,,,,,,,,
+492414,"Headingley, Leeds",North Group,Leeds,2011-06-17,Friends Life t20,Yorkshire,Lancashire,178/4,167,Yorkshire,11 runs,178,4,167,10
+492420,"County Ground, Bristol",South Group,Bristol,2011-06-17,Friends Life t20,Gloucestershire,Essex,,,,,,,,
+492418,"Grace Road, Leicester",North Group,Leicester,2011-06-17,Friends Life t20,Leicestershire,Durham,,,,,,,,
+492415,"Edgbaston, Birmingham",North Group,Birmingham,2011-06-17,Friends Life t20,Warwickshire,Worcestershire,184/6,187/9,Worcestershire,1 wicket,184,6,187,9
+492413,"The Cooper Associates County Ground, Taunton",South Group,Taunton,2011-06-17,Friends Life t20,Somerset,Surrey,,,,,,,,
+492411,"Trent Bridge, Nottingham",North Group (N),Nottingham,2011-06-16,Friends Life t20,Nottinghamshire,Durham,213/4,159,Nottinghamshire,54 runs,213,4,159,10
+492412,"Lord's, London",South Group (N),London,2011-06-16,Friends Life t20,Sussex,Middlesex,165/8,116,Sussex,49 runs,165,8,116,10
+492409,"County Ground, Derby",North Group (N),Derby,2011-06-15,Friends Life t20,Worcestershire,Derbyshire,121/7,106,Worcestershire,15 runs,121,7,106,10
+492407,"County Ground, Chelmsford",South Group (N),Chelmsford,2011-06-15,Friends Life t20,Somerset,Essex,225/2,82,Somerset,143 runs,225,2,82,10
+492410,"County Ground, Northampton",North Group,Northampton,2011-06-15,Friends Life t20,Northamptonshire,Warwickshire,96,97/4,Warwickshire,6 wickets,96,10,97,4
+492408,"The Kent County Cricket Ground, Beckenham",South Group,Beckenham,2011-06-15,Friends Life t20,Gloucestershire,Kent,166,167/2,Kent,8 wickets,166,10,167,2
+492406,"County Ground, Hove",South Group (N),Brighton,2011-06-14,Friends Life t20,Somerset,Sussex,90,91/6,Sussex,4 wickets,90,10,91,6
+492405,"Old Deer Park, Richmond",South Group,Richmond,2011-06-14,Friends Life t20,Middlesex,Glamorgan,102,104/6,Glamorgan,4 wickets,102,10,104,6
+492404,"Riverside Ground, Chester-le-Street",North Group,Chester-le-Street,2011-06-14,Friends Life t20,Durham,Nottinghamshire,187/8,154/8,Durham,33 runs,187,8,154,8
+492403,"Kennington Oval, London",South Group (N),London,2011-06-13,Friends Life t20,Surrey,Essex,154/7,111,Surrey,43 runs,154,7,111,10
+492397,"Riverside Ground, Chester-le-Street",North Group,Chester-le-Street,2011-06-12,Friends Life t20,Derbyshire,Durham,,,,,,,,
+492402,"The Cooper Associates County Ground, Taunton",South Group,Taunton,2011-06-12,Friends Life t20,Somerset,Hampshire,,,,,,,,
+492401,"Grace Road, Leicester",North Group,Leicester,2011-06-12,Friends Life t20,Leicestershire,Warwickshire,,,,,,,,
+492399,"County Ground, New Road, Worcester",North Group,Worcester,2011-06-12,Friends Life t20,Worcestershire,Lancashire,,,,,,,,
+492398,"Headingley, Leeds",North Group,Leeds,2011-06-12,Friends Life t20,Yorkshire,Northamptonshire,,,,,,,,
+492395,"Sophia Gardens, Cardiff",South Group (N),Cardiff,2011-06-11,Friends Life t20,Glamorgan,Kent,154/5,155/4,Kent,6 wickets,154,5,155,4
+492400,"King's School Playing Fields, Gloucester",South Group,Gloucester,2011-06-11,Friends Life t20,Gloucestershire,Surrey,168/6,122,Gloucestershire,46 runs,168,6,122,10
+492396,"Trent Bridge, Nottingham",North Group,Nottingham,2011-06-11,Friends Life t20,Nottinghamshire,Warwickshire,173/6,163/7,Nottinghamshire,10 runs,173,6,163,7
+492394,"County Ground, Hove",South Group (N),Brighton,2011-06-10,Friends Life t20,Sussex,Middlesex,163/8,164/5,Middlesex,5 wickets,163,8,164,5
+492392,"County Ground, Derby",North Group (N),Derby,2011-06-10,Friends Life t20,Derbyshire,Durham,183/3,178/5,Derbyshire,5 runs,183,3,178,5
+492389,"Kennington Oval, London",South Group (N),London,2011-06-10,Friends Life t20,Glamorgan,Surrey,,,,,,,,
+492393,"Old Trafford, Manchester",North Group,Manchester,2011-06-10,Friends Life t20,Lancashire,Yorkshire,122/6,123/8,Yorkshire,2 wickets,122,6,123,8
+492391,"King's School Playing Fields, Gloucester",South Group,Gloucester,2011-06-10,Friends Life t20,Hampshire,Gloucestershire,165/4,156/6,Hampshire,9 runs,165,4,156,6
+492390,"Grace Road, Leicester",North Group,Leicester,2011-06-10,Friends Life t20,Nottinghamshire,Leicestershire,164/8,21/0,,,164,8,21,0
+492388,"County Ground, New Road, Worcester",North Group,Worcester,2011-06-10,Friends Life t20,Northamptonshire,Worcestershire,134/9,135/3,Worcestershire,7 wickets,134,9,135,3
+492387,"The Cooper Associates County Ground, Taunton",South Group,Taunton,2011-06-10,Friends Life t20,Somerset,Kent,,,,,,,,
+492386,"Lord's, London",South Group (N),London,2011-06-09,Friends Life t20,Middlesex,Essex,150/5,155/5,Essex,5 wickets,150,5,155,5
+492385,"County Ground, Northampton",North Group (D/N),Northampton,2011-06-09,Friends Life t20,Northamptonshire,Durham,124/9,127/1,Durham,9 wickets,124,9,127,1
+492384,"Headingley, Leeds",North Group,Leeds,2011-06-09,Friends Life t20,Yorkshire,Worcestershire,152/7,150/7,Yorkshire,2 runs,152,7,150,7
+492382,"The Rose Bowl, Southampton",South Group (N),Southampton,2011-06-08,Friends Life t20,Glamorgan,Hampshire,120/9,121/8,Hampshire,2 wickets,120,9,121,8
+492381,"County Ground, Chelmsford",South Group (N),Chelmsford,2011-06-08,Friends Life t20,Sussex,Essex,168/6,151/7,Sussex,17 runs,168,6,151,7
+492383,"Old Trafford, Manchester",North Group,Manchester,2011-06-08,Friends Life t20,Lancashire,Leicestershire,162/5,165/6,Leicestershire,4 wickets,162,5,165,6
+492380,"Edgbaston, Birmingham",North Group,Birmingham,2011-06-08,Friends Life t20,Nottinghamshire,Warwickshire,193/7,165,Nottinghamshire,28 runs,193,7,165,10
+492377,"Nevill Ground, Tunbridge Wells",South Group,Tunbridge Wells,2011-06-05,Friends Life t20,Hampshire,Kent,78/1,58/2,Hampshire,20 runs,78,1,58,2
+492379,"The Cooper Associates County Ground, Taunton",South Group,Taunton,2011-06-05,Friends Life t20,Somerset,Middlesex,235/5,195/9,Somerset,40 runs,235,5,195,9
+492378,"County Ground, Bristol",South Group,Bristol,2011-06-05,Friends Life t20,Gloucestershire,Sussex,97/9,98/3,Sussex,7 wickets,97,9,98,3
+492376,"Trent Bridge, Nottingham",North Group,Nottingham,2011-06-05,Friends Life t20,Nottinghamshire,Yorkshire,215/6,162/8,Nottinghamshire,53 runs,215,6,162,8
+492375,"Edgbaston, Birmingham",North Group,Birmingham,2011-06-05,Friends Life t20,Northamptonshire,Warwickshire,150/8,110,Northamptonshire,40 runs,150,8,110,10
+492374,"County Ground, New Road, Worcester",North Group,Worcester,2011-06-05,Friends Life t20,Worcestershire,Durham,,,,,,,,
+492373,"Grace Road, Leicester",North Group,Leicester,2011-06-05,Friends Life t20,Leicestershire,Lancashire,173/2,175/5,Lancashire,5 wickets,173,2,175,5
+492371,"Sophia Gardens, Cardiff",South Group (N),Cardiff,2011-06-03,Friends Life t20,Glamorgan,Middlesex,199/4,137,Glamorgan,45 runs,199,4,137,10
+492370,"County Ground, Chelmsford",South Group (N),Chelmsford,2011-06-03,Friends Life t20,Essex,Gloucestershire,204/4,82,Essex,122 runs,204,4,82,10
+492369,"The Rose Bowl, Southampton",South Group (N),Southampton,2011-06-03,Friends Life t20,Surrey,Hampshire,140/7,144/3,Hampshire,7 wickets,140,7,144,3
+492372,"County Ground, Northampton",North Group (N),Northampton,2011-06-03,Friends Life t20,Northamptonshire,Leicestershire,135/5,139/4,Leicestershire,6 wickets,135,5,139,4
+492367,"Trent Bridge, Nottingham",North Group,Nottingham,2011-06-03,Friends Life t20,Nottinghamshire,Derbyshire,184/6,146/8,Nottinghamshire,38 runs,184,6,146,8
+492366,"Headingley, Leeds",North Group,Leeds,2011-06-03,Friends Life t20,Yorkshire,Warwickshire,161/8,164/5,Warwickshire,5 wickets,161,8,164,5
+492368,"Nevill Ground, Tunbridge Wells",South Group,Tunbridge Wells,2011-06-03,Friends Life t20,Kent,Somerset,163/8,166/1,Somerset,9 wickets,163,8,166,1
+492365,"Old Trafford, Manchester",North Group,Manchester,2011-06-03,Friends Life t20,Lancashire,Worcestershire,154/7,146/9,Lancashire,8 runs,154,7,146,9
+492364,"County Ground, Hove",South Group (N),Brighton,2011-06-02,Friends Life t20,Sussex,Essex,173/4,141,Sussex,32 runs,173,4,141,10
+492361,"County Ground, Derby",North Group (N),Derby,2011-06-02,Friends Life t20,Derbyshire,Lancashire,190/5,190/6,,Super Over,190,5,190,6
+492363,"Kennington Oval, London",South Group (N),London,2011-06-02,Friends Life t20,Gloucestershire,Surrey,155/8,156/2,Surrey,8 wickets,155,8,156,2
+492362,"Riverside Ground, Chester-le-Street",North Group,Chester-le-Street,2011-06-02,Friends Life t20,Durham,Warwickshire,151/3,155/5,Warwickshire,5 wickets,151,3,155,5
+492360,"The Rose Bowl, Southampton",South Group (N),Southampton,2011-06-01,Friends Life t20,Somerset,Hampshire,145/7,146/3,Hampshire,7 wickets,145,7,146,3

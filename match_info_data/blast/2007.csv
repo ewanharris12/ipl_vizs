@@ -1,0 +1,80 @@
+match_id,venue,match_type,city,date,full_league,team_one,team_two,inn_one,inn_two,winner,margin,inn_one_score,inn_one_wickets,inn_two_score,inn_two_wickets
+268469,"Edgbaston, Birmingham",Final (N),Birmingham,2007-08-04,Twenty20 Cup,Gloucestershire,Kent,146/8,147/6,Kent,4 wickets,146,8,147,6
+268471,"Edgbaston, Birmingham",2nd Semi-Final,Birmingham,2007-08-04,Twenty20 Cup,Sussex,Kent,140,141/5,Kent,5 wickets,140,10,141,5
+268470,"Edgbaston, Birmingham",1st Semi-Final,Birmingham,2007-08-04,Twenty20 Cup,Lancashire,Gloucestershire,148/6,152/2,Gloucestershire,8 wickets,148,6,152,2
+268467,"County Ground, Hove",Quarter-Final (N),Brighton,2007-07-18,Twenty20 Cup,Sussex,Yorkshire,193/5,155,Sussex,38 runs,193,5,155,10
+268468,"Edgbaston, Birmingham",Quarter-Final,Birmingham,2007-07-18,Twenty20 Cup,Lancashire,Warwickshire,193/5,187/7,Lancashire,6 runs,193,5,187,7
+268466,"Trent Bridge, Nottingham",Quarter-Final,Nottingham,2007-07-17,Twenty20 Cup,Nottinghamshire,Kent,138,139/1,Kent,9 wickets,138,10,139,1
+268465,"County Ground, Bristol",Quarter-Final,Bristol,2007-07-17,Twenty20 Cup,Worcestershire,Gloucestershire,123/6,131/3,Gloucestershire,7 wickets,123,6,131,3
+268464,"Headingley, Leeds",North Division,Leeds,2007-07-06,Twenty20 Cup,Derbyshire,Yorkshire,119/7,122/6,Yorkshire,4 wickets,119,7,122,6
+268463,"Edgbaston, Birmingham",Midlands/West/Wales Division,Birmingham,2007-07-06,Twenty20 Cup,Worcestershire,Warwickshire,143/5,130/8,Worcestershire,13 runs,143,5,130,8
+268462,"County Ground, Hove",South Division,Brighton,2007-07-06,Twenty20 Cup,Sussex,Hampshire,205/5,132/8,Sussex,73 runs,205,5,132,8
+268461,"Kennington Oval, London",South Division,London,2007-07-06,Twenty20 Cup,Surrey,Kent,145,148/4,Kent,6 wickets,145,10,148,4
+268460,"County Ground, Northampton",Midlands/West/Wales Division,Northampton,2007-07-06,Twenty20 Cup,Northamptonshire,Somerset,137/7,139/2,Somerset,8 wickets,137,7,139,2
+268459,"Lord's, London",South Division,London,2007-07-06,Twenty20 Cup,Middlesex,Essex,126/9,128/7,Essex,3 wickets,126,9,128,7
+268458,"Old Trafford, Manchester",North Division,Manchester,2007-07-06,Twenty20 Cup,Lancashire,Leicestershire,,,,,,,,
+268457,"County Ground, Bristol",Midlands/West/Wales Division,Bristol,2007-07-06,Twenty20 Cup,Glamorgan,Gloucestershire,114/6,117/4,Gloucestershire,6 wickets,114,6,117,4
+268456,"Riverside Ground, Chester-le-Street",North Division,Chester-le-Street,2007-07-06,Twenty20 Cup,Durham,Nottinghamshire,,,,,,,,
+268453,"County Ground, Chelmsford",South Division (N),Chelmsford,2007-07-05,Twenty20 Cup,Hampshire,Essex,,,,,,,,
+268452,"County Ground, Derby",North Division (N),Derby,2007-07-05,Twenty20 Cup,Derbyshire,Lancashire,,,,,,,,
+268455,"Stourbridge Road, Himley",Midlands/West/Wales Division,Himley,2007-07-05,Twenty20 Cup,Worcestershire,Glamorgan,,,,,,,,
+268454,"Kennington Oval, London",South Division,London,2007-07-05,Twenty20 Cup,Sussex,Surrey,65/3,60/6,Sussex,5 runs,65,3,60,6
+268451,"Headingley, Leeds",North Division,Leeds,2007-07-04,Twenty20 Cup,Nottinghamshire,Yorkshire,61/3,65/2,Yorkshire,8 wickets,61,3,65,2
+268450,"County Ground, Northampton",Midlands/West/Wales Division,Northampton,2007-07-04,Twenty20 Cup,Warwickshire,Northamptonshire,100/7,101/6,Northamptonshire,4 wickets,100,7,101,6
+268449,"Grace Road, Leicester",North Division,Leicester,2007-07-04,Twenty20 Cup,Leicestershire,Durham,,,,,,,,
+268448,"The Kent County Cricket Ground, Beckenham",South Division,Beckenham,2007-07-04,Twenty20 Cup,Kent,Middlesex,146/4,120,Kent,26 runs,146,4,120,10
+268447,"County Ground, Bristol",Midlands/West/Wales Division,Bristol,2007-07-04,Twenty20 Cup,Gloucestershire,Somerset,100/9,102/4,Somerset,6 wickets,100,9,102,4
+268446,"County Ground, Hove",South Division (N),Brighton,2007-07-03,Twenty20 Cup,Sussex,Essex,163/6,146/5,Sussex,17 runs,163,6,146,5
+268445,"The Cooper Associates County Ground, Taunton",Midlands/West/Wales Division,Taunton,2007-07-03,Twenty20 Cup,Somerset,Worcestershire,148/7,149/7,Worcestershire,3 wickets,148,7,149,7
+268444,"Lord's, London",South Division,London,2007-07-03,Twenty20 Cup,Surrey,Middlesex,85/5,73/2,Middlesex,8 wickets,85,5,73,2
+268443,"Riverside Ground, Chester-le-Street",North Division,Chester-le-Street,2007-07-03,Twenty20 Cup,Durham,Yorkshire,133/5,134/4,Yorkshire,6 wickets,133,5,134,4
+268439,"Sophia Gardens, Cardiff",Midlands/West/Wales Division (N),Cardiff,2007-07-02,Twenty20 Cup,Warwickshire,Glamorgan,94/3,73/6,Warwickshire,9 runs,94,3,73,6
+268442,"Campbell Park, Milton Keynes",Midlands/West/Wales Division,Milton Keynes,2007-07-02,Twenty20 Cup,Northamptonshire,Gloucestershire,,,,,,,,
+268441,"Grace Road, Leicester",North Division,Leicester,2007-07-02,Twenty20 Cup,Derbyshire,Leicestershire,50/2,28/2,,,50,2,28,2
+268440,"The Kent County Cricket Ground, Beckenham",South Division,Beckenham,2007-07-02,Twenty20 Cup,Kent,Surrey,131/8,132/4,Surrey,6 wickets,131,8,132,4
+268438,"Chester Road North Ground, Kidderminster",Midlands/West/Wales Division,Kidderminster,2007-07-01,Twenty20 Cup,Gloucestershire,Worcestershire,198/7,137,Gloucestershire,61 runs,198,7,137,10
+268437,"Old Trafford, Manchester",North Division,Manchester,2007-07-01,Twenty20 Cup,Lancashire,Derbyshire,,,,,,,,
+268436,"The Rose Bowl, Southampton",South Division,Southampton,2007-07-01,Twenty20 Cup,Essex,Hampshire,99/8,100/3,Hampshire,7 wickets,99,8,100,3
+268435,"Headingley, Leeds",North Division,Leeds,2007-06-30,Twenty20 Cup,Durham,Yorkshire,65/9,66/1,Yorkshire,9 wickets,65,9,66,1
+268434,"Grace Road, Leicester",North Division,Leicester,2007-06-30,Twenty20 Cup,Leicestershire,Nottinghamshire,,,,,,,,
+268432,"County Ground, Hove",South Division (N),Brighton,2007-06-29,Twenty20 Cup,Surrey,Sussex,168/6,68,Surrey,100 runs,168,6,68,10
+268429,"The Rose Bowl, Southampton",South Division (N),Southampton,2007-06-29,Twenty20 Cup,Hampshire,Middlesex,,,,,,,,
+268427,"County Ground, Chelmsford",South Division (N),Chelmsford,2007-06-29,Twenty20 Cup,Kent,Essex,141/7,99,Kent,42 runs,141,7,99,10
+268425,"County Ground, Derby",North Division (N),Derby,2007-06-29,Twenty20 Cup,Derbyshire,Leicestershire,176/6,177/4,Leicestershire,6 wickets,176,6,177,4
+268433,"Chester Road North Ground, Kidderminster",Midlands/West/Wales Division,Kidderminster,2007-06-29,Twenty20 Cup,Worcestershire,Northamptonshire,227/6,222/3,Worcestershire,5 runs,227,6,222,3
+268431,"The Cooper Associates County Ground, Taunton",Midlands/West/Wales Division,Taunton,2007-06-29,Twenty20 Cup,Somerset,Glamorgan,202/6,174/5,Somerset,28 runs,202,6,174,5
+268430,"Trent Bridge, Nottingham",North Division,Nottingham,2007-06-29,Twenty20 Cup,Nottinghamshire,Yorkshire,149/9,145/5,Nottinghamshire,4 runs,149,9,145,5
+268428,"County Ground, Bristol",Midlands/West/Wales Division,Bristol,2007-06-29,Twenty20 Cup,Warwickshire,Gloucestershire,149/8,122,Warwickshire,27 runs,149,8,122,10
+268426,"Riverside Ground, Chester-le-Street",North Division,Chester-le-Street,2007-06-29,Twenty20 Cup,Lancashire,Durham,180/4,141,Lancashire,39 runs,180,4,141,10
+268424,"Sophia Gardens, Cardiff",Midlands/West/Wales Division (N),Cardiff,2007-06-28,Twenty20 Cup,Glamorgan,Northamptonshire,,,,,,,,
+268423,"County Ground, Chelmsford",South Division (N),Chelmsford,2007-06-28,Twenty20 Cup,Surrey,Essex,174/4,175/7,Essex,3 wickets,174,4,175,7
+268417,"The Rose Bowl, Southampton",South Division (N),Southampton,2007-06-27,Twenty20 Cup,Hampshire,Sussex,103/2,108/1,Sussex,9 wickets,103,2,108,1
+268418,"Old Trafford, Manchester",North Division,Manchester,2007-06-27,Twenty20 Cup,Lancashire,Yorkshire,143/9,113,Lancashire,30 runs,143,9,113,10
+268422,"County Ground, New Road, Worcester",Midlands/West/Wales Division,Worcester,2007-06-27,Twenty20 Cup,Worcestershire,Warwickshire,,,,,,,,
+268421,"The Cooper Associates County Ground, Taunton",Midlands/West/Wales Division,Taunton,2007-06-27,Twenty20 Cup,Somerset,Gloucestershire,104,109/2,Gloucestershire,8 wickets,104,10,109,2
+268420,"Trent Bridge, Nottingham",North Division,Nottingham,2007-06-27,Twenty20 Cup,Nottinghamshire,Derbyshire,203/8,150,Nottinghamshire,53 runs,203,8,150,10
+268419,Uxbridge Cricket Club Ground,South Division,Uxbridge,2007-06-27,Twenty20 Cup,Middlesex,Kent,,,,,,,,
+268416,"Riverside Ground, Chester-le-Street",North Division,Chester-le-Street,2007-06-27,Twenty20 Cup,Leicestershire,Durham,98/6,104/2,Durham,8 wickets,98,6,104,2
+268413,"Sophia Gardens, Cardiff",Midlands/West/Wales Division (N),Cardiff,2007-06-26,Twenty20 Cup,Somerset,Glamorgan,142/8,143/5,Glamorgan,5 wickets,142,8,143,5
+268415,"Edgbaston, Birmingham",Midlands/West/Wales Division,Birmingham,2007-06-26,Twenty20 Cup,Warwickshire,Northamptonshire,174/7,162/7,Warwickshire,12 runs,174,7,162,7
+268414,"St Lawrence Ground, Canterbury",South Division,Canterbury,2007-06-26,Twenty20 Cup,Kent,Sussex,181/3,182/3,Sussex,7 wickets,181,3,182,3
+268408,"County Ground, Derby",North Division (N),Derby,2007-06-25,Twenty20 Cup,Derbyshire,Durham,,,,,,,,
+268409,"County Ground, Bristol",Midlands/West/Wales Division,Bristol,2007-06-25,Twenty20 Cup,Worcestershire,Gloucestershire,101/7,103/1,Gloucestershire,9 wickets,101,7,103,1
+268412,"Headingley, Leeds",North Division,Leeds,2007-06-25,Twenty20 Cup,Yorkshire,Lancashire,,,,,,,,
+268411,"Trent Bridge, Nottingham",North Division,Nottingham,2007-06-25,Twenty20 Cup,Nottinghamshire,Leicestershire,,,,,,,,
+268410,"The Walker Cricket Ground, Southgate",South Division,Southgate,2007-06-25,Twenty20 Cup,Middlesex,Hampshire,73/7,68/8,Middlesex,5 runs,73,7,68,8
+268407,"Edgbaston, Birmingham",Midlands/West/Wales Division,Birmingham,2007-06-24,Twenty20 Cup,Warwickshire,Glamorgan,173/5,170/7,Warwickshire,3 runs,173,5,170,7
+268406,"County Ground, Hove",South Division,Brighton,2007-06-24,Twenty20 Cup,Sussex,Middlesex,,,,,,,,
+268404,"The Cooper Associates County Ground, Taunton",Midlands/West/Wales Division,Taunton,2007-06-24,Twenty20 Cup,Somerset,Northamptonshire,200/7,92/1,Northamptonshire,24 runs,200,7,92,1
+268405,"Kennington Oval, London",South Division,London,2007-06-24,Twenty20 Cup,Hampshire,Surrey,72/8,75/4,Surrey,6 wickets,72,8,75,4
+268401,"St Lawrence Ground, Canterbury",South Division,Canterbury,2007-06-23,Twenty20 Cup,Kent,Essex,44/1,46/6,Kent,3 runs,44,1,46,6
+268403,"Trent Bridge, Nottingham",North Division,Nottingham,2007-06-23,Twenty20 Cup,Lancashire,Nottinghamshire,163/7,167/4,Nottinghamshire,6 wickets,163,7,167,4
+268396,"The Rose Bowl, Southampton",South Division (N),Southampton,2007-06-22,Twenty20 Cup,Kent,Hampshire,153/6,153/7,,Super Over,153,6,153,7
+268395,"Sophia Gardens, Cardiff",Midlands/West/Wales Division (N),Cardiff,2007-06-22,Twenty20 Cup,Glamorgan,Gloucestershire,,,,,,,,
+268394,"County Ground, Chelmsford",South Division (N),Chelmsford,2007-06-22,Twenty20 Cup,Sussex,Essex,165/5,171/4,Essex,6 wickets,165,5,171,4
+268393,"County Ground, Derby",North Division (N),Derby,2007-06-22,Twenty20 Cup,Derbyshire,Nottinghamshire,148,149/4,Nottinghamshire,6 wickets,148,10,149,4
+268398,"Grace Road, Leicester",North Division,Leicester,2007-06-22,Twenty20 Cup,Leicestershire,Yorkshire,154/5,141/9,Leicestershire,13 runs,154,5,141,9
+268402,"County Ground, Northampton",Midlands/West/Wales Division,Northampton,2007-06-22,Twenty20 Cup,Northamptonshire,Worcestershire,,,,,,,,
+268400,"Edgbaston, Birmingham",Midlands/West/Wales Division,Birmingham,2007-06-22,Twenty20 Cup,Warwickshire,Somerset,161/6,154/8,Warwickshire,7 runs,161,6,154,8
+268399,"Kennington Oval, London",South Division,London,2007-06-22,Twenty20 Cup,Middlesex,Surrey,163/6,168/4,Surrey,6 wickets,163,6,168,4
+268397,"Old Trafford, Manchester",North Division,Manchester,2007-06-22,Twenty20 Cup,Durham,Lancashire,149/5,152/4,Lancashire,6 wickets,149,5,152,4

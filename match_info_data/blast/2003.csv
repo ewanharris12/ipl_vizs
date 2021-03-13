@@ -1,0 +1,49 @@
+match_id,venue,match_type,city,date,full_league,team_one,team_two,inn_one,inn_two,winner,margin,inn_one_score,inn_one_wickets,inn_two_score,inn_two_wickets
+304785,"Trent Bridge, Nottingham",Final (D/N),Nottingham,2003-07-19,Twenty20 Cup,Warwickshire,Surrey,115,119/1,Surrey,9 wickets,115,10,119,1
+304784,"Trent Bridge, Nottingham",2nd Semi-Final,Nottingham,2003-07-19,Twenty20 Cup,Surrey,Gloucestershire,147/9,142/6,Surrey,5 runs,147,9,142,6
+304783,"Trent Bridge, Nottingham",1st Semi-Final,Nottingham,2003-07-19,Twenty20 Cup,Leicestershire,Warwickshire,162/7,166/3,Warwickshire,7 wickets,162,7,166,3
+304780,"County Ground, Hove",South Group (D/N),Brighton,2003-06-24,Twenty20 Cup,Kent,Sussex,114,115/5,Sussex,5 wickets,114,10,115,5
+304775,"County Ground, Chelmsford",South Group (D/N),Chelmsford,2003-06-24,Twenty20 Cup,Essex,Middlesex,175/5,173/7,Essex,2 runs,175,5,173,7
+304782,"Headingley, Leeds",North Group,Leeds,2003-06-24,Twenty20 Cup,Yorkshire,Nottinghamshire,196/5,178,Yorkshire,18 runs,196,5,178,10
+304781,"County Ground, New Road, Worcester",Midlands/Wales/West Group,Worcester,2003-06-24,Twenty20 Cup,Worcestershire,Somerset,161/5,124,Worcestershire,37 runs,161,5,124,10
+304779,"County Ground, Northampton",Midlands/Wales/West Group,Northampton,2003-06-24,Twenty20 Cup,Warwickshire,Northamptonshire,202/5,148/7,Warwickshire,54 runs,202,5,148,7
+304778,"Grace Road, Leicester",North Group,Leicester,2003-06-24,Twenty20 Cup,Leicestershire,Derbyshire,171/8,170/9,Leicestershire,1 run,171,8,170,9
+304777,"Old Trafford, Manchester",North Group,Manchester,2003-06-24,Twenty20 Cup,Lancashire,Durham,144/8,140/9,Lancashire,4 runs,144,8,140,9
+304776,"County Ground, Bristol",Midlands/Wales/West Group,Bristol,2003-06-24,Twenty20 Cup,Gloucestershire,Glamorgan,221/7,168/7,Gloucestershire,53 runs,221,7,168,7
+129926,"The Rose Bowl, Southampton",South Group,Southampton,2003-06-24,Twenty20 Cup,Surrey,Hampshire,140/9,121,Surrey,19 runs,140,9,121,10
+304774,"Edgbaston, Birmingham",Midlands/Wales/West Group,Birmingham,2003-06-23,Twenty20 Cup,Warwickshire,Gloucestershire,134/7,135/2,Gloucestershire,8 wickets,134,7,135,2
+304773,"St Lawrence Ground, Canterbury",South Group,Canterbury,2003-06-23,Twenty20 Cup,Surrey,Kent,186/8,168/9,Surrey,18 runs,186,8,168,9
+304772,"Sophia Gardens, Cardiff",Midlands/Wales/West Group,Cardiff,2003-06-23,Twenty20 Cup,Glamorgan,Worcestershire,170/4,114,Glamorgan,56 runs,170,4,114,10
+304771,"County Ground, Derby",North Group,Derby,2003-06-23,Twenty20 Cup,Derbyshire,Durham,157,151/5,Derbyshire,6 runs,157,10,151,5
+129883,Uxbridge Cricket Club Ground,South Group,Uxbridge,2003-06-23,Twenty20 Cup,Hampshire,Middlesex,134/7,136/2,Middlesex,8 wickets,134,7,136,2
+304770,"County Ground, Hove",South Group,Brighton,2003-06-21,Twenty20 Cup,Sussex,Essex,180/6,173/4,Sussex,7 runs,180,6,173,4
+304769,"The Cooper Associates County Ground, Taunton",Midlands/Wales/West Group,Taunton,2003-06-21,Twenty20 Cup,Somerset,Gloucestershire,119/9,120/0,Gloucestershire,10 wickets,119,9,120,0
+304768,"Trent Bridge, Nottingham",North Group,Nottingham,2003-06-21,Twenty20 Cup,Nottinghamshire,Leicestershire,158/5,159/9,Leicestershire,1 wicket,158,5,159,9
+304767,"Old Trafford, Manchester",North Group,Manchester,2003-06-21,Twenty20 Cup,Lancashire,Derbyshire,91,95/3,Derbyshire,7 wickets,91,10,95,3
+304762,"County Ground, Chelmsford",South Group (D/N),Chelmsford,2003-06-20,Twenty20 Cup,Essex,Kent,116,120/7,Kent,3 wickets,116,10,120,7
+304766,"Headingley, Leeds",North Group,Leeds,2003-06-20,Twenty20 Cup,Yorkshire,Durham,198/4,143/8,Yorkshire,55 runs,198,4,143,8
+304765,"Edgbaston, Birmingham",Midlands/Wales/West Group,Birmingham,2003-06-20,Twenty20 Cup,Warwickshire,Glamorgan,181/9,113,Warwickshire,68 runs,181,9,113,10
+304764,"County Ground, Northampton",Midlands/Wales/West Group,Northampton,2003-06-20,Twenty20 Cup,Northamptonshire,Somerset,166/6,151,Northamptonshire,15 runs,166,6,151,10
+304763,"Grace Road, Leicester",North Group,Leicester,2003-06-20,Twenty20 Cup,Leicestershire,Lancashire,178/7,156/8,Leicestershire,22 runs,178,7,156,8
+304761,"Old Deer Park, Richmond",South Group,Richmond,2003-06-19,Twenty20 Cup,Kent,Middlesex,161/8,165/3,Middlesex,7 wickets,161,8,165,3
+304760,"Old Trafford, Manchester",North Group,Manchester,2003-06-19,Twenty20 Cup,Yorkshire,Lancashire,102/8,104/3,Lancashire,7 wickets,102,8,104,3
+304759,"County Ground, Bristol",Midlands/Wales/West Group,Bristol,2003-06-19,Twenty20 Cup,Northamptonshire,Gloucestershire,128/5,129/5,Gloucestershire,5 wickets,128,5,129,5
+129890,"County Ground, Derby",North Group,Derby,2003-06-19,Twenty20 Cup,Nottinghamshire,Derbyshire,94,95/1,Derbyshire,9 wickets,94,10,95,1
+304757,"County Ground, Hove",South Group (D/N),Brighton,2003-06-18,Twenty20 Cup,Sussex,Middlesex,177/9,136,Sussex,41 runs,177,9,136,10
+304758,"County Ground, New Road, Worcester",Midlands/Wales/West Group,Worcester,2003-06-18,Twenty20 Cup,Warwickshire,Worcestershire,175,155/5,Warwickshire,20 runs,175,10,155,5
+304754,"Riverside Ground, Chester-le-Street",North Group,Chester-le-Street,2003-06-18,Twenty20 Cup,Leicestershire,Durham,168/9,122/9,Leicestershire,46 runs,168,9,122,9
+129740,"The Rose Bowl, Southampton",South Group,Southampton,2003-06-18,Twenty20 Cup,Essex,Hampshire,155/6,151/3,Essex,4 runs,155,6,151,3
+129737,"Sophia Gardens, Cardiff",Midlands/Wales/West Group,Cardiff,2003-06-18,Twenty20 Cup,Glamorgan,Somerset,193/7,197/3,Somerset,7 wickets,193,7,197,3
+304753,"Metropolitan Police Sports Club Ground, Imber Court, East Molesey",South Group,East Molesey,2003-06-16,Twenty20 Cup,Sussex,Surrey,143/8,145/6,Surrey,4 wickets,143,8,145,6
+304752,"Trent Bridge, Nottingham",North Group,Nottingham,2003-06-16,Twenty20 Cup,Lancashire,Nottinghamshire,120,124/3,Nottinghamshire,7 wickets,120,10,124,3
+304751,"Grace Road, Leicester",North Group,Leicester,2003-06-16,Twenty20 Cup,Leicestershire,Yorkshire,174/6,158,Leicestershire,16 runs,174,6,158,10
+304750,"Sophia Gardens, Cardiff",Midlands/Wales/West Group,Cardiff,2003-06-16,Twenty20 Cup,Northamptonshire,Glamorgan,159/5,136,Northamptonshire,23 runs,159,5,136,10
+129665,"The Kent County Cricket Ground, Beckenham",South Group,Beckenham,2003-06-16,Twenty20 Cup,Hampshire,Kent,145/6,147/4,Kent,6 wickets,145,6,147,4
+304749,"Headingley, Leeds",North Group,Leeds,2003-06-14,Twenty20 Cup,Yorkshire,Derbyshire,186/5,141,Yorkshire,45 runs,186,5,141,10
+304748,"Metropolitan Police Sports Club Ground, Imber Court, East Molesey",South Group,East Molesey,2003-06-14,Twenty20 Cup,Surrey,Essex,182/9,138,Surrey,44 runs,182,9,138,10
+304747,"County Ground, Bristol",Midlands/Wales/West Group,Bristol,2003-06-14,Twenty20 Cup,Worcestershire,Gloucestershire,122,126/6,Gloucestershire,4 wickets,122,10,126,6
+304746,"County Ground, New Road, Worcester",Midlands/Wales/West Group,Worcester,2003-06-13,Twenty20 Cup,Northamptonshire,Worcestershire,150/9,151/9,Worcestershire,1 wicket,150,9,151,9
+304745,"Kennington Oval, London",South Group,London,2003-06-13,Twenty20 Cup,Middlesex,Surrey,155,158/6,Surrey,4 wickets,155,10,158,6
+304744,"Riverside Ground, Chester-le-Street",North Group,Chester-le-Street,2003-06-13,Twenty20 Cup,Nottinghamshire,Durham,157/7,160/4,Durham,6 wickets,157,7,160,4
+129610,"The Rose Bowl, Southampton",South Group,Southampton,2003-06-13,Twenty20 Cup,Hampshire,Sussex,153,148/7,Hampshire,5 runs,153,10,148,7
+129597,"The Cooper Associates County Ground, Taunton",Midlands/Wales/West Group,Taunton,2003-06-13,Twenty20 Cup,Warwickshire,Somerset,188/7,169,Warwickshire,19 runs,188,7,169,10

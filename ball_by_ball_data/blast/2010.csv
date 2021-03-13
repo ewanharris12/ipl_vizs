@@ -1,0 +1,696 @@
+match_id,year,id,over,ball,runs,extras,extra_type,batter,batter_runs,batter_balls,batter_sr,nonstriker,nonstriker_runs,nonstriker_balls,nonstriker_sr,bowler,batter_out,wicket_type,team,team_code,innings_runs,innings_wickets,innings_balls
+435840,2010,119060,19.0,6.0,0.0,0.0,,Ben Phillips,0,1,0.0,Zander de Bruyn,0,0,,Dominic Cork,,,Somerset,Somst,173.0,6,119.0
+435840,2010,119050,19.0,5.0,0.0,0.0,,Arul Suppiah,0,1,0.0,Zander de Bruyn,0,0,,Dominic Cork,AV Suppiah,AV Suppiah c &dagger;Bates b Cork 0 (1m 1b 0x4 0x6) SR: 0.00,Somerset,Somst,173.0,5,118.0
+435840,2010,119040,19.0,4.0,0.0,0.0,,Kieron Pollard,22,7,314.29,,0,0,,Dominic Cork,,,Somerset,Somst,173.0,5,117.0
+435840,2010,119030,19.0,3.0,0.0,0.0,,Jos Buttler,5,7,71.43,Kieron Pollard,22,6,366.67,Dominic Cork,JC Buttler,JC Buttler c Vince b Cork 5 (12m 7b 0x4 0x6) SR: 71.42,Somerset,Somst,173.0,4,116.0
+435840,2010,119020,19.0,2.0,0.0,0.0,,Jos Buttler,5,6,83.33,,0,0,,Dominic Cork,,,Somerset,Somst,173.0,4,115.0
+435840,2010,119010,19.0,1.0,3.0,0.0,,Kieron Pollard,22,6,366.67,,0,0,,Dominic Cork,,,Somerset,Somst,170.0,4,114.0
+435840,2010,118060,18.0,6.0,1.0,0.0,,Kieron Pollard,19,5,380.0,Jos Buttler,5,5,100.0,Chris Wood,,,Somerset,Somst,169.0,4,113.0
+435840,2010,118050,18.0,5.0,6.0,0.0,,Kieron Pollard,18,4,450.0,,0,0,,Chris Wood,,,Somerset,Somst,163.0,4,112.0
+435840,2010,118040,18.0,4.0,6.0,0.0,,Kieron Pollard,12,3,400.0,,0,0,,Chris Wood,,,Somerset,Somst,157.0,4,111.0
+435840,2010,118030,18.0,3.0,4.0,0.0,,Kieron Pollard,6,2,300.0,,0,0,,Chris Wood,,,Somerset,Somst,153.0,4,110.0
+435840,2010,118020,18.0,2.0,2.0,0.0,,Kieron Pollard,2,1,200.0,,0,0,,Chris Wood,,,Somerset,Somst,151.0,4,109.0
+435840,2010,118010,18.0,1.0,1.0,0.0,,Jos Buttler,5,5,100.0,,0,0,,Chris Wood,,,Somerset,Somst,150.0,4,108.0
+435840,2010,117060,17.0,6.0,1.0,0.0,,Jos Buttler,4,4,100.0,Kieron Pollard,0,0,,Daniel Christian,,,Somerset,Somst,149.0,4,107.0
+435840,2010,117050,17.0,5.0,0.0,0.0,,Jos Buttler,3,3,100.0,,0,0,,Daniel Christian,,,Somerset,Somst,149.0,4,106.0
+435840,2010,117040,17.0,4.0,0.0,0.0,,Craig Kieswetter,71,59,120.34,Jos Buttler,3,2,150.0,Daniel Christian,C Kieswetter,C Kieswetter c Carberry b Christian 71 (74m 59b 6x4 2x6) SR: 120.33,Somerset,Somst,149.0,3,105.0
+435840,2010,117030,17.0,3.0,1.0,0.0,,Jos Buttler,3,2,150.0,,0,0,,Daniel Christian,,,Somerset,Somst,148.0,3,104.0
+435840,2010,117020,17.0,2.0,2.0,0.0,,Jos Buttler,2,1,200.0,,0,0,,Daniel Christian,,,Somerset,Somst,146.0,3,103.0
+435840,2010,117010,17.0,1.0,1.0,0.0,,Craig Kieswetter,71,58,122.41,,0,0,,Daniel Christian,,,Somerset,Somst,145.0,3,102.0
+435840,2010,116060,16.0,6.0,0.0,0.0,,James Hildreth,12,13,92.31,Craig Kieswetter,70,57,122.81,Abdul Razzaq,JC Hildreth,JC Hildreth c Christian b Abdul Razzaq 12 (21m 14b 0x4 0x6) SR: 85.71,Somerset,Somst,145.0,2,101.0
+435840,2010,116050,16.0,5.0,1.0,0.0,,Craig Kieswetter,70,57,122.81,,0,0,,Abdul Razzaq,,,Somerset,Somst,144.0,2,100.0
+435840,2010,116040,16.0,4.0,0.0,0.0,,Craig Kieswetter,69,56,123.21,,0,0,,Abdul Razzaq,,,Somerset,Somst,144.0,2,99.0
+435840,2010,116030,16.0,3.0,1.0,0.0,,James Hildreth,12,13,92.31,,0,0,,Abdul Razzaq,,,Somerset,Somst,143.0,2,98.0
+435840,2010,116020,16.0,2.0,1.0,0.0,,Craig Kieswetter,69,55,125.45,,0,0,,Abdul Razzaq,,,Somerset,Somst,142.0,2,97.0
+435840,2010,116010,16.0,1.0,6.0,0.0,,Craig Kieswetter,68,54,125.93,,0,0,,Abdul Razzaq,,,Somerset,Somst,136.0,2,96.0
+435840,2010,115060,15.0,6.0,1.0,0.0,,Craig Kieswetter,62,53,116.98,James Hildreth,11,12,91.67,Chris Wood,,,Somerset,Somst,135.0,2,95.0
+435840,2010,13050,3.0,5.0,1.0,0.0,,Craig Kieswetter,14,19,73.68,,0,0,,Chris Wood,,,Somerset,Somst,27.0,0,22.0
+435840,2010,13040,3.0,4.0,1.0,0.0,,Marcus Trescothick,7,5,140.0,,0,0,,Chris Wood,,,Somerset,Somst,26.0,0,21.0
+435840,2010,13030,3.0,3.0,1.0,0.0,,Craig Kieswetter,13,18,72.22,,0,0,,Chris Wood,,,Somerset,Somst,25.0,0,20.0
+435840,2010,13020,3.0,2.0,0.0,0.0,,Craig Kieswetter,12,17,70.59,,0,0,,Chris Wood,,,Somerset,Somst,25.0,0,19.0
+435840,2010,13010,3.0,1.0,1.0,0.0,,Marcus Trescothick,6,4,150.0,,0,0,,Chris Wood,,,Somerset,Somst,24.0,0,18.0
+435840,2010,12070,2.0,6.0,0.0,0.0,,Craig Kieswetter,12,16,75.0,Marcus Trescothick,5,3,166.67,Dominic Cork,,,Somerset,Somst,24.0,0,17.0
+435840,2010,12060,2.0,5.0,0.0,0.0,,Craig Kieswetter,12,15,80.0,,0,0,,Dominic Cork,,,Somerset,Somst,24.0,0,16.0
+435840,2010,12050,2.0,4.0,0.0,0.0,,Craig Kieswetter,12,14,85.71,,0,0,,Dominic Cork,,,Somerset,Somst,24.0,0,15.0
+435840,2010,12040,2.0,3.0,4.0,0.0,,Craig Kieswetter,12,13,92.31,,0,0,,Dominic Cork,,,Somerset,Somst,20.0,0,14.0
+435840,2010,12030,2.0,2.0,0.0,0.0,,Craig Kieswetter,8,12,66.67,,0,0,,Dominic Cork,,,Somerset,Somst,20.0,0,13.0
+435840,2010,12020,2.0,1.0,4.0,0.0,,Craig Kieswetter,8,11,72.73,,0,0,,Dominic Cork,,,Somerset,Somst,16.0,0,12.0
+435840,2010,12010,2.0,1.0,2.0,1.0,nb,Marcus Trescothick,5,3,166.67,,0,0,,Dominic Cork,,,Somerset,Somst,13.0,0,12.0
+435840,2010,11070,1.0,6.0,0.0,0.0,,Craig Kieswetter,4,10,40.0,Marcus Trescothick,4,2,200.0,Chris Wood,,,Somerset,Somst,13.0,0,11.0
+435840,2010,11060,1.0,5.0,1.0,0.0,,Marcus Trescothick,4,2,200.0,,0,0,,Chris Wood,,,Somerset,Somst,12.0,0,10.0
+435840,2010,11050,1.0,4.0,1.0,0.0,,Craig Kieswetter,4,9,44.44,,0,0,,Chris Wood,,,Somerset,Somst,11.0,0,9.0
+435840,2010,11040,1.0,4.0,0.0,5.0,wd,Craig Kieswetter,3,8,37.5,,0,0,,Chris Wood,,,Somerset,Somst,6.0,0,9.0
+435840,2010,11030,1.0,3.0,2.0,0.0,,Craig Kieswetter,3,8,37.5,,0,0,,Chris Wood,,,Somerset,Somst,4.0,0,8.0
+435840,2010,11020,1.0,2.0,0.0,0.0,,Craig Kieswetter,1,7,14.29,,0,0,,Chris Wood,,,Somerset,Somst,4.0,0,7.0
+435840,2010,11010,1.0,1.0,0.0,0.0,,Craig Kieswetter,1,6,16.67,,0,0,,Chris Wood,,,Somerset,Somst,4.0,0,6.0
+435840,2010,160,0.0,6.0,1.0,0.0,,Craig Kieswetter,1,5,20.0,Marcus Trescothick,3,1,300.0,Dominic Cork,,,Somerset,Somst,3.0,0,5.0
+435840,2010,150,0.0,5.0,0.0,0.0,,Craig Kieswetter,0,4,0.0,,0,0,,Dominic Cork,,,Somerset,Somst,3.0,0,4.0
+435840,2010,140,0.0,4.0,0.0,0.0,,Craig Kieswetter,0,3,0.0,,0,0,,Dominic Cork,,,Somerset,Somst,3.0,0,3.0
+435840,2010,130,0.0,3.0,0.0,0.0,,Craig Kieswetter,0,2,0.0,,0,0,,Dominic Cork,,,Somerset,Somst,3.0,0,2.0
+435840,2010,120,0.0,2.0,0.0,0.0,,Craig Kieswetter,0,1,0.0,,0,0,,Dominic Cork,,,Somerset,Somst,3.0,0,1.0
+435840,2010,110,0.0,1.0,3.0,0.0,,Marcus Trescothick,3,1,300.0,,0,0,,Dominic Cork,,,Somerset,Somst,0.0,0,0.0
+435840,2010,17040,7.0,4.0,2.0,0.0,,Craig Kieswetter,22,27,81.48,,0,0,,Danny Briggs,,,Somerset,Somst,55.0,1,45.0
+435840,2010,17030,7.0,3.0,1.0,0.0,,Peter Trego,7,12,58.33,,0,0,,Danny Briggs,,,Somerset,Somst,54.0,1,44.0
+435840,2010,17020,7.0,2.0,1.0,0.0,,Craig Kieswetter,20,26,76.92,,0,0,,Danny Briggs,,,Somerset,Somst,53.0,1,43.0
+435840,2010,17010,7.0,1.0,1.0,0.0,,Peter Trego,6,11,54.55,,0,0,,Danny Briggs,,,Somerset,Somst,52.0,1,42.0
+435840,2010,16070,6.0,6.0,1.0,0.0,,Peter Trego,5,10,50.0,Craig Kieswetter,19,25,76.0,Abdul Razzaq,,,Somerset,Somst,51.0,1,41.0
+435840,2010,16060,6.0,5.0,1.0,0.0,,Craig Kieswetter,19,25,76.0,,0,0,,Abdul Razzaq,,,Somerset,Somst,50.0,1,40.0
+435840,2010,16050,6.0,4.0,0.0,0.0,,Craig Kieswetter,18,24,75.0,,0,0,,Abdul Razzaq,,,Somerset,Somst,50.0,1,39.0
+435840,2010,16040,6.0,3.0,1.0,0.0,,Peter Trego,4,9,44.44,,0,0,,Abdul Razzaq,,,Somerset,Somst,49.0,1,38.0
+435840,2010,16030,6.0,3.0,0.0,1.0,wd,Peter Trego,3,8,37.5,,0,0,,Abdul Razzaq,,,Somerset,Somst,48.0,1,38.0
+435840,2010,16020,6.0,2.0,0.0,0.0,,Peter Trego,3,8,37.5,,0,0,,Abdul Razzaq,,,Somerset,Somst,48.0,1,37.0
+435840,2010,16010,6.0,1.0,1.0,0.0,,Craig Kieswetter,18,23,78.26,,0,0,,Abdul Razzaq,,,Somerset,Somst,47.0,1,36.0
+435840,2010,15070,5.0,6.0,1.0,0.0,,Craig Kieswetter,17,22,77.27,Peter Trego,3,7,42.86,Daniel Christian,,,Somerset,Somst,46.0,1,35.0
+435840,2010,15060,5.0,5.0,1.0,0.0,,Peter Trego,3,7,42.86,,0,0,,Daniel Christian,,,Somerset,Somst,45.0,1,34.0
+435840,2010,15050,5.0,4.0,0.0,0.0,,Peter Trego,2,6,33.33,,0,0,,Daniel Christian,,,Somerset,Somst,45.0,1,33.0
+435840,2010,15040,5.0,3.0,1.0,0.0,,Craig Kieswetter,16,21,76.19,,0,0,,Daniel Christian,,,Somerset,Somst,44.0,1,32.0
+435840,2010,15030,5.0,3.0,0.0,1.0,wd,Craig Kieswetter,15,20,75.0,,0,0,,Daniel Christian,,,Somerset,Somst,43.0,1,32.0
+435840,2010,15020,5.0,2.0,1.0,0.0,,Peter Trego,2,5,40.0,,0,0,,Daniel Christian,,,Somerset,Somst,42.0,1,31.0
+435840,2010,15010,5.0,1.0,0.0,0.0,,Peter Trego,1,4,25.0,,0,0,,Daniel Christian,,,Somerset,Somst,42.0,1,30.0
+435840,2010,14060,4.0,6.0,1.0,0.0,,Peter Trego,1,3,33.33,Craig Kieswetter,15,20,75.0,Abdul Razzaq,,,Somerset,Somst,41.0,1,29.0
+435840,2010,14050,4.0,5.0,0.0,0.0,,Peter Trego,0,2,0.0,,0,0,,Abdul Razzaq,,,Somerset,Somst,41.0,1,28.0
+435840,2010,14040,4.0,4.0,0.0,0.0,,Peter Trego,0,1,0.0,,0,0,,Abdul Razzaq,,,Somerset,Somst,41.0,1,27.0
+435840,2010,14030,4.0,3.0,0.0,0.0,,Marcus Trescothick,19,8,237.5,Craig Kieswetter,15,20,75.0,Abdul Razzaq,ME Trescothick,ME Trescothick c Christian b Abdul Razzaq 19 (18m 8b 0x4 2x6) SR: 237.50,Somerset,Somst,41.0,0,26.0
+435840,2010,14020,4.0,2.0,6.0,0.0,,Marcus Trescothick,19,7,271.43,,0,0,,Abdul Razzaq,,,Somerset,Somst,35.0,0,25.0
+435840,2010,14010,4.0,1.0,1.0,0.0,,Craig Kieswetter,15,20,75.0,,0,0,,Abdul Razzaq,,,Somerset,Somst,34.0,0,24.0
+435840,2010,13060,3.0,6.0,6.0,0.0,,Marcus Trescothick,13,6,216.67,Craig Kieswetter,14,19,73.68,Chris Wood,,,Somerset,Somst,28.0,0,23.0
+435840,2010,111040,11.0,4.0,0.0,0.0,,Peter Trego,33,24,137.5,Craig Kieswetter,34,39,87.18,Danny Briggs,PD Trego,PD Trego c Ervine b Briggs 33 (28m 24b 3x4 1x6) SR: 137.50,Somerset,Somst,97.0,1,69.0
+435840,2010,111030,11.0,3.0,4.0,0.0,,Peter Trego,33,23,143.48,,0,0,,Danny Briggs,,,Somerset,Somst,93.0,1,68.0
+435840,2010,111020,11.0,2.0,1.0,0.0,,Craig Kieswetter,34,39,87.18,,0,0,,Danny Briggs,,,Somerset,Somst,92.0,1,67.0
+435840,2010,111010,11.0,1.0,1.0,0.0,,Peter Trego,29,22,131.82,,0,0,,Danny Briggs,,,Somerset,Somst,91.0,1,66.0
+435840,2010,110070,10.0,6.0,4.0,0.0,,Craig Kieswetter,33,38,86.84,Peter Trego,28,21,133.33,Abdul Razzaq,,,Somerset,Somst,87.0,1,65.0
+435840,2010,110060,10.0,5.0,0.0,0.0,,Craig Kieswetter,29,37,78.38,,0,0,,Abdul Razzaq,,,Somerset,Somst,87.0,1,64.0
+435840,2010,110050,10.0,4.0,1.0,0.0,,Peter Trego,28,21,133.33,,0,0,,Abdul Razzaq,,,Somerset,Somst,86.0,1,63.0
+435840,2010,110040,10.0,3.0,6.0,0.0,,Peter Trego,27,20,135.0,,0,0,,Abdul Razzaq,,,Somerset,Somst,80.0,1,62.0
+435840,2010,110030,10.0,2.0,2.0,0.0,,Peter Trego,21,19,110.53,,0,0,,Abdul Razzaq,,,Somerset,Somst,78.0,1,61.0
+435840,2010,110020,10.0,1.0,1.0,0.0,,Craig Kieswetter,29,36,80.56,,0,0,,Abdul Razzaq,,,Somerset,Somst,77.0,1,60.0
+435840,2010,110010,10.0,1.0,0.0,1.0,wd,Craig Kieswetter,28,35,80.0,,0,0,,Abdul Razzaq,,,Somerset,Somst,76.0,1,60.0
+435840,2010,19060,9.0,6.0,1.0,0.0,,Craig Kieswetter,28,35,80.0,Peter Trego,19,18,105.56,Danny Briggs,,,Somerset,Somst,75.0,1,59.0
+435840,2010,19050,9.0,5.0,1.0,0.0,,Peter Trego,19,18,105.56,,0,0,,Danny Briggs,,,Somerset,Somst,74.0,1,58.0
+435840,2010,19040,9.0,4.0,1.0,0.0,,Craig Kieswetter,27,34,79.41,,0,0,,Danny Briggs,,,Somerset,Somst,73.0,1,57.0
+435840,2010,19030,9.0,3.0,1.0,0.0,,Peter Trego,18,17,105.88,,0,0,,Danny Briggs,,,Somerset,Somst,72.0,1,56.0
+435840,2010,19020,9.0,2.0,1.0,0.0,,Craig Kieswetter,26,33,78.79,,0,0,,Danny Briggs,,,Somerset,Somst,71.0,1,55.0
+435840,2010,19010,9.0,1.0,0.0,0.0,,Craig Kieswetter,25,32,78.12,,0,0,,Danny Briggs,,,Somerset,Somst,71.0,1,54.0
+435840,2010,18060,8.0,6.0,4.0,0.0,,Peter Trego,17,16,106.25,Craig Kieswetter,25,31,80.65,Daniel Christian,,,Somerset,Somst,67.0,1,53.0
+435840,2010,18050,8.0,5.0,1.0,0.0,,Craig Kieswetter,25,31,80.65,,0,0,,Daniel Christian,,,Somerset,Somst,66.0,1,52.0
+435840,2010,18040,8.0,4.0,1.0,0.0,,Peter Trego,13,15,86.67,,0,0,,Daniel Christian,,,Somerset,Somst,65.0,1,51.0
+435840,2010,18030,8.0,3.0,1.0,0.0,,Craig Kieswetter,24,30,80.0,,0,0,,Daniel Christian,,,Somerset,Somst,64.0,1,50.0
+435840,2010,18020,8.0,2.0,1.0,0.0,,Peter Trego,12,14,85.71,,0,0,,Daniel Christian,,,Somerset,Somst,63.0,1,49.0
+435840,2010,18010,8.0,1.0,1.0,0.0,,Craig Kieswetter,23,29,79.31,,0,0,,Daniel Christian,,,Somerset,Somst,62.0,1,48.0
+435840,2010,17060,7.0,6.0,4.0,0.0,,Peter Trego,11,13,84.62,Craig Kieswetter,22,28,78.57,Danny Briggs,,,Somerset,Somst,58.0,1,47.0
+435840,2010,17050,7.0,5.0,0.0,1.0,lb,Craig Kieswetter,22,28,78.57,,0,0,,Danny Briggs,,,Somerset,Somst,57.0,1,46.0
+435840,2010,115050,15.0,5.0,4.0,0.0,,Craig Kieswetter,61,52,117.31,,0,0,,Chris Wood,,,Somerset,Somst,131.0,2,94.0
+435840,2010,115040,15.0,4.0,4.0,0.0,,Craig Kieswetter,57,51,111.76,,0,0,,Chris Wood,,,Somerset,Somst,127.0,2,93.0
+435840,2010,115030,15.0,3.0,1.0,0.0,,James Hildreth,11,12,91.67,,0,0,,Chris Wood,,,Somerset,Somst,126.0,2,92.0
+435840,2010,115020,15.0,2.0,1.0,0.0,,Craig Kieswetter,53,50,106.0,,0,0,,Chris Wood,,,Somerset,Somst,125.0,2,91.0
+435840,2010,115010,15.0,1.0,1.0,0.0,,James Hildreth,10,11,90.91,,0,0,,Chris Wood,,,Somerset,Somst,124.0,2,90.0
+435840,2010,114060,14.0,6.0,2.0,0.0,,Craig Kieswetter,52,49,106.12,James Hildreth,9,10,90.0,Daniel Christian,,,Somerset,Somst,122.0,2,89.0
+435840,2010,114050,14.0,5.0,4.0,0.0,,Craig Kieswetter,50,48,104.17,,0,0,,Daniel Christian,,,Somerset,Somst,118.0,2,88.0
+435840,2010,114040,14.0,4.0,1.0,0.0,,James Hildreth,9,10,90.0,,0,0,,Daniel Christian,,,Somerset,Somst,117.0,2,87.0
+435840,2010,114030,14.0,3.0,2.0,0.0,,James Hildreth,8,9,88.89,,0,0,,Daniel Christian,,,Somerset,Somst,115.0,2,86.0
+435840,2010,114020,14.0,2.0,1.0,0.0,,Craig Kieswetter,46,47,97.87,,0,0,,Daniel Christian,,,Somerset,Somst,114.0,2,85.0
+435840,2010,114010,14.0,1.0,1.0,0.0,,James Hildreth,6,8,75.0,,0,0,,Daniel Christian,,,Somerset,Somst,113.0,2,84.0
+435840,2010,113060,13.0,6.0,1.0,0.0,,James Hildreth,5,7,71.43,Craig Kieswetter,45,46,97.83,Danny Briggs,,,Somerset,Somst,112.0,2,83.0
+435840,2010,113050,13.0,5.0,0.0,0.0,,James Hildreth,4,6,66.67,,0,0,,Danny Briggs,,,Somerset,Somst,112.0,2,82.0
+435840,2010,113040,13.0,4.0,0.0,0.0,,James Hildreth,4,5,80.0,,0,0,,Danny Briggs,,,Somerset,Somst,112.0,2,81.0
+435840,2010,113030,13.0,3.0,1.0,0.0,,Craig Kieswetter,45,46,97.83,,0,0,,Danny Briggs,,,Somerset,Somst,111.0,2,80.0
+435840,2010,113020,13.0,2.0,6.0,0.0,,Craig Kieswetter,44,45,97.78,,0,0,,Danny Briggs,,,Somerset,Somst,105.0,2,79.0
+435840,2010,113010,13.0,1.0,1.0,0.0,,James Hildreth,4,4,100.0,,0,0,,Danny Briggs,,,Somerset,Somst,104.0,2,78.0
+435840,2010,112060,12.0,6.0,1.0,0.0,,James Hildreth,3,3,100.0,Craig Kieswetter,38,44,86.36,Dominic Cork,,,Somerset,Somst,103.0,2,77.0
+435840,2010,112050,12.0,5.0,1.0,0.0,,Craig Kieswetter,38,44,86.36,,0,0,,Dominic Cork,,,Somerset,Somst,102.0,2,76.0
+435840,2010,112040,12.0,4.0,1.0,0.0,,James Hildreth,2,2,100.0,,0,0,,Dominic Cork,,,Somerset,Somst,101.0,2,75.0
+435840,2010,112030,12.0,3.0,1.0,0.0,,Craig Kieswetter,37,43,86.05,,0,0,,Dominic Cork,,,Somerset,Somst,100.0,2,74.0
+435840,2010,112020,12.0,2.0,1.0,0.0,,James Hildreth,1,1,100.0,,0,0,,Dominic Cork,,,Somerset,Somst,99.0,2,73.0
+435840,2010,112010,12.0,1.0,1.0,0.0,,Craig Kieswetter,36,42,85.71,,0,0,,Dominic Cork,,,Somerset,Somst,98.0,2,72.0
+435840,2010,111060,11.0,6.0,1.0,0.0,,Craig Kieswetter,35,41,85.37,James Hildreth,0,0,,Danny Briggs,,,Somerset,Somst,97.0,2,71.0
+435840,2010,111050,11.0,5.0,0.0,0.0,,Craig Kieswetter,34,40,85.0,,0,0,,Danny Briggs,,,Somerset,Somst,97.0,2,70.0
+435840,2010,219060,19.0,6.0,0.0,1.0,lb,Daniel Christian,3,4,75.0,Sean Ervine,44,31,141.94,Zander de Bruyn,,,Hampshire,Hants,172.0,5,119.0
+435840,2010,219050,19.0,5.0,2.0,0.0,,Daniel Christian,3,3,100.0,,0,0,,Zander de Bruyn,,,Hampshire,Hants,170.0,5,118.0
+435840,2010,219040,19.0,4.0,0.0,1.0,b,Sean Ervine,44,31,141.94,,0,0,,Zander de Bruyn,,,Hampshire,Hants,169.0,5,117.0
+435840,2010,219030,19.0,3.0,2.0,0.0,,Sean Ervine,44,30,146.67,,0,0,,Zander de Bruyn,,,Hampshire,Hants,167.0,5,116.0
+435840,2010,219020,19.0,2.0,0.0,0.0,,Sean Ervine,42,29,144.83,,0,0,,Zander de Bruyn,,,Hampshire,Hants,167.0,5,115.0
+435840,2010,219010,19.0,1.0,0.0,1.0,b,Daniel Christian,1,2,50.0,,0,0,,Zander de Bruyn,,,Hampshire,Hants,166.0,5,114.0
+435840,2010,218060,18.0,6.0,1.0,0.0,,Daniel Christian,1,1,100.0,Sean Ervine,42,28,150.0,Ben Phillips,,,Hampshire,Hants,165.0,5,113.0
+435840,2010,218050,18.0,5.0,1.0,0.0,,Sean Ervine,42,28,150.0,,0,0,,Ben Phillips,,,Hampshire,Hants,164.0,5,112.0
+435840,2010,218040,18.0,4.0,0.0,0.0,,Michael Carberry,0,2,0.0,Sean Ervine,41,27,151.85,Ben Phillips,MA Carberry,MA Carberry c &dagger;Kieswetter b Phillips 0 (2m 2b 0x4 0x6) SR: 0.00,Hampshire,Hants,164.0,4,111.0
+435840,2010,218030,18.0,3.0,0.0,0.0,,Michael Carberry,0,1,0.0,,0,0,,Ben Phillips,,,Hampshire,Hants,164.0,4,110.0
+435840,2010,218020,18.0,2.0,1.0,0.0,,Sean Ervine,41,27,151.85,,0,0,,Ben Phillips,,,Hampshire,Hants,163.0,4,109.0
+435840,2010,218010,18.0,1.0,0.0,0.0,,Neil McKenzie,52,39,133.33,Sean Ervine,40,26,153.85,Ben Phillips,ND McKenzie,ND McKenzie c Trescothick b Phillips 52 (51m 39b 3x4 1x6) SR: 133.33,Hampshire,Hants,163.0,3,108.0
+435840,2010,217060,17.0,6.0,1.0,0.0,,Neil McKenzie,52,38,136.84,Sean Ervine,40,26,153.85,Peter Trego,,,Hampshire,Hants,162.0,3,107.0
+435840,2010,217050,17.0,5.0,4.0,0.0,,Neil McKenzie,51,37,137.84,,0,0,,Peter Trego,,,Hampshire,Hants,158.0,3,106.0
+435840,2010,217040,17.0,4.0,0.0,0.0,,Neil McKenzie,47,36,130.56,,0,0,,Peter Trego,,,Hampshire,Hants,158.0,3,105.0
+435840,2010,217030,17.0,3.0,2.0,0.0,,Neil McKenzie,47,35,134.29,,0,0,,Peter Trego,,,Hampshire,Hants,156.0,3,104.0
+435840,2010,217020,17.0,2.0,0.0,0.0,,Neil McKenzie,45,34,132.35,,0,0,,Peter Trego,,,Hampshire,Hants,156.0,3,103.0
+435840,2010,217010,17.0,1.0,2.0,0.0,,Neil McKenzie,45,33,136.36,,0,0,,Peter Trego,,,Hampshire,Hants,154.0,3,102.0
+435840,2010,216060,16.0,6.0,1.0,0.0,,Neil McKenzie,43,32,134.38,Sean Ervine,40,26,153.85,Alfonso Thomas,,,Hampshire,Hants,153.0,3,101.0
+435840,2010,216050,16.0,5.0,2.0,0.0,,Neil McKenzie,42,31,135.48,,0,0,,Alfonso Thomas,,,Hampshire,Hants,151.0,3,100.0
+435840,2010,216040,16.0,4.0,0.0,0.0,,Neil McKenzie,40,30,133.33,,0,0,,Alfonso Thomas,,,Hampshire,Hants,151.0,3,99.0
+435840,2010,24010,4.0,1.0,4.0,0.0,,Abdul Razzaq,14,11,127.27,,0,0,,Ben Phillips,,,Hampshire,Hants,35.0,0,24.0
+435840,2010,23060,3.0,6.0,4.0,0.0,,Jimmy Adams,24,14,171.43,Abdul Razzaq,10,10,100.0,Zander de Bruyn,,,Hampshire,Hants,31.0,0,23.0
+435840,2010,23050,3.0,5.0,6.0,0.0,,Jimmy Adams,20,13,153.85,,0,0,,Zander de Bruyn,,,Hampshire,Hants,25.0,0,22.0
+435840,2010,23040,3.0,4.0,0.0,0.0,,Jimmy Adams,14,12,116.67,,0,0,,Zander de Bruyn,,,Hampshire,Hants,25.0,0,21.0
+435840,2010,23030,3.0,3.0,1.0,0.0,,Abdul Razzaq,10,10,100.0,,0,0,,Zander de Bruyn,,,Hampshire,Hants,24.0,0,20.0
+435840,2010,23020,3.0,2.0,4.0,0.0,,Abdul Razzaq,9,9,100.0,,0,0,,Zander de Bruyn,,,Hampshire,Hants,20.0,0,19.0
+435840,2010,23010,3.0,1.0,1.0,0.0,,Jimmy Adams,14,11,127.27,,0,0,,Zander de Bruyn,,,Hampshire,Hants,19.0,0,18.0
+435840,2010,22060,2.0,6.0,4.0,0.0,,Abdul Razzaq,5,8,62.5,Jimmy Adams,13,10,130.0,Alfonso Thomas,,,Hampshire,Hants,15.0,0,17.0
+435840,2010,22050,2.0,5.0,0.0,0.0,,Abdul Razzaq,2,7,28.57,,0,0,,Alfonso Thomas,,,Hampshire,Hants,15.0,0,16.0
+435840,2010,22040,2.0,4.0,1.0,0.0,,Jimmy Adams,13,10,130.0,,0,0,,Alfonso Thomas,,,Hampshire,Hants,14.0,0,15.0
+435840,2010,22030,2.0,3.0,0.0,0.0,,Jimmy Adams,12,9,133.33,,0,0,,Alfonso Thomas,,,Hampshire,Hants,14.0,0,14.0
+435840,2010,22020,2.0,2.0,1.0,0.0,,Abdul Razzaq,2,6,33.33,,0,0,,Alfonso Thomas,,,Hampshire,Hants,13.0,0,13.0
+435840,2010,22010,2.0,1.0,1.0,0.0,,Jimmy Adams,12,8,150.0,,0,0,,Alfonso Thomas,,,Hampshire,Hants,12.0,0,12.0
+435840,2010,21060,1.0,6.0,0.0,0.0,,Abdul Razzaq,1,5,20.0,Jimmy Adams,11,7,157.14,Ben Phillips,,,Hampshire,Hants,12.0,0,11.0
+435840,2010,21050,1.0,5.0,1.0,0.0,,Jimmy Adams,11,7,157.14,,0,0,,Ben Phillips,,,Hampshire,Hants,11.0,0,10.0
+435840,2010,21040,1.0,4.0,4.0,0.0,,Jimmy Adams,10,6,166.67,,0,0,,Ben Phillips,,,Hampshire,Hants,7.0,0,9.0
+435840,2010,21030,1.0,3.0,0.0,0.0,,Jimmy Adams,6,5,120.0,,0,0,,Ben Phillips,,,Hampshire,Hants,7.0,0,8.0
+435840,2010,21020,1.0,2.0,0.0,0.0,,Jimmy Adams,6,4,150.0,,0,0,,Ben Phillips,,,Hampshire,Hants,7.0,0,7.0
+435840,2010,21010,1.0,1.0,4.0,0.0,,Jimmy Adams,6,3,200.0,,0,0,,Ben Phillips,,,Hampshire,Hants,3.0,0,6.0
+435840,2010,260,0.0,6.0,0.0,0.0,,Abdul Razzaq,1,4,25.0,Jimmy Adams,2,2,100.0,Alfonso Thomas,,,Hampshire,Hants,3.0,0,5.0
+435840,2010,250,0.0,5.0,0.0,0.0,,Abdul Razzaq,1,3,33.33,,0,0,,Alfonso Thomas,,,Hampshire,Hants,3.0,0,4.0
+435840,2010,240,0.0,4.0,1.0,0.0,,Jimmy Adams,2,2,100.0,,0,0,,Alfonso Thomas,,,Hampshire,Hants,2.0,0,3.0
+435840,2010,230,0.0,3.0,1.0,0.0,,Abdul Razzaq,1,2,50.0,,0,0,,Alfonso Thomas,,,Hampshire,Hants,1.0,0,2.0
+435840,2010,220,0.0,2.0,0.0,0.0,,Abdul Razzaq,0,1,0.0,,0,0,,Alfonso Thomas,,,Hampshire,Hants,1.0,0,1.0
+435840,2010,210,0.0,1.0,1.0,0.0,,Jimmy Adams,1,1,100.0,,0,0,,Alfonso Thomas,,,Hampshire,Hants,0.0,0,0.0
+435840,2010,28020,8.0,2.0,1.0,0.0,,Jimmy Adams,32,21,152.38,,0,0,,Murali Kartik,,,Hampshire,Hants,79.0,2,49.0
+435840,2010,28010,8.0,1.0,1.0,0.0,,Neil McKenzie,14,9,155.56,,0,0,,Murali Kartik,,,Hampshire,Hants,78.0,2,48.0
+435840,2010,27060,7.0,6.0,1.0,0.0,,Neil McKenzie,13,8,162.5,Jimmy Adams,31,20,155.0,Peter Trego,,,Hampshire,Hants,77.0,2,47.0
+435840,2010,27050,7.0,5.0,2.0,0.0,,Neil McKenzie,12,7,171.43,,0,0,,Peter Trego,,,Hampshire,Hants,75.0,2,46.0
+435840,2010,27040,7.0,4.0,4.0,0.0,,Neil McKenzie,10,6,166.67,,0,0,,Peter Trego,,,Hampshire,Hants,71.0,2,45.0
+435840,2010,27030,7.0,3.0,2.0,0.0,,Neil McKenzie,6,5,120.0,,0,0,,Peter Trego,,,Hampshire,Hants,69.0,2,44.0
+435840,2010,27020,7.0,2.0,1.0,0.0,,Jimmy Adams,31,20,155.0,,0,0,,Peter Trego,,,Hampshire,Hants,68.0,2,43.0
+435840,2010,27010,7.0,1.0,1.0,0.0,,Neil McKenzie,4,4,100.0,,0,0,,Peter Trego,,,Hampshire,Hants,67.0,2,42.0
+435840,2010,26060,6.0,6.0,1.0,0.0,,Neil McKenzie,3,3,100.0,Jimmy Adams,30,19,157.89,Murali Kartik,,,Hampshire,Hants,66.0,2,41.0
+435840,2010,26050,6.0,5.0,1.0,0.0,,Jimmy Adams,30,19,157.89,,0,0,,Murali Kartik,,,Hampshire,Hants,65.0,2,40.0
+435840,2010,26040,6.0,4.0,1.0,0.0,,Neil McKenzie,2,2,100.0,,0,0,,Murali Kartik,,,Hampshire,Hants,64.0,2,39.0
+435840,2010,26030,6.0,3.0,1.0,0.0,,Jimmy Adams,29,18,161.11,,0,0,,Murali Kartik,,,Hampshire,Hants,63.0,2,38.0
+435840,2010,26020,6.0,2.0,1.0,0.0,,Neil McKenzie,1,1,100.0,,0,0,,Murali Kartik,,,Hampshire,Hants,62.0,2,37.0
+435840,2010,26010,6.0,1.0,0.0,0.0,,James Vince,0,1,0.0,,0,0,,Murali Kartik,JM Vince,JM Vince run out (Hildreth/&dagger;Kieswetter) 0 (2m 1b 0x4 0x6) SR: 0.00,Hampshire,Hants,62.0,1,36.0
+435840,2010,25060,5.0,6.0,0.0,0.0,,Jimmy Adams,28,17,164.71,James Vince,0,0,,Peter Trego,,,Hampshire,Hants,62.0,1,35.0
+435840,2010,25050,5.0,5.0,2.0,0.0,,Jimmy Adams,28,16,175.0,,0,0,,Peter Trego,,,Hampshire,Hants,60.0,1,34.0
+435840,2010,25040,5.0,4.0,0.0,0.0,,Abdul Razzaq,33,19,173.68,Jimmy Adams,26,15,173.33,Peter Trego,Abdul Razzaq,Abdul Razzaq c &dagger;Kieswetter b Trego 33 (22m 19b 6x4 1x6) SR: 173.68,Hampshire,Hants,60.0,0,33.0
+435840,2010,25030,5.0,3.0,4.0,0.0,,Abdul Razzaq,33,18,183.33,,0,0,,Peter Trego,,,Hampshire,Hants,56.0,0,32.0
+435840,2010,25020,5.0,2.0,4.0,0.0,,Abdul Razzaq,29,17,170.59,,0,0,,Peter Trego,,,Hampshire,Hants,52.0,0,31.0
+435840,2010,25010,5.0,1.0,0.0,0.0,,Abdul Razzaq,25,16,156.25,,0,0,,Peter Trego,,,Hampshire,Hants,52.0,0,30.0
+435840,2010,24060,4.0,6.0,2.0,0.0,,Jimmy Adams,26,15,173.33,Abdul Razzaq,25,15,166.67,Ben Phillips,,,Hampshire,Hants,50.0,0,29.0
+435840,2010,24050,4.0,5.0,1.0,0.0,,Abdul Razzaq,25,15,166.67,,0,0,,Ben Phillips,,,Hampshire,Hants,49.0,0,28.0
+435840,2010,24040,4.0,4.0,6.0,0.0,,Abdul Razzaq,24,14,171.43,,0,0,,Ben Phillips,,,Hampshire,Hants,43.0,0,27.0
+435840,2010,24030,4.0,3.0,4.0,0.0,,Abdul Razzaq,18,13,138.46,,0,0,,Ben Phillips,,,Hampshire,Hants,39.0,0,26.0
+435840,2010,24020,4.0,2.0,0.0,0.0,,Abdul Razzaq,14,12,116.67,,0,0,,Ben Phillips,,,Hampshire,Hants,39.0,0,25.0
+435840,2010,212030,12.0,3.0,4.0,0.0,,Sean Ervine,22,14,157.14,,0,0,,Murali Kartik,,,Hampshire,Hants,109.0,3,74.0
+435840,2010,212020,12.0,2.0,4.0,0.0,,Sean Ervine,18,13,138.46,,0,0,,Murali Kartik,,,Hampshire,Hants,105.0,3,73.0
+435840,2010,212010,12.0,1.0,1.0,0.0,,Neil McKenzie,22,17,129.41,,0,0,,Murali Kartik,,,Hampshire,Hants,104.0,3,72.0
+435840,2010,211060,11.0,6.0,2.0,0.0,,Sean Ervine,14,12,116.67,Neil McKenzie,21,16,131.25,Zander de Bruyn,,,Hampshire,Hants,102.0,3,71.0
+435840,2010,211050,11.0,5.0,4.0,0.0,,Sean Ervine,13,11,118.18,,0,0,,Zander de Bruyn,,,Hampshire,Hants,99.0,3,70.0
+435840,2010,211040,11.0,4.0,1.0,0.0,,Neil McKenzie,21,16,131.25,,0,0,,Zander de Bruyn,,,Hampshire,Hants,98.0,3,69.0
+435840,2010,211030,11.0,3.0,1.0,0.0,,Sean Ervine,9,10,90.0,,0,0,,Zander de Bruyn,,,Hampshire,Hants,97.0,3,68.0
+435840,2010,211020,11.0,2.0,1.0,0.0,,Neil McKenzie,20,15,133.33,,0,0,,Zander de Bruyn,,,Hampshire,Hants,96.0,3,67.0
+435840,2010,211010,11.0,1.0,0.0,1.0,lb,Sean Ervine,8,9,88.89,,0,0,,Zander de Bruyn,,,Hampshire,Hants,95.0,3,66.0
+435840,2010,210060,10.0,6.0,1.0,0.0,,Sean Ervine,8,8,100.0,Neil McKenzie,19,14,135.71,Murali Kartik,,,Hampshire,Hants,94.0,3,65.0
+435840,2010,210050,10.0,5.0,0.0,0.0,,Sean Ervine,7,7,100.0,,0,0,,Murali Kartik,,,Hampshire,Hants,94.0,3,64.0
+435840,2010,210040,10.0,4.0,1.0,0.0,,Neil McKenzie,19,14,135.71,,0,0,,Murali Kartik,,,Hampshire,Hants,93.0,3,63.0
+435840,2010,210030,10.0,3.0,1.0,0.0,,Sean Ervine,7,6,116.67,,0,0,,Murali Kartik,,,Hampshire,Hants,92.0,3,62.0
+435840,2010,210020,10.0,2.0,0.0,0.0,,Sean Ervine,6,5,120.0,,0,0,,Murali Kartik,,,Hampshire,Hants,92.0,3,61.0
+435840,2010,210010,10.0,1.0,1.0,0.0,,Neil McKenzie,18,13,138.46,,0,0,,Murali Kartik,,,Hampshire,Hants,91.0,3,60.0
+435840,2010,29060,9.0,6.0,1.0,0.0,,Sean Ervine,6,4,150.0,Neil McKenzie,17,12,141.67,Arul Suppiah,,,Hampshire,Hants,90.0,3,59.0
+435840,2010,29050,9.0,5.0,4.0,0.0,,Sean Ervine,5,3,166.67,,0,0,,Arul Suppiah,,,Hampshire,Hants,86.0,3,58.0
+435840,2010,29040,9.0,4.0,0.0,0.0,,Sean Ervine,1,2,50.0,,0,0,,Arul Suppiah,,,Hampshire,Hants,86.0,3,57.0
+435840,2010,29030,9.0,3.0,1.0,0.0,,Neil McKenzie,17,12,141.67,,0,0,,Arul Suppiah,,,Hampshire,Hants,85.0,3,56.0
+435840,2010,29020,9.0,2.0,1.0,0.0,,Sean Ervine,1,1,100.0,,0,0,,Arul Suppiah,,,Hampshire,Hants,84.0,3,55.0
+435840,2010,29010,9.0,1.0,0.0,0.0,,Jimmy Adams,34,24,141.67,Neil McKenzie,16,11,145.45,Arul Suppiah,JHK Adams,JHK Adams  b Suppiah 34 (40m 24b 3x4 1x6) SR: 141.66,Hampshire,Hants,84.0,2,54.0
+435840,2010,28060,8.0,6.0,1.0,0.0,,Jimmy Adams,34,23,147.83,Neil McKenzie,16,11,145.45,Murali Kartik,,,Hampshire,Hants,83.0,2,53.0
+435840,2010,28050,8.0,5.0,1.0,0.0,,Neil McKenzie,16,11,145.45,,0,0,,Murali Kartik,,,Hampshire,Hants,82.0,2,52.0
+435840,2010,28040,8.0,4.0,1.0,0.0,,Jimmy Adams,33,22,150.0,,0,0,,Murali Kartik,,,Hampshire,Hants,81.0,2,51.0
+435840,2010,28030,8.0,3.0,1.0,0.0,,Neil McKenzie,15,10,150.0,,0,0,,Murali Kartik,,,Hampshire,Hants,80.0,2,50.0
+435840,2010,216030,16.0,3.0,0.0,0.0,,Neil McKenzie,40,29,137.93,,0,0,,Alfonso Thomas,,,Hampshire,Hants,151.0,3,98.0
+435840,2010,216020,16.0,2.0,6.0,0.0,,Neil McKenzie,40,28,142.86,,0,0,,Alfonso Thomas,,,Hampshire,Hants,145.0,3,97.0
+435840,2010,216010,16.0,1.0,1.0,0.0,,Sean Ervine,40,26,153.85,,0,0,,Alfonso Thomas,,,Hampshire,Hants,144.0,3,96.0
+435840,2010,215060,15.0,6.0,0.0,0.0,,Neil McKenzie,34,27,125.93,Sean Ervine,39,25,156.0,Peter Trego,,,Hampshire,Hants,144.0,3,95.0
+435840,2010,215050,15.0,5.0,4.0,0.0,,Neil McKenzie,34,26,130.77,,0,0,,Peter Trego,,,Hampshire,Hants,140.0,3,94.0
+435840,2010,215040,15.0,4.0,2.0,0.0,,Neil McKenzie,30,25,120.0,,0,0,,Peter Trego,,,Hampshire,Hants,138.0,3,93.0
+435840,2010,215030,15.0,3.0,0.0,0.0,,Neil McKenzie,28,24,116.67,,0,0,,Peter Trego,,,Hampshire,Hants,138.0,3,92.0
+435840,2010,215020,15.0,2.0,1.0,0.0,,Sean Ervine,39,25,156.0,,0,0,,Peter Trego,,,Hampshire,Hants,137.0,3,91.0
+435840,2010,215010,15.0,1.0,1.0,0.0,,Neil McKenzie,28,23,121.74,,0,0,,Peter Trego,,,Hampshire,Hants,136.0,3,90.0
+435840,2010,214060,14.0,6.0,0.0,0.0,,Sean Ervine,38,24,158.33,Neil McKenzie,27,22,122.73,Alfonso Thomas,,,Hampshire,Hants,136.0,3,89.0
+435840,2010,214050,14.0,5.0,1.0,0.0,,Neil McKenzie,27,22,122.73,,0,0,,Alfonso Thomas,,,Hampshire,Hants,135.0,3,88.0
+435840,2010,214040,14.0,4.0,1.0,0.0,,Sean Ervine,38,23,165.22,,0,0,,Alfonso Thomas,,,Hampshire,Hants,134.0,3,87.0
+435840,2010,214030,14.0,3.0,1.0,0.0,,Neil McKenzie,26,21,123.81,,0,0,,Alfonso Thomas,,,Hampshire,Hants,133.0,3,86.0
+435840,2010,214020,14.0,2.0,0.0,1.0,lb,Sean Ervine,37,22,168.18,,0,0,,Alfonso Thomas,,,Hampshire,Hants,132.0,3,85.0
+435840,2010,214010,14.0,1.0,1.0,0.0,,Neil McKenzie,25,20,125.0,,0,0,,Alfonso Thomas,,,Hampshire,Hants,131.0,3,84.0
+435840,2010,213070,13.0,6.0,4.0,0.0,,Sean Ervine,37,21,176.19,Neil McKenzie,24,19,126.32,Ben Phillips,,,Hampshire,Hants,127.0,3,83.0
+435840,2010,213060,13.0,5.0,4.0,0.0,,Sean Ervine,33,20,165.0,,0,0,,Ben Phillips,,,Hampshire,Hants,123.0,3,82.0
+435840,2010,213050,13.0,4.0,0.0,0.0,,Sean Ervine,29,19,152.63,,0,0,,Ben Phillips,,,Hampshire,Hants,123.0,3,81.0
+435840,2010,213040,13.0,3.0,4.0,0.0,,Sean Ervine,29,18,161.11,,0,0,,Ben Phillips,,,Hampshire,Hants,119.0,3,80.0
+435840,2010,213030,13.0,3.0,0.0,1.0,wd,Sean Ervine,25,17,147.06,,0,0,,Ben Phillips,,,Hampshire,Hants,118.0,3,80.0
+435840,2010,213020,13.0,2.0,1.0,0.0,,Neil McKenzie,24,19,126.32,,0,0,,Ben Phillips,,,Hampshire,Hants,117.0,3,79.0
+435840,2010,213010,13.0,1.0,1.0,0.0,,Sean Ervine,25,17,147.06,,0,0,,Ben Phillips,,,Hampshire,Hants,116.0,3,78.0
+435840,2010,212060,12.0,6.0,1.0,0.0,,Sean Ervine,24,16,150.0,Neil McKenzie,23,18,127.78,Murali Kartik,,,Hampshire,Hants,115.0,3,77.0
+435840,2010,212050,12.0,5.0,1.0,0.0,,Neil McKenzie,23,18,127.78,,0,0,,Murali Kartik,,,Hampshire,Hants,114.0,3,76.0
+435840,2010,212040,12.0,4.0,1.0,0.0,,Sean Ervine,23,15,153.33,,0,0,,Murali Kartik,,,Hampshire,Hants,113.0,3,75.0
+435839,2010,119060,19.0,6.0,1.0,0.0,,Jos Buttler,55,23,239.13,Kieron Pollard,23,18,127.78,Ryan Sidebottom,,,Somerset,Somst,181.0,5,119.0
+435839,2010,119050,19.0,5.0,2.0,0.0,,Jos Buttler,54,22,245.45,,0,0,,Ryan Sidebottom,,,Somerset,Somst,179.0,5,118.0
+435839,2010,119040,19.0,4.0,4.0,0.0,,Jos Buttler,52,21,247.62,,0,0,,Ryan Sidebottom,,,Somerset,Somst,175.0,5,117.0
+435839,2010,119030,19.0,3.0,4.0,0.0,,Jos Buttler,48,20,240.0,,0,0,,Ryan Sidebottom,,,Somerset,Somst,171.0,5,116.0
+435839,2010,119020,19.0,2.0,0.0,0.0,,Jos Buttler,44,19,231.58,,0,0,,Ryan Sidebottom,,,Somerset,Somst,171.0,5,115.0
+435839,2010,119010,19.0,1.0,4.0,0.0,,Jos Buttler,44,18,244.44,,0,0,,Ryan Sidebottom,,,Somerset,Somst,167.0,5,114.0
+435839,2010,118060,18.0,6.0,4.0,0.0,,Kieron Pollard,23,18,127.78,Jos Buttler,40,17,235.29,Dirk Nannes,,,Somerset,Somst,163.0,5,113.0
+435839,2010,118050,18.0,5.0,3.0,0.0,,Jos Buttler,40,17,235.29,,0,0,,Dirk Nannes,,,Somerset,Somst,160.0,5,112.0
+435839,2010,118040,18.0,4.0,1.0,0.0,,Kieron Pollard,19,17,111.76,,0,0,,Dirk Nannes,,,Somerset,Somst,159.0,5,111.0
+435839,2010,118030,18.0,3.0,2.0,0.0,,Kieron Pollard,18,16,112.5,,0,0,,Dirk Nannes,,,Somerset,Somst,157.0,5,110.0
+435839,2010,118020,18.0,2.0,4.0,0.0,,Kieron Pollard,16,15,106.67,,0,0,,Dirk Nannes,,,Somerset,Somst,153.0,5,109.0
+435839,2010,118010,18.0,1.0,2.0,0.0,,Kieron Pollard,12,14,85.71,,0,0,,Dirk Nannes,,,Somerset,Somst,151.0,5,108.0
+435839,2010,117060,17.0,6.0,4.0,0.0,,Jos Buttler,37,16,231.25,Kieron Pollard,10,13,76.92,Stuart Broad,,,Somerset,Somst,147.0,5,107.0
+435839,2010,117050,17.0,5.0,6.0,0.0,,Jos Buttler,33,15,220.0,,0,0,,Stuart Broad,,,Somerset,Somst,141.0,5,106.0
+435839,2010,117040,17.0,4.0,4.0,0.0,,Jos Buttler,27,14,192.86,,0,0,,Stuart Broad,,,Somerset,Somst,137.0,5,105.0
+435839,2010,117030,17.0,3.0,1.0,0.0,,Kieron Pollard,10,13,76.92,,0,0,,Stuart Broad,,,Somerset,Somst,136.0,5,104.0
+435839,2010,117020,17.0,2.0,2.0,0.0,,Kieron Pollard,9,12,75.0,,0,0,,Stuart Broad,,,Somerset,Somst,134.0,5,103.0
+435839,2010,117010,17.0,1.0,0.0,0.0,,Kieron Pollard,7,11,63.64,,0,0,,Stuart Broad,,,Somerset,Somst,134.0,5,102.0
+435839,2010,116060,16.0,6.0,2.0,0.0,,Jos Buttler,23,13,176.92,Kieron Pollard,7,10,70.0,Ryan Sidebottom,,,Somerset,Somst,132.0,5,101.0
+435839,2010,116050,16.0,5.0,4.0,0.0,,Jos Buttler,21,12,175.0,,0,0,,Ryan Sidebottom,,,Somerset,Somst,128.0,5,100.0
+435839,2010,116040,16.0,4.0,0.0,1.0,lb,Kieron Pollard,7,10,70.0,,0,0,,Ryan Sidebottom,,,Somerset,Somst,127.0,5,99.0
+435839,2010,116030,16.0,3.0,1.0,0.0,,Jos Buttler,17,11,154.55,,0,0,,Ryan Sidebottom,,,Somerset,Somst,126.0,5,98.0
+435839,2010,13050,3.0,5.0,6.0,0.0,,Marcus Trescothick,17,10,170.0,,0,0,,Dirk Nannes,,,Somerset,Somst,21.0,0,22.0
+435839,2010,13040,3.0,4.0,0.0,0.0,,Marcus Trescothick,11,9,122.22,,0,0,,Dirk Nannes,,,Somerset,Somst,21.0,0,21.0
+435839,2010,13030,3.0,3.0,0.0,1.0,lb,Craig Kieswetter,7,13,53.85,,0,0,,Dirk Nannes,,,Somerset,Somst,20.0,0,20.0
+435839,2010,13020,3.0,2.0,2.0,0.0,,Craig Kieswetter,7,12,58.33,,0,0,,Dirk Nannes,,,Somerset,Somst,18.0,0,19.0
+435839,2010,13010,3.0,1.0,2.0,0.0,,Craig Kieswetter,5,11,45.45,,0,0,,Dirk Nannes,,,Somerset,Somst,16.0,0,18.0
+435839,2010,12060,2.0,6.0,1.0,0.0,,Craig Kieswetter,3,10,30.0,Marcus Trescothick,11,8,137.5,Stuart Broad,,,Somerset,Somst,15.0,0,17.0
+435839,2010,12050,2.0,5.0,0.0,0.0,,Craig Kieswetter,2,9,22.22,,0,0,,Stuart Broad,,,Somerset,Somst,15.0,0,16.0
+435839,2010,12040,2.0,4.0,1.0,0.0,,Marcus Trescothick,11,8,137.5,,0,0,,Stuart Broad,,,Somerset,Somst,14.0,0,15.0
+435839,2010,12030,2.0,3.0,4.0,0.0,,Marcus Trescothick,10,7,142.86,,0,0,,Stuart Broad,,,Somerset,Somst,10.0,0,14.0
+435839,2010,12020,2.0,2.0,4.0,0.0,,Marcus Trescothick,6,6,100.0,,0,0,,Stuart Broad,,,Somerset,Somst,6.0,0,13.0
+435839,2010,12010,2.0,1.0,1.0,0.0,,Craig Kieswetter,2,8,25.0,,0,0,,Stuart Broad,,,Somerset,Somst,5.0,0,12.0
+435839,2010,11060,1.0,6.0,1.0,0.0,,Craig Kieswetter,1,7,14.29,Marcus Trescothick,2,5,40.0,Dirk Nannes,,,Somerset,Somst,4.0,0,11.0
+435839,2010,11050,1.0,5.0,0.0,0.0,,Craig Kieswetter,0,6,0.0,,0,0,,Dirk Nannes,,,Somerset,Somst,4.0,0,10.0
+435839,2010,11040,1.0,4.0,0.0,0.0,,Craig Kieswetter,0,5,0.0,,0,0,,Dirk Nannes,,,Somerset,Somst,4.0,0,9.0
+435839,2010,11030,1.0,3.0,1.0,0.0,,Marcus Trescothick,2,5,40.0,,0,0,,Dirk Nannes,,,Somerset,Somst,3.0,0,8.0
+435839,2010,11020,1.0,2.0,0.0,0.0,,Marcus Trescothick,1,4,25.0,,0,0,,Dirk Nannes,,,Somerset,Somst,3.0,0,7.0
+435839,2010,11010,1.0,1.0,0.0,0.0,,Marcus Trescothick,1,3,33.33,,0,0,,Dirk Nannes,,,Somerset,Somst,3.0,0,6.0
+435839,2010,180,0.0,6.0,0.0,0.0,,Craig Kieswetter,0,4,0.0,Marcus Trescothick,1,2,50.0,Ryan Sidebottom,,,Somerset,Somst,3.0,0,5.0
+435839,2010,170,0.0,6.0,0.0,1.0,wd,Craig Kieswetter,0,3,0.0,,0,0,,Ryan Sidebottom,,,Somerset,Somst,2.0,0,5.0
+435839,2010,160,0.0,5.0,0.0,0.0,,Craig Kieswetter,0,3,0.0,,0,0,,Ryan Sidebottom,,,Somerset,Somst,2.0,0,4.0
+435839,2010,150,0.0,4.0,0.0,0.0,,Craig Kieswetter,0,2,0.0,,0,0,,Ryan Sidebottom,,,Somerset,Somst,2.0,0,3.0
+435839,2010,140,0.0,4.0,0.0,1.0,wd,Craig Kieswetter,0,1,0.0,,0,0,,Ryan Sidebottom,,,Somerset,Somst,1.0,0,3.0
+435839,2010,130,0.0,3.0,0.0,0.0,,Craig Kieswetter,0,1,0.0,,0,0,,Ryan Sidebottom,,,Somerset,Somst,1.0,0,2.0
+435839,2010,120,0.0,2.0,1.0,0.0,,Marcus Trescothick,1,2,50.0,,0,0,,Ryan Sidebottom,,,Somerset,Somst,0.0,0,1.0
+435839,2010,110,0.0,1.0,0.0,0.0,,Marcus Trescothick,0,1,0.0,,0,0,,Ryan Sidebottom,,,Somerset,Somst,0.0,0,0.0
+435839,2010,17060,7.0,6.0,0.0,0.0,,James Hildreth,6,5,120.0,Marcus Trescothick,40,20,200.0,Graeme Swann,,,Somerset,Somst,65.0,2,47.0
+435839,2010,17050,7.0,5.0,0.0,0.0,,James Hildreth,6,4,150.0,,0,0,,Graeme Swann,,,Somerset,Somst,65.0,2,46.0
+435839,2010,17040,7.0,4.0,2.0,0.0,,James Hildreth,6,3,200.0,,0,0,,Graeme Swann,,,Somerset,Somst,63.0,2,45.0
+435839,2010,17030,7.0,3.0,2.0,0.0,,James Hildreth,4,2,200.0,,0,0,,Graeme Swann,,,Somerset,Somst,61.0,2,44.0
+435839,2010,17020,7.0,2.0,1.0,0.0,,Marcus Trescothick,40,20,200.0,,0,0,,Graeme Swann,,,Somerset,Somst,60.0,2,43.0
+435839,2010,17010,7.0,1.0,2.0,0.0,,Marcus Trescothick,39,19,205.26,,0,0,,Graeme Swann,,,Somerset,Somst,58.0,2,42.0
+435839,2010,16060,6.0,6.0,2.0,0.0,,James Hildreth,2,1,200.0,Marcus Trescothick,37,18,205.56,Samit Patel,,,Somerset,Somst,56.0,2,41.0
+435839,2010,16050,6.0,5.0,0.0,0.0,,Peter Trego,2,5,40.0,Marcus Trescothick,37,18,205.56,Samit Patel,PD Trego,PD Trego  b Patel 2 (1m 5b 0x4 0x6) SR: 40.00,Somerset,Somst,56.0,1,40.0
+435839,2010,16040,6.0,4.0,0.0,0.0,,Peter Trego,2,4,50.0,,0,0,,Samit Patel,,,Somerset,Somst,56.0,1,39.0
+435839,2010,16030,6.0,3.0,0.0,0.0,,Peter Trego,2,3,66.67,,0,0,,Samit Patel,,,Somerset,Somst,56.0,1,38.0
+435839,2010,16020,6.0,2.0,2.0,0.0,,Peter Trego,2,2,100.0,,0,0,,Samit Patel,,,Somerset,Somst,54.0,1,37.0
+435839,2010,16010,6.0,1.0,0.0,0.0,,Peter Trego,0,1,0.0,,0,0,,Samit Patel,,,Somerset,Somst,54.0,1,36.0
+435839,2010,15060,5.0,6.0,4.0,0.0,,Marcus Trescothick,37,18,205.56,Peter Trego,0,0,,Stuart Broad,,,Somerset,Somst,50.0,1,35.0
+435839,2010,15050,5.0,5.0,0.0,0.0,,Craig Kieswetter,14,18,77.78,Marcus Trescothick,33,17,194.12,Stuart Broad,C Kieswetter,C Kieswetter c Brown b Broad 14 (27m 18b 0x4 1x6) SR: 77.77,Somerset,Somst,50.0,0,34.0
+435839,2010,15040,5.0,4.0,0.0,0.0,,Craig Kieswetter,14,17,82.35,,0,0,,Stuart Broad,,,Somerset,Somst,50.0,0,33.0
+435839,2010,15030,5.0,3.0,1.0,0.0,,Marcus Trescothick,33,17,194.12,,0,0,,Stuart Broad,,,Somerset,Somst,49.0,0,32.0
+435839,2010,15020,5.0,2.0,4.0,0.0,,Marcus Trescothick,32,16,200.0,,0,0,,Stuart Broad,,,Somerset,Somst,45.0,0,31.0
+435839,2010,15010,5.0,1.0,4.0,0.0,,Marcus Trescothick,28,15,186.67,,0,0,,Stuart Broad,,,Somerset,Somst,41.0,0,30.0
+435839,2010,14060,4.0,6.0,6.0,0.0,,Craig Kieswetter,14,16,87.5,Marcus Trescothick,24,14,171.43,Ryan Sidebottom,,,Somerset,Somst,35.0,0,29.0
+435839,2010,14050,4.0,5.0,1.0,0.0,,Marcus Trescothick,24,14,171.43,,0,0,,Ryan Sidebottom,,,Somerset,Somst,34.0,0,28.0
+435839,2010,14040,4.0,4.0,4.0,0.0,,Marcus Trescothick,23,13,176.92,,0,0,,Ryan Sidebottom,,,Somerset,Somst,30.0,0,27.0
+435839,2010,14030,4.0,3.0,0.0,0.0,,Marcus Trescothick,19,12,158.33,,0,0,,Ryan Sidebottom,,,Somerset,Somst,30.0,0,26.0
+435839,2010,14020,4.0,2.0,1.0,0.0,,Craig Kieswetter,8,15,53.33,,0,0,,Ryan Sidebottom,,,Somerset,Somst,29.0,0,25.0
+435839,2010,14010,4.0,1.0,0.0,0.0,,Craig Kieswetter,7,14,50.0,,0,0,,Ryan Sidebottom,,,Somerset,Somst,29.0,0,24.0
+435839,2010,13060,3.0,6.0,2.0,0.0,,Marcus Trescothick,19,11,172.73,Craig Kieswetter,7,13,53.85,Dirk Nannes,,,Somerset,Somst,27.0,0,23.0
+435839,2010,112010,12.0,1.0,1.0,0.0,,James Hildreth,17,15,113.33,,0,0,,Samit Patel,,,Somerset,Somst,100.0,3,72.0
+435839,2010,111060,11.0,6.0,1.0,0.0,,James Hildreth,16,14,114.29,Zander de Bruyn,4,7,57.14,Graeme Swann,,,Somerset,Somst,99.0,3,71.0
+435839,2010,111050,11.0,5.0,1.0,0.0,,Zander de Bruyn,4,7,57.14,,0,0,,Graeme Swann,,,Somerset,Somst,98.0,3,70.0
+435839,2010,111040,11.0,4.0,1.0,0.0,,James Hildreth,15,13,115.38,,0,0,,Graeme Swann,,,Somerset,Somst,97.0,3,69.0
+435839,2010,111030,11.0,3.0,0.0,1.0,lb,Zander de Bruyn,3,6,50.0,,0,0,,Graeme Swann,,,Somerset,Somst,96.0,3,68.0
+435839,2010,111020,11.0,2.0,0.0,0.0,,Zander de Bruyn,3,5,60.0,,0,0,,Graeme Swann,,,Somerset,Somst,96.0,3,67.0
+435839,2010,111010,11.0,1.0,1.0,0.0,,James Hildreth,14,12,116.67,,0,0,,Graeme Swann,,,Somerset,Somst,95.0,3,66.0
+435839,2010,110060,10.0,6.0,0.0,0.0,,Zander de Bruyn,3,4,75.0,James Hildreth,13,11,118.18,Samit Patel,,,Somerset,Somst,95.0,3,65.0
+435839,2010,110050,10.0,5.0,0.0,0.0,,Zander de Bruyn,3,3,100.0,,0,0,,Samit Patel,,,Somerset,Somst,95.0,3,64.0
+435839,2010,110040,10.0,4.0,2.0,0.0,,Zander de Bruyn,3,2,150.0,,0,0,,Samit Patel,,,Somerset,Somst,93.0,3,63.0
+435839,2010,110030,10.0,3.0,1.0,0.0,,James Hildreth,13,11,118.18,,0,0,,Samit Patel,,,Somerset,Somst,92.0,3,62.0
+435839,2010,110020,10.0,2.0,1.0,0.0,,Zander de Bruyn,1,1,100.0,,0,0,,Samit Patel,,,Somerset,Somst,91.0,3,61.0
+435839,2010,110010,10.0,1.0,1.0,0.0,,James Hildreth,12,10,120.0,,0,0,,Samit Patel,,,Somerset,Somst,90.0,3,60.0
+435839,2010,19060,9.0,6.0,0.0,0.0,,Marcus Trescothick,60,27,222.22,James Hildreth,11,9,122.22,Graeme Swann,ME Trescothick,ME Trescothick st &dagger;Read b Swann 60 (42m 28b 9x4 2x6) SR: 214.28,Somerset,Somst,90.0,2,59.0
+435839,2010,19050,9.0,5.0,4.0,0.0,,Marcus Trescothick,60,27,222.22,,0,0,,Graeme Swann,,,Somerset,Somst,86.0,2,58.0
+435839,2010,19040,9.0,4.0,1.0,0.0,,James Hildreth,11,9,122.22,,0,0,,Graeme Swann,,,Somerset,Somst,85.0,2,57.0
+435839,2010,19030,9.0,3.0,2.0,0.0,,James Hildreth,10,8,125.0,,0,0,,Graeme Swann,,,Somerset,Somst,83.0,2,56.0
+435839,2010,19020,9.0,2.0,1.0,0.0,,Marcus Trescothick,56,26,215.38,,0,0,,Graeme Swann,,,Somerset,Somst,82.0,2,55.0
+435839,2010,19010,9.0,1.0,1.0,0.0,,James Hildreth,8,7,114.29,,0,0,,Graeme Swann,,,Somerset,Somst,81.0,2,54.0
+435839,2010,18060,8.0,6.0,4.0,0.0,,Marcus Trescothick,55,25,220.0,James Hildreth,7,6,116.67,Steven Mullaney,,,Somerset,Somst,77.0,2,53.0
+435839,2010,18050,8.0,5.0,1.0,0.0,,James Hildreth,7,6,116.67,,0,0,,Steven Mullaney,,,Somerset,Somst,76.0,2,52.0
+435839,2010,18040,8.0,4.0,1.0,0.0,,Marcus Trescothick,51,24,212.5,,0,0,,Steven Mullaney,,,Somerset,Somst,75.0,2,51.0
+435839,2010,18030,8.0,3.0,0.0,0.0,,Marcus Trescothick,50,23,217.39,,0,0,,Steven Mullaney,,,Somerset,Somst,75.0,2,50.0
+435839,2010,18020,8.0,2.0,6.0,0.0,,Marcus Trescothick,50,22,227.27,,0,0,,Steven Mullaney,,,Somerset,Somst,69.0,2,49.0
+435839,2010,18010,8.0,1.0,4.0,0.0,,Marcus Trescothick,44,21,209.52,,0,0,,Steven Mullaney,,,Somerset,Somst,65.0,2,48.0
+435839,2010,116020,16.0,2.0,2.0,0.0,,Jos Buttler,16,10,160.0,,0,0,,Ryan Sidebottom,,,Somerset,Somst,124.0,5,97.0
+435839,2010,116010,16.0,1.0,6.0,0.0,,Jos Buttler,14,9,155.56,,0,0,,Ryan Sidebottom,,,Somerset,Somst,118.0,5,96.0
+435839,2010,115060,15.0,6.0,0.0,0.0,,Kieron Pollard,7,9,77.78,Jos Buttler,8,8,100.0,Stuart Broad,,,Somerset,Somst,118.0,5,95.0
+435839,2010,115050,15.0,5.0,0.0,0.0,,Kieron Pollard,7,8,87.5,,0,0,,Stuart Broad,,,Somerset,Somst,118.0,5,94.0
+435839,2010,115040,15.0,4.0,1.0,0.0,,Jos Buttler,8,8,100.0,,0,0,,Stuart Broad,,,Somerset,Somst,117.0,5,93.0
+435839,2010,115030,15.0,3.0,0.0,0.0,,Jos Buttler,7,7,100.0,,0,0,,Stuart Broad,,,Somerset,Somst,117.0,5,92.0
+435839,2010,115020,15.0,2.0,1.0,0.0,,Kieron Pollard,7,7,100.0,,0,0,,Stuart Broad,,,Somerset,Somst,116.0,5,91.0
+435839,2010,115010,15.0,1.0,1.0,0.0,,Jos Buttler,7,6,116.67,,0,0,,Stuart Broad,,,Somerset,Somst,115.0,5,90.0
+435839,2010,114060,14.0,6.0,1.0,0.0,,Jos Buttler,6,5,120.0,Kieron Pollard,6,6,100.0,Samit Patel,,,Somerset,Somst,114.0,5,89.0
+435839,2010,114050,14.0,5.0,2.0,0.0,,Jos Buttler,5,4,125.0,,0,0,,Samit Patel,,,Somerset,Somst,112.0,5,88.0
+435839,2010,114040,14.0,4.0,1.0,0.0,,Kieron Pollard,6,6,100.0,,0,0,,Samit Patel,,,Somerset,Somst,111.0,5,87.0
+435839,2010,114030,14.0,3.0,1.0,0.0,,Jos Buttler,3,3,100.0,,0,0,,Samit Patel,,,Somerset,Somst,110.0,5,86.0
+435839,2010,114020,14.0,2.0,1.0,0.0,,Kieron Pollard,5,5,100.0,,0,0,,Samit Patel,,,Somerset,Somst,109.0,5,85.0
+435839,2010,114010,14.0,1.0,1.0,0.0,,Jos Buttler,2,2,100.0,,0,0,,Samit Patel,,,Somerset,Somst,108.0,5,84.0
+435839,2010,113060,13.0,6.0,1.0,0.0,,Jos Buttler,1,1,100.0,Kieron Pollard,4,4,100.0,Graeme Swann,,,Somerset,Somst,107.0,5,83.0
+435839,2010,113050,13.0,5.0,0.0,0.0,,James Hildreth,19,19,100.0,Kieron Pollard,4,4,100.0,Graeme Swann,JC Hildreth,JC Hildreth c &amp; b Swann 19 (20m 19b 0x4 0x6) SR: 100.00,Somerset,Somst,107.0,4,82.0
+435839,2010,113040,13.0,4.0,1.0,0.0,,Kieron Pollard,4,4,100.0,,0,0,,Graeme Swann,,,Somerset,Somst,106.0,4,81.0
+435839,2010,113030,13.0,3.0,1.0,0.0,,James Hildreth,19,18,105.56,,0,0,,Graeme Swann,,,Somerset,Somst,105.0,4,80.0
+435839,2010,113020,13.0,2.0,0.0,0.0,,James Hildreth,18,17,105.88,,0,0,,Graeme Swann,,,Somerset,Somst,105.0,4,79.0
+435839,2010,113010,13.0,1.0,1.0,0.0,,Kieron Pollard,3,3,100.0,,0,0,,Graeme Swann,,,Somerset,Somst,104.0,4,78.0
+435839,2010,112060,12.0,6.0,1.0,0.0,,Kieron Pollard,2,2,100.0,James Hildreth,18,16,112.5,Samit Patel,,,Somerset,Somst,103.0,4,77.0
+435839,2010,112050,12.0,5.0,1.0,0.0,,James Hildreth,18,16,112.5,,0,0,,Samit Patel,,,Somerset,Somst,102.0,4,76.0
+435839,2010,112040,12.0,4.0,1.0,0.0,,Kieron Pollard,1,1,100.0,,0,0,,Samit Patel,,,Somerset,Somst,101.0,4,75.0
+435839,2010,112030,12.0,3.0,0.0,0.0,,Zander de Bruyn,4,9,44.44,,0,0,,Samit Patel,Z de Bruyn,Z de Bruyn run out (Hussey/&dagger;Read) 4 (5m 9b 0x4 0x6) SR: 44.44,Somerset,Somst,101.0,3,74.0
+435839,2010,112020,12.0,2.0,0.0,0.0,,Zander de Bruyn,4,8,50.0,,0,0,,Samit Patel,,,Somerset,Somst,101.0,3,73.0
+435839,2010,212060,12.0,6.0,2.0,0.0,,David Hussey,27,21,128.57,Chris Read,3,3,100.0,Peter Trego,,,Nottinghamshire,Notts,115.0,4,77.0
+435839,2010,212050,12.0,5.0,1.0,0.0,,Chris Read,3,3,100.0,,0,0,,Peter Trego,,,Nottinghamshire,Notts,114.0,4,76.0
+435839,2010,212040,12.0,4.0,2.0,0.0,,Chris Read,2,2,100.0,,0,0,,Peter Trego,,,Nottinghamshire,Notts,112.0,4,75.0
+435839,2010,212030,12.0,3.0,0.0,0.0,,Chris Read,0,1,0.0,,0,0,,Peter Trego,,,Nottinghamshire,Notts,112.0,4,74.0
+435839,2010,212020,12.0,2.0,1.0,0.0,,David Hussey,25,20,125.0,,0,0,,Peter Trego,,,Nottinghamshire,Notts,111.0,4,73.0
+435839,2010,212010,12.0,1.0,0.0,0.0,,Samit Patel,39,26,150.0,David Hussey,24,19,126.32,Peter Trego,SR Patel,SR Patel c Pollard b Trego 39 (25m 26b 3x4 3x6) SR: 150.00,Nottinghamshire,Notts,111.0,3,72.0
+435839,2010,23050,3.0,5.0,4.0,0.0,,Alex Hales,5,4,125.0,,0,0,,Ben Phillips,,,Nottinghamshire,Notts,37.0,1,22.0
+435839,2010,23040,3.0,4.0,0.0,1.0,lb,Ali Brown,19,10,190.0,,0,0,,Ben Phillips,,,Nottinghamshire,Notts,36.0,1,21.0
+435839,2010,23030,3.0,3.0,1.0,0.0,,Alex Hales,1,3,33.33,,0,0,,Ben Phillips,,,Nottinghamshire,Notts,35.0,1,20.0
+435839,2010,23020,3.0,2.0,0.0,2.0,lb,Alex Hales,0,2,0.0,,0,0,,Ben Phillips,,,Nottinghamshire,Notts,33.0,1,19.0
+435839,2010,23010,3.0,1.0,0.0,0.0,,Alex Hales,0,1,0.0,,0,0,,Ben Phillips,,,Nottinghamshire,Notts,33.0,1,18.0
+435839,2010,22060,2.0,6.0,0.0,0.0,,Graeme Swann,12,8,150.0,Ali Brown,19,9,211.11,Kieron Pollard,GP Swann,GP Swann c de Bruyn b Pollard 11 (12m 9b 0x4 1x6) SR: 122.22,Nottinghamshire,Notts,33.0,0,17.0
+435839,2010,22050,2.0,5.0,1.0,0.0,,Ali Brown,19,9,211.11,,0,0,,Kieron Pollard,,,Nottinghamshire,Notts,32.0,0,16.0
+435839,2010,22040,2.0,4.0,1.0,0.0,,Graeme Swann,12,8,150.0,,0,0,,Kieron Pollard,,,Nottinghamshire,Notts,31.0,0,15.0
+435839,2010,22030,2.0,3.0,6.0,0.0,,Graeme Swann,11,7,157.14,,0,0,,Kieron Pollard,,,Nottinghamshire,Notts,25.0,0,14.0
+435839,2010,22020,2.0,2.0,1.0,0.0,,Graeme Swann,5,6,83.33,,0,0,,Kieron Pollard,,,Nottinghamshire,Notts,24.0,0,13.0
+435839,2010,22010,2.0,1.0,1.0,0.0,,Graeme Swann,4,5,80.0,,0,0,,Kieron Pollard,,,Nottinghamshire,Notts,23.0,0,12.0
+435839,2010,21060,1.0,6.0,0.0,0.0,,Ali Brown,18,8,225.0,Graeme Swann,3,4,75.0,Ben Phillips,,,Nottinghamshire,Notts,23.0,0,11.0
+435839,2010,21050,1.0,5.0,4.0,0.0,,Ali Brown,18,7,257.14,,0,0,,Ben Phillips,,,Nottinghamshire,Notts,19.0,0,10.0
+435839,2010,21040,1.0,4.0,2.0,0.0,,Ali Brown,14,6,233.33,,0,0,,Ben Phillips,,,Nottinghamshire,Notts,17.0,0,9.0
+435839,2010,21030,1.0,3.0,4.0,0.0,,Ali Brown,12,5,240.0,,0,0,,Ben Phillips,,,Nottinghamshire,Notts,13.0,0,8.0
+435839,2010,21020,1.0,2.0,1.0,0.0,,Graeme Swann,3,4,75.0,,0,0,,Ben Phillips,,,Nottinghamshire,Notts,12.0,0,7.0
+435839,2010,21010,1.0,1.0,2.0,0.0,,Ali Brown,8,4,200.0,,0,0,,Ben Phillips,,,Nottinghamshire,Notts,10.0,0,6.0
+435839,2010,280,0.0,6.0,0.0,0.0,,Graeme Swann,2,3,66.67,Ali Brown,6,3,200.0,Alfonso Thomas,,,Nottinghamshire,Notts,10.0,0,5.0
+435839,2010,270,0.0,6.0,0.0,1.0,wd,Graeme Swann,2,2,100.0,,0,0,,Alfonso Thomas,,,Nottinghamshire,Notts,9.0,0,5.0
+435839,2010,260,0.0,5.0,1.0,0.0,,Ali Brown,6,3,200.0,,0,0,,Alfonso Thomas,,,Nottinghamshire,Notts,8.0,0,4.0
+435839,2010,250,0.0,4.0,1.0,0.0,,Graeme Swann,2,2,100.0,,0,0,,Alfonso Thomas,,,Nottinghamshire,Notts,7.0,0,3.0
+435839,2010,240,0.0,3.0,5.0,0.0,,Ali Brown,5,2,250.0,,0,0,,Alfonso Thomas,,,Nottinghamshire,Notts,2.0,0,2.0
+435839,2010,230,0.0,3.0,0.0,1.0,wd,Ali Brown,0,1,0.0,,0,0,,Alfonso Thomas,,,Nottinghamshire,Notts,1.0,0,2.0
+435839,2010,220,0.0,2.0,0.0,0.0,,Ali Brown,0,1,0.0,,0,0,,Alfonso Thomas,,,Nottinghamshire,Notts,1.0,0,1.0
+435839,2010,210,0.0,1.0,1.0,0.0,,Graeme Swann,1,1,100.0,,0,0,,Alfonso Thomas,,,Nottinghamshire,Notts,0.0,0,0.0
+435839,2010,27060,7.0,6.0,0.0,0.0,,Samit Patel,17,12,141.67,David Hussey,9,8,112.5,Murali Kartik,,,Nottinghamshire,Notts,73.0,3,47.0
+435839,2010,27050,7.0,5.0,6.0,0.0,,Samit Patel,17,11,154.55,,0,0,,Murali Kartik,,,Nottinghamshire,Notts,67.0,3,46.0
+435839,2010,27040,7.0,4.0,0.0,0.0,,Samit Patel,11,10,110.0,,0,0,,Murali Kartik,,,Nottinghamshire,Notts,67.0,3,45.0
+435839,2010,27030,7.0,3.0,4.0,0.0,,Samit Patel,11,9,122.22,,0,0,,Murali Kartik,,,Nottinghamshire,Notts,63.0,3,44.0
+435839,2010,27020,7.0,2.0,1.0,0.0,,David Hussey,9,8,112.5,,0,0,,Murali Kartik,,,Nottinghamshire,Notts,62.0,3,43.0
+435839,2010,27010,7.0,1.0,4.0,0.0,,David Hussey,8,7,114.29,,0,0,,Murali Kartik,,,Nottinghamshire,Notts,58.0,3,42.0
+435839,2010,26060,6.0,6.0,0.0,0.0,,Samit Patel,7,8,87.5,David Hussey,4,6,66.67,Arul Suppiah,,,Nottinghamshire,Notts,58.0,3,41.0
+435839,2010,26050,6.0,5.0,0.0,0.0,,Samit Patel,7,7,100.0,,0,0,,Arul Suppiah,,,Nottinghamshire,Notts,58.0,3,40.0
+435839,2010,26040,6.0,4.0,6.0,0.0,,Samit Patel,7,6,116.67,,0,0,,Arul Suppiah,,,Nottinghamshire,Notts,52.0,3,39.0
+435839,2010,26030,6.0,3.0,1.0,0.0,,David Hussey,4,6,66.67,,0,0,,Arul Suppiah,,,Nottinghamshire,Notts,51.0,3,38.0
+435839,2010,26020,6.0,2.0,1.0,0.0,,Samit Patel,1,5,20.0,,0,0,,Arul Suppiah,,,Nottinghamshire,Notts,50.0,3,37.0
+435839,2010,26010,6.0,1.0,1.0,0.0,,David Hussey,3,5,60.0,,0,0,,Arul Suppiah,,,Nottinghamshire,Notts,49.0,3,36.0
+435839,2010,25060,5.0,6.0,0.0,0.0,,Samit Patel,0,4,0.0,David Hussey,2,4,50.0,Murali Kartik,,,Nottinghamshire,Notts,49.0,3,35.0
+435839,2010,25050,5.0,5.0,0.0,0.0,,Samit Patel,0,3,0.0,,0,0,,Murali Kartik,,,Nottinghamshire,Notts,49.0,3,34.0
+435839,2010,25040,5.0,4.0,0.0,0.0,,Samit Patel,0,2,0.0,,0,0,,Murali Kartik,,,Nottinghamshire,Notts,49.0,3,33.0
+435839,2010,25030,5.0,3.0,1.0,0.0,,David Hussey,2,4,50.0,,0,0,,Murali Kartik,,,Nottinghamshire,Notts,48.0,3,32.0
+435839,2010,25020,5.0,2.0,0.0,0.0,,David Hussey,1,3,33.33,,0,0,,Murali Kartik,,,Nottinghamshire,Notts,48.0,3,31.0
+435839,2010,25010,5.0,1.0,0.0,0.0,,David Hussey,1,2,50.0,,0,0,,Murali Kartik,,,Nottinghamshire,Notts,48.0,3,30.0
+435839,2010,24060,4.0,6.0,0.0,0.0,,Samit Patel,0,1,0.0,David Hussey,1,1,100.0,Alfonso Thomas,,,Nottinghamshire,Notts,48.0,3,29.0
+435839,2010,24050,4.0,5.0,1.0,0.0,,David Hussey,1,1,100.0,,0,0,,Alfonso Thomas,,,Nottinghamshire,Notts,47.0,3,28.0
+435839,2010,24040,4.0,4.0,0.0,0.0,,Alex Hales,11,8,137.5,Samit Patel,0,0,,Alfonso Thomas,AD Hales,AD Hales  b Thomas 11 (6m 8b 2x4 0x6) SR: 137.50,Nottinghamshire,Notts,47.0,2,27.0
+435839,2010,24030,4.0,3.0,2.0,0.0,,Alex Hales,11,7,157.14,,0,0,,Alfonso Thomas,,,Nottinghamshire,Notts,45.0,2,26.0
+435839,2010,24020,4.0,2.0,0.0,0.0,,Alex Hales,9,6,150.0,,0,0,,Alfonso Thomas,,,Nottinghamshire,Notts,45.0,2,25.0
+435839,2010,24010,4.0,1.0,0.0,0.0,,Ali Brown,19,12,158.33,Alex Hales,9,5,180.0,Alfonso Thomas,AD Brown,AD Brown c Pollard b Thomas 19 (17m 12b 2x4 0x6) SR: 158.33,Nottinghamshire,Notts,45.0,1,24.0
+435839,2010,23060,3.0,6.0,4.0,0.0,,Alex Hales,9,5,180.0,Ali Brown,19,10,190.0,Ben Phillips,,,Nottinghamshire,Notts,41.0,1,23.0
+435839,2010,211060,11.0,6.0,1.0,0.0,,Samit Patel,39,25,156.0,David Hussey,24,19,126.32,Alfonso Thomas,,,Nottinghamshire,Notts,110.0,3,71.0
+435839,2010,211050,11.0,5.0,1.0,0.0,,David Hussey,24,19,126.32,,0,0,,Alfonso Thomas,,,Nottinghamshire,Notts,109.0,3,70.0
+435839,2010,211040,11.0,4.0,1.0,0.0,,Samit Patel,38,24,158.33,,0,0,,Alfonso Thomas,,,Nottinghamshire,Notts,108.0,3,69.0
+435839,2010,211030,11.0,3.0,1.0,0.0,,David Hussey,23,18,127.78,,0,0,,Alfonso Thomas,,,Nottinghamshire,Notts,107.0,3,68.0
+435839,2010,211020,11.0,2.0,1.0,0.0,,Samit Patel,37,23,160.87,,0,0,,Alfonso Thomas,,,Nottinghamshire,Notts,106.0,3,67.0
+435839,2010,211010,11.0,1.0,4.0,0.0,,Samit Patel,36,22,163.64,,0,0,,Alfonso Thomas,,,Nottinghamshire,Notts,102.0,3,66.0
+435839,2010,210060,10.0,6.0,1.0,0.0,,Samit Patel,32,21,152.38,David Hussey,22,17,129.41,Kieron Pollard,,,Nottinghamshire,Notts,101.0,3,65.0
+435839,2010,210050,10.0,5.0,1.0,0.0,,David Hussey,22,17,129.41,,0,0,,Kieron Pollard,,,Nottinghamshire,Notts,100.0,3,64.0
+435839,2010,210040,10.0,4.0,1.0,0.0,,Samit Patel,31,20,155.0,,0,0,,Kieron Pollard,,,Nottinghamshire,Notts,99.0,3,63.0
+435839,2010,210030,10.0,3.0,1.0,0.0,,David Hussey,21,16,131.25,,0,0,,Kieron Pollard,,,Nottinghamshire,Notts,98.0,3,62.0
+435839,2010,210020,10.0,2.0,4.0,0.0,,David Hussey,20,15,133.33,,0,0,,Kieron Pollard,,,Nottinghamshire,Notts,94.0,3,61.0
+435839,2010,210010,10.0,1.0,1.0,0.0,,Samit Patel,30,19,157.89,,0,0,,Kieron Pollard,,,Nottinghamshire,Notts,93.0,3,60.0
+435839,2010,29060,9.0,6.0,2.0,0.0,,David Hussey,16,14,114.29,Samit Patel,29,18,161.11,Murali Kartik,,,Nottinghamshire,Notts,91.0,3,59.0
+435839,2010,29050,9.0,5.0,2.0,0.0,,David Hussey,14,13,107.69,,0,0,,Murali Kartik,,,Nottinghamshire,Notts,89.0,3,58.0
+435839,2010,29040,9.0,4.0,0.0,0.0,,David Hussey,12,12,100.0,,0,0,,Murali Kartik,,,Nottinghamshire,Notts,89.0,3,57.0
+435839,2010,29030,9.0,3.0,1.0,0.0,,Samit Patel,29,18,161.11,,0,0,,Murali Kartik,,,Nottinghamshire,Notts,88.0,3,56.0
+435839,2010,29020,9.0,2.0,6.0,0.0,,Samit Patel,28,17,164.71,,0,0,,Murali Kartik,,,Nottinghamshire,Notts,82.0,3,55.0
+435839,2010,29010,9.0,1.0,1.0,0.0,,David Hussey,12,11,109.09,,0,0,,Murali Kartik,,,Nottinghamshire,Notts,81.0,3,54.0
+435839,2010,28070,8.0,6.0,4.0,0.0,,Samit Patel,22,16,137.5,David Hussey,11,10,110.0,Peter Trego,,,Nottinghamshire,Notts,77.0,3,53.0
+435839,2010,28060,8.0,6.0,0.0,1.0,wd,Samit Patel,18,15,120.0,,0,0,,Peter Trego,,,Nottinghamshire,Notts,76.0,3,53.0
+435839,2010,28050,8.0,5.0,1.0,0.0,,David Hussey,11,10,110.0,,0,0,,Peter Trego,,,Nottinghamshire,Notts,75.0,3,52.0
+435839,2010,28040,8.0,4.0,1.0,0.0,,Samit Patel,18,15,120.0,,0,0,,Peter Trego,,,Nottinghamshire,Notts,74.0,3,51.0
+435839,2010,28030,8.0,3.0,0.0,0.0,,Samit Patel,17,14,121.43,,0,0,,Peter Trego,,,Nottinghamshire,Notts,74.0,3,50.0
+435839,2010,28020,8.0,2.0,0.0,0.0,,Samit Patel,17,13,130.77,,0,0,,Peter Trego,,,Nottinghamshire,Notts,74.0,3,49.0
+435839,2010,28010,8.0,1.0,1.0,0.0,,David Hussey,10,9,111.11,,0,0,,Peter Trego,,,Nottinghamshire,Notts,73.0,3,48.0
+435838,2010,119060,19.0,6.0,2.0,0.0,,Grant Flower,10,8,125.0,David Masters,0,0,,Chris Wood,,,Essex,Essex,154.0,7,119.0
+435838,2010,13060,3.0,6.0,4.0,0.0,,Alastair Cook,9,8,112.5,Mark Pettini,19,16,118.75,Chris Wood,,,Essex,Essex,25.0,0,23.0
+435838,2010,13050,3.0,5.0,1.0,0.0,,Mark Pettini,19,16,118.75,,0,0,,Chris Wood,,,Essex,Essex,24.0,0,22.0
+435838,2010,13040,3.0,4.0,4.0,0.0,,Mark Pettini,18,15,120.0,,0,0,,Chris Wood,,,Essex,Essex,20.0,0,21.0
+435838,2010,13030,3.0,3.0,1.0,0.0,,Alastair Cook,5,7,71.43,,0,0,,Chris Wood,,,Essex,Essex,19.0,0,20.0
+435838,2010,13020,3.0,2.0,1.0,0.0,,Mark Pettini,14,14,100.0,,0,0,,Chris Wood,,,Essex,Essex,18.0,0,19.0
+435838,2010,13010,3.0,1.0,1.0,0.0,,Alastair Cook,4,6,66.67,,0,0,,Chris Wood,,,Essex,Essex,17.0,0,18.0
+435838,2010,12070,2.0,6.0,1.0,0.0,,Alastair Cook,3,5,60.0,Mark Pettini,13,13,100.0,Dominic Cork,,,Essex,Essex,16.0,0,17.0
+435838,2010,12060,2.0,5.0,0.0,0.0,,Alastair Cook,2,4,50.0,,0,0,,Dominic Cork,,,Essex,Essex,16.0,0,16.0
+435838,2010,12050,2.0,4.0,1.0,0.0,,Mark Pettini,13,13,100.0,,0,0,,Dominic Cork,,,Essex,Essex,15.0,0,15.0
+435838,2010,12040,2.0,3.0,1.0,0.0,,Alastair Cook,2,3,66.67,,0,0,,Dominic Cork,,,Essex,Essex,14.0,0,14.0
+435838,2010,12030,2.0,2.0,1.0,0.0,,Mark Pettini,12,12,100.0,,0,0,,Dominic Cork,,,Essex,Essex,13.0,0,13.0
+435838,2010,12020,2.0,2.0,0.0,1.0,wd,Mark Pettini,11,11,100.0,,0,0,,Dominic Cork,,,Essex,Essex,12.0,0,13.0
+435838,2010,12010,2.0,1.0,0.0,0.0,,Mark Pettini,11,11,100.0,,0,0,,Dominic Cork,,,Essex,Essex,12.0,0,12.0
+435838,2010,11060,1.0,6.0,1.0,0.0,,Mark Pettini,11,10,110.0,Alastair Cook,1,2,50.0,Chris Wood,,,Essex,Essex,11.0,0,11.0
+435838,2010,11050,1.0,5.0,0.0,0.0,,Mark Pettini,10,9,111.11,,0,0,,Chris Wood,,,Essex,Essex,11.0,0,10.0
+435838,2010,11040,1.0,4.0,0.0,0.0,,Mark Pettini,10,8,125.0,,0,0,,Chris Wood,,,Essex,Essex,11.0,0,9.0
+435838,2010,11030,1.0,3.0,4.0,0.0,,Mark Pettini,10,7,142.86,,0,0,,Chris Wood,,,Essex,Essex,7.0,0,8.0
+435838,2010,11020,1.0,2.0,0.0,0.0,,Mark Pettini,6,6,100.0,,0,0,,Chris Wood,,,Essex,Essex,7.0,0,7.0
+435838,2010,11010,1.0,1.0,4.0,0.0,,Mark Pettini,6,5,120.0,,0,0,,Chris Wood,,,Essex,Essex,3.0,0,6.0
+435838,2010,160,0.0,6.0,1.0,0.0,,Mark Pettini,2,4,50.0,Alastair Cook,1,2,50.0,Dominic Cork,,,Essex,Essex,2.0,0,5.0
+435838,2010,150,0.0,5.0,0.0,0.0,,Mark Pettini,1,3,33.33,,0,0,,Dominic Cork,,,Essex,Essex,2.0,0,4.0
+435838,2010,140,0.0,4.0,0.0,0.0,,Mark Pettini,1,2,50.0,,0,0,,Dominic Cork,,,Essex,Essex,2.0,0,3.0
+435838,2010,130,0.0,3.0,1.0,0.0,,Alastair Cook,1,2,50.0,,0,0,,Dominic Cork,,,Essex,Essex,1.0,0,2.0
+435838,2010,120,0.0,2.0,0.0,0.0,,Alastair Cook,0,1,0.0,,0,0,,Dominic Cork,,,Essex,Essex,1.0,0,1.0
+435838,2010,110,0.0,1.0,1.0,0.0,,Mark Pettini,1,1,100.0,,0,0,,Dominic Cork,,,Essex,Essex,0.0,0,0.0
+435838,2010,17060,7.0,6.0,1.0,0.0,,Mark Pettini,33,29,113.79,Alastair Cook,30,19,157.89,Danny Briggs,,,Essex,Essex,65.0,0,47.0
+435838,2010,17050,7.0,5.0,4.0,0.0,,Mark Pettini,32,28,114.29,,0,0,,Danny Briggs,,,Essex,Essex,61.0,0,46.0
+435838,2010,17040,7.0,4.0,1.0,0.0,,Alastair Cook,30,19,157.89,,0,0,,Danny Briggs,,,Essex,Essex,60.0,0,45.0
+435838,2010,17030,7.0,3.0,1.0,0.0,,Mark Pettini,28,27,103.7,,0,0,,Danny Briggs,,,Essex,Essex,59.0,0,44.0
+435838,2010,17020,7.0,2.0,1.0,0.0,,Alastair Cook,29,18,161.11,,0,0,,Danny Briggs,,,Essex,Essex,58.0,0,43.0
+435838,2010,17010,7.0,1.0,0.0,0.0,,Alastair Cook,28,17,164.71,,0,0,,Danny Briggs,,,Essex,Essex,58.0,0,42.0
+435838,2010,16060,6.0,6.0,1.0,0.0,,Alastair Cook,28,16,175.0,Mark Pettini,27,26,103.85,Abdul Razzaq,,,Essex,Essex,57.0,0,41.0
+435838,2010,16050,6.0,5.0,6.0,0.0,,Alastair Cook,27,15,180.0,,0,0,,Abdul Razzaq,,,Essex,Essex,51.0,0,40.0
+435838,2010,16040,6.0,4.0,1.0,0.0,,Mark Pettini,27,26,103.85,,0,0,,Abdul Razzaq,,,Essex,Essex,50.0,0,39.0
+435838,2010,16030,6.0,3.0,0.0,0.0,,Mark Pettini,26,25,104.0,,0,0,,Abdul Razzaq,,,Essex,Essex,50.0,0,38.0
+435838,2010,16020,6.0,2.0,1.0,0.0,,Alastair Cook,21,14,150.0,,0,0,,Abdul Razzaq,,,Essex,Essex,49.0,0,37.0
+435838,2010,16010,6.0,1.0,1.0,0.0,,Mark Pettini,26,24,108.33,,0,0,,Abdul Razzaq,,,Essex,Essex,48.0,0,36.0
+435838,2010,15070,5.0,6.0,1.0,0.0,,Mark Pettini,25,23,108.7,Alastair Cook,20,13,153.85,Daniel Christian,,,Essex,Essex,47.0,0,35.0
+435838,2010,15060,5.0,5.0,4.0,0.0,,Mark Pettini,24,22,109.09,,0,0,,Daniel Christian,,,Essex,Essex,43.0,0,34.0
+435838,2010,15050,5.0,4.0,1.0,0.0,,Alastair Cook,20,13,153.85,,0,0,,Daniel Christian,,,Essex,Essex,42.0,0,33.0
+435838,2010,15040,5.0,3.0,4.0,0.0,,Alastair Cook,19,12,158.33,,0,0,,Daniel Christian,,,Essex,Essex,38.0,0,32.0
+435838,2010,15030,5.0,2.0,1.0,0.0,,Mark Pettini,20,21,95.24,,0,0,,Daniel Christian,,,Essex,Essex,37.0,0,31.0
+435838,2010,15020,5.0,2.0,0.0,1.0,wd,Mark Pettini,19,20,95.0,,0,0,,Daniel Christian,,,Essex,Essex,36.0,0,31.0
+435838,2010,15010,5.0,1.0,1.0,0.0,,Alastair Cook,15,11,136.36,,0,0,,Daniel Christian,,,Essex,Essex,35.0,0,30.0
+435838,2010,14060,4.0,6.0,1.0,0.0,,Alastair Cook,14,10,140.0,Mark Pettini,19,20,95.0,Abdul Razzaq,,,Essex,Essex,34.0,0,29.0
+435838,2010,14050,4.0,5.0,4.0,0.0,,Alastair Cook,13,9,144.44,,0,0,,Abdul Razzaq,,,Essex,Essex,30.0,0,28.0
+435838,2010,14040,4.0,4.0,1.0,0.0,,Mark Pettini,20,20,100.0,,0,0,,Abdul Razzaq,,,Essex,Essex,29.0,0,27.0
+435838,2010,14030,4.0,3.0,0.0,0.0,,Mark Pettini,19,19,100.0,,0,0,,Abdul Razzaq,,,Essex,Essex,29.0,0,26.0
+435838,2010,14020,4.0,2.0,0.0,0.0,,Mark Pettini,19,18,105.56,,0,0,,Abdul Razzaq,,,Essex,Essex,29.0,0,25.0
+435838,2010,14010,4.0,1.0,0.0,0.0,,Mark Pettini,19,17,111.76,,0,0,,Abdul Razzaq,,,Essex,Essex,29.0,0,24.0
+435838,2010,111070,11.0,6.0,1.0,0.0,,Mark Pettini,53,40,132.5,Dwayne Bravo,1,1,100.0,Danny Briggs,,,Essex,Essex,98.0,3,71.0
+435838,2010,111060,11.0,5.0,1.0,0.0,,Dwayne Bravo,1,1,100.0,,0,0,,Danny Briggs,,,Essex,Essex,97.0,3,70.0
+435838,2010,111050,11.0,4.0,1.0,0.0,,Mark Pettini,52,39,133.33,,0,0,,Danny Briggs,,,Essex,Essex,96.0,3,69.0
+435838,2010,111040,11.0,3.0,0.0,0.0,,Ryan ten Doeschate,1,4,25.0,Mark Pettini,51,38,134.21,Danny Briggs,RN ten Doeschate,RN ten Doeschate c Vince b Briggs 1 (6m 4b 0x4 0x6) SR: 25.00,Essex,Essex,96.0,2,68.0
+435838,2010,111030,11.0,3.0,0.0,2.0,wd,Mark Pettini,51,38,134.21,,0,0,,Danny Briggs,,,Essex,Essex,95.0,2,68.0
+435838,2010,111020,11.0,2.0,2.0,0.0,,Mark Pettini,51,38,134.21,,0,0,,Danny Briggs,,,Essex,Essex,93.0,2,67.0
+435838,2010,111010,11.0,1.0,4.0,0.0,,Mark Pettini,49,37,132.43,,0,0,,Danny Briggs,,,Essex,Essex,89.0,2,66.0
+435838,2010,110060,10.0,6.0,0.0,0.0,,Ryan ten Doeschate,1,3,33.33,Mark Pettini,45,36,125.0,Abdul Razzaq,,,Essex,Essex,89.0,2,65.0
+435838,2010,110050,10.0,5.0,1.0,0.0,,Mark Pettini,45,36,125.0,,0,0,,Abdul Razzaq,,,Essex,Essex,88.0,2,64.0
+435838,2010,110040,10.0,4.0,2.0,0.0,,Mark Pettini,44,35,125.71,,0,0,,Abdul Razzaq,,,Essex,Essex,86.0,2,63.0
+435838,2010,110030,10.0,3.0,1.0,0.0,,Ryan ten Doeschate,1,2,50.0,,0,0,,Abdul Razzaq,,,Essex,Essex,85.0,2,62.0
+435838,2010,110020,10.0,2.0,0.0,0.0,,Ryan ten Doeschate,0,1,0.0,,0,0,,Abdul Razzaq,,,Essex,Essex,85.0,2,61.0
+435838,2010,110010,10.0,1.0,1.0,0.0,,Mark Pettini,42,34,123.53,,0,0,,Abdul Razzaq,,,Essex,Essex,84.0,2,60.0
+435838,2010,19060,9.0,6.0,0.0,0.0,,Ravi Bopara,2,4,50.0,Mark Pettini,41,33,124.24,Danny Briggs,RS Bopara,RS Bopara c &dagger;Bates b Briggs 2 (2m 5b 0x4 0x6) SR: 40.00,Essex,Essex,84.0,1,59.0
+435838,2010,19050,9.0,5.0,2.0,0.0,,Ravi Bopara,2,4,50.0,,0,0,,Danny Briggs,,,Essex,Essex,82.0,1,58.0
+435838,2010,19040,9.0,4.0,0.0,0.0,,Ravi Bopara,0,3,0.0,,0,0,,Danny Briggs,,,Essex,Essex,82.0,1,57.0
+435838,2010,19030,9.0,3.0,0.0,0.0,,Ravi Bopara,0,2,0.0,,0,0,,Danny Briggs,,,Essex,Essex,82.0,1,56.0
+435838,2010,19020,9.0,2.0,1.0,0.0,,Mark Pettini,41,33,124.24,,0,0,,Danny Briggs,,,Essex,Essex,81.0,1,55.0
+435838,2010,19010,9.0,1.0,2.0,0.0,,Mark Pettini,40,32,125.0,,0,0,,Danny Briggs,,,Essex,Essex,79.0,1,54.0
+435838,2010,18060,8.0,6.0,0.0,0.0,,Ravi Bopara,0,1,0.0,Mark Pettini,38,31,122.58,Daniel Christian,,,Essex,Essex,79.0,1,53.0
+435838,2010,18050,8.0,5.0,0.0,0.0,,Alastair Cook,38,22,172.73,Mark Pettini,38,31,122.58,Daniel Christian,AN Cook,AN Cook c Briggs b Christian 38 (36m 22b 3x4 2x6) SR: 172.72,Essex,Essex,79.0,0,52.0
+435838,2010,18040,8.0,4.0,2.0,0.0,,Alastair Cook,38,21,180.95,,0,0,,Daniel Christian,,,Essex,Essex,77.0,0,51.0
+435838,2010,18030,8.0,3.0,6.0,0.0,,Alastair Cook,36,20,180.0,,0,0,,Daniel Christian,,,Essex,Essex,71.0,0,50.0
+435838,2010,18020,8.0,2.0,1.0,0.0,,Mark Pettini,38,31,122.58,,0,0,,Daniel Christian,,,Essex,Essex,70.0,0,49.0
+435838,2010,18010,8.0,1.0,4.0,0.0,,Mark Pettini,37,30,123.33,,0,0,,Daniel Christian,,,Essex,Essex,66.0,0,48.0
+435838,2010,115060,15.0,6.0,0.0,0.0,,James Foster,6,5,120.0,Matt Walker,8,9,88.89,Abdul Razzaq,,,Essex,Essex,120.0,5,95.0
+435838,2010,115050,15.0,5.0,1.0,0.0,,Matt Walker,8,9,88.89,,0,0,,Abdul Razzaq,,,Essex,Essex,119.0,5,94.0
+435838,2010,115040,15.0,4.0,0.0,0.0,,Matt Walker,7,8,87.5,,0,0,,Abdul Razzaq,,,Essex,Essex,119.0,5,93.0
+435838,2010,115030,15.0,3.0,1.0,0.0,,James Foster,6,4,150.0,,0,0,,Abdul Razzaq,,,Essex,Essex,118.0,5,92.0
+435838,2010,115020,15.0,2.0,1.0,0.0,,Matt Walker,7,7,100.0,,0,0,,Abdul Razzaq,,,Essex,Essex,117.0,5,91.0
+435838,2010,115010,15.0,1.0,0.0,0.0,,Matt Walker,6,6,100.0,,0,0,,Abdul Razzaq,,,Essex,Essex,117.0,5,90.0
+435838,2010,114060,14.0,6.0,4.0,0.0,,James Foster,5,3,166.67,Matt Walker,6,5,120.0,Daniel Christian,,,Essex,Essex,113.0,5,89.0
+435838,2010,114050,14.0,5.0,1.0,0.0,,Matt Walker,4,5,80.0,,0,0,,Daniel Christian,,,Essex,Essex,112.0,5,88.0
+435838,2010,114040,14.0,4.0,0.0,0.0,,Matt Walker,3,4,75.0,,0,0,,Daniel Christian,,,Essex,Essex,112.0,5,87.0
+435838,2010,114030,14.0,3.0,1.0,0.0,,James Foster,1,2,50.0,,0,0,,Daniel Christian,,,Essex,Essex,111.0,5,86.0
+435838,2010,114020,14.0,2.0,0.0,0.0,,James Foster,0,1,0.0,,0,0,,Daniel Christian,,,Essex,Essex,111.0,5,85.0
+435838,2010,114010,14.0,1.0,1.0,0.0,,Dwayne Bravo,6,8,75.0,,0,0,,Daniel Christian,DJ Bravo,DJ Bravo run out (Wood) 5 (9m 8b 0x4 0x6) SR: 62.50,Essex,Essex,110.0,4,84.0
+435838,2010,113060,13.0,6.0,2.0,0.0,,Matt Walker,3,3,100.0,Dwayne Bravo,5,6,83.33,Danny Briggs,,,Essex,Essex,107.0,4,83.0
+435838,2010,113050,13.0,5.0,0.0,0.0,,Matt Walker,1,2,50.0,,0,0,,Danny Briggs,,,Essex,Essex,107.0,4,82.0
+435838,2010,113040,13.0,4.0,1.0,0.0,,Dwayne Bravo,5,6,83.33,,0,0,,Danny Briggs,,,Essex,Essex,106.0,4,81.0
+435838,2010,113030,13.0,3.0,1.0,0.0,,Matt Walker,1,1,100.0,,0,0,,Danny Briggs,,,Essex,Essex,105.0,4,80.0
+435838,2010,113020,13.0,2.0,0.0,0.0,,Mark Pettini,55,44,125.0,Dwayne Bravo,4,5,80.0,Danny Briggs,ML Pettini,ML Pettini  b Briggs 55 (55m 43b 7x4 0x6) SR: 127.90,Essex,Essex,105.0,3,79.0
+435838,2010,113010,13.0,1.0,1.0,0.0,,Dwayne Bravo,4,4,100.0,,0,0,,Danny Briggs,,,Essex,Essex,105.0,3,78.0
+435838,2010,112070,12.0,6.0,1.0,0.0,,Mark Pettini,56,44,127.27,Dwayne Bravo,3,3,100.0,Dominic Cork,,,Essex,Essex,104.0,3,77.0
+435838,2010,112060,12.0,5.0,1.0,0.0,,Dwayne Bravo,3,3,100.0,,0,0,,Dominic Cork,,,Essex,Essex,103.0,3,76.0
+435838,2010,112050,12.0,4.0,1.0,0.0,,Mark Pettini,55,43,127.91,,0,0,,Dominic Cork,,,Essex,Essex,102.0,3,75.0
+435838,2010,112040,12.0,3.0,0.0,0.0,,Mark Pettini,54,42,128.57,,0,0,,Dominic Cork,,,Essex,Essex,102.0,3,74.0
+435838,2010,112030,12.0,2.0,1.0,0.0,,Dwayne Bravo,2,2,100.0,,0,0,,Dominic Cork,,,Essex,Essex,101.0,3,73.0
+435838,2010,112020,12.0,1.0,1.0,0.0,,Mark Pettini,54,41,131.71,,0,0,,Dominic Cork,,,Essex,Essex,100.0,3,72.0
+435838,2010,112010,12.0,1.0,0.0,1.0,wd,Mark Pettini,53,40,132.5,,0,0,,Dominic Cork,,,Essex,Essex,99.0,3,72.0
+435838,2010,119050,19.0,5.0,0.0,0.0,,Matt Walker,16,19,84.21,Grant Flower,8,7,114.29,Chris Wood,MJ Walker,MJ Walker c Christian b Wood 18 (25m 21b 1x4 0x6) SR: 85.71,Essex,Essex,154.0,6,118.0
+435838,2010,119040,19.0,4.0,1.0,0.0,,Grant Flower,8,7,114.29,,0,0,,Chris Wood,,,Essex,Essex,153.0,6,117.0
+435838,2010,119030,19.0,3.0,2.0,0.0,,Grant Flower,7,6,116.67,,0,0,,Chris Wood,,,Essex,Essex,151.0,6,116.0
+435838,2010,119020,19.0,2.0,1.0,0.0,,Matt Walker,16,18,88.89,,0,0,,Chris Wood,,,Essex,Essex,150.0,6,115.0
+435838,2010,119010,19.0,1.0,1.0,0.0,,Grant Flower,5,5,100.0,,0,0,,Chris Wood,,,Essex,Essex,149.0,6,114.0
+435838,2010,118060,18.0,6.0,1.0,0.0,,Grant Flower,4,4,100.0,Matt Walker,15,17,88.24,Dominic Cork,,,Essex,Essex,148.0,6,113.0
+435838,2010,118050,18.0,5.0,1.0,0.0,,Matt Walker,15,17,88.24,,0,0,,Dominic Cork,,,Essex,Essex,147.0,6,112.0
+435838,2010,118040,18.0,4.0,4.0,0.0,,Matt Walker,14,16,87.5,,0,0,,Dominic Cork,,,Essex,Essex,143.0,6,111.0
+435838,2010,118030,18.0,3.0,1.0,0.0,,Grant Flower,3,3,100.0,,0,0,,Dominic Cork,,,Essex,Essex,142.0,6,110.0
+435838,2010,118020,18.0,2.0,1.0,0.0,,Matt Walker,10,15,66.67,,0,0,,Dominic Cork,,,Essex,Essex,141.0,6,109.0
+435838,2010,118010,18.0,1.0,1.0,0.0,,Grant Flower,2,2,100.0,,0,0,,Dominic Cork,,,Essex,Essex,140.0,6,108.0
+435838,2010,117070,17.0,6.0,0.0,0.0,,Matt Walker,9,14,64.29,Grant Flower,1,1,100.0,Daniel Christian,,,Essex,Essex,140.0,6,107.0
+435838,2010,117060,17.0,5.0,0.0,0.0,,Matt Walker,12,13,92.31,,0,0,,Daniel Christian,,,Essex,Essex,140.0,6,106.0
+435838,2010,117050,17.0,4.0,1.0,0.0,,Grant Flower,1,1,100.0,,0,0,,Daniel Christian,,,Essex,Essex,139.0,6,105.0
+435838,2010,117040,17.0,3.0,1.0,0.0,,Matt Walker,12,12,100.0,,0,0,,Daniel Christian,,,Essex,Essex,138.0,6,104.0
+435838,2010,117030,17.0,2.0,2.0,0.0,,Matt Walker,11,11,100.0,,0,0,,Daniel Christian,,,Essex,Essex,136.0,6,103.0
+435838,2010,117020,17.0,2.0,0.0,1.0,wd,Matt Walker,9,10,90.0,,0,0,,Daniel Christian,,,Essex,Essex,135.0,6,103.0
+435838,2010,117010,17.0,1.0,0.0,0.0,,James Foster,15,11,136.36,Matt Walker,9,10,90.0,Daniel Christian,JS Foster,JS Foster c Cork b Christian 15 (8m 11b 3x4 0x6) SR: 136.36,Essex,Essex,135.0,5,102.0
+435838,2010,116070,16.0,6.0,1.0,0.0,,James Foster,15,10,150.0,Matt Walker,9,10,90.0,Chris Wood,,,Essex,Essex,133.0,5,101.0
+435838,2010,116060,16.0,5.0,0.0,0.0,,James Foster,14,9,155.56,,0,0,,Chris Wood,,,Essex,Essex,134.0,5,100.0
+435838,2010,116050,16.0,4.0,4.0,0.0,,James Foster,14,8,175.0,,0,0,,Chris Wood,,,Essex,Essex,130.0,5,99.0
+435838,2010,116040,16.0,4.0,0.0,5.0,wd,James Foster,10,7,142.86,,0,0,,Chris Wood,,,Essex,Essex,125.0,5,99.0
+435838,2010,116030,16.0,3.0,0.0,0.0,,James Foster,10,7,142.86,,0,0,,Chris Wood,,,Essex,Essex,125.0,5,98.0
+435838,2010,116020,16.0,2.0,4.0,0.0,,James Foster,10,6,166.67,,0,0,,Chris Wood,,,Essex,Essex,121.0,5,97.0
+435838,2010,116010,16.0,1.0,1.0,0.0,,Matt Walker,9,10,90.0,,0,0,,Chris Wood,,,Essex,Essex,120.0,5,96.0
+435838,2010,219020,19.0,2.0,4.0,0.0,,Michael Carberry,17,9,188.89,,0,0,,Chris Wright,,,Hampshire,Hants,153.0,4,115.0
+435838,2010,219010,19.0,1.0,1.0,0.0,,Neil McKenzie,19,15,126.67,,0,0,,Chris Wright,,,Hampshire,Hants,152.0,4,114.0
+435838,2010,218060,18.0,6.0,1.0,0.0,,Neil McKenzie,18,14,128.57,Michael Carberry,13,8,162.5,Dwayne Bravo,,,Hampshire,Hants,151.0,4,113.0
+435838,2010,218050,18.0,5.0,4.0,0.0,,Neil McKenzie,17,13,130.77,,0,0,,Dwayne Bravo,,,Hampshire,Hants,147.0,4,112.0
+435838,2010,218040,18.0,4.0,1.0,0.0,,Michael Carberry,13,8,162.5,,0,0,,Dwayne Bravo,,,Hampshire,Hants,146.0,4,111.0
+435838,2010,218030,18.0,3.0,2.0,0.0,,Michael Carberry,12,7,171.43,,0,0,,Dwayne Bravo,,,Hampshire,Hants,144.0,4,110.0
+435838,2010,218020,18.0,2.0,0.0,0.0,,Michael Carberry,10,6,166.67,,0,0,,Dwayne Bravo,,,Hampshire,Hants,144.0,4,109.0
+435838,2010,218010,18.0,1.0,4.0,0.0,,Michael Carberry,10,5,200.0,,0,0,,Dwayne Bravo,,,Hampshire,Hants,140.0,4,108.0
+435838,2010,217070,17.0,6.0,0.0,0.0,,Neil McKenzie,13,12,108.33,Michael Carberry,6,4,150.0,Chris Wright,,,Hampshire,Hants,140.0,4,107.0
+435838,2010,217060,17.0,5.0,4.0,0.0,,Neil McKenzie,13,11,118.18,,0,0,,Chris Wright,,,Hampshire,Hants,136.0,4,106.0
+435838,2010,217050,17.0,4.0,2.0,0.0,,Neil McKenzie,9,10,90.0,,0,0,,Chris Wright,,,Hampshire,Hants,134.0,4,105.0
+435838,2010,217040,17.0,4.0,0.0,1.0,wd,Neil McKenzie,7,9,77.78,,0,0,,Chris Wright,,,Hampshire,Hants,133.0,4,105.0
+435838,2010,217030,17.0,3.0,1.0,0.0,,Michael Carberry,6,4,150.0,,0,0,,Chris Wright,,,Hampshire,Hants,132.0,4,104.0
+435838,2010,217020,17.0,2.0,2.0,0.0,,Michael Carberry,5,3,166.67,,0,0,,Chris Wright,,,Hampshire,Hants,130.0,4,103.0
+435838,2010,217010,17.0,1.0,2.0,0.0,,Michael Carberry,3,2,150.0,,0,0,,Chris Wright,,,Hampshire,Hants,128.0,4,102.0
+435838,2010,216060,16.0,6.0,1.0,0.0,,Michael Carberry,1,1,100.0,Neil McKenzie,7,9,77.78,Dwayne Bravo,,,Hampshire,Hants,127.0,4,101.0
+435838,2010,216050,16.0,5.0,0.0,0.0,,Sean Ervine,21,14,150.0,Neil McKenzie,7,9,77.78,Dwayne Bravo,SM Ervine,SM Ervine  b Bravo 21 (14m 14b 1x4 1x6) SR: 150.00,Hampshire,Hants,127.0,3,100.0
+435838,2010,216040,16.0,4.0,1.0,0.0,,Neil McKenzie,7,9,77.78,,0,0,,Dwayne Bravo,,,Hampshire,Hants,126.0,3,99.0
+435838,2010,216030,16.0,3.0,1.0,0.0,,Sean Ervine,21,13,161.54,,0,0,,Dwayne Bravo,,,Hampshire,Hants,125.0,3,98.0
+435838,2010,216020,16.0,2.0,6.0,0.0,,Sean Ervine,20,12,166.67,,0,0,,Dwayne Bravo,,,Hampshire,Hants,119.0,3,97.0
+435838,2010,24010,4.0,1.0,1.0,0.0,,Jimmy Adams,14,12,116.67,,0,0,,David Masters,,,Hampshire,Hants,28.0,0,24.0
+435838,2010,23060,3.0,6.0,1.0,0.0,,Jimmy Adams,13,11,118.18,Abdul Razzaq,14,13,107.69,Dwayne Bravo,,,Hampshire,Hants,27.0,0,23.0
+435838,2010,23050,3.0,5.0,1.0,0.0,,Abdul Razzaq,14,13,107.69,,0,0,,Dwayne Bravo,,,Hampshire,Hants,26.0,0,22.0
+435838,2010,23040,3.0,4.0,4.0,0.0,,Abdul Razzaq,13,12,108.33,,0,0,,Dwayne Bravo,,,Hampshire,Hants,22.0,0,21.0
+435838,2010,23030,3.0,3.0,0.0,0.0,,Abdul Razzaq,9,11,81.82,,0,0,,Dwayne Bravo,,,Hampshire,Hants,22.0,0,20.0
+435838,2010,23020,3.0,2.0,2.0,0.0,,Abdul Razzaq,9,10,90.0,,0,0,,Dwayne Bravo,,,Hampshire,Hants,20.0,0,19.0
+435838,2010,23010,3.0,1.0,4.0,0.0,,Abdul Razzaq,7,9,77.78,,0,0,,Dwayne Bravo,,,Hampshire,Hants,16.0,0,18.0
+435838,2010,22060,2.0,6.0,1.0,0.0,,Abdul Razzaq,3,8,37.5,Jimmy Adams,12,10,120.0,David Masters,,,Hampshire,Hants,15.0,0,17.0
+435838,2010,22050,2.0,5.0,0.0,0.0,,Abdul Razzaq,2,7,28.57,,0,0,,David Masters,,,Hampshire,Hants,15.0,0,16.0
+435838,2010,22040,2.0,4.0,1.0,0.0,,Jimmy Adams,12,10,120.0,,0,0,,David Masters,,,Hampshire,Hants,14.0,0,15.0
+435838,2010,22030,2.0,3.0,1.0,0.0,,Abdul Razzaq,2,6,33.33,,0,0,,David Masters,,,Hampshire,Hants,13.0,0,14.0
+435838,2010,22020,2.0,2.0,0.0,0.0,,Abdul Razzaq,1,5,20.0,,0,0,,David Masters,,,Hampshire,Hants,13.0,0,13.0
+435838,2010,22010,2.0,1.0,1.0,0.0,,Jimmy Adams,11,9,122.22,,0,0,,David Masters,,,Hampshire,Hants,12.0,0,12.0
+435838,2010,21060,1.0,6.0,0.0,0.0,,Abdul Razzaq,1,4,25.0,Jimmy Adams,10,8,125.0,Dwayne Bravo,,,Hampshire,Hants,12.0,0,11.0
+435838,2010,21050,1.0,5.0,0.0,1.0,lb,Jimmy Adams,10,8,125.0,,0,0,,Dwayne Bravo,,,Hampshire,Hants,11.0,0,10.0
+435838,2010,21040,1.0,4.0,0.0,0.0,,Jimmy Adams,10,7,142.86,,0,0,,Dwayne Bravo,,,Hampshire,Hants,11.0,0,9.0
+435838,2010,21030,1.0,3.0,6.0,0.0,,Jimmy Adams,10,6,166.67,,0,0,,Dwayne Bravo,,,Hampshire,Hants,5.0,0,8.0
+435838,2010,21020,1.0,2.0,2.0,0.0,,Jimmy Adams,4,5,80.0,,0,0,,Dwayne Bravo,,,Hampshire,Hants,3.0,0,7.0
+435838,2010,21010,1.0,1.0,0.0,0.0,,Jimmy Adams,2,4,50.0,,0,0,,Dwayne Bravo,,,Hampshire,Hants,3.0,0,6.0
+435838,2010,260,0.0,6.0,0.0,0.0,,Abdul Razzaq,1,3,33.33,Jimmy Adams,2,3,66.67,David Masters,,,Hampshire,Hants,3.0,0,5.0
+435838,2010,250,0.0,5.0,0.0,0.0,,Abdul Razzaq,1,2,50.0,,0,0,,David Masters,,,Hampshire,Hants,3.0,0,4.0
+435838,2010,240,0.0,4.0,1.0,0.0,,Jimmy Adams,2,3,66.67,,0,0,,David Masters,,,Hampshire,Hants,2.0,0,3.0
+435838,2010,230,0.0,3.0,1.0,0.0,,Abdul Razzaq,1,1,100.0,,0,0,,David Masters,,,Hampshire,Hants,1.0,0,2.0
+435838,2010,220,0.0,2.0,1.0,0.0,,Jimmy Adams,1,2,50.0,,0,0,,David Masters,,,Hampshire,Hants,0.0,0,1.0
+435838,2010,210,0.0,1.0,0.0,0.0,,Jimmy Adams,0,1,0.0,,0,0,,David Masters,,,Hampshire,Hants,0.0,0,0.0
+435838,2010,27070,7.0,5.0,1.0,0.0,,Abdul Razzaq,43,27,159.26,,0,0,,Ravi Bopara,,,Hampshire,Hants,65.0,0,46.0
+435838,2010,27060,7.0,4.0,1.0,0.0,,Jimmy Adams,18,20,90.0,,0,0,,Ravi Bopara,,,Hampshire,Hants,64.0,0,45.0
+435838,2010,27050,7.0,3.0,1.0,0.0,,Abdul Razzaq,42,26,161.54,,0,0,,Ravi Bopara,,,Hampshire,Hants,63.0,0,44.0
+435838,2010,27040,7.0,2.0,4.0,0.0,,Abdul Razzaq,41,25,164.0,,0,0,,Ravi Bopara,,,Hampshire,Hants,59.0,0,43.0
+435838,2010,27030,7.0,2.0,0.0,1.0,wd,Abdul Razzaq,37,24,154.17,,0,0,,Ravi Bopara,,,Hampshire,Hants,58.0,0,43.0
+435838,2010,27020,7.0,2.0,0.0,2.0,wd,Jimmy Adams,17,19,89.47,,0,0,,Ravi Bopara,,,Hampshire,Hants,56.0,0,43.0
+435838,2010,27010,7.0,1.0,1.0,0.0,,Abdul Razzaq,37,24,154.17,,0,0,,Ravi Bopara,,,Hampshire,Hants,55.0,0,42.0
+435838,2010,26060,6.0,6.0,0.0,0.0,,Jimmy Adams,17,19,89.47,Abdul Razzaq,36,23,156.52,Danish Kaneria,,,Hampshire,Hants,55.0,0,41.0
+435838,2010,26050,6.0,5.0,1.0,0.0,,Abdul Razzaq,36,23,156.52,,0,0,,Danish Kaneria,,,Hampshire,Hants,54.0,0,40.0
+435838,2010,26040,6.0,4.0,2.0,0.0,,Abdul Razzaq,35,22,159.09,,0,0,,Danish Kaneria,,,Hampshire,Hants,52.0,0,39.0
+435838,2010,26030,6.0,3.0,6.0,0.0,,Abdul Razzaq,33,21,157.14,,0,0,,Danish Kaneria,,,Hampshire,Hants,46.0,0,38.0
+435838,2010,26020,6.0,2.0,1.0,0.0,,Jimmy Adams,17,18,94.44,,0,0,,Danish Kaneria,,,Hampshire,Hants,45.0,0,37.0
+435838,2010,26010,6.0,1.0,0.0,0.0,,Jimmy Adams,16,17,94.12,,0,0,,Danish Kaneria,,,Hampshire,Hants,45.0,0,36.0
+435838,2010,25070,5.0,6.0,4.0,0.0,,Abdul Razzaq,27,20,135.0,Jimmy Adams,16,16,100.0,Chris Wright,,,Hampshire,Hants,41.0,0,35.0
+435838,2010,25060,5.0,6.0,0.0,1.0,wd,Abdul Razzaq,23,19,121.05,,0,0,,Chris Wright,,,Hampshire,Hants,40.0,0,35.0
+435838,2010,25050,5.0,5.0,1.0,0.0,,Jimmy Adams,16,16,100.0,,0,0,,Chris Wright,,,Hampshire,Hants,39.0,0,34.0
+435838,2010,25040,5.0,4.0,0.0,0.0,,Jimmy Adams,15,15,100.0,,0,0,,Chris Wright,,,Hampshire,Hants,39.0,0,33.0
+435838,2010,25030,5.0,3.0,0.0,1.0,lb,Abdul Razzaq,23,19,121.05,,0,0,,Chris Wright,,,Hampshire,Hants,38.0,0,32.0
+435838,2010,25020,5.0,2.0,4.0,0.0,,Abdul Razzaq,23,18,127.78,,0,0,,Chris Wright,,,Hampshire,Hants,34.0,0,31.0
+435838,2010,25010,5.0,1.0,0.0,0.0,,Abdul Razzaq,19,17,111.76,,0,0,,Chris Wright,,,Hampshire,Hants,34.0,0,30.0
+435838,2010,24060,4.0,6.0,0.0,0.0,,Jimmy Adams,15,14,107.14,Abdul Razzaq,19,16,118.75,David Masters,,,Hampshire,Hants,34.0,0,29.0
+435838,2010,24050,4.0,5.0,0.0,0.0,,Jimmy Adams,14,13,107.69,,0,0,,David Masters,,,Hampshire,Hants,34.0,0,28.0
+435838,2010,24040,4.0,4.0,1.0,0.0,,Abdul Razzaq,19,16,118.75,,0,0,,David Masters,,,Hampshire,Hants,33.0,0,27.0
+435838,2010,24030,4.0,3.0,0.0,0.0,,Abdul Razzaq,18,15,120.0,,0,0,,David Masters,,,Hampshire,Hants,33.0,0,26.0
+435838,2010,24020,4.0,2.0,4.0,0.0,,Abdul Razzaq,18,14,128.57,,0,0,,David Masters,,,Hampshire,Hants,29.0,0,25.0
+435838,2010,211060,11.0,6.0,1.0,0.0,,James Vince,10,11,90.91,Jimmy Adams,33,30,110.0,David Masters,,,Hampshire,Hants,90.0,1,71.0
+435838,2010,211050,11.0,5.0,1.0,0.0,,Jimmy Adams,33,30,110.0,,0,0,,David Masters,,,Hampshire,Hants,89.0,1,70.0
+435838,2010,211040,11.0,4.0,4.0,0.0,,Jimmy Adams,32,29,110.34,,0,0,,David Masters,,,Hampshire,Hants,85.0,1,69.0
+435838,2010,211030,11.0,3.0,1.0,0.0,,James Vince,9,10,90.0,,0,0,,David Masters,,,Hampshire,Hants,84.0,1,68.0
+435838,2010,211020,11.0,2.0,0.0,0.0,,James Vince,8,9,88.89,,0,0,,David Masters,,,Hampshire,Hants,84.0,1,67.0
+435838,2010,211010,11.0,1.0,1.0,0.0,,Jimmy Adams,28,28,100.0,,0,0,,David Masters,,,Hampshire,Hants,83.0,1,66.0
+435838,2010,210060,10.0,6.0,2.0,0.0,,James Vince,8,8,100.0,Jimmy Adams,27,27,100.0,Danish Kaneria,,,Hampshire,Hants,81.0,1,65.0
+435838,2010,210050,10.0,5.0,0.0,0.0,,James Vince,6,7,85.71,,0,0,,Danish Kaneria,,,Hampshire,Hants,81.0,1,64.0
+435838,2010,210040,10.0,4.0,1.0,0.0,,Jimmy Adams,27,27,100.0,,0,0,,Danish Kaneria,,,Hampshire,Hants,80.0,1,63.0
+435838,2010,210030,10.0,3.0,4.0,0.0,,Jimmy Adams,26,26,100.0,,0,0,,Danish Kaneria,,,Hampshire,Hants,76.0,1,62.0
+435838,2010,210020,10.0,2.0,0.0,0.0,,Jimmy Adams,22,25,88.0,,0,0,,Danish Kaneria,,,Hampshire,Hants,76.0,1,61.0
+435838,2010,210010,10.0,1.0,1.0,0.0,,James Vince,6,6,100.0,,0,0,,Danish Kaneria,,,Hampshire,Hants,75.0,1,60.0
+435838,2010,29060,9.0,6.0,2.0,0.0,,Jimmy Adams,22,24,91.67,James Vince,5,5,100.0,Ravi Bopara,,,Hampshire,Hants,73.0,1,59.0
+435838,2010,29050,9.0,5.0,1.0,0.0,,James Vince,5,5,100.0,,0,0,,Ravi Bopara,,,Hampshire,Hants,72.0,1,58.0
+435838,2010,29040,9.0,4.0,0.0,0.0,,James Vince,4,4,100.0,,0,0,,Ravi Bopara,,,Hampshire,Hants,72.0,1,57.0
+435838,2010,29030,9.0,3.0,2.0,0.0,,James Vince,4,3,133.33,,0,0,,Ravi Bopara,,,Hampshire,Hants,70.0,1,56.0
+435838,2010,29020,9.0,2.0,1.0,0.0,,Jimmy Adams,21,25,84.0,,0,0,,Ravi Bopara,,,Hampshire,Hants,69.0,1,55.0
+435838,2010,29010,9.0,1.0,1.0,0.0,,James Vince,2,2,100.0,,0,0,,Ravi Bopara,,,Hampshire,Hants,68.0,1,54.0
+435838,2010,28060,8.0,6.0,0.0,0.0,,Jimmy Adams,20,24,83.33,James Vince,1,1,100.0,Chris Wright,,,Hampshire,Hants,68.0,1,53.0
+435838,2010,28050,8.0,5.0,1.0,0.0,,James Vince,1,1,100.0,,0,0,,Chris Wright,,,Hampshire,Hants,68.0,1,52.0
+435838,2010,28040,8.0,4.0,0.0,0.0,,Abdul Razzaq,44,31,141.94,Jimmy Adams,20,23,86.96,Chris Wright,Abdul Razzaq,Abdul Razzaq c Bopara b Wright 44 (34m 31b 6x4 1x6) SR: 141.93,Hampshire,Hants,68.0,0,51.0
+435838,2010,28030,8.0,3.0,0.0,0.0,,Jimmy Adams,20,23,86.96,,0,0,,Chris Wright,,,Hampshire,Hants,68.0,0,50.0
+435838,2010,28020,8.0,2.0,1.0,0.0,,Abdul Razzaq,44,28,157.14,,0,0,,Chris Wright,,,Hampshire,Hants,67.0,0,49.0
+435838,2010,28010,8.0,1.0,1.0,0.0,,Jimmy Adams,20,22,90.91,,0,0,,Chris Wright,,,Hampshire,Hants,66.0,0,48.0
+435838,2010,27080,7.0,6.0,1.0,0.0,,Jimmy Adams,19,21,90.48,Abdul Razzaq,43,27,159.26,Ravi Bopara,,,Hampshire,Hants,65.0,0,47.0
+435838,2010,216010,16.0,1.0,4.0,0.0,,Sean Ervine,14,11,127.27,,0,0,,Dwayne Bravo,,,Hampshire,Hants,115.0,3,96.0
+435838,2010,215060,15.0,6.0,1.0,0.0,,Sean Ervine,10,10,100.0,Neil McKenzie,6,8,75.0,Ravi Bopara,,,Hampshire,Hants,114.0,3,95.0
+435838,2010,215050,15.0,5.0,1.0,0.0,,Neil McKenzie,6,8,75.0,,0,0,,Ravi Bopara,,,Hampshire,Hants,113.0,3,94.0
+435838,2010,215040,15.0,4.0,1.0,0.0,,Sean Ervine,9,9,100.0,,0,0,,Ravi Bopara,,,Hampshire,Hants,112.0,3,93.0
+435838,2010,215030,15.0,3.0,1.0,0.0,,Neil McKenzie,5,7,71.43,,0,0,,Ravi Bopara,,,Hampshire,Hants,111.0,3,92.0
+435838,2010,215020,15.0,2.0,1.0,0.0,,Sean Ervine,8,8,100.0,,0,0,,Ravi Bopara,,,Hampshire,Hants,110.0,3,91.0
+435838,2010,215010,15.0,1.0,2.0,0.0,,Sean Ervine,7,7,100.0,,0,0,,Ravi Bopara,,,Hampshire,Hants,108.0,3,90.0
+435838,2010,214060,14.0,6.0,1.0,0.0,,Sean Ervine,5,6,83.33,Neil McKenzie,4,6,66.67,Danish Kaneria,,,Hampshire,Hants,107.0,3,89.0
+435838,2010,214050,14.0,5.0,1.0,0.0,,Neil McKenzie,4,6,66.67,,0,0,,Danish Kaneria,,,Hampshire,Hants,106.0,3,88.0
+435838,2010,214040,14.0,4.0,2.0,0.0,,Neil McKenzie,3,5,60.0,,0,0,,Danish Kaneria,,,Hampshire,Hants,104.0,3,87.0
+435838,2010,214030,14.0,3.0,0.0,0.0,,Neil McKenzie,1,4,25.0,,0,0,,Danish Kaneria,,,Hampshire,Hants,104.0,3,86.0
+435838,2010,214020,14.0,2.0,0.0,0.0,,Neil McKenzie,1,3,33.33,,0,0,,Danish Kaneria,,,Hampshire,Hants,104.0,3,85.0
+435838,2010,214010,14.0,1.0,1.0,0.0,,Sean Ervine,4,5,80.0,,0,0,,Danish Kaneria,,,Hampshire,Hants,103.0,3,84.0
+435838,2010,213060,13.0,6.0,1.0,0.0,,Sean Ervine,3,4,75.0,Neil McKenzie,1,2,50.0,Ravi Bopara,,,Hampshire,Hants,102.0,3,83.0
+435838,2010,213050,13.0,5.0,0.0,0.0,,Sean Ervine,2,3,66.67,,0,0,,Ravi Bopara,,,Hampshire,Hants,102.0,3,82.0
+435838,2010,213040,13.0,4.0,1.0,0.0,,Neil McKenzie,1,2,50.0,,0,0,,Ravi Bopara,,,Hampshire,Hants,101.0,3,81.0
+435838,2010,213030,13.0,3.0,0.0,0.0,,Neil McKenzie,0,1,0.0,,0,0,,Ravi Bopara,,,Hampshire,Hants,101.0,3,80.0
+435838,2010,213020,13.0,2.0,0.0,0.0,,Jimmy Adams,34,32,106.25,Sean Ervine,2,2,100.0,Ravi Bopara,JHK Adams,JHK Adams c Pettini b Bopara 34 (52m 32b 2x4 1x6) SR: 106.25,Hampshire,Hants,101.0,2,79.0
+435838,2010,213010,13.0,1.0,1.0,0.0,,Sean Ervine,2,2,100.0,,0,0,,Ravi Bopara,,,Hampshire,Hants,100.0,2,78.0
+435838,2010,212060,12.0,6.0,1.0,0.0,,Sean Ervine,1,1,100.0,Jimmy Adams,34,31,109.68,Danish Kaneria,,,Hampshire,Hants,99.0,2,77.0
+435838,2010,212050,12.0,5.0,0.0,0.0,,James Vince,15,15,100.0,Jimmy Adams,34,31,109.68,Danish Kaneria,JM Vince,JM Vince st &dagger;Foster b Danish Kaneria 15 (14m 15b 1x4 0x6) SR: 100.00,Hampshire,Hants,99.0,1,76.0
+435838,2010,212040,12.0,4.0,0.0,2.0,b,James Vince,15,14,107.14,,0,0,,Danish Kaneria,,,Hampshire,Hants,97.0,1,75.0
+435838,2010,212030,12.0,3.0,1.0,0.0,,Jimmy Adams,34,31,109.68,,0,0,,Danish Kaneria,,,Hampshire,Hants,96.0,1,74.0
+435838,2010,212020,12.0,2.0,1.0,0.0,,James Vince,15,13,115.38,,0,0,,Danish Kaneria,,,Hampshire,Hants,95.0,1,73.0
+435838,2010,212010,12.0,1.0,4.0,0.0,,James Vince,14,12,116.67,,0,0,,Danish Kaneria,,,Hampshire,Hants,91.0,1,72.0

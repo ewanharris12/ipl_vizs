@@ -1,0 +1,34 @@
+match_id,venue,match_type,city,date,full_league,team_one,team_two,inn_one,inn_two,winner,margin,inn_one_score,inn_one_wickets,inn_two_score,inn_two_wickets
+857767,"Queen's Park Oval, Port of Spain, Trinidad",Final (D/N),Port of Spain,2015-07-26,Caribbean Premier League,Trinidad & Tobago Red Steel,Barbados Tridents,178/5,158/4,Trinidad & Tobago Red Steel,20 runs,178,5,158,4
+857765,"Queen's Park Oval, Port of Spain, Trinidad",2nd Semi-Final,Port of Spain,2015-07-25,Caribbean Premier League,Guyana Amazon Warriors,Trinidad & Tobago Red Steel,108/9,109/4,Trinidad & Tobago Red Steel,6 wickets,108,9,109,4
+857763,"Queen's Park Oval, Port of Spain, Trinidad",1st Semi-Final (N),Port of Spain,2015-07-23,Caribbean Premier League,Trinidad & Tobago Red Steel,Jamaica Tallawahs,152/6,125,Trinidad & Tobago Red Steel,27 runs,152,6,125,10
+857761,"Providence Stadium, Guyana",30th Match (N),Providence,2015-07-21,Caribbean Premier League,Trinidad & Tobago Red Steel,Guyana Amazon Warriors,117/8,118/3,Guyana Amazon Warriors,7 wickets,117,8,118,3
+857759,"Queen's Park Oval, Port of Spain, Trinidad",29th Match,Port of Spain,2015-07-19,Caribbean Premier League,Trinidad & Tobago Red Steel,Jamaica Tallawahs,145/3,138/9,Trinidad & Tobago Red Steel,7 runs,145,3,138,9
+857757,"Providence Stadium, Guyana",28th Match,Providence,2015-07-18,Caribbean Premier League,Barbados Tridents,Guyana Amazon Warriors,125/9,111/6,Barbados Tridents,14 runs,125,9,111,6
+857755,"Queen's Park Oval, Port of Spain, Trinidad",27th Match,Port of Spain,2015-07-18,Caribbean Premier League,Trinidad & Tobago Red Steel,St Kitts and Nevis Patriots,134/5,123/7,Trinidad & Tobago Red Steel,18 runs,134,5,123,7
+857753,"Providence Stadium, Guyana",26th Match (N),Providence,2015-07-18,Caribbean Premier League,St Lucia Zouks,Guyana Amazon Warriors,111/7,112/7,Guyana Amazon Warriors,3 wickets,111,7,112,7
+857751,"Queen's Park Oval, Port of Spain, Trinidad",25th Match (N),Port of Spain,2015-07-17,Caribbean Premier League,Trinidad & Tobago Red Steel,Barbados Tridents,184/3,112,Trinidad & Tobago Red Steel,72 runs,184,3,112,10
+857749,"Providence Stadium, Guyana",24th Match (N),Providence,2015-07-15,Caribbean Premier League,Guyana Amazon Warriors,Jamaica Tallawahs,,,,,,,,
+857747,"Queen's Park Oval, Port of Spain, Trinidad",23rd Match (N),Port of Spain,2015-07-14,Caribbean Premier League,Trinidad & Tobago Red Steel,St Lucia Zouks,90/4,91/6,St Lucia Zouks,4 wickets,90,4,91,6
+857745,"Sabina Park, Kingston, Jamaica",22nd Match,Kingston,2015-07-12,Caribbean Premier League,Guyana Amazon Warriors,Jamaica Tallawahs,179/3,95,Guyana Amazon Warriors,84 runs,179,3,95,10
+857743,"Sabina Park, Kingston, Jamaica",21st Match (N),Kingston,2015-07-11,Caribbean Premier League,Barbados Tridents,Jamaica Tallawahs,146/7,129/7,Barbados Tridents,17 runs,146,7,129,7
+857741,"Warner Park, Basseterre, St Kitts",20th Match,Basseterre,2015-07-11,Caribbean Premier League,St Kitts and Nevis Patriots,Trinidad & Tobago Red Steel,146,148/4,Trinidad & Tobago Red Steel,6 wickets,146,10,148,4
+857739,"Warner Park, Basseterre, St Kitts",19th Match (N),Basseterre,2015-07-11,Caribbean Premier League,St Kitts and Nevis Patriots,St Lucia Zouks,170/8,144/9,St Kitts and Nevis Patriots,26 runs,170,8,144,9
+857737,"Sabina Park, Kingston, Jamaica",18th Match (N),Kingston,2015-07-09,Caribbean Premier League,Jamaica Tallawahs,Trinidad & Tobago Red Steel,180/6,130/9,Jamaica Tallawahs,50 runs,180,6,130,9
+857735,"Warner Park, Basseterre, St Kitts",17th Match (N),Basseterre,2015-07-08,Caribbean Premier League,St Kitts and Nevis Patriots,Guyana Amazon Warriors,158/6,146/2,Guyana Amazon Warriors,23 runs,158,6,146,2
+857733,"Sabina Park, Kingston, Jamaica",16th Match (N),Kingston,2015-07-07,Caribbean Premier League,St Lucia Zouks,Jamaica Tallawahs,158/4,159/1,Jamaica Tallawahs,9 wickets,158,4,159,1
+857731,"Warner Park, Basseterre, St Kitts",15th Match (N),Basseterre,2015-07-06,Caribbean Premier League,Barbados Tridents,St Kitts and Nevis Patriots,135/8,139/2,St Kitts and Nevis Patriots,8 wickets,135,8,139,2
+857729,"Warner Park, Basseterre, St Kitts",14th Match,Basseterre,2015-07-04,Caribbean Premier League,Guyana Amazon Warriors,Trinidad & Tobago Red Steel,118,124/7,Trinidad & Tobago Red Steel,3 wickets,118,10,124,7
+857727,"Warner Park, Basseterre, St Kitts",13th Match,Basseterre,2015-07-04,Caribbean Premier League,St Kitts and Nevis Patriots,Jamaica Tallawahs,199/5,80,St Kitts and Nevis Patriots,119 runs,199,5,80,10
+857725,"Warner Park, Basseterre, St Kitts",12th Match (N),Basseterre,2015-07-04,Caribbean Premier League,St Lucia Zouks,Barbados Tridents,202/5,172/7,St Lucia Zouks,30 runs,202,5,172,7
+857723,"Warner Park, Basseterre, St Kitts",11th Match,Basseterre,2015-07-03,Caribbean Premier League,St Kitts and Nevis Patriots,Guyana Amazon Warriors,149/9,150/3,Guyana Amazon Warriors,7 wickets,149,9,150,3
+857721,"Warner Park, Basseterre, St Kitts",10th Match (N),Basseterre,2015-07-01,Caribbean Premier League,Barbados Tridents,St Lucia Zouks,148/8,133/9,Barbados Tridents,15 runs,148,8,133,9
+857719,"Warner Park, Basseterre, St Kitts",9th Match (N),Basseterre,2015-06-30,Caribbean Premier League,St Kitts and Nevis Patriots,Jamaica Tallawahs,160/5,164/3,Jamaica Tallawahs,7 wickets,160,5,164,3
+857717,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",8th Match,Gros Islet,2015-06-28,Caribbean Premier League,St Lucia Zouks,Jamaica Tallawahs,118/9,121/0,Jamaica Tallawahs,10 wickets,118,9,121,0
+857715,"Kensington Oval, Bridgetown, Barbados",7th Match,Bridgetown,2015-06-27,Caribbean Premier League,St Kitts and Nevis Patriots,Barbados Tridents,143/8,142/7,St Kitts and Nevis Patriots,1 run,143,8,142,7
+857713,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",6th Match (N),Gros Islet,2015-06-27,Caribbean Premier League,St Lucia Zouks,Guyana Amazon Warriors,156/6,154/5,St Lucia Zouks,2 runs,156,6,154,5
+857711,"Kensington Oval, Bridgetown, Barbados",5th Match (N),Bridgetown,2015-06-26,Caribbean Premier League,Trinidad & Tobago Red Steel,Barbados Tridents,95/9,98/2,Barbados Tridents,8 wickets,95,9,98,2
+857709,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",4th Match (N),Gros Islet,2015-06-24,Caribbean Premier League,St Kitts and Nevis Patriots,St Lucia Zouks,149/6,150/3,St Lucia Zouks,7 wickets,149,6,150,3
+857707,"Kensington Oval, Bridgetown, Barbados",3rd Match (N),Bridgetown,2015-06-23,Caribbean Premier League,Barbados Tridents,Jamaica Tallawahs,161/4,145/9,Barbados Tridents,16 runs,161,4,145,9
+857705,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",2nd Match,Gros Islet,2015-06-21,Caribbean Premier League,St Lucia Zouks,Trinidad & Tobago Red Steel,179/6,10/0,,,179,6,10,0
+857703,"Kensington Oval, Bridgetown, Barbados",1st Match (N),Bridgetown,2015-06-20,Caribbean Premier League,Barbados Tridents,Guyana Amazon Warriors,158/6,109,Barbados Tridents,49 runs,158,6,109,10

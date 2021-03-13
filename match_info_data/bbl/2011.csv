@@ -1,0 +1,32 @@
+match_id,venue,match_type,city,date,full_league,team_one,team_two,inn_one,inn_two,winner,margin,inn_one_score,inn_one_wickets,inn_two_score,inn_two_wickets
+524945,"W.A.C.A. Ground, Perth",Final (D/N),Perth,2012-01-28,Big Bash League,Perth Scorchers,Sydney Sixers,156/5,158/3,Sydney Sixers,7 wickets,156,5,158,3
+524944,"Bellerive Oval, Hobart",2nd semi-final (N),Hobart,2012-01-22,Big Bash League,Sydney Sixers,Hobart Hurricanes,153/6,146/7,Sydney Sixers,7 runs,153,6,146,7
+524943,"W.A.C.A. Ground, Perth",1st semi-final (D/N),Perth,2012-01-21,Big Bash League,Perth Scorchers,Melbourne Stars,174/3,163/8,Perth Scorchers,11 runs,174,3,163,8
+524942,Melbourne Cricket Ground,(N),Melbourne,2012-01-19,Big Bash League,Adelaide Strikers,Melbourne Stars,125,129/4,Melbourne Stars,6 wickets,125,10,129,4
+524941,Sydney Cricket Ground,(N),Sydney,2012-01-18,Big Bash League,Sydney Sixers,Perth Scorchers,176,175/6,Sydney Sixers,1 run,176,10,175,6
+524940,"Bellerive Oval, Hobart",,Hobart,2012-01-18,Big Bash League,Melbourne Renegades,Hobart Hurricanes,173/4,174/3,Hobart Hurricanes,7 wickets,173,4,174,3
+524939,"Brisbane Cricket Ground, Woolloongabba, Brisbane",(N),Brisbane,2012-01-17,Big Bash League,Brisbane Heat,Sydney Thunder,195/4,104/6,Brisbane Heat,91 runs,195,4,104,6
+524938,"Docklands Stadium, Melbourne",(N),Melbourne,2012-01-12,Big Bash League,Brisbane Heat,Melbourne Renegades,168/7,156/9,Brisbane Heat,12 runs,168,7,156,9
+524937,"Stadium Australia, Sydney",(N),Sydney,2012-01-11,Big Bash League,Sydney Thunder,Perth Scorchers,99,103/1,Perth Scorchers,9 wickets,99,10,103,1
+524936,Adelaide Oval,(N),Adelaide,2012-01-10,Big Bash League,Sydney Sixers,Adelaide Strikers,151/8,87,Sydney Sixers,64 runs,151,8,87,10
+524935,"Bellerive Oval, Hobart",(N),Hobart,2012-01-09,Big Bash League,Melbourne Stars,Hobart Hurricanes,203/3,184/9,Melbourne Stars,19 runs,203,3,184,9
+524934,"W.A.C.A. Ground, Perth",(N),Perth,2012-01-08,Big Bash League,Perth Scorchers,Adelaide Strikers,184/5,142,Perth Scorchers,42 runs,184,5,142,10
+524933,"Stadium Australia, Sydney",(N),Sydney,2012-01-08,Big Bash League,Sydney Sixers,Sydney Thunder,117/7,29/4,Sydney Sixers,17 runs,117,7,29,4
+524932,Melbourne Cricket Ground,(N),Melbourne,2012-01-07,Big Bash League,Melbourne Stars,Melbourne Renegades,167/5,58/3,Melbourne Stars,11 runs,167,5,58,3
+524931,"Brisbane Cricket Ground, Woolloongabba, Brisbane",(N),Brisbane,2012-01-06,Big Bash League,Brisbane Heat,Hobart Hurricanes,201/4,198/4,Brisbane Heat,3 runs,201,4,198,4
+524930,Melbourne Cricket Ground,(N),Melbourne,2012-01-04,Big Bash League,Perth Scorchers,Melbourne Stars,136,128/5,Perth Scorchers,8 runs,136,10,128,5
+524929,"Brisbane Cricket Ground, Woolloongabba, Brisbane",(N),Brisbane,2012-01-03,Big Bash League,Adelaide Strikers,Brisbane Heat,166/4,135,Adelaide Strikers,31 runs,166,4,135,10
+524928,"Docklands Stadium, Melbourne",(N),Melbourne,2012-01-02,Big Bash League,Sydney Sixers,Melbourne Renegades,161/6,164/2,Melbourne Renegades,8 wickets,161,6,164,2
+524927,"Bellerive Oval, Hobart",(N),Hobart,2012-01-01,Big Bash League,Sydney Thunder,Hobart Hurricanes,138/8,139/5,Hobart Hurricanes,5 wickets,138,8,139,5
+524926,"Stadium Australia, Sydney",(N),Sydney,2011-12-30,Big Bash League,Melbourne Renegades,Sydney Thunder,140/8,134/7,Melbourne Renegades,6 runs,140,8,134,7
+524925,"W.A.C.A. Ground, Perth",(N),Perth,2011-12-29,Big Bash League,Perth Scorchers,Brisbane Heat,162/8,152/6,Perth Scorchers,10 runs,162,8,152,6
+524924,Adelaide Oval,(N),Adelaide,2011-12-28,Big Bash League,Hobart Hurricanes,Adelaide Strikers,171/4,157/8,Hobart Hurricanes,14 runs,171,4,157,8
+524923,Sydney Cricket Ground,(N),Sydney,2011-12-27,Big Bash League,Sydney Sixers,Melbourne Stars,166/9,164/8,Sydney Sixers,2 runs,166,9,164,8
+524922,"Stadium Australia, Sydney",(N),Sydney,2011-12-23,Big Bash League,Adelaide Strikers,Sydney Thunder,155/8,156/4,Sydney Thunder,6 wickets,155,8,156,4
+524921,"Docklands Stadium, Melbourne",(N),Melbourne,2011-12-22,Big Bash League,Melbourne Renegades,Perth Scorchers,188/3,192/2,Perth Scorchers,8 wickets,188,3,192,2
+524920,"Bellerive Oval, Hobart",(N),Hobart,2011-12-21,Big Bash League,Hobart Hurricanes,Sydney Sixers,169/3,127/9,Hobart Hurricanes,42 runs,169,3,127,9
+524919,"Brisbane Cricket Ground, Woolloongabba, Brisbane",(N),Brisbane,2011-12-20,Big Bash League,Melbourne Stars,Brisbane Heat,177/7,169/7,Melbourne Stars,8 runs,177,7,169,7
+524918,"W.A.C.A. Ground, Perth",(N),Perth,2011-12-18,Big Bash League,Hobart Hurricanes,Perth Scorchers,140,109,Hobart Hurricanes,31 runs,140,10,109,10
+524917,Adelaide Oval,(D/N),Adelaide,2011-12-18,Big Bash League,Adelaide Strikers,Melbourne Renegades,189/5,122,Adelaide Strikers,67 runs,189,5,122,10
+524916,Melbourne Cricket Ground,(N),Melbourne,2011-12-17,Big Bash League,Melbourne Stars,Sydney Thunder,153/7,154/4,Sydney Thunder,6 wickets,153,7,154,4
+524915,Sydney Cricket Ground,(N),Sydney,2011-12-16,Big Bash League,Brisbane Heat,Sydney Sixers,139/8,140/3,Sydney Sixers,7 wickets,139,8,140,3

@@ -1,0 +1,134 @@
+match_id,venue,match_type,city,date,full_league,team_one,team_two,inn_one,inn_two,winner,margin,inn_one_score,inn_one_wickets,inn_two_score,inn_two_wickets
+1127580,"Edgbaston, Birmingham",Final (N),Birmingham,2018-09-15,Vitality Blast,Sussex,Worcestershire,157/6,158/5,Worcestershire,5 wickets,157,6,158,5
+1127578,"Edgbaston, Birmingham",2nd Semi-Final,Birmingham,2018-09-15,Vitality Blast,Sussex,Somerset,202/8,167/8,Sussex,35 runs,202,8,167,8
+1127579,"Edgbaston, Birmingham",1st Semi-Final,Birmingham,2018-09-15,Vitality Blast,Worcestershire,Lancashire,169/6,149/9,Worcestershire,20 runs,169,6,149,9
+1127577,"The Cooper Associates County Ground, Taunton",4th Quarter-Final,Taunton,2018-08-26,Vitality Blast,Somerset,Nottinghamshire,209/5,190,Somerset,19 runs,209,5,190,10
+1127576,"County Ground, New Road, Worcester",3rd Quarter-Final,Worcester,2018-08-25,Vitality Blast,Gloucestershire,Worcestershire,136/8,137/5,Worcestershire,5 wickets,136,8,137,5
+1127575,"Riverside Ground, Chester-le-Street",2nd Quarter-Final (N),Chester-le-Street,2018-08-24,Vitality Blast,Durham,Sussex,140/7,144/5,Sussex,5 wickets,140,7,144,5
+1127574,"St Lawrence Ground, Canterbury",1st Quarter-Final (N),Canterbury,2018-08-23,Vitality Blast,Kent,Lancashire,133/9,134/4,Lancashire,6 wickets,133,9,134,4
+1127573,"Grace Road, Leicester",North Group (N),Leicester,2018-08-17,Vitality Blast,Leicestershire,Northamptonshire,148/7,154/6,Northamptonshire,4 wickets,148,7,154,6
+1127572,"County Ground, Hove",South Group (N),Brighton,2018-08-17,Vitality Blast,Sussex,Middlesex,215/5,184,Sussex,31 runs,215,5,184,10
+1127571,"Sophia Gardens, Cardiff",South Group (N),Cardiff,2018-08-17,Vitality Blast,Glamorgan,Surrey,183/8,60/0,Surrey,24 runs,183,8,60,0
+1127570,"Riverside Ground, Chester-le-Street",North Group (N),Chester-le-Street,2018-08-17,Vitality Blast,Durham,Derbyshire,,,,,,,,
+1127569,"Headingley, Leeds",North Group (N),Leeds,2018-08-17,Vitality Blast,Yorkshire,Nottinghamshire,163/6,169/2,Nottinghamshire,8 wickets,163,6,169,2
+1127568,"Edgbaston, Birmingham",North Group (N),Birmingham,2018-08-17,Vitality Blast,Worcestershire,Birmingham Bears,209/5,194/7,Worcestershire,15 runs,209,5,194,7
+1127567,"County Ground, Chelmsford",South Group (N),Chelmsford,2018-08-17,Vitality Blast,Essex,Kent,201/6,203/5,Kent,5 wickets,201,6,203,5
+1127566,"The Rose Bowl, Southampton",South Group (N),Southampton,2018-08-17,Vitality Blast,Gloucestershire,Hampshire,144/8,147/4,Hampshire,6 wickets,144,8,147,4
+1127562,"St Lawrence Ground, Canterbury",South Group (N),Canterbury,2018-08-16,Vitality Blast,Kent,Somerset,231/5,226/5,Kent,5 runs,231,5,226,5
+1127565,"County Ground, Bristol",South Group (N),Bristol,2018-08-16,Vitality Blast,Gloucestershire,Sussex,159/9,160/6,Sussex,4 wickets,159,9,160,6
+1127564,"County Ground, Northampton",North Group (N),Northampton,2018-08-16,Vitality Blast,Northamptonshire,Yorkshire,162/8,165/3,Yorkshire,7 wickets,162,8,165,3
+1127563,"Lord's, London",South Group (N),London,2018-08-16,Vitality Blast,Middlesex,Essex,210/3,211/4,Essex,6 wickets,210,3,211,4
+1127560,"Edgbaston, Birmingham",North Group (N),Birmingham,2018-08-15,Vitality Blast,Lancashire,Birmingham Bears,102,105/3,Birmingham Bears,7 wickets,102,10,105,3
+1127561,"Kennington Oval, London",South Group (N),London,2018-08-15,Vitality Blast,Hampshire,Surrey,133/7,136/3,Surrey,7 wickets,133,7,136,3
+1127559,"County Ground, Hove",South Group (N),Brighton,2018-08-14,Vitality Blast,Sussex,Glamorgan,186/5,88,Sussex,98 runs,186,5,88,10
+1127554,"The Kent County Cricket Ground, Beckenham",South Group,Beckenham,2018-08-12,Vitality Blast,Middlesex,Kent,189/7,191/7,Kent,3 wickets,189,7,191,7
+1127558,"The Cooper Associates County Ground, Taunton",South Group,Taunton,2018-08-12,Vitality Blast,Somerset,Glamorgan,210/8,181/9,Somerset,29 runs,210,8,181,9
+1127557,"County Ground, Bristol",South Group,Bristol,2018-08-12,Vitality Blast,Gloucestershire,Surrey,174/6,169/7,Gloucestershire,5 runs,174,6,169,7
+1127556,"County Ground, New Road, Worcester",North Group,Worcester,2018-08-12,Vitality Blast,Worcestershire,Nottinghamshire,191/6,194/5,Nottinghamshire,5 wickets,191,6,194,5
+1127555,"Riverside Ground, Chester-le-Street",North Group,Chester-le-Street,2018-08-12,Vitality Blast,Lancashire,Durham,143/6,78,Lancashire,65 runs,143,6,78,10
+1127553,"The Rose Bowl, Southampton",South Group,Southampton,2018-08-12,Vitality Blast,Essex,Hampshire,,,,,,,,
+1127552,"County Ground, Derby",North Group (N),Derby,2018-08-11,Vitality Blast,Leicestershire,Derbyshire,,,,,,,,
+1127548,"County Ground, Hove",South Group (N),Brighton,2018-08-10,Vitality Blast,Sussex,Kent,,,,,,,,
+1127547,"Sophia Gardens, Cardiff",South Group (N),Cardiff,2018-08-10,Vitality Blast,Hampshire,Glamorgan,151/8,155/2,Glamorgan,8 wickets,151,8,155,2
+1127544,"County Ground, Chelmsford",South Group (N),Chelmsford,2018-08-10,Vitality Blast,Essex,Gloucestershire,,,,,,,,
+1127551,"Trent Bridge, Nottingham",North Group (N),Nottingham,2018-08-10,Vitality Blast,Nottinghamshire,Yorkshire,212/5,149/7,Nottinghamshire,63 runs,212,5,149,7
+1127550,"Grace Road, Leicester",North Group (N),Leicester,2018-08-10,Vitality Blast,Leicestershire,Worcestershire,155/9,150/6,Leicestershire,5 runs,155,9,150,6
+1127546,"County Ground, Northampton",North Group (N),Northampton,2018-08-10,Vitality Blast,Durham,Northamptonshire,174/7,162/9,Durham,12 runs,174,7,162,9
+1127545,"Old Trafford, Manchester",North Group (N),Manchester,2018-08-10,Vitality Blast,Lancashire,Birmingham Bears,185/5,148,Lancashire,37 runs,185,5,148,10
+1127549,"The Cooper Associates County Ground, Taunton",South Group (D/N),Taunton,2018-08-10,Vitality Blast,Surrey,Somerset,176/9,177/6,Somerset,4 wickets,176,9,177,6
+1127540,"Headingley, Leeds",North Group (N),Leeds,2018-08-09,Vitality Blast,Yorkshire,Lancashire,181/9,185/4,Lancashire,6 wickets,181,9,185,4
+1127539,"Edgbaston, Birmingham",North Group (N),Birmingham,2018-08-09,Vitality Blast,Nottinghamshire,Birmingham Bears,152/8,156/4,Birmingham Bears,6 wickets,152,8,156,4
+1127543,"County Ground, Bristol",South Group (N),Bristol,2018-08-09,Vitality Blast,Gloucestershire,Middlesex,242/4,172/6,Gloucestershire,70 runs,242,4,172,6
+1127541,"Kennington Oval, London",South Group (N),London,2018-08-09,Vitality Blast,Sussex,Surrey,,,,,,,,
+1127542,"County Ground, New Road, Worcester",North Group (D/N),Worcester,2018-08-09,Vitality Blast,Worcestershire,Derbyshire,137/8,121/7,Worcestershire,16 runs,137,8,121,7
+1127538,"County Ground, Derby",North Group (N),Derby,2018-08-08,Vitality Blast,Derbyshire,Northamptonshire,177/6,179/3,Northamptonshire,7 wickets,177,6,179,3
+1127537,"Riverside Ground, Chester-le-Street",North Group (N),Chester-le-Street,2018-08-08,Vitality Blast,Durham,Leicestershire,156/6,142/6,Durham,14 runs,156,6,142,6
+1127536,"The Rose Bowl, Southampton",South Group (N),Southampton,2018-08-08,Vitality Blast,Hampshire,Somerset,129/8,130/4,Somerset,6 wickets,129,8,130,4
+1127535,"Sophia Gardens, Cardiff",South Group (N),Cardiff,2018-08-07,Vitality Blast,Glamorgan,Essex,198/7,192/6,Glamorgan,6 runs,198,7,192,6
+1127534,"Old Trafford, Manchester",North Group (N),Manchester,2018-08-07,Vitality Blast,Durham,Lancashire,154/7,150/9,Durham,4 runs,154,7,150,9
+1127529,"St Lawrence Ground, Canterbury",South Group,Canterbury,2018-08-05,Vitality Blast,Kent,Gloucestershire,160/5,164/2,Gloucestershire,8 wickets,160,5,164,2
+1127533,"County Ground, Hove",South Group,Brighton,2018-08-05,Vitality Blast,Sussex,Somerset,169/5,170/7,Somerset,3 wickets,169,5,170,7
+1127532,"Old Deer Park, Richmond",South Group,Richmond,2018-08-05,Vitality Blast,Middlesex,Glamorgan,131,135/3,Glamorgan,7 wickets,131,10,135,3
+1127531,"County Ground, Northampton",North Group,Northampton,2018-08-05,Vitality Blast,Birmingham Bears,Northamptonshire,187/7,170/7,Birmingham Bears,17 runs,187,7,170,7
+1127530,"County Ground, Chelmsford",South Group,Chelmsford,2018-08-05,Vitality Blast,Essex,Surrey,157/5,159/4,Surrey,6 wickets,157,5,159,4
+1127528,"Trent Bridge, Nottingham",North Group (N),Nottingham,2018-08-04,Vitality Blast,Worcestershire,Nottinghamshire,206/2,134,Worcestershire,72 runs,206,2,134,10
+1127526,"County Ground, Derby",North Group (N),Derby,2018-08-03,Vitality Blast,Derbyshire,Birmingham Bears,143/9,127/9,Derbyshire,16 runs,143,9,127,9
+1127523,"Kennington Oval, London",South Group (N),London,2018-08-03,Vitality Blast,Middlesex,Surrey,221/5,222/1,Surrey,9 wickets,221,5,222,1
+1127520,"The Rose Bowl, Southampton",South Group (N),Southampton,2018-08-03,Vitality Blast,Kent,Hampshire,139/7,88,Kent,51 runs,139,7,88,10
+1127525,"Sophia Gardens, Cardiff",South Group (N),Cardiff,2018-08-03,Vitality Blast,Glamorgan,Gloucestershire,201/6,199/9,Glamorgan,2 runs,201,6,199,9
+1127522,"Old Trafford, Manchester",North Group (N),Manchester,2018-08-03,Vitality Blast,Lancashire,Leicestershire,190/5,194/5,Leicestershire,5 wickets,190,5,194,5
+1127521,"Headingley, Leeds",North Group (N),Leeds,2018-08-03,Vitality Blast,Northamptonshire,Yorkshire,129/7,132/4,Yorkshire,6 wickets,129,7,132,4
+1127527,"The Cooper Associates County Ground, Taunton",South Group (D/N),Taunton,2018-08-03,Vitality Blast,Essex,Somerset,135/9,136/0,Somerset,10 wickets,135,9,136,0
+1127524,"County Ground, New Road, Worcester",North Group (D/N),Worcester,2018-08-03,Vitality Blast,Durham,Worcestershire,194/7,195/7,Worcestershire,3 wickets,194,7,195,7
+1127515,"St Lawrence Ground, Canterbury",South Group (N),Canterbury,2018-08-02,Vitality Blast,Kent,Essex,191/4,163,Kent,28 runs,191,4,163,10
+1127519,"Trent Bridge, Nottingham",North Group (N),Nottingham,2018-08-02,Vitality Blast,Nottinghamshire,Derbyshire,166/5,157/8,Nottinghamshire,9 runs,166,5,157,8
+1127518,"Grace Road, Leicester",North Group (N),Leicester,2018-08-02,Vitality Blast,Leicestershire,Birmingham Bears,143,146/2,Birmingham Bears,8 wickets,143,10,146,2
+1127516,"Riverside Ground, Chester-le-Street",North Group (N),Chester-le-Street,2018-08-02,Vitality Blast,Durham,Northamptonshire,170/4,95,Durham,75 runs,170,4,95,10
+1127517,"Lord's, London",South Group (N),London,2018-08-02,Vitality Blast,Sussex,Middlesex,168,156/7,Sussex,12 runs,168,10,156,7
+1127513,"County Ground, Hove",South Group (N),Brighton,2018-08-01,Vitality Blast,Sussex,Gloucestershire,127/8,129/6,Gloucestershire,4 wickets,127,8,129,6
+1127514,"The Cooper Associates County Ground, Taunton",South Group (D/N),Taunton,2018-08-01,Vitality Blast,Somerset,Hampshire,197/7,181/9,Somerset,16 runs,197,7,181,9
+1127512,"Kennington Oval, London",South Group (N),London,2018-07-31,Vitality Blast,Surrey,Glamorgan,194/4,195/6,Glamorgan,4 wickets,194,4,195,6
+1127511,"Headingley, Leeds",North Group (N),Leeds,2018-07-31,Vitality Blast,Yorkshire,Leicestershire,187/5,127/9,Yorkshire,60 runs,187,5,127,9
+1127469,"Headingley, Leeds",North Group (N),Leeds,2018-07-30,Vitality Blast,Derbyshire,Yorkshire,179/7,102,Derbyshire,77 runs,179,7,102,10
+1127510,"The Cooper Associates County Ground, Taunton",South Group,Taunton,2018-07-29,Vitality Blast,Somerset,Middlesex,229/6,174/6,Somerset,38 runs,229,6,174,6
+1127509,"County Ground, Hove",South Group,Brighton,2018-07-29,Vitality Blast,Sussex,Hampshire,,,,,,,,
+1127508,"Sophia Gardens, Cardiff",South Group,Cardiff,2018-07-29,Vitality Blast,Glamorgan,Kent,,,,,,,,
+1127507,"County Ground, New Road, Worcester",North Group,Worcester,2018-07-29,Vitality Blast,Worcestershire,Lancashire,,,,,,,,
+1127506,"Riverside Ground, Chester-le-Street",North Group,Chester-le-Street,2018-07-28,Vitality Blast,Nottinghamshire,Durham,132/7,136/3,Durham,7 wickets,132,7,136,3
+1127505,"Queen's Park, Chesterfield",North Group,Chesterfield,2018-07-28,Vitality Blast,Yorkshire,Derbyshire,166/8,170/5,Derbyshire,5 wickets,166,8,170,5
+1127498,"St Lawrence Ground, Canterbury",South Group (N),Canterbury,2018-07-27,Vitality Blast,Kent,Sussex,,,,,,,,
+1127504,"Trent Bridge, Nottingham",North Group (N),Nottingham,2018-07-27,Vitality Blast,Nottinghamshire,Lancashire,196/9,139/8,Nottinghamshire,16 runs,196,9,139,8
+1127503,"Grace Road, Leicester",North Group (N),Leicester,2018-07-27,Vitality Blast,Leicestershire,Derbyshire,149/5,150/4,Derbyshire,6 wickets,149,5,150,4
+1127502,"County Ground, Northampton",North Group (N),Northampton,2018-07-27,Vitality Blast,Northamptonshire,Worcestershire,187/9,189/1,Worcestershire,9 wickets,187,9,189,1
+1127501,"Kennington Oval, London",South Group (N),London,2018-07-27,Vitality Blast,Somerset,Surrey,99/6,102/1,Surrey,9 wickets,99,6,102,1
+1127500,"Headingley, Leeds",North Group (N),Leeds,2018-07-27,Vitality Blast,Yorkshire,Birmingham Bears,226/8,176/4,Yorkshire,31 runs,226,8,176,4
+1127499,"College Ground, Cheltenham",South Group,Cheltenham,2018-07-27,Vitality Blast,Gloucestershire,Glamorgan,197/6,167/9,Gloucestershire,30 runs,197,6,167,9
+1127497,"Lord's, London",South Group (N),London,2018-07-26,Vitality Blast,Middlesex,Hampshire,165/8,143,Middlesex,22 runs,165,8,143,10
+1127496,"County Ground, Chelmsford",South Group (D/N),Chelmsford,2018-07-21,Vitality Blast,Hampshire,Essex,170/5,170/8,,Super Over,170,5,170,8
+1127491,"Edgbaston, Birmingham",North Group (N),Birmingham,2018-07-20,Vitality Blast,Northamptonshire,Birmingham Bears,231/5,231/5,,Super Over,231,5,231,5
+1127489,"St Lawrence Ground, Canterbury",South Group (N),Canterbury,2018-07-20,Vitality Blast,Surrey,Kent,,,,,,,,
+1127488,"The Rose Bowl, Southampton",South Group (N),Southampton,2018-07-20,Vitality Blast,Hampshire,Middlesex,184,163/9,Hampshire,21 runs,184,10,163,9
+1127495,"Trent Bridge, Nottingham",North Group (N),Nottingham,2018-07-20,Vitality Blast,Leicestershire,Nottinghamshire,193/6,176/9,Leicestershire,17 runs,193,6,176,9
+1127494,"Sophia Gardens, Cardiff",South Group (N),Cardiff,2018-07-20,Vitality Blast,Somerset,Glamorgan,190/5,160/9,Somerset,30 runs,190,5,160,9
+1127493,"Riverside Ground, Chester-le-Street",North Group (N),Chester-le-Street,2018-07-20,Vitality Blast,Worcestershire,Durham,121,125/3,Durham,7 wickets,121,10,125,3
+1127492,"Old Trafford, Manchester",North Group (N),Manchester,2018-07-20,Vitality Blast,Lancashire,Yorkshire,176/2,175/4,Lancashire,1 run,176,2,175,4
+1127490,"College Ground, Cheltenham",South Group (D/N),Cheltenham,2018-07-20,Vitality Blast,Essex,Gloucestershire,,,,,,,,
+1127487,"County Ground, Northampton",North Group (N),Northampton,2018-07-19,Vitality Blast,Derbyshire,Northamptonshire,211/2,180,Derbyshire,31 runs,211,2,180,10
+1127486,"Lord's, London",South Group (N),London,2018-07-19,Vitality Blast,Middlesex,Somerset,175/5,178/6,Somerset,4 wickets,175,5,178,6
+1127485,"Grace Road, Leicester",North Group (N),Leicester,2018-07-18,Vitality Blast,Leicestershire,Lancashire,142,146/2,Lancashire,8 wickets,142,10,146,2
+1127484,"Trent Bridge, Nottingham",North Group (N),Nottingham,2018-07-17,Vitality Blast,Durham,Nottinghamshire,184/5,150,Durham,34 runs,184,5,150,10
+1127483,"County Ground, New Road, Worcester",North Group,Worcester,2018-07-15,Vitality Blast,Yorkshire,Worcestershire,179/7,167/8,Yorkshire,12 runs,179,7,167,8
+1127482,"Edgbaston, Birmingham",North Group,Birmingham,2018-07-15,Vitality Blast,Durham,Birmingham Bears,220/6,202/5,Durham,18 runs,220,6,202,5
+1127481,"Old Trafford, Manchester",North Group,Manchester,2018-07-14,Vitality Blast,Lancashire,Derbyshire,157/8,145/7,Lancashire,12 runs,157,8,145,7
+1127479,"County Ground, Derby",North Group (N),Derby,2018-07-13,Vitality Blast,Nottinghamshire,Derbyshire,175/8,139/9,Nottinghamshire,39 runs,175,8,139,9
+1127478,"County Ground, Hove",South Group (N),Brighton,2018-07-13,Vitality Blast,Surrey,Sussex,192/3,140,Surrey,52 runs,192,3,140,10
+1127475,"Edgbaston, Birmingham",North Group (N),Birmingham,2018-07-13,Vitality Blast,Leicestershire,Birmingham Bears,229/5,129,Leicestershire,100 runs,229,5,129,10
+1127474,"County Ground, Chelmsford",South Group (N),Chelmsford,2018-07-13,Vitality Blast,Essex,Glamorgan,167,171/8,Glamorgan,2 wickets,167,10,171,8
+1127480,"County Ground, Bristol",South Group (N),Bristol,2018-07-13,Vitality Blast,Somerset,Gloucestershire,114/8,116/6,Gloucestershire,4 wickets,114,8,116,6
+1127476,"Riverside Ground, Chester-le-Street",North Group (N),Chester-le-Street,2018-07-13,Vitality Blast,Yorkshire,Durham,157/6,147/6,Yorkshire,10 runs,157,6,147,6
+1127477,"County Ground, New Road, Worcester",North Group (D/N),Worcester,2018-07-13,Vitality Blast,Worcestershire,Northamptonshire,130/3,89/6,Worcestershire,41 runs,130,3,89,6
+1127473,"The Kent County Cricket Ground, Beckenham",South Group (D/N),Beckenham,2018-07-13,Vitality Blast,Kent,Hampshire,210/4,207/6,Kent,3 runs,210,4,207,6
+1127471,"The Rose Bowl, Southampton",South Group (N),Southampton,2018-07-12,Vitality Blast,Hampshire,Sussex,158/7,161/2,Sussex,8 wickets,158,7,161,2
+1127472,"Kennington Oval, London",South Group (N),London,2018-07-12,Vitality Blast,Surrey,Essex,222/4,183/7,Surrey,39 runs,222,4,183,7
+1127470,"County Ground, Bristol",South Group,Bristol,2018-07-11,Vitality Blast,Gloucestershire,Kent,184/7,179/8,Gloucestershire,5 runs,184,7,179,8
+1127468,"Grace Road, Leicester",North Group,Leicester,2018-07-08,Vitality Blast,Nottinghamshire,Leicestershire,199/8,180/9,Nottinghamshire,19 runs,199,8,180,9
+1127467,"The Cooper Associates County Ground, Taunton",South Group,Taunton,2018-07-08,Vitality Blast,Somerset,Kent,159/6,163/2,Kent,8 wickets,159,6,163,2
+1127466,"County Ground, Derby",North Group,Derby,2018-07-08,Vitality Blast,Derbyshire,Worcestershire,135/9,136/4,Worcestershire,6 wickets,135,9,136,4
+1127465,Uxbridge Cricket Club Ground,South Group,Uxbridge,2018-07-08,Vitality Blast,Middlesex,Gloucestershire,160/7,165/4,Gloucestershire,6 wickets,160,7,165,4
+1127464,"Sophia Gardens, Cardiff",South Group,Cardiff,2018-07-08,Vitality Blast,Glamorgan,Sussex,173/4,177/2,Sussex,8 wickets,173,4,177,2
+1127463,"Old Trafford, Manchester",North Group,Manchester,2018-07-08,Vitality Blast,Northamptonshire,Lancashire,123/9,124/2,Lancashire,8 wickets,123,9,124,2
+1127462,"Edgbaston, Birmingham",North Group,Birmingham,2018-07-08,Vitality Blast,Yorkshire,Birmingham Bears,157/7,158/2,Birmingham Bears,8 wickets,157,7,158,2
+1127459,"County Ground, Derby",North Group (N),Derby,2018-07-06,Vitality Blast,Derbyshire,Lancashire,161/4,164/1,Lancashire,9 wickets,161,4,164,1
+1127455,"County Ground, Chelmsford",South Group (N),Chelmsford,2018-07-06,Vitality Blast,Middlesex,Essex,179/6,181/7,Essex,3 wickets,179,6,181,7
+1127454,"The Rose Bowl, Southampton",South Group (N),Southampton,2018-07-06,Vitality Blast,Glamorgan,Hampshire,168/6,105,Glamorgan,63 runs,168,6,105,10
+1127461,"Grace Road, Leicester",North Group (N),Leicester,2018-07-06,Vitality Blast,Durham,Leicestershire,153/7,120,Durham,33 runs,153,7,120,10
+1127458,"County Ground, Northampton",North Group (N),Northampton,2018-07-06,Vitality Blast,Nottinghamshire,Northamptonshire,219/6,161,Nottinghamshire,58 runs,219,6,161,10
+1127456,"Kennington Oval, London",South Group (N),London,2018-07-06,Vitality Blast,Kent,Surrey,173/6,167,Kent,6 runs,173,6,167,10
+1127460,"The Cooper Associates County Ground, Taunton",South Group (D/N),Taunton,2018-07-06,Vitality Blast,Gloucestershire,Somerset,188/6,194/4,Somerset,6 wickets,188,6,194,4
+1127457,"County Ground, New Road, Worcester",North Group (D/N),Worcester,2018-07-06,Vitality Blast,Worcestershire,Birmingham Bears,192/7,188/9,Worcestershire,4 runs,192,7,188,9
+1127452,"Old Trafford, Manchester",North Group (N),Manchester,2018-07-05,Vitality Blast,Lancashire,Worcestershire,188/6,190/5,Worcestershire,5 wickets,188,6,190,5
+1127451,"Headingley, Leeds",North Group (N),Leeds,2018-07-05,Vitality Blast,Yorkshire,Durham,200/3,156/4,Yorkshire,44 runs,200,3,156,4
+1127453,"Lord's, London",South Group (N),London,2018-07-05,Vitality Blast,Surrey,Middlesex,158/6,161/7,Middlesex,3 wickets,158,6,161,7
+1127450,"Trent Bridge, Nottingham",North Group (N),Nottingham,2018-07-04,Vitality Blast,Nottinghamshire,Birmingham Bears,155/7,159/2,Birmingham Bears,8 wickets,155,7,159,2
+1127449,"County Ground, Northampton",North Group (N),Northampton,2018-07-04,Vitality Blast,Northamptonshire,Leicestershire,218/3,219/6,Leicestershire,4 wickets,218,3,219,6
+1127448,"County Ground, Chelmsford",South Group (N),Chelmsford,2018-07-04,Vitality Blast,Sussex,Essex,181/6,145,Sussex,36 runs,181,6,145,10

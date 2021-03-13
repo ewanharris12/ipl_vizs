@@ -1,0 +1,77 @@
+match_id,venue,match_type,city,date,full_league,team_one,team_two,inn_one,inn_two,winner,margin,inn_one_score,inn_one_wickets,inn_two_score,inn_two_wickets
+598073,"Eden Gardens, Kolkata",Final (N),Kolkata,2013-05-26,Indian Premier League,Mumbai Indians,Chennai Super Kings,148/9,125/9,Mumbai Indians,23 runs,148,9,125,9
+598072,"Eden Gardens, Kolkata",Qualifier 2 (N),Kolkata,2013-05-24,Indian Premier League,Rajasthan Royals,Mumbai Indians,165/6,169/6,Mumbai Indians,4 wickets,165,6,169,6
+598071,"Arun Jaitley Stadium, Delhi",Eliminator (N),Delhi,2013-05-22,Indian Premier League,Sunrisers Hyderabad,Rajasthan Royals,132/7,135/6,Rajasthan Royals,4 wickets,132,7,135,6
+598070,"Arun Jaitley Stadium, Delhi",Qualifier 1 (N),Delhi,2013-05-21,Indian Premier League,Chennai Super Kings,Mumbai Indians,192/1,144,Chennai Super Kings,48 runs,192,1,144,10
+598069,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",72nd match (N),Hyderabad,2013-05-19,Indian Premier League,Kolkata Knight Riders,Sunrisers Hyderabad,130/7,132/5,Sunrisers Hyderabad,5 wickets,130,7,132,5
+598067,"Maharashtra Cricket Association Stadium, Pune",71st match (D/N),Pune,2013-05-19,Indian Premier League,Pune Warriors,Delhi Daredevils,172/5,134/9,Pune Warriors,38 runs,172,5,134,9
+598068,"M.Chinnaswamy Stadium, Bengaluru",70th match (N),Bengaluru,2013-05-18,Indian Premier League,Royal Challengers Bangalore,Chennai Super Kings,106/2,82/6,Royal Challengers Bangalore,24 runs,106,2,82,6
+598066,"Himachal Pradesh Cricket Association Stadium, Dharamsala",69th match (D/N),Dharamsala,2013-05-18,Indian Premier League,Kings XI Punjab,Mumbai Indians,183/8,133,Kings XI Punjab,50 runs,183,8,133,10
+598065,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",68th match (N),Hyderabad,2013-05-17,Indian Premier League,Sunrisers Hyderabad,Rajasthan Royals,136/9,113/9,Sunrisers Hyderabad,23 runs,136,9,113,9
+598028,"Himachal Pradesh Cricket Association Stadium, Dharamsala",67th match (N),Dharamsala,2013-05-16,Indian Premier League,Kings XI Punjab,Delhi Daredevils,171/4,164/7,Kings XI Punjab,7 runs,171,4,164,7
+598063,"Wankhede Stadium, Mumbai",66th match (N),Mumbai,2013-05-15,Indian Premier League,Mumbai Indians,Rajasthan Royals,166/8,152/7,Mumbai Indians,14 runs,166,8,152,7
+598061,"JSCA International Stadium Complex, Ranchi",65th match (D/N),Ranchi,2013-05-15,Indian Premier League,Pune Warriors,Kolkata Knight Riders,170/4,163/7,Pune Warriors,7 runs,170,4,163,7
+598062,"MA Chidambaram Stadium, Chepauk, Chennai",64th match (N),Chennai,2013-05-14,Indian Premier League,Chennai Super Kings,Delhi Daredevils,168/4,135/9,Chennai Super Kings,33 runs,168,4,135,9
+598045,"M.Chinnaswamy Stadium, Bengaluru",63rd match (D/N),Bengaluru,2013-05-14,Indian Premier League,Royal Challengers Bangalore,Kings XI Punjab,174/5,176/3,Kings XI Punjab,7 wickets,174,5,176,3
+598060,"Wankhede Stadium, Mumbai",62nd match (N),Mumbai,2013-05-13,Indian Premier League,Sunrisers Hyderabad,Mumbai Indians,178/3,184/3,Mumbai Indians,7 wickets,178,3,184,3
+598058,"Sawai Mansingh Stadium, Jaipur",61st match (N),Jaipur,2013-05-12,Indian Premier League,Chennai Super Kings,Rajasthan Royals,141/4,144/5,Rajasthan Royals,5 wickets,141,4,144,5
+598057,"JSCA International Stadium Complex, Ranchi",60th match (D/N),Ranchi,2013-05-12,Indian Premier League,Royal Challengers Bangalore,Kolkata Knight Riders,115/9,116/5,Kolkata Knight Riders,5 wickets,115,9,116,5
+598056,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",59th match (N),Chandigarh,2013-05-11,Indian Premier League,Sunrisers Hyderabad,Kings XI Punjab,150/7,120/9,Sunrisers Hyderabad,30 runs,150,7,120,9
+598055,"Maharashtra Cricket Association Stadium, Pune",58th match (D/N),Pune,2013-05-11,Indian Premier League,Pune Warriors,Mumbai Indians,112/8,116/5,Mumbai Indians,5 wickets,112,8,116,5
+598054,"Arun Jaitley Stadium, Delhi",57th match (N),Delhi,2013-05-10,Indian Premier League,Royal Challengers Bangalore,Delhi Daredevils,183/4,179/7,Royal Challengers Bangalore,4 runs,183,4,179,7
+598053,"Maharashtra Cricket Association Stadium, Pune",56th match (N),Pune,2013-05-09,Indian Premier League,Kolkata Knight Riders,Pune Warriors,152/6,106,Kolkata Knight Riders,46 runs,152,6,106,10
+598052,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",55th match (D/N),Chandigarh,2013-05-09,Indian Premier League,Kings XI Punjab,Rajasthan Royals,145/6,147/2,Rajasthan Royals,8 wickets,145,6,147,2
+598051,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",54th match (N),Hyderabad,2013-05-08,Indian Premier League,Chennai Super Kings,Sunrisers Hyderabad,223/3,146/8,Chennai Super Kings,77 runs,223,3,146,8
+598050,"Wankhede Stadium, Mumbai",53rd match (N),Mumbai,2013-05-07,Indian Premier League,Mumbai Indians,Kolkata Knight Riders,170/6,105,Mumbai Indians,65 runs,170,6,105,10
+598049,"Sawai Mansingh Stadium, Jaipur",52nd match (D/N),Jaipur,2013-05-07,Indian Premier League,Delhi Daredevils,Rajasthan Royals,154/4,155/1,Rajasthan Royals,9 wickets,154,4,155,1
+598064,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",51st match (N),Chandigarh,2013-05-06,Indian Premier League,Royal Challengers Bangalore,Kings XI Punjab,190/3,194/4,Kings XI Punjab,6 wickets,190,3,194,4
+598047,"Sawai Mansingh Stadium, Jaipur",50th match (N),Jaipur,2013-05-05,Indian Premier League,Pune Warriors,Rajasthan Royals,178/4,182/5,Rajasthan Royals,5 wickets,178,4,182,5
+598046,"Wankhede Stadium, Mumbai",49th match (D/N),Mumbai,2013-05-05,Indian Premier League,Mumbai Indians,Chennai Super Kings,139/5,79,Mumbai Indians,60 runs,139,5,79,10
+598044,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",48th match (N),Hyderabad,2013-05-04,Indian Premier League,Delhi Daredevils,Sunrisers Hyderabad,80,81/4,Sunrisers Hyderabad,6 wickets,80,10,81,4
+598043,"Eden Gardens, Kolkata",47th match (N),Kolkata,2013-05-03,Indian Premier League,Rajasthan Royals,Kolkata Knight Riders,132/6,133/2,Kolkata Knight Riders,8 wickets,132,6,133,2
+598042,"Maharashtra Cricket Association Stadium, Pune",46th match (N),Pune,2013-05-02,Indian Premier League,Royal Challengers Bangalore,Pune Warriors,187/3,170/9,Royal Challengers Bangalore,17 runs,187,3,170,9
+598041,"MA Chidambaram Stadium, Chepauk, Chennai",45th match (D/N),Chennai,2013-05-02,Indian Premier League,Chennai Super Kings,Kings XI Punjab,186/4,171/6,Chennai Super Kings,15 runs,186,4,171,6
+598040,"Shaheed Veer Narayan Singh International Stadium, Raipur",44th match (N),Raipur,2013-05-01,Indian Premier League,Kolkata Knight Riders,Delhi Daredevils,136/7,137/3,Delhi Daredevils,7 wickets,136,7,137,3
+598039,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",43rd match (D/N),Hyderabad,2013-05-01,Indian Premier League,Mumbai Indians,Sunrisers Hyderabad,129/4,130/3,Sunrisers Hyderabad,7 wickets,129,4,130,3
+598038,"Maharashtra Cricket Association Stadium, Pune",42nd match (N),Pune,2013-04-30,Indian Premier League,Chennai Super Kings,Pune Warriors,164/3,127/9,Chennai Super Kings,37 runs,164,3,127,9
+598037,"Wankhede Stadium, Mumbai",41st match (N),Mumbai,2013-04-29,Indian Premier League,Mumbai Indians,Kings XI Punjab,174/3,170,Mumbai Indians,4 runs,174,3,170,10
+598036,"Sawai Mansingh Stadium, Jaipur",40th match (D/N),Jaipur,2013-04-29,Indian Premier League,Royal Challengers Bangalore,Rajasthan Royals,171/6,173/6,Rajasthan Royals,4 wickets,171,6,173,6
+598035,"Shaheed Veer Narayan Singh International Stadium, Raipur",39th match (N),Raipur,2013-04-28,Indian Premier League,Delhi Daredevils,Pune Warriors,164/5,149/4,Delhi Daredevils,15 runs,164,5,149,4
+598034,"MA Chidambaram Stadium, Chepauk, Chennai",38th match (D/N),Chennai,2013-04-28,Indian Premier League,Chennai Super Kings,Kolkata Knight Riders,200/3,186/4,Chennai Super Kings,14 runs,200,3,186,4
+598033,"Wankhede Stadium, Mumbai",37th match (N),Mumbai,2013-04-27,Indian Premier League,Mumbai Indians,Royal Challengers Bangalore,194/7,136/7,Mumbai Indians,58 runs,194,7,136,7
+598032,"Sawai Mansingh Stadium, Jaipur",36th match (D/N),Jaipur,2013-04-27,Indian Premier League,Sunrisers Hyderabad,Rajasthan Royals,144/9,146/2,Rajasthan Royals,8 wickets,144,9,146,2
+598031,"Eden Gardens, Kolkata",35th match (N),Kolkata,2013-04-26,Indian Premier League,Kings XI Punjab,Kolkata Knight Riders,149/6,150/4,Kolkata Knight Riders,6 wickets,149,6,150,4
+598030,"MA Chidambaram Stadium, Chepauk, Chennai",34th match (N),Chennai,2013-04-25,Indian Premier League,Sunrisers Hyderabad,Chennai Super Kings,159/6,160/5,Chennai Super Kings,5 wickets,159,6,160,5
+598029,"Eden Gardens, Kolkata",33rd match (N),Kolkata,2013-04-24,Indian Premier League,Kolkata Knight Riders,Mumbai Indians,159/6,162/5,Mumbai Indians,5 wickets,159,6,162,5
+598059,"Arun Jaitley Stadium, Delhi",32nd match (N),Delhi,2013-04-23,Indian Premier League,Delhi Daredevils,Kings XI Punjab,120/7,121/5,Kings XI Punjab,5 wickets,120,7,121,5
+598027,"M.Chinnaswamy Stadium, Bengaluru",31st match (D/N),Bengaluru,2013-04-23,Indian Premier League,Royal Challengers Bangalore,Pune Warriors,263/5,133/9,Royal Challengers Bangalore,130 runs,263,5,133,9
+598026,"MA Chidambaram Stadium, Chepauk, Chennai",30th match (N),Chennai,2013-04-22,Indian Premier League,Rajasthan Royals,Chennai Super Kings,185/4,186/5,Chennai Super Kings,5 wickets,185,4,186,5
+598025,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",29th match (N),Chandigarh,2013-04-21,Indian Premier League,Pune Warriors,Kings XI Punjab,185/4,186/3,Kings XI Punjab,7 wickets,185,4,186,3
+598024,"Arun Jaitley Stadium, Delhi",28th match (D/N),Delhi,2013-04-21,Indian Premier League,Mumbai Indians,Delhi Daredevils,161/4,165/1,Delhi Daredevils,9 wickets,161,4,165,1
+598023,"M.Chinnaswamy Stadium, Bengaluru",27th match (N),Bengaluru,2013-04-20,Indian Premier League,Rajasthan Royals,Royal Challengers Bangalore,117,123/3,Royal Challengers Bangalore,7 wickets,117,10,123,3
+598022,"Eden Gardens, Kolkata",26th match (D/N),Kolkata,2013-04-20,Indian Premier League,Kolkata Knight Riders,Chennai Super Kings,119/9,124/6,Chennai Super Kings,4 wickets,119,9,124,6
+598021,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",25th match (N),Hyderabad,2013-04-19,Indian Premier League,Kings XI Punjab,Sunrisers Hyderabad,123/9,127/5,Sunrisers Hyderabad,5 wickets,123,9,127,5
+598020,"Arun Jaitley Stadium, Delhi",24th match (N),Delhi,2013-04-18,Indian Premier League,Chennai Super Kings,Delhi Daredevils,169/4,83,Chennai Super Kings,86 runs,169,4,83,10
+598019,"Sawai Mansingh Stadium, Jaipur",23rd match (N),Jaipur,2013-04-17,Indian Premier League,Rajasthan Royals,Mumbai Indians,179/3,92,Rajasthan Royals,87 runs,179,3,92,10
+598018,"Maharashtra Cricket Association Stadium, Pune",22nd match (D/N),Pune,2013-04-17,Indian Premier League,Sunrisers Hyderabad,Pune Warriors,119/8,108,Sunrisers Hyderabad,11 runs,119,8,108,10
+598017,"M.Chinnaswamy Stadium, Bengaluru",21st match (N),Bengaluru,2013-04-16,Indian Premier League,Delhi Daredevils,Royal Challengers Bangalore,152/5,152/7,Royal Challengers Bangalore,Super Over,152,5,152,7
+598016,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",20th match (D/N),Chandigarh,2013-04-16,Indian Premier League,Kings XI Punjab,Kolkata Knight Riders,157/9,153/9,Kings XI Punjab,4 runs,157,9,153,9
+598015,"MA Chidambaram Stadium, Chepauk, Chennai",19th match (N),Chennai,2013-04-15,Indian Premier League,Pune Warriors,Chennai Super Kings,159/5,135/8,Pune Warriors,24 runs,159,5,135,8
+598014,"Sawai Mansingh Stadium, Jaipur",18th match (N),Jaipur,2013-04-14,Indian Premier League,Kings XI Punjab,Rajasthan Royals,124,126/4,Rajasthan Royals,6 wickets,124,10,126,4
+598013,"Eden Gardens, Kolkata",17th match (D/N),Kolkata,2013-04-14,Indian Premier League,Kolkata Knight Riders,Sunrisers Hyderabad,180/4,132/7,Kolkata Knight Riders,48 runs,180,4,132,7
+598012,"MA Chidambaram Stadium, Chepauk, Chennai",16th match (N),Chennai,2013-04-13,Indian Premier League,Royal Challengers Bangalore,Chennai Super Kings,165/6,166/6,Chennai Super Kings,4 wickets,165,6,166,6
+598011,"Wankhede Stadium, Mumbai",15th match (D/N),Mumbai,2013-04-13,Indian Premier League,Mumbai Indians,Pune Warriors,183/3,142/8,Mumbai Indians,41 runs,183,3,142,8
+598010,"Arun Jaitley Stadium, Delhi",14th match (N),Delhi,2013-04-12,Indian Premier League,Delhi Daredevils,Sunrisers Hyderabad,114/8,115/7,Sunrisers Hyderabad,3 wickets,114,8,115,7
+598009,"Maharashtra Cricket Association Stadium, Pune",13th match (N),Pune,2013-04-11,Indian Premier League,Rajasthan Royals,Pune Warriors,145/5,148/3,Pune Warriors,7 wickets,145,5,148,3
+598008,"M.Chinnaswamy Stadium, Bengaluru",12th match (D/N),Bengaluru,2013-04-11,Indian Premier League,Kolkata Knight Riders,Royal Challengers Bangalore,154/8,158/2,Royal Challengers Bangalore,8 wickets,154,8,158,2
+598007,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",11th match (N),Chandigarh,2013-04-10,Indian Premier League,Kings XI Punjab,Chennai Super Kings,138,139/0,Chennai Super Kings,10 wickets,138,10,139,0
+598006,"Wankhede Stadium, Mumbai",10th match (N),Mumbai,2013-04-09,Indian Premier League,Mumbai Indians,Delhi Daredevils,209/5,165/9,Mumbai Indians,44 runs,209,5,165,9
+598048,"M.Chinnaswamy Stadium, Bengaluru",9th match (D/N),Bengaluru,2013-04-09,Indian Premier League,Sunrisers Hyderabad,Royal Challengers Bangalore,161/6,162/3,Royal Challengers Bangalore,7 wickets,161,6,162,3
+598005,"Sawai Mansingh Stadium, Jaipur",8th match (N),Jaipur,2013-04-08,Indian Premier League,Rajasthan Royals,Kolkata Knight Riders,144/6,125,Rajasthan Royals,19 runs,144,6,125,10
+598004,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",7th match (N),Hyderabad,2013-04-07,Indian Premier League,Royal Challengers Bangalore,Sunrisers Hyderabad,130/8,130/7,Sunrisers Hyderabad,Super Over,130,8,130,7
+598003,"Maharashtra Cricket Association Stadium, Pune",6th match (D/N),Pune,2013-04-07,Indian Premier League,Pune Warriors,Kings XI Punjab,99/9,100/2,Kings XI Punjab,8 wickets,99,9,100,2
+598002,"MA Chidambaram Stadium, Chepauk, Chennai",5th match (N),Chennai,2013-04-06,Indian Premier League,Mumbai Indians,Chennai Super Kings,148/6,139/9,Mumbai Indians,9 runs,148,6,139,9
+598001,"Arun Jaitley Stadium, Delhi",4th match (D/N),Delhi,2013-04-06,Indian Premier League,Rajasthan Royals,Delhi Daredevils,165/7,160/6,Rajasthan Royals,5 runs,165,7,160,6
+598000,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",3rd match (N),Hyderabad,2013-04-05,Indian Premier League,Sunrisers Hyderabad,Pune Warriors,126/6,104,Sunrisers Hyderabad,22 runs,126,6,104,10
+597999,"M.Chinnaswamy Stadium, Bengaluru",2nd match (N),Bengaluru,2013-04-04,Indian Premier League,Royal Challengers Bangalore,Mumbai Indians,156/5,154/5,Royal Challengers Bangalore,2 runs,156,5,154,5
+597998,"Eden Gardens, Kolkata",1st match (N),Kolkata,2013-04-03,Indian Premier League,Delhi Daredevils,Kolkata Knight Riders,128,129/4,Kolkata Knight Riders,6 wickets,128,10,129,4

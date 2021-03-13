@@ -1,0 +1,61 @@
+match_id,venue,match_type,city,date,full_league,team_one,team_two,inn_one,inn_two,winner,margin,inn_one_score,inn_one_wickets,inn_two_score,inn_two_wickets
+734049,"M.Chinnaswamy Stadium, Bengaluru",Final (N),Bengaluru,2014-06-01,Pepsi Indian Premier League,Kings XI Punjab,Kolkata Knight Riders,199/4,200/7,Kolkata Knight Riders,3 wickets,199,4,200,7
+734047,"Wankhede Stadium, Mumbai",Qualifier 2 (N),Mumbai,2014-05-30,Pepsi Indian Premier League,Kings XI Punjab,Chennai Super Kings,226/6,202/7,Kings XI Punjab,24 runs,226,6,202,7
+734045,"Brabourne Stadium, Mumbai",Eliminator (N),Mumbai,2014-05-28,Pepsi Indian Premier League,Mumbai Indians,Chennai Super Kings,173/8,176/3,Chennai Super Kings,7 wickets,173,8,176,3
+734043,"Eden Gardens, Kolkata",Qualifier 1 (D/N),Kolkata,2014-05-27,Pepsi Indian Premier League,Kolkata Knight Riders,Kings XI Punjab,163/8,135/8,Kolkata Knight Riders,28 runs,163,8,135,8
+734041,"Wankhede Stadium, Mumbai",56th match (N),Mumbai,2014-05-25,Pepsi Indian Premier League,Rajasthan Royals,Mumbai Indians,189/4,195/5,Mumbai Indians,5 wickets,189,4,195,5
+734039,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",55th match (D/N),Chandigarh,2014-05-25,Pepsi Indian Premier League,Delhi Daredevils,Kings XI Punjab,115,119/3,Kings XI Punjab,7 wickets,115,10,119,3
+734037,"Eden Gardens, Kolkata",54th match (N),Kolkata,2014-05-24,Pepsi Indian Premier League,Sunrisers Hyderabad,Kolkata Knight Riders,160/7,161/6,Kolkata Knight Riders,4 wickets,160,7,161,6
+734035,"M.Chinnaswamy Stadium, Bengaluru",53rd match (D/N),Bengaluru,2014-05-24,Pepsi Indian Premier League,Royal Challengers Bangalore,Chennai Super Kings,154/6,160/2,Chennai Super Kings,8 wickets,154,6,160,2
+734033,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",52nd match (N),Chandigarh,2014-05-23,Pepsi Indian Premier League,Kings XI Punjab,Rajasthan Royals,179/4,163/8,Kings XI Punjab,16 runs,179,4,163,8
+734031,"Wankhede Stadium, Mumbai",51st match (D/N),Mumbai,2014-05-23,Pepsi Indian Premier League,Mumbai Indians,Delhi Daredevils,173,158/4,Mumbai Indians,15 runs,173,10,158,4
+734029,"JSCA International Stadium Complex, Ranchi",50th match (N),Ranchi,2014-05-22,Pepsi Indian Premier League,Chennai Super Kings,Sunrisers Hyderabad,185/3,189/4,Sunrisers Hyderabad,6 wickets,185,3,189,4
+734027,"Eden Gardens, Kolkata",49th match (D/N),Kolkata,2014-05-22,Pepsi Indian Premier League,Kolkata Knight Riders,Royal Challengers Bangalore,195/4,165/5,Kolkata Knight Riders,30 runs,195,4,165,5
+734025,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",48th match (N),Chandigarh,2014-05-21,Pepsi Indian Premier League,Kings XI Punjab,Mumbai Indians,156/8,159/3,Mumbai Indians,7 wickets,156,8,159,3
+734023,"Eden Gardens, Kolkata",47th match (N),Kolkata,2014-05-20,Pepsi Indian Premier League,Chennai Super Kings,Kolkata Knight Riders,154/4,156/2,Kolkata Knight Riders,8 wickets,154,4,156,2
+734021,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",46th match (D/N),Hyderabad,2014-05-20,Pepsi Indian Premier League,Royal Challengers Bangalore,Sunrisers Hyderabad,160/6,161/3,Sunrisers Hyderabad,7 wickets,160,6,161,3
+734019,"Arun Jaitley Stadium, Delhi",45th match (N),Delhi,2014-05-19,Pepsi Indian Premier League,Delhi Daredevils,Kings XI Punjab,164/7,165/6,Kings XI Punjab,4 wickets,164,7,165,6
+734017,"Narendra Modi Stadium, Motera, Ahmedabad",44th match (D/N),Ahmedabad,2014-05-19,Pepsi Indian Premier League,Mumbai Indians,Rajasthan Royals,178/3,153/8,Mumbai Indians,25 runs,178,3,153,8
+734015,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",43rd match (N),Hyderabad,2014-05-18,Pepsi Indian Premier League,Sunrisers Hyderabad,Kolkata Knight Riders,142/8,146/3,Kolkata Knight Riders,7 wickets,142,8,146,3
+734013,"JSCA International Stadium Complex, Ranchi",42nd match (D/N),Ranchi,2014-05-18,Pepsi Indian Premier League,Chennai Super Kings,Royal Challengers Bangalore,138/4,142/5,Royal Challengers Bangalore,5 wickets,138,4,142,5
+734011,"Narendra Modi Stadium, Motera, Ahmedabad",41st match (N),Ahmedabad,2014-05-15,Pepsi Indian Premier League,Rajasthan Royals,Delhi Daredevils,201/6,139/9,Rajasthan Royals,62 runs,201,6,139,9
+734009,"Barabati Stadium, Cuttack",40th match (N),Cuttack,2014-05-14,Pepsi Indian Premier League,Mumbai Indians,Kolkata Knight Riders,141/5,142/4,Kolkata Knight Riders,6 wickets,141,5,142,4
+734007,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",39th match (D/N),Hyderabad,2014-05-14,Pepsi Indian Premier League,Sunrisers Hyderabad,Kings XI Punjab,205/5,211/4,Kings XI Punjab,6 wickets,205,5,211,4
+734005,"M.Chinnaswamy Stadium, Bengaluru",38th match (N),Bengaluru,2014-05-13,Pepsi Indian Premier League,Royal Challengers Bangalore,Delhi Daredevils,186/4,170/7,Royal Challengers Bangalore,16 runs,186,4,170,7
+734003,"JSCA International Stadium Complex, Ranchi",37th match (D/N),Ranchi,2014-05-13,Pepsi Indian Premier League,Rajasthan Royals,Chennai Super Kings,148/8,149/5,Chennai Super Kings,5 wickets,148,8,149,5
+734001,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",36th match (N),Hyderabad,2014-05-12,Pepsi Indian Premier League,Sunrisers Hyderabad,Mumbai Indians,157/3,160/3,Mumbai Indians,7 wickets,157,3,160,3
+733999,"M.Chinnaswamy Stadium, Bengaluru",35th match (N),Bengaluru,2014-05-11,Pepsi Indian Premier League,Royal Challengers Bangalore,Rajasthan Royals,190/5,191/5,Rajasthan Royals,5 wickets,190,5,191,5
+733997,"Barabati Stadium, Cuttack",34th match (D/N),Cuttack,2014-05-11,Pepsi Indian Premier League,Kings XI Punjab,Kolkata Knight Riders,149/8,150/1,Kolkata Knight Riders,9 wickets,149,8,150,1
+733995,"Wankhede Stadium, Mumbai",33rd match (N),Mumbai,2014-05-10,Pepsi Indian Premier League,Mumbai Indians,Chennai Super Kings,157/6,160/6,Chennai Super Kings,4 wickets,157,6,160,6
+733993,"Arun Jaitley Stadium, Delhi",32nd match (D/N),Delhi,2014-05-10,Pepsi Indian Premier League,Delhi Daredevils,Sunrisers Hyderabad,143/7,44/2,Sunrisers Hyderabad,8 wickets,143,7,44,2
+733991,"M.Chinnaswamy Stadium, Bengaluru",31st match (N),Bengaluru,2014-05-09,Pepsi Indian Premier League,Kings XI Punjab,Royal Challengers Bangalore,198/8,166/9,Kings XI Punjab,32 runs,198,8,166,9
+733989,"Narendra Modi Stadium, Motera, Ahmedabad",30th match (N),Ahmedabad,2014-05-08,Pepsi Indian Premier League,Sunrisers Hyderabad,Rajasthan Royals,134/9,102,Sunrisers Hyderabad,32 runs,134,9,102,10
+733987,"Barabati Stadium, Cuttack",29th match (N),Cuttack,2014-05-07,Pepsi Indian Premier League,Kings XI Punjab,Chennai Super Kings,231/4,187/6,Kings XI Punjab,44 runs,231,4,187,6
+733985,"Arun Jaitley Stadium, Delhi",28th match (D/N),Delhi,2014-05-07,Pepsi Indian Premier League,Delhi Daredevils,Kolkata Knight Riders,160/5,161/2,Kolkata Knight Riders,8 wickets,160,5,161,2
+733983,"Wankhede Stadium, Mumbai",27th match (N),Mumbai,2014-05-06,Pepsi Indian Premier League,Mumbai Indians,Royal Challengers Bangalore,187/5,168/8,Mumbai Indians,19 runs,187,5,168,8
+733981,"Arun Jaitley Stadium, Delhi",26th match (N),Delhi,2014-05-05,Pepsi Indian Premier League,Delhi Daredevils,Chennai Super Kings,178/5,181/2,Chennai Super Kings,8 wickets,178,5,181,2
+733979,"Narendra Modi Stadium, Motera, Ahmedabad",25th match (D/N),Ahmedabad,2014-05-05,Pepsi Indian Premier League,Rajasthan Royals,Kolkata Knight Riders,170/6,160/6,Rajasthan Royals,10 runs,170,6,160,6
+733977,"M.Chinnaswamy Stadium, Bengaluru",24th match (N),Bengaluru,2014-05-04,Pepsi Indian Premier League,Sunrisers Hyderabad,Royal Challengers Bangalore,155/6,158/6,Royal Challengers Bangalore,4 wickets,155,6,158,6
+733975,"Arun Jaitley Stadium, Delhi",23rd match (N),Delhi,2014-05-03,Pepsi Indian Premier League,Delhi Daredevils,Rajasthan Royals,152/5,156/3,Rajasthan Royals,7 wickets,152,5,156,3
+733973,"Wankhede Stadium, Mumbai",22nd match (D/N),Mumbai,2014-05-03,Pepsi Indian Premier League,Kings XI Punjab,Mumbai Indians,168/5,170/5,Mumbai Indians,5 wickets,168,5,170,5
+733971,"JSCA International Stadium Complex, Ranchi",21st match (N),Ranchi,2014-05-02,Pepsi Indian Premier League,Chennai Super Kings,Kolkata Knight Riders,148/3,114/9,Chennai Super Kings,34 runs,148,3,114,9
+729317,Dubai International Cricket Stadium,20th match (N),Dubai,2014-04-30,Pepsi Indian Premier League,Sunrisers Hyderabad,Mumbai Indians,172/5,157/7,Sunrisers Hyderabad,15 runs,172,5,157,7
+729315,"Sheikh Zayed Stadium, Abu Dhabi",19th match (N),Abu Dhabi,2014-04-29,Pepsi Indian Premier League,Rajasthan Royals,Kolkata Knight Riders,152/5,152/8,Rajasthan Royals,Super Over,152,5,152,8
+729313,Dubai International Cricket Stadium,18th match (N),Dubai,2014-04-28,Pepsi Indian Premier League,Royal Challengers Bangalore,Kings XI Punjab,124/8,127/5,Kings XI Punjab,5 wickets,124,8,127,5
+729311,Sharjah Cricket Stadium,17th match (N),Sharjah,2014-04-27,Pepsi Indian Premier League,Sunrisers Hyderabad,Chennai Super Kings,145/5,146/5,Chennai Super Kings,5 wickets,145,5,146,5
+729309,Sharjah Cricket Stadium,16th match,Sharjah,2014-04-27,Pepsi Indian Premier League,Mumbai Indians,Delhi Daredevils,125/6,126/4,Delhi Daredevils,6 wickets,125,6,126,4
+729307,"Sheikh Zayed Stadium, Abu Dhabi",15th match (N),Abu Dhabi,2014-04-26,Pepsi Indian Premier League,Kings XI Punjab,Kolkata Knight Riders,132/9,109,Kings XI Punjab,23 runs,132,9,109,10
+729305,"Sheikh Zayed Stadium, Abu Dhabi",14th match,Abu Dhabi,2014-04-26,Pepsi Indian Premier League,Royal Challengers Bangalore,Rajasthan Royals,70,71/4,Rajasthan Royals,6 wickets,70,10,71,4
+729303,Dubai International Cricket Stadium,13th match (N),Dubai,2014-04-25,Pepsi Indian Premier League,Mumbai Indians,Chennai Super Kings,141/7,142/3,Chennai Super Kings,7 wickets,141,7,142,3
+729301,Dubai International Cricket Stadium,12th match,Dubai,2014-04-25,Pepsi Indian Premier League,Sunrisers Hyderabad,Delhi Daredevils,184/1,180/4,Sunrisers Hyderabad,4 runs,184,1,180,4
+729299,Sharjah Cricket Stadium,11th match (N),Sharjah,2014-04-24,Pepsi Indian Premier League,Kolkata Knight Riders,Royal Challengers Bangalore,150/7,148/5,Kolkata Knight Riders,2 runs,150,7,148,5
+729297,Dubai International Cricket Stadium,10th match (N),Dubai,2014-04-23,Pepsi Indian Premier League,Chennai Super Kings,Rajasthan Royals,140/6,133,Chennai Super Kings,7 runs,140,6,133,10
+729295,Sharjah Cricket Stadium,9th match (N),Sharjah,2014-04-22,Pepsi Indian Premier League,Kings XI Punjab,Sunrisers Hyderabad,193/6,121,Kings XI Punjab,72 runs,193,6,121,10
+729293,"Sheikh Zayed Stadium, Abu Dhabi",8th match (N),Abu Dhabi,2014-04-21,Pepsi Indian Premier League,Chennai Super Kings,Delhi Daredevils,177/7,84,Chennai Super Kings,93 runs,177,7,84,10
+729291,Sharjah Cricket Stadium,7th match (N),Sharjah,2014-04-20,Pepsi Indian Premier League,Rajasthan Royals,Kings XI Punjab,191/5,193/3,Kings XI Punjab,7 wickets,191,5,193,3
+729289,Dubai International Cricket Stadium,6th match (N),Dubai,2014-04-19,Pepsi Indian Premier League,Kolkata Knight Riders,Delhi Daredevils,166/5,167/6,Delhi Daredevils,4 wickets,166,5,167,6
+729287,Dubai International Cricket Stadium,5th match,Dubai,2014-04-19,Pepsi Indian Premier League,Mumbai Indians,Royal Challengers Bangalore,115/9,116/3,Royal Challengers Bangalore,7 wickets,115,9,116,3
+729285,"Sheikh Zayed Stadium, Abu Dhabi",4th match (N),Abu Dhabi,2014-04-18,Pepsi Indian Premier League,Sunrisers Hyderabad,Rajasthan Royals,133/6,135/6,Rajasthan Royals,4 wickets,133,6,135,6
+729283,"Sheikh Zayed Stadium, Abu Dhabi",3rd match,Abu Dhabi,2014-04-18,Pepsi Indian Premier League,Chennai Super Kings,Kings XI Punjab,205/4,206/4,Kings XI Punjab,6 wickets,205,4,206,4
+729281,Sharjah Cricket Stadium,2nd match (N),Sharjah,2014-04-17,Pepsi Indian Premier League,Delhi Daredevils,Royal Challengers Bangalore,145/4,146/2,Royal Challengers Bangalore,8 wickets,145,4,146,2
+729279,"Sheikh Zayed Stadium, Abu Dhabi",1st match (N),Abu Dhabi,2014-04-16,Pepsi Indian Premier League,Kolkata Knight Riders,Mumbai Indians,163/5,122/7,Kolkata Knight Riders,41 runs,163,5,122,7

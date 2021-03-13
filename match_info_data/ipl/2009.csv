@@ -1,0 +1,60 @@
+match_id,venue,match_type,city,date,full_league,team_one,team_two,inn_one,inn_two,winner,margin,inn_one_score,inn_one_wickets,inn_two_score,inn_two_wickets
+392239,"The Wanderers Stadium, Johannesburg",Final (D/N),Johannesburg,2009-05-24,Indian Premier League,Deccan Chargers,Royal Challengers Bangalore,143/6,137/9,Deccan Chargers ,6 runs,143,6,137,9
+392238,"The Wanderers Stadium, Johannesburg",2nd Semi-Final (D/N),Johannesburg,2009-05-23,Indian Premier League,Chennai Super Kings,Royal Challengers Bangalore,146/5,149/4,Royal Challengers Bangalore,6 wickets,146,5,149,4
+392237,"SuperSport Park, Centurion",1st Semi-Final (D/N),Centurion,2009-05-22,Indian Premier League,Delhi Daredevils,Deccan Chargers,153/8,154/4,Deccan Chargers ,6 wickets,153,8,154,4
+392236,"SuperSport Park, Centurion",56th match (D/N),Centurion,2009-05-21,Indian Premier League,Royal Challengers Bangalore,Deccan Chargers,170/4,158/6,Royal Challengers Bangalore,12 runs,170,4,158,6
+392235,"SuperSport Park, Centurion",55th match,Centurion,2009-05-21,Indian Premier League,Mumbai Indians,Delhi Daredevils,165/8,166/6,Delhi Daredevils,4 wickets,165,8,166,6
+392234,"Kingsmead, Durban",54th match (D/N),Durban,2009-05-20,Indian Premier League,Chennai Super Kings,Kings XI Punjab,116/9,92/8,Chennai Super Kings,24 runs,116,9,92,8
+392233,"Kingsmead, Durban",53rd match,Durban,2009-05-20,Indian Premier League,Rajasthan Royals,Kolkata Knight Riders,101/9,102/6,Kolkata Knight Riders,4 wickets,101,9,102,6
+392232,"The Wanderers Stadium, Johannesburg",52nd match (D/N),Johannesburg,2009-05-19,Indian Premier League,Delhi Daredevils,Royal Challengers Bangalore,134/7,135/3,Royal Challengers Bangalore,7 wickets,134,7,135,3
+392231,"SuperSport Park, Centurion",51st match (D/N),Centurion,2009-05-18,Indian Premier League,Chennai Super Kings,Kolkata Knight Riders,188/3,189/3,Kolkata Knight Riders,7 wickets,188,3,189,3
+392230,"Mangaung Oval, Bloemfontein",50th match (D/N),Bloemfontein,2009-05-17,Indian Premier League,Delhi Daredevils,Rajasthan Royals,150/3,136/9,Delhi Daredevils,14 runs,150,3,136,9
+392229,"The Wanderers Stadium, Johannesburg",49th match,Johannesburg,2009-05-17,Indian Premier League,Kings XI Punjab,Deccan Chargers,134/7,133/8,Kings XI Punjab,1 run,134,7,133,8
+392228,"The Wanderers Stadium, Johannesburg",48th match (D/N),Johannesburg,2009-05-16,Indian Premier League,Kolkata Knight Riders,Deccan Chargers,160/5,166/4,Deccan Chargers ,6 wickets,160,5,166,4
+392227,"St George's Park, Port Elizabeth",47th match,Port Elizabeth,2009-05-16,Indian Premier League,Mumbai Indians,Chennai Super Kings,147/5,151/3,Chennai Super Kings,7 wickets,147,5,151,3
+392226,"Mangaung Oval, Bloemfontein",46th match (D/N),Bloemfontein,2009-05-15,Indian Premier League,Delhi Daredevils,Kings XI Punjab,120/9,123/4,Kings XI Punjab,6 wickets,120,9,123,4
+392225,"Kingsmead, Durban",45th match (D/N),Durban,2009-05-14,Indian Premier League,Rajasthan Royals,Mumbai Indians,145/7,143,Rajasthan Royals,2 runs,145,7,143,10
+392224,"Kingsmead, Durban",44th match,Durban,2009-05-14,Indian Premier League,Chennai Super Kings,Royal Challengers Bangalore,129,132/8,Royal Challengers Bangalore,2 wickets,129,10,132,8
+392223,"Kingsmead, Durban",43rd match (D/N),Durban,2009-05-13,Indian Premier League,Delhi Daredevils,Deccan Chargers,173/7,161,Delhi Daredevils,12 runs,173,7,161,10
+392222,"SuperSport Park, Centurion",42nd match (D/N),Centurion,2009-05-12,Indian Premier League,Kings XI Punjab,Mumbai Indians,119/9,122/2,Mumbai Indians,8 wickets,119,9,122,2
+392221,"SuperSport Park, Centurion",41st match,Centurion,2009-05-12,Indian Premier League,Kolkata Knight Riders,Royal Challengers Bangalore,173/4,176/4,Royal Challengers Bangalore,6 wickets,173,4,176,4
+392220,"Diamond Oval, Kimberley",40th match (D/N),Kimberley,2009-05-11,Indian Premier League,Deccan Chargers,Rajasthan Royals,166/7,113,Deccan Chargers ,53 runs,166,7,113,10
+392219,"The Wanderers Stadium, Johannesburg",39th match (D/N),Johannesburg,2009-05-10,Indian Premier League,Kolkata Knight Riders,Delhi Daredevils,123/8,125/3,Delhi Daredevils,7 wickets,123,8,125,3
+392218,"St George's Park, Port Elizabeth",38th match,Port Elizabeth,2009-05-10,Indian Premier League,Mumbai Indians,Royal Challengers Bangalore,157/2,141/7,Mumbai Indians,16 runs,157,2,141,7
+392217,"Diamond Oval, Kimberley",37th match (D/N),Kimberley,2009-05-09,Indian Premier League,Rajasthan Royals,Chennai Super Kings,140/7,141/3,Chennai Super Kings,7 wickets,140,7,141,3
+392216,"Diamond Oval, Kimberley",36th match,Kimberley,2009-05-09,Indian Premier League,Deccan Chargers,Kings XI Punjab,168/5,169/7,Kings XI Punjab,3 wickets,168,5,169,7
+392215,"Buffalo Park, East London",35th match (D/N),East London,2009-05-08,Indian Premier League,Mumbai Indians,Delhi Daredevils,116,118/3,Delhi Daredevils,7 wickets,116,10,118,3
+392214,"SuperSport Park, Centurion",34th match (D/N),Centurion,2009-05-07,Indian Premier League,Chennai Super Kings,Kings XI Punjab,185/3,174/3,Chennai Super Kings,12 runs,185,3,174,3
+392213,"SuperSport Park, Centurion",33rd match,Centurion,2009-05-07,Indian Premier League,Royal Challengers Bangalore,Rajasthan Royals,105,107/3,Rajasthan Royals,7 wickets,105,10,107,3
+392212,"SuperSport Park, Centurion",32nd match (D/N),Centurion,2009-05-06,Indian Premier League,Deccan Chargers,Mumbai Indians,145/6,126/8,Deccan Chargers ,19 runs,145,6,126,8
+392211,"Kingsmead, Durban",31st match (D/N),Durban,2009-05-05,Indian Premier League,Kolkata Knight Riders,Delhi Daredevils,154/3,157/1,Delhi Daredevils,9 wickets,154,3,157,1
+392210,"Kingsmead, Durban",30th match,Durban,2009-05-05,Indian Premier League,Rajasthan Royals,Kings XI Punjab,211/4,133/8,Rajasthan Royals,78 runs,211,4,133,8
+392209,"Buffalo Park, East London",29th match (D/N),East London,2009-05-04,Indian Premier League,Chennai Super Kings,Deccan Chargers,178/3,100,Chennai Super Kings,78 runs,178,3,100,10
+392208,"The Wanderers Stadium, Johannesburg",28th match (D/N),Johannesburg,2009-05-03,Indian Premier League,Mumbai Indians,Royal Challengers Bangalore,149/4,150/1,Royal Challengers Bangalore,9 wickets,149,4,150,1
+392207,"St George's Park, Port Elizabeth",27th match,Port Elizabeth,2009-05-03,Indian Premier League,Kolkata Knight Riders,Kings XI Punjab,153/3,154/4,Kings XI Punjab,6 wickets,153,3,154,4
+392206,"The Wanderers Stadium, Johannesburg",26th match (D/N),Johannesburg,2009-05-02,Indian Premier League,Chennai Super Kings,Delhi Daredevils,163,145/8,Chennai Super Kings,18 runs,163,10,145,8
+392205,"St George's Park, Port Elizabeth",25th match,Port Elizabeth,2009-05-02,Indian Premier League,Deccan Chargers,Rajasthan Royals,141/5,142/7,Rajasthan Royals,3 wickets,141,5,142,7
+392204,"Kingsmead, Durban",24th match (D/N),Durban,2009-05-01,Indian Premier League,Royal Challengers Bangalore,Kings XI Punjab,145/9,137/7,Royal Challengers Bangalore,8 runs,145,9,137,7
+392203,"Buffalo Park, East London",23rd match,East London,2009-05-01,Indian Premier League,Mumbai Indians,Kolkata Knight Riders,148/6,139/6,Mumbai Indians,9 runs,148,6,139,6
+392202,"SuperSport Park, Centurion",22nd match (D/N),Centurion,2009-04-30,Indian Premier League,Chennai Super Kings,Rajasthan Royals,164/5,126,Chennai Super Kings,38 runs,164,5,126,10
+392201,"SuperSport Park, Centurion",21st match,Centurion,2009-04-30,Indian Premier League,Deccan Chargers,Delhi Daredevils,148/9,150/4,Delhi Daredevils,6 wickets,148,9,150,4
+392200,"Kingsmead, Durban",20th match (D/N),Durban,2009-04-29,Indian Premier League,Kings XI Punjab,Mumbai Indians,119/8,116/7,Kings XI Punjab,3 runs,119,8,116,7
+392199,"Kingsmead, Durban",19th match,Durban,2009-04-29,Indian Premier League,Kolkata Knight Riders,Royal Challengers Bangalore,139/6,143/5,Royal Challengers Bangalore,5 wickets,139,6,143,5
+392198,"SuperSport Park, Centurion",18th match (D/N),Centurion,2009-04-28,Indian Premier League,Delhi Daredevils,Rajasthan Royals,143/7,147/5,Rajasthan Royals,5 wickets,143,7,147,5
+392197,"St George's Park, Port Elizabeth",17th match (D/N),Port Elizabeth,2009-04-27,Indian Premier League,Mumbai Indians,Kolkata Knight Riders,187/6,95,Mumbai Indians,92 runs,187,6,95,10
+392196,"Kingsmead, Durban",16th match,Durban,2009-04-27,Indian Premier League,Chennai Super Kings,Deccan Chargers,165/6,169/4,Deccan Chargers ,6 wickets,165,6,169,4
+392195,"Newlands, Cape Town",15th match (D/N),Cape Town,2009-04-26,Indian Premier League,Kings XI Punjab,Rajasthan Royals,139/6,112/7,Kings XI Punjab,27 runs,139,6,112,7
+392194,"St George's Park, Port Elizabeth",14th match,Port Elizabeth,2009-04-26,Indian Premier League,Royal Challengers Bangalore,Delhi Daredevils,149/7,150/4,Delhi Daredevils,6 wickets,149,7,150,4
+392193,"Newlands, Cape Town",13th match (D/N),Cape Town,2009-04-25,Indian Premier League,Chennai Super Kings,Kolkata Knight Riders,,,,,,,,
+392192,"Kingsmead, Durban",12th match,Durban,2009-04-25,Indian Premier League,Deccan Chargers,Mumbai Indians,168/9,156/7,Deccan Chargers ,12 runs,168,9,156,7
+392191,"Kingsmead, Durban",11th match (D/N),Durban,2009-04-24,Indian Premier League,Royal Challengers Bangalore,Kings XI Punjab,168/9,173/3,Kings XI Punjab,7 wickets,168,9,173,3
+392190,"Newlands, Cape Town",10th match (D/N),Cape Town,2009-04-23,Indian Premier League,Rajasthan Royals,Kolkata Knight Riders,150/6,150/8,Rajasthan Royals,Super Over,150,6,150,8
+392189,"Kingsmead, Durban",9th match,Durban,2009-04-23,Indian Premier League,Delhi Daredevils,Chennai Super Kings,189/5,180/9,Delhi Daredevils,9 runs,189,5,180,9
+392188,"Newlands, Cape Town",8th match (D/N),Cape Town,2009-04-22,Indian Premier League,Deccan Chargers,Royal Challengers Bangalore,184/6,160/8,Deccan Chargers ,24 runs,184,6,160,8
+392187,"Kingsmead, Durban",7th match (D/N),Durban,2009-04-21,Indian Premier League,Mumbai Indians,Rajasthan Royals,,,,,,,,
+392186,"Kingsmead, Durban",6th match,Durban,2009-04-21,Indian Premier League,Kings XI Punjab,Kolkata Knight Riders,158/6,79/1,Kolkata Knight Riders,11 runs,158,6,79,1
+392185,"St George's Park, Port Elizabeth",5th match (D/N),Port Elizabeth,2009-04-20,Indian Premier League,Chennai Super Kings,Royal Challengers Bangalore,179/5,87,Chennai Super Kings,92 runs,179,5,87,10
+392184,"Newlands, Cape Town",4th match (D/N),Cape Town,2009-04-19,Indian Premier League,Kolkata Knight Riders,Deccan Chargers,101,104/2,Deccan Chargers ,8 wickets,101,10,104,2
+392183,"Newlands, Cape Town",3rd match,Cape Town,2009-04-19,Indian Premier League,Kings XI Punjab,Delhi Daredevils,104/7,58/0,Delhi Daredevils,10 wickets,104,7,58,0
+392182,"Newlands, Cape Town",2nd match (D/N),Cape Town,2009-04-18,Indian Premier League,Royal Challengers Bangalore,Rajasthan Royals,133/8,58,Royal Challengers Bangalore,75 runs,133,8,58,10
+392181,"Newlands, Cape Town",1st match,Cape Town,2009-04-18,Indian Premier League,Mumbai Indians,Chennai Super Kings,165/7,146/7,Mumbai Indians,19 runs,165,7,146,7

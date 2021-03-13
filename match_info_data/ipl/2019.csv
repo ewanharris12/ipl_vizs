@@ -1,0 +1,61 @@
+match_id,venue,match_type,city,date,full_league,team_one,team_two,inn_one,inn_two,winner,margin,inn_one_score,inn_one_wickets,inn_two_score,inn_two_wickets
+1181768,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Final (N),Hyderabad,2019-05-12,Indian Premier League,Mumbai Indians,Chennai Super Kings,149/8,148/7,Mumbai Indians,1 run,149,8,148,7
+1181767,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Qualifier 2 (N),Visakhapatnam,2019-05-10,Indian Premier League,Delhi Capitals,Chennai Super Kings,147/9,151/4,Chennai Super Kings,6 wickets,147,9,151,4
+1181766,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Eliminator (N),Visakhapatnam,2019-05-08,Indian Premier League,Sunrisers Hyderabad,Delhi Capitals,162/8,165/8,Delhi Capitals,2 wickets,162,8,165,8
+1181764,"MA Chidambaram Stadium, Chepauk, Chennai",Qualifier 1 (N),Chennai,2019-05-07,Indian Premier League,Chennai Super Kings,Mumbai Indians,131/4,132/4,Mumbai Indians,6 wickets,131,4,132,4
+1178431,"Wankhede Stadium, Mumbai",56th Match (N),Mumbai,2019-05-05,Indian Premier League,Kolkata Knight Riders,Mumbai Indians,133/7,134/1,Mumbai Indians,9 wickets,133,7,134,1
+1178430,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",55th Match (D/N),Chandigarh,2019-05-05,Indian Premier League,Chennai Super Kings,Kings XI Punjab,170/5,173/4,Kings XI Punjab,6 wickets,170,5,173,4
+1178429,"M.Chinnaswamy Stadium, Bengaluru",54th Match (N),Bengaluru,2019-05-04,Indian Premier League,Sunrisers Hyderabad,Royal Challengers Bangalore,175/7,178/6,Royal Challengers Bangalore,4 wickets,175,7,178,6
+1178428,"Arun Jaitley Stadium, Delhi",53rd Match (D/N),Delhi,2019-05-04,Indian Premier League,Rajasthan Royals,Delhi Capitals,115/9,121/5,Delhi Capitals,5 wickets,115,9,121,5
+1178427,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",52nd Match (N),Chandigarh,2019-05-03,Indian Premier League,Kings XI Punjab,Kolkata Knight Riders,183/6,185/3,Kolkata Knight Riders,7 wickets,183,6,185,3
+1178426,"Wankhede Stadium, Mumbai",51st Match (N),Mumbai,2019-05-02,Indian Premier League,Mumbai Indians,Sunrisers Hyderabad,162/5,162/6,Mumbai Indians,Super Over,162,5,162,6
+1178425,"MA Chidambaram Stadium, Chepauk, Chennai",50th Match (N),Chennai,2019-05-01,Indian Premier League,Chennai Super Kings,Delhi Capitals,179/4,99,Chennai Super Kings,80 runs,179,4,99,10
+1178424,"M.Chinnaswamy Stadium, Bengaluru",49th Match (N),Bengaluru,2019-04-30,Indian Premier League,Royal Challengers Bangalore,Rajasthan Royals,62/7,41/1,,,62,7,41,1
+1178423,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",48th Match (N),Hyderabad,2019-04-29,Indian Premier League,Sunrisers Hyderabad,Kings XI Punjab,212/6,167/8,Sunrisers Hyderabad,45 runs,212,6,167,8
+1178422,"Eden Gardens, Kolkata",47th Match (N),Kolkata,2019-04-28,Indian Premier League,Kolkata Knight Riders,Mumbai Indians,232/2,198/7,Kolkata Knight Riders,34 runs,232,2,198,7
+1178421,"Arun Jaitley Stadium, Delhi",46th Match (D/N),Delhi,2019-04-28,Indian Premier League,Delhi Capitals,Royal Challengers Bangalore,187/5,171/7,Delhi Capitals,16 runs,187,5,171,7
+1178420,"Sawai Mansingh Stadium, Jaipur",45th Match (N),Jaipur,2019-04-27,Indian Premier League,Sunrisers Hyderabad,Rajasthan Royals,160/8,161/3,Rajasthan Royals,7 wickets,160,8,161,3
+1178419,"MA Chidambaram Stadium, Chepauk, Chennai",44th Match (N),Chennai,2019-04-26,Indian Premier League,Mumbai Indians,Chennai Super Kings,155/4,109,Mumbai Indians,46 runs,155,4,109,10
+1178418,"Eden Gardens, Kolkata",43rd Match (N),Kolkata,2019-04-25,Indian Premier League,Kolkata Knight Riders,Rajasthan Royals,175/6,177/7,Rajasthan Royals,3 wickets,175,6,177,7
+1178417,"M.Chinnaswamy Stadium, Bengaluru",42nd Match (N),Bengaluru,2019-04-24,Indian Premier League,Royal Challengers Bangalore,Kings XI Punjab,202/4,185/7,Royal Challengers Bangalore,17 runs,202,4,185,7
+1178416,"MA Chidambaram Stadium, Chepauk, Chennai",41st Match (N),Chennai,2019-04-23,Indian Premier League,Sunrisers Hyderabad,Chennai Super Kings,175/3,176/4,Chennai Super Kings,6 wickets,175,3,176,4
+1178415,"Sawai Mansingh Stadium, Jaipur",40th Match (N),Jaipur,2019-04-22,Indian Premier League,Rajasthan Royals,Delhi Capitals,191/6,193/4,Delhi Capitals,6 wickets,191,6,193,4
+1178414,"M.Chinnaswamy Stadium, Bengaluru",39th Match (N),Bengaluru,2019-04-21,Indian Premier League,Royal Challengers Bangalore,Chennai Super Kings,161/7,160/8,Royal Challengers Bangalore,1 run,161,7,160,8
+1178413,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",38th Match (D/N),Hyderabad,2019-04-21,Indian Premier League,Kolkata Knight Riders,Sunrisers Hyderabad,159/8,161/1,Sunrisers Hyderabad,9 wickets,159,8,161,1
+1178412,"Arun Jaitley Stadium, Delhi",37th Match (N),Delhi,2019-04-20,Indian Premier League,Kings XI Punjab,Delhi Capitals,163/7,166/5,Delhi Capitals,5 wickets,163,7,166,5
+1178411,"Sawai Mansingh Stadium, Jaipur",36th Match (D/N),Jaipur,2019-04-20,Indian Premier League,Mumbai Indians,Rajasthan Royals,161/5,162/5,Rajasthan Royals,5 wickets,161,5,162,5
+1178410,"Eden Gardens, Kolkata",35th Match (N),Kolkata,2019-04-19,Indian Premier League,Royal Challengers Bangalore,Kolkata Knight Riders,213/4,203/5,Royal Challengers Bangalore,10 runs,213,4,203,5
+1178409,"Arun Jaitley Stadium, Delhi",34th Match (N),Delhi,2019-04-18,Indian Premier League,Mumbai Indians,Delhi Capitals,168/5,128/9,Mumbai Indians,40 runs,168,5,128,9
+1178408,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",33rd Match (N),Hyderabad,2019-04-17,Indian Premier League,Chennai Super Kings,Sunrisers Hyderabad,132/5,137/4,Sunrisers Hyderabad,6 wickets,132,5,137,4
+1178407,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",32nd Match (N),Chandigarh,2019-04-16,Indian Premier League,Kings XI Punjab,Rajasthan Royals,182/6,170/7,Kings XI Punjab,12 runs,182,6,170,7
+1178406,"Wankhede Stadium, Mumbai",31st Match (N),Mumbai,2019-04-15,Indian Premier League,Royal Challengers Bangalore,Mumbai Indians,171/7,172/5,Mumbai Indians,5 wickets,171,7,172,5
+1178405,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",30th Match (N),Hyderabad,2019-04-14,Indian Premier League,Delhi Capitals,Sunrisers Hyderabad,155/7,116,Delhi Capitals,39 runs,155,7,116,10
+1178404,"Eden Gardens, Kolkata",29th Match (D/N),Kolkata,2019-04-14,Indian Premier League,Kolkata Knight Riders,Chennai Super Kings,161/8,162/5,Chennai Super Kings,5 wickets,161,8,162,5
+1178403,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",28th Match (N),Chandigarh,2019-04-13,Indian Premier League,Kings XI Punjab,Royal Challengers Bangalore,173/4,174/2,Royal Challengers Bangalore,8 wickets,173,4,174,2
+1178402,"Wankhede Stadium, Mumbai",27th Match (D/N),Mumbai,2019-04-13,Indian Premier League,Mumbai Indians,Rajasthan Royals,187/5,188/6,Rajasthan Royals,4 wickets,187,5,188,6
+1178401,"Eden Gardens, Kolkata",26th Match (N),Kolkata,2019-04-12,Indian Premier League,Kolkata Knight Riders,Delhi Capitals,178/7,180/3,Delhi Capitals,7 wickets,178,7,180,3
+1178400,"Sawai Mansingh Stadium, Jaipur",25th Match (N),Jaipur,2019-04-11,Indian Premier League,Rajasthan Royals,Chennai Super Kings,151/7,155/6,Chennai Super Kings,4 wickets,151,7,155,6
+1178399,"Wankhede Stadium, Mumbai",24th Match (N),Mumbai,2019-04-10,Indian Premier League,Kings XI Punjab,Mumbai Indians,197/4,198/7,Mumbai Indians,3 wickets,197,4,198,7
+1178398,"MA Chidambaram Stadium, Chepauk, Chennai",23rd Match (N),Chennai,2019-04-09,Indian Premier League,Kolkata Knight Riders,Chennai Super Kings,108/9,111/3,Chennai Super Kings,7 wickets,108,9,111,3
+1178397,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",22nd Match (N),Chandigarh,2019-04-08,Indian Premier League,Sunrisers Hyderabad,Kings XI Punjab,150/4,151/4,Kings XI Punjab,6 wickets,150,4,151,4
+1178396,"Sawai Mansingh Stadium, Jaipur",21st Match (N),Jaipur,2019-04-07,Indian Premier League,Rajasthan Royals,Kolkata Knight Riders,139/3,140/2,Kolkata Knight Riders,8 wickets,139,3,140,2
+1178395,"M.Chinnaswamy Stadium, Bengaluru",20th Match (D/N),Bengaluru,2019-04-07,Indian Premier League,Royal Challengers Bangalore,Delhi Capitals,149/8,152/6,Delhi Capitals,4 wickets,149,8,152,6
+1178394,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",19th Match (N),Hyderabad,2019-04-06,Indian Premier League,Mumbai Indians,Sunrisers Hyderabad,136/7,96,Mumbai Indians,40 runs,136,7,96,10
+1178393,"MA Chidambaram Stadium, Chepauk, Chennai",18th Match (D/N),Chennai,2019-04-06,Indian Premier League,Chennai Super Kings,Kings XI Punjab,160/3,138/5,Chennai Super Kings,22 runs,160,3,138,5
+1175372,"M.Chinnaswamy Stadium, Bengaluru",17th Match (N),Bengaluru,2019-04-05,Indian Premier League,Royal Challengers Bangalore,Kolkata Knight Riders,205/3,206/5,Kolkata Knight Riders,5 wickets,205,3,206,5
+1175371,"Arun Jaitley Stadium, Delhi",16th Match (N),Delhi,2019-04-04,Indian Premier League,Delhi Capitals,Sunrisers Hyderabad,129/8,131/5,Sunrisers Hyderabad,5 wickets,129,8,131,5
+1175370,"Wankhede Stadium, Mumbai",15th Match (N),Mumbai,2019-04-03,Indian Premier League,Mumbai Indians,Chennai Super Kings,170/5,133/8,Mumbai Indians,37 runs,170,5,133,8
+1175369,"Sawai Mansingh Stadium, Jaipur",14th Match (N),Jaipur,2019-04-02,Indian Premier League,Royal Challengers Bangalore,Rajasthan Royals,158/4,164/3,Rajasthan Royals,7 wickets,158,4,164,3
+1175368,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",13th Match (N),Chandigarh,2019-04-01,Indian Premier League,Kings XI Punjab,Delhi Capitals,166/9,152,Kings XI Punjab,14 runs,166,9,152,10
+1175367,"MA Chidambaram Stadium, Chepauk, Chennai",12th Match (N),Chennai,2019-03-31,Indian Premier League,Chennai Super Kings,Rajasthan Royals,175/5,167/8,Chennai Super Kings,8 runs,175,5,167,8
+1175366,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",11th Match (D/N),Hyderabad,2019-03-31,Indian Premier League,Sunrisers Hyderabad,Royal Challengers Bangalore,231/2,113,Sunrisers Hyderabad,118 runs,231,2,113,10
+1175365,"Arun Jaitley Stadium, Delhi",10th Match (N),Delhi,2019-03-30,Indian Premier League,Kolkata Knight Riders,Delhi Capitals,185/8,185/6,Delhi Capitals,Super Over,185,8,185,6
+1175364,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",9th Match (D/N),Chandigarh,2019-03-30,Indian Premier League,Mumbai Indians,Kings XI Punjab,176/7,177/2,Kings XI Punjab,8 wickets,176,7,177,2
+1175363,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",8th Match (N),Hyderabad,2019-03-29,Indian Premier League,Rajasthan Royals,Sunrisers Hyderabad,198/2,201/5,Sunrisers Hyderabad,5 wickets,198,2,201,5
+1175362,"M.Chinnaswamy Stadium, Bengaluru",7th Match (N),Bengaluru,2019-03-28,Indian Premier League,Mumbai Indians,Royal Challengers Bangalore,187/8,181/5,Mumbai Indians,6 runs,187,8,181,5
+1175361,"Eden Gardens, Kolkata",6th Match (N),Kolkata,2019-03-27,Indian Premier League,Kolkata Knight Riders,Kings XI Punjab,218/4,190/4,Kolkata Knight Riders,28 runs,218,4,190,4
+1175360,"Arun Jaitley Stadium, Delhi",5th Match (N),Delhi,2019-03-26,Indian Premier League,Delhi Capitals,Chennai Super Kings,147/6,150/4,Chennai Super Kings,6 wickets,147,6,150,4
+1175359,"Sawai Mansingh Stadium, Jaipur",4th Match (N),Jaipur,2019-03-25,Indian Premier League,Kings XI Punjab,Rajasthan Royals,184/4,170/9,Kings XI Punjab,14 runs,184,4,170,9
+1175358,"Wankhede Stadium, Mumbai",3rd Match (N),Mumbai,2019-03-24,Indian Premier League,Delhi Capitals,Mumbai Indians,213/6,176,Delhi Capitals,37 runs,213,6,176,10
+1175357,"Eden Gardens, Kolkata",2nd Match (D/N),Kolkata,2019-03-24,Indian Premier League,Sunrisers Hyderabad,Kolkata Knight Riders,181/3,183/4,Kolkata Knight Riders,6 wickets,181,3,183,4
+1175356,"MA Chidambaram Stadium, Chepauk, Chennai",1st Match (N),Chennai,2019-03-23,Indian Premier League,Royal Challengers Bangalore,Chennai Super Kings,70,71/3,Chennai Super Kings,7 wickets,70,10,71,3

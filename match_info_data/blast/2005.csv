@@ -1,0 +1,80 @@
+match_id,venue,match_type,city,date,full_league,team_one,team_two,inn_one,inn_two,winner,margin,inn_one_score,inn_one_wickets,inn_two_score,inn_two_wickets
+214740,"Kennington Oval, London",Final (D/N),London,2005-07-30,Twenty20 Cup,Lancashire,Somerset,114/8,118/3,Somerset,7 wickets,114,8,118,3
+214725,"Kennington Oval, London",2nd Semi-Final,London,2005-07-30,Twenty20 Cup,Somerset,Leicestershire,157/9,153/8,Somerset,4 runs,157,9,153,8
+214707,"Kennington Oval, London",1st Semi-Final,London,2005-07-30,Twenty20 Cup,Lancashire,Surrey,217/4,195/7,Lancashire,22 runs,217,4,195,7
+304923,"Kennington Oval, London",Quarter-Final,London,2005-07-18,Twenty20 Cup,Surrey,Warwickshire,149/8,117/8,,Super Over,149,8,117,8
+304922,"County Ground, Northampton",Quarter-Final,Northampton,2005-07-18,Twenty20 Cup,Northamptonshire,Somerset,154/8,155/6,Somerset,4 wickets,154,8,155,6
+304921,"Grace Road, Leicester",Quarter-Final,Leicester,2005-07-18,Twenty20 Cup,Leicestershire,Middlesex,159/6,140/7,Leicestershire,19 runs,159,6,140,7
+304920,"Old Trafford, Manchester",Quarter-Final,Manchester,2005-07-18,Twenty20 Cup,Lancashire,Derbyshire,189/7,172,Lancashire,17 runs,189,7,172,10
+304919,"County Ground, New Road, Worcester",Midland/Wales/West Group,Worcester,2005-07-06,Twenty20 Cup,Worcestershire,Glamorgan,223/9,186/5,Worcestershire,37 runs,223,9,186,5
+304918,"Edgbaston, Birmingham",Midland/Wales/West Group,Birmingham,2005-07-06,Twenty20 Cup,Warwickshire,Northamptonshire,205/2,164/6,Warwickshire,41 runs,205,2,164,6
+304917,"Kennington Oval, London",South Group,London,2005-07-06,Twenty20 Cup,Surrey,Sussex,144/8,148/7,Sussex,3 wickets,144,8,148,7
+304916,"The Cooper Associates County Ground, Taunton",Midland/Wales/West Group,Taunton,2005-07-06,Twenty20 Cup,Somerset,Gloucestershire,228/5,133,Somerset,95 runs,228,5,133,10
+304915,"Old Deer Park, Richmond",South Group,Richmond,2005-07-06,Twenty20 Cup,Middlesex,Hampshire,174/7,178/4,Hampshire,6 wickets,174,7,178,4
+304914,"Grace Road, Leicester",North Group,Leicester,2005-07-06,Twenty20 Cup,Yorkshire,Leicestershire,177/5,178/3,Leicestershire,7 wickets,177,5,178,3
+304913,"St Lawrence Ground, Canterbury",South Group,Canterbury,2005-07-06,Twenty20 Cup,Kent,Essex,154/4,149/7,Kent,5 runs,154,4,149,7
+304912,"Riverside Ground, Chester-le-Street",North Group,Chester-le-Street,2005-07-06,Twenty20 Cup,Durham,Lancashire,,,,,,,,
+304911,"County Ground, Derby",North Group,Derby,2005-07-06,Twenty20 Cup,Nottinghamshire,Derbyshire,139/5,142/1,Derbyshire,9 wickets,139,5,142,1
+304907,"Sophia Gardens, Cardiff",Midland/Wales/West Group (D/N),Cardiff,2005-07-05,Twenty20 Cup,Gloucestershire,Glamorgan,128,129/0,Glamorgan,10 wickets,128,10,129,0
+304906,"County Ground, Chelmsford",South Group (D/N),Chelmsford,2005-07-05,Twenty20 Cup,Essex,Surrey,71/3,70/2,Essex,1 run,71,3,70,2
+304910,"County Ground, Northampton",Midland/Wales/West Group,Northampton,2005-07-05,Twenty20 Cup,Northamptonshire,Worcestershire,,,,,,,,
+304909,"Grace Road, Leicester",North Group,Leicester,2005-07-05,Twenty20 Cup,Leicestershire,Derbyshire,,,,,,,,
+304908,"St Lawrence Ground, Canterbury",South Group,Canterbury,2005-07-05,Twenty20 Cup,Kent,Sussex,,,,,,,,
+304904,"County Ground, Hove",South Group (D/N),Brighton,2005-07-04,Twenty20 Cup,Middlesex,Sussex,,,,,,,,
+304905,"Edgbaston, Birmingham",Midland/Wales/West Group,Birmingham,2005-07-04,Twenty20 Cup,Warwickshire,Somerset,172/8,125,Warwickshire,47 runs,172,8,125,10
+304903,"Riverside Ground, Chester-le-Street",North Group,Chester-le-Street,2005-07-04,Twenty20 Cup,Yorkshire,Durham,171/7,131,Yorkshire,40 runs,171,7,131,10
+304902,"County Ground, Derby",North Group,Derby,2005-07-04,Twenty20 Cup,Lancashire,Derbyshire,205/2,106/7,Lancashire,50 runs,205,2,106,7
+304901,"Headingley, Leeds",North Group,Leeds,2005-07-03,Twenty20 Cup,Yorkshire,Nottinghamshire,180/7,184/4,Nottinghamshire,6 wickets,180,7,184,4
+304900,"Old Trafford, Manchester",North Group,Manchester,2005-07-03,Twenty20 Cup,Lancashire,Durham,208/4,171/7,Lancashire,37 runs,208,4,171,7
+304899,"County Ground, New Road, Worcester",Midland/Wales/West Group,Worcester,2005-07-02,Twenty20 Cup,Worcestershire,Gloucestershire,100,102/1,Gloucestershire,9 wickets,100,10,102,1
+304898,"The Cooper Associates County Ground, Taunton",Midland/Wales/West Group,Taunton,2005-07-02,Twenty20 Cup,Somerset,Northamptonshire,189/5,191/5,Northamptonshire,5 wickets,189,5,191,5
+304896,"County Ground, Hove",South Group (D/N),Brighton,2005-07-01,Twenty20 Cup,Sussex,Hampshire,99/5,89/6,Sussex,10 runs,99,5,89,6
+304890,"Sophia Gardens, Cardiff",Midland/Wales/West Group (D/N),Cardiff,2005-07-01,Twenty20 Cup,Glamorgan,Northamptonshire,,,,,,,,
+304897,"Edgbaston, Birmingham",Midland/Wales/West Group,Birmingham,2005-07-01,Twenty20 Cup,Worcestershire,Warwickshire,141,140,Worcestershire,1 run,141,10,140,10
+304895,"Kennington Oval, London",South Group,London,2005-07-01,Twenty20 Cup,Surrey,Kent,167/6,144/8,Surrey,23 runs,167,6,144,8
+304894,"Trent Bridge, Nottingham",North Group,Nottingham,2005-07-01,Twenty20 Cup,Nottinghamshire,Derbyshire,147/8,151/6,Derbyshire,4 wickets,147,8,151,6
+304893,"The Walker Cricket Ground, Southgate",South Group,Southgate,2005-07-01,Twenty20 Cup,Middlesex,Essex,185/6,154/7,Middlesex,31 runs,185,6,154,7
+304892,"Old Trafford, Manchester",North Group,Manchester,2005-07-01,Twenty20 Cup,Lancashire,Yorkshire,207/6,97,Lancashire,110 runs,207,6,97,10
+304891,"County Ground, Bristol",Midland/Wales/West Group,Bristol,2005-07-01,Twenty20 Cup,Somerset,Gloucestershire,,,,,,,,
+304889,"Riverside Ground, Chester-le-Street",North Group,Chester-le-Street,2005-07-01,Twenty20 Cup,Leicestershire,Durham,154/7,122/7,Leicestershire,32 runs,154,7,122,7
+304888,"Headingley, Leeds",North Group,Leeds,2005-06-30,Twenty20 Cup,Yorkshire,Durham,123/7,124/8,Durham,2 wickets,123,7,124,8
+304887,"Edgbaston, Birmingham",Midland/Wales/West Group,Birmingham,2005-06-30,Twenty20 Cup,Warwickshire,Glamorgan,169/9,165/9,Warwickshire,4 runs,169,9,165,9
+304886,"Trent Bridge, Nottingham",North Group,Nottingham,2005-06-30,Twenty20 Cup,Leicestershire,Nottinghamshire,150/4,129/8,Leicestershire,21 runs,150,4,129,8
+304885,"County Ground, Hove",South Group (D/N),Brighton,2005-06-29,Twenty20 Cup,Sussex,Surrey,139/6,116/5,Surrey,5 wickets,139,6,116,5
+304881,"County Ground, Chelmsford",South Group (D/N),Chelmsford,2005-06-29,Twenty20 Cup,Hampshire,Essex,,,,,,,,
+304884,"County Ground, Northampton",Midland/Wales/West Group,Northampton,2005-06-29,Twenty20 Cup,Northamptonshire,Somerset,95/6,97/5,Somerset,5 wickets,95,6,97,5
+304883,Uxbridge Cricket Club Ground,South Group,Uxbridge,2005-06-29,Twenty20 Cup,Kent,Middlesex,144/8,145/4,Middlesex,6 wickets,144,8,145,4
+304882,"Old Trafford, Manchester",North Group,Manchester,2005-06-29,Twenty20 Cup,Lancashire,Derbyshire,164/8,98,Lancashire,66 runs,164,8,98,10
+304880,"Headingley, Leeds",North Group,Leeds,2005-06-28,Twenty20 Cup,Derbyshire,Yorkshire,195/8,198/4,Yorkshire,6 wickets,195,8,198,4
+304879,"Kennington Oval, London",South Group,London,2005-06-28,Twenty20 Cup,Surrey,Middlesex,180/7,78/4,Surrey,22 runs,180,7,78,4
+304878,"The Rose Bowl, Southampton",South Group,Southampton,2005-06-28,Twenty20 Cup,Hampshire,Essex,,,,,,,,
+304877,"County Ground, Bristol",Midland/Wales/West Group,Bristol,2005-06-28,Twenty20 Cup,Warwickshire,Gloucestershire,,,,,,,,
+304876,"Riverside Ground, Chester-le-Street",North Group,Chester-le-Street,2005-06-28,Twenty20 Cup,Nottinghamshire,Durham,179/9,180/4,Durham,6 wickets,179,9,180,4
+304875,"County Ground, New Road, Worcester",Midland/Wales/West Group,Worcester,2005-06-27,Twenty20 Cup,Northamptonshire,Worcestershire,180/6,143/8,Northamptonshire,37 runs,180,6,143,8
+304874,"The Cooper Associates County Ground, Taunton",Midland/Wales/West Group,Taunton,2005-06-27,Twenty20 Cup,Somerset,Glamorgan,212/3,123,Somerset,89 runs,212,3,123,10
+304873,"Old Trafford, Manchester",North Group,Manchester,2005-06-27,Twenty20 Cup,Leicestershire,Lancashire,146/7,149/2,Lancashire,8 wickets,146,7,149,2
+304872,"The Rose Bowl, Southampton",South Group,Southampton,2005-06-27,Twenty20 Cup,Kent,Hampshire,154/9,155/5,Hampshire,5 wickets,154,9,155,5
+304871,"Trent Bridge, Nottingham",North Group,Nottingham,2005-06-26,Twenty20 Cup,Nottinghamshire,Yorkshire,170/8,174/8,Yorkshire,2 wickets,170,8,174,8
+304870,"Grace Road, Leicester",North Group,Leicester,2005-06-26,Twenty20 Cup,Leicestershire,Durham,150/9,147/5,Leicestershire,3 runs,150,9,147,5
+304869,"County Ground, Bristol",Midland/Wales/West Group,Bristol,2005-06-26,Twenty20 Cup,Worcestershire,Gloucestershire,162/6,166/5,Gloucestershire,5 wickets,162,6,166,5
+304868,"County Ground, Chelmsford",South Group,Chelmsford,2005-06-26,Twenty20 Cup,Essex,Sussex,151/5,108,Essex,43 runs,151,5,108,10
+304867,"Kennington Oval, London",South Group,London,2005-06-25,Twenty20 Cup,Surrey,Hampshire,118,119/7,Hampshire,3 wickets,118,10,119,7
+304866,"The Kent County Cricket Ground, Beckenham",South Group,Beckenham,2005-06-25,Twenty20 Cup,Middlesex,Kent,189/8,169/5,Middlesex,20 runs,189,8,169,5
+304865,"St Helen's, Swansea",Midland/Wales/West Group,Swansea,2005-06-25,Twenty20 Cup,Warwickshire,Glamorgan,205/7,151,Warwickshire,54 runs,205,7,151,10
+304860,"County Ground, Chelmsford",South Group (D/N),Chelmsford,2005-06-24,Twenty20 Cup,Essex,Kent,132/6,103/4,Essex,29 runs,132,6,103,4
+304864,"Trent Bridge, Nottingham",North Group,Nottingham,2005-06-24,Twenty20 Cup,Nottinghamshire,Lancashire,198/5,106,Nottinghamshire,92 runs,198,5,106,10
+304863,"County Ground, Northampton",Midland/Wales/West Group,Northampton,2005-06-24,Twenty20 Cup,Northamptonshire,Warwickshire,143/5,105/9,Northamptonshire,38 runs,143,5,105,9
+304862,"The Rose Bowl, Southampton",South Group,Southampton,2005-06-24,Twenty20 Cup,Hampshire,Sussex,,,,,,,,
+304861,"County Ground, Bristol",Midland/Wales/West Group,Bristol,2005-06-24,Twenty20 Cup,Glamorgan,Gloucestershire,128/9,132/3,Gloucestershire,7 wickets,128,9,132,3
+304859,"County Ground, Derby",North Group,Derby,2005-06-24,Twenty20 Cup,Leicestershire,Derbyshire,137,105/3,Derbyshire,7 wickets,137,10,105,3
+304858,"The Cooper Associates County Ground, Taunton",Midland/Wales/West Group,Taunton,2005-06-23,Twenty20 Cup,Somerset,Worcestershire,210/6,195/5,Somerset,15 runs,210,6,195,5
+304857,"Lord's, London",South Group,London,2005-06-23,Twenty20 Cup,Surrey,Middlesex,200/3,177,Surrey,23 runs,200,3,177,10
+304854,"County Ground, Hove",South Group (D/N),Brighton,2005-06-22,Twenty20 Cup,Essex,Sussex,109,110/1,Sussex,9 wickets,109,10,110,1
+304849,"Sophia Gardens, Cardiff",Midland/Wales/West Group (D/N),Cardiff,2005-06-22,Twenty20 Cup,Somerset,Glamorgan,183,183/8,Glamorgan,lost fewer wickets,183,10,183,8
+304856,"Headingley, Leeds",North Group,Leeds,2005-06-22,Twenty20 Cup,Yorkshire,Lancashire,165/7,166/5,Lancashire,5 wickets,165,7,166,5
+304855,"County Ground, New Road, Worcester",Midland/Wales/West Group,Worcester,2005-06-22,Twenty20 Cup,Worcestershire,Warwickshire,177/7,176/9,Worcestershire,1 run,177,7,176,9
+304853,"Campbell Park, Milton Keynes",Midland/Wales/West Group,Milton Keynes,2005-06-22,Twenty20 Cup,Northamptonshire,Gloucestershire,224/5,143,Northamptonshire,81 runs,224,5,143,10
+304852,"Grace Road, Leicester",North Group,Leicester,2005-06-22,Twenty20 Cup,Nottinghamshire,Leicestershire,143/8,147/5,Leicestershire,5 wickets,143,8,147,5
+304851,"The Kent County Cricket Ground, Beckenham",South Group,Beckenham,2005-06-22,Twenty20 Cup,Kent,Surrey,140/8,141/3,Surrey,7 wickets,140,8,141,3
+304850,"The Rose Bowl, Southampton",South Group,Southampton,2005-06-22,Twenty20 Cup,Middlesex,Hampshire,210/6,192/7,Middlesex,18 runs,210,6,192,7
+304848,"County Ground, Derby",North Group,Derby,2005-06-22,Twenty20 Cup,Durham,Derbyshire,130/7,134/4,Derbyshire,6 wickets,130,7,134,4

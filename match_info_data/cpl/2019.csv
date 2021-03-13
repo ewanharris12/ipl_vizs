@@ -1,0 +1,35 @@
+match_id,venue,match_type,city,date,full_league,team_one,team_two,inn_one,inn_two,winner,margin,inn_one_score,inn_one_wickets,inn_two_score,inn_two_wickets
+1185870,"Brian Lara Stadium, Tarouba, Trinidad",Final (D/N),Tarouba,2019-10-12,Caribbean Premier League,Barbados Tridents,Guyana Amazon Warriors,171/6,144/9,Barbados Tridents,27 runs,171,6,144,9
+1185869,"Brian Lara Stadium, Tarouba, Trinidad",Qualifier 2 (N),Tarouba,2019-10-10,Caribbean Premier League,Barbados Tridents,Trinbago Knight Riders,160/6,148,Barbados Tridents,12 runs,160,6,148,10
+1185867,"Providence Stadium, Guyana",Qualifier 1,Providence,2019-10-06,Caribbean Premier League,Guyana Amazon Warriors,Barbados Tridents,218/3,188/8,Guyana Amazon Warriors,30 runs,218,3,188,8
+1185868,"Providence Stadium, Guyana",Eliminator (D/N),Providence,2019-10-06,Caribbean Premier League,St Kitts and Nevis Patriots,Trinbago Knight Riders,125/7,128/4,Trinbago Knight Riders,6 wickets,125,7,128,4
+1185866,"Providence Stadium, Guyana",30th Match (N),Providence,2019-10-05,Caribbean Premier League,Trinbago Knight Riders,Guyana Amazon Warriors,143/5,144/3,Guyana Amazon Warriors,7 wickets,143,5,144,3
+1185865,"Providence Stadium, Guyana",29th Match (D/N),Providence,2019-10-03,Caribbean Premier League,Guyana Amazon Warriors,Jamaica Tallawahs,156/6,79,Guyana Amazon Warriors,77 runs,156,6,79,10
+1185864,"Queen's Park Oval, Port of Spain, Trinidad",28th Match (N),Port of Spain,2019-10-02,Caribbean Premier League,Trinbago Knight Riders,Barbados Tridents,134/8,135/3,Barbados Tridents,7 wickets,134,8,135,3
+1185863,"Queen's Park Oval, Port of Spain, Trinidad",27th Match (N),Port of Spain,2019-09-30,Caribbean Premier League,Guyana Amazon Warriors,Trinbago Knight Riders,185/6,166/5,Guyana Amazon Warriors,19 runs,185,6,166,5
+1185862,"Kensington Oval, Bridgetown, Barbados",26th Match (D/N),Bridgetown,2019-09-29,Caribbean Premier League,Barbados Tridents,St Lucia Zouks,141/6,117,Barbados Tridents,24 runs,141,6,117,10
+1185861,"Kensington Oval, Bridgetown, Barbados",25th Match (N),Bridgetown,2019-09-29,Caribbean Premier League,St Kitts and Nevis Patriots,Barbados Tridents,149/7,148,St Kitts and Nevis Patriots,1 run,149,7,148,10
+1185860,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",24th Match (N),Gros Islet,2019-09-28,Caribbean Premier League,Jamaica Tallawahs,St Lucia Zouks,165/7,169/6,St Lucia Zouks,4 wickets,165,7,169,6
+1185859,"Kensington Oval, Bridgetown, Barbados",23rd Match (D/N),Bridgetown,2019-09-26,Caribbean Premier League,Barbados Tridents,Trinbago Knight Riders,192/5,129,Barbados Tridents,63 runs,192,5,129,10
+1185858,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",22nd Match (D/N),Gros Islet,2019-09-25,Caribbean Premier League,St Lucia Zouks,Guyana Amazon Warriors,161/7,162/2,Guyana Amazon Warriors,8 wickets,161,7,162,2
+1185857,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",21st Match (D/N),Gros Islet,2019-09-24,Caribbean Premier League,St Lucia Zouks,St Kitts and Nevis Patriots,165/6,145/9,St Lucia Zouks,20 runs,165,6,145,9
+1185856,"Kensington Oval, Bridgetown, Barbados",20th Match (D/N),Bridgetown,2019-09-23,Caribbean Premier League,Jamaica Tallawahs,Barbados Tridents,127,122/9,Jamaica Tallawahs,5 runs,127,10,122,9
+1185855,"Kensington Oval, Bridgetown, Barbados",19th Match (D/N),Bridgetown,2019-09-22,Caribbean Premier League,Barbados Tridents,Guyana Amazon Warriors,138,81/2,Guyana Amazon Warriors,12 runs,138,10,81,2
+1185854,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",18th Match (N),Gros Islet,2019-09-22,Caribbean Premier League,St Lucia Zouks,Trinbago Knight Riders,,,,,,,,
+1185853,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",17th Match (N),Gros Islet,2019-09-21,Caribbean Premier League,Barbados Tridents,St Lucia Zouks,172/6,101,Barbados Tridents,71 runs,172,6,101,10
+1185852,"Sabina Park, Kingston, Jamaica",16th Match (N),Kingston,2019-09-20,Caribbean Premier League,St Kitts and Nevis Patriots,Jamaica Tallawahs,176/6,156,St Kitts and Nevis Patriots,20 runs,176,6,156,10
+1185851,"Sabina Park, Kingston, Jamaica",15th Match (N),Kingston,2019-09-19,Caribbean Premier League,Guyana Amazon Warriors,Jamaica Tallawahs,218/6,137,Guyana Amazon Warriors,81 runs,218,6,137,10
+1185850,"Warner Park, Basseterre, St Kitts",14th Match (D/N),Basseterre,2019-09-17,Caribbean Premier League,Trinbago Knight Riders,St Kitts and Nevis Patriots,216/4,216/7,St Kitts and Nevis Patriots,Super Over,216,4,216,7
+1185849,"Warner Park, Basseterre, St Kitts",13th Match (D/N),Basseterre,2019-09-15,Caribbean Premier League,St Lucia Zouks,St Kitts and Nevis Patriots,138/9,143/4,St Kitts and Nevis Patriots,6 wickets,138,9,143,4
+1185848,"Sabina Park, Kingston, Jamaica",12th Match,Kingston,2019-09-15,Caribbean Premier League,Barbados Tridents,Jamaica Tallawahs,140/9,145/6,Jamaica Tallawahs,4 wickets,140,9,145,6
+1185847,"Warner Park, Basseterre, St Kitts",11th Match (N),Basseterre,2019-09-15,Caribbean Premier League,St Kitts and Nevis Patriots,Guyana Amazon Warriors,121,122/3,Guyana Amazon Warriors,7 wickets,121,10,122,3
+1185846,"Sabina Park, Kingston, Jamaica",10th Match (N),Kingston,2019-09-14,Caribbean Premier League,Trinbago Knight Riders,Jamaica Tallawahs,267/2,226/5,Trinbago Knight Riders,41 runs,267,2,226,5
+1185845,"Sabina Park, Kingston, Jamaica",9th Match (N),Kingston,2019-09-13,Caribbean Premier League,Jamaica Tallawahs,St Lucia Zouks,170/5,171/5,St Lucia Zouks,5 wickets,170,5,171,5
+1185844,"Warner Park, Basseterre, St Kitts",8th Match (D/N),Basseterre,2019-09-11,Caribbean Premier League,Barbados Tridents,St Kitts and Nevis Patriots,186/2,168/9,Barbados Tridents,18 runs,186,2,168,9
+1185843,"Warner Park, Basseterre, St Kitts",7th Match (N),Basseterre,2019-09-10,Caribbean Premier League,Jamaica Tallawahs,St Kitts and Nevis Patriots,241/4,242/6,St Kitts and Nevis Patriots,4 wickets,241,4,242,6
+1185842,"Providence Stadium, Guyana",6th Match (D/N),Providence,2019-09-08,Caribbean Premier League,Guyana Amazon Warriors,Barbados Tridents,180/4,133,Guyana Amazon Warriors,47 runs,180,4,133,10
+1185841,"Queen's Park Oval, Port of Spain, Trinidad",5th Match,Port of Spain,2019-09-08,Caribbean Premier League,St Lucia Zouks,Trinbago Knight Riders,167/5,168/3,Trinbago Knight Riders,7 wickets,167,5,168,3
+1185840,"Providence Stadium, Guyana",4th Match (N),Providence,2019-09-08,Caribbean Premier League,St Kitts and Nevis Patriots,Guyana Amazon Warriors,153/8,159/2,Guyana Amazon Warriors,8 wickets,153,8,159,2
+1185839,"Queen's Park Oval, Port of Spain, Trinidad",3rd Match (N),Port of Spain,2019-09-07,Caribbean Premier League,Trinbago Knight Riders,Jamaica Tallawahs,191/4,169/6,Trinbago Knight Riders,22 runs,191,4,169,6
+1185838,"Providence Stadium, Guyana",2nd Match (N),Providence,2019-09-05,Caribbean Premier League,Guyana Amazon Warriors,St Lucia Zouks,155/9,142/9,Guyana Amazon Warriors,13 runs,155,9,142,9
+1185837,"Queen's Park Oval, Port of Spain, Trinidad",1st Match (N),Port of Spain,2019-09-04,Caribbean Premier League,Trinbago Knight Riders,St Kitts and Nevis Patriots,152/7,141,Trinbago Knight Riders,11 runs,152,7,141,10

@@ -1,0 +1,21 @@
+match_id,venue,match_type,city,date,full_league,team_one,team_two,inn_one,inn_two,winner,margin,inn_one_score,inn_one_wickets,inn_two_score,inn_two_wickets
+461047,Adelaide Oval,Final (N),Adelaide,2011-02-05,Twenty20 Big Bash,New South Wales,South Australia,153/8,155/2,South Australia,8 wickets,153,8,155,2
+461046,"Bellerive Oval, Hobart",Preliminary Final (N),Hobart,2011-02-01,Twenty20 Big Bash,Tasmania,New South Wales,103,107/1,New South Wales,9 wickets,103,10,107,1
+461045,"Stadium Australia, Sydney",(N),Sydney,2011-01-29,Twenty20 Big Bash,New South Wales,Queensland,120,124/2,Queensland,8 wickets,120,10,124,2
+461044,Melbourne Cricket Ground,(N),Melbourne,2011-01-28,Twenty20 Big Bash,Victoria,South Australia,144/4,147/5,South Australia,5 wickets,144,4,147,5
+461043,"Bellerive Oval, Hobart",(N),Hobart,2011-01-27,Twenty20 Big Bash,Tasmania,Western Australia,170/7,130/8,Tasmania,40 runs,170,7,130,8
+461042,"Brisbane Cricket Ground, Woolloongabba, Brisbane",(N),Brisbane,2011-01-25,Twenty20 Big Bash,Western Australia,Queensland,202/4,170/5,Western Australia,32 runs,202,4,170,5
+461036,"Brisbane Cricket Ground, Woolloongabba, Brisbane",(N),Brisbane,2011-01-24,Twenty20 Big Bash,New South Wales,Queensland,140/7,123/9,New South Wales,17 runs,140,7,123,9
+461041,"Bellerive Oval, Hobart",(D/N),Hobart,2011-01-24,Twenty20 Big Bash,Tasmania,South Australia,110,112/1,South Australia,9 wickets,110,10,112,1
+461040,Melbourne Cricket Ground,(N),Melbourne,2011-01-22,Twenty20 Big Bash,New South Wales,Victoria,168/7,151/7,New South Wales,17 runs,168,7,151,7
+461039,Adelaide Oval,(N),Adelaide,2011-01-20,Twenty20 Big Bash,South Australia,Queensland,159/6,149/9,South Australia,10 runs,159,6,149,9
+461038,"Stadium Australia, Sydney",(N),Sydney,2011-01-19,Twenty20 Big Bash,Tasmania,New South Wales,152/6,150/5,Tasmania,2 runs,152,6,150,5
+461037,"W.A.C.A. Ground, Perth",(D/N),Perth,2011-01-18,Twenty20 Big Bash,Victoria,Western Australia,145/8,146/4,Western Australia,6 wickets,145,8,146,4
+461035,"W.A.C.A. Ground, Perth",(D/N),Perth,2011-01-13,Twenty20 Big Bash,South Australia,Western Australia,202/8,156/9,South Australia,46 runs,202,8,156,9
+461034,"Bellerive Oval, Hobart",(N),Hobart,2011-01-11,Twenty20 Big Bash,Victoria,Tasmania,107/8,108/1,Tasmania,9 wickets,107,8,108,1
+461033,"Stadium Australia, Sydney",(N),Sydney,2011-01-09,Twenty20 Big Bash,Western Australia,New South Wales,205/5,104/4,Western Australia,19 runs,205,5,104,4
+461032,Adelaide Oval,(N),Adelaide,2011-01-08,Twenty20 Big Bash,South Australia,Victoria,171/3,116,South Australia,55 runs,171,3,116,10
+461031,"Brisbane Cricket Ground, Woolloongabba, Brisbane",(N),Brisbane,2011-01-07,Twenty20 Big Bash,Tasmania,Queensland,118/8,119/2,Queensland,8 wickets,118,8,119,2
+461030,Adelaide Oval,(N),Adelaide,2011-01-04,Twenty20 Big Bash,New South Wales,South Australia,168/5,147,New South Wales,21 runs,168,5,147,10
+461029,Melbourne Cricket Ground,(N),Melbourne,2011-01-02,Twenty20 Big Bash,Victoria,Queensland,188/4,155/9,Victoria,33 runs,188,4,155,9
+461028,"W.A.C.A. Ground, Perth",(D/N),Perth,2010-12-30,Twenty20 Big Bash,Tasmania,Western Australia,189/6,126,Tasmania,63 runs,189,6,126,10

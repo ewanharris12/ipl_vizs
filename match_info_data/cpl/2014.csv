@@ -1,0 +1,31 @@
+match_id,venue,match_type,city,date,full_league,team_one,team_two,inn_one,inn_two,winner,margin,inn_one_score,inn_one_wickets,inn_two_score,inn_two_wickets
+743195,"Warner Park, Basseterre, St Kitts",Final (D/N),Basseterre,2014-08-16,Caribbean Premier League,Barbados Tridents,Guyana Amazon Warriors,152/6,107/4,Barbados Tridents,8 runs,152,6,107,4
+743193,"Warner Park, Basseterre, St Kitts",2nd Semi-Final (D/N),Basseterre,2014-08-14,Caribbean Premier League,Jamaica Tallawahs,Guyana Amazon Warriors,134/6,138/0,Guyana Amazon Warriors,10 wickets,134,6,138,0
+743191,"Warner Park, Basseterre, St Kitts",1st Semi-Final (D/N),Basseterre,2014-08-13,Caribbean Premier League,Trinidad & Tobago Red Steel,Jamaica Tallawahs,155/6,158/6,Jamaica Tallawahs,4 wickets,155,6,158,6
+743189,"Warner Park, Basseterre, St Kitts",27th Match,Basseterre,2014-08-10,Caribbean Premier League,Barbados Tridents,Jamaica Tallawahs,175/8,87,Barbados Tridents,88 runs,175,8,87,10
+743187,"Warner Park, Basseterre, St Kitts",26th Match,Basseterre,2014-08-10,Caribbean Premier League,St Lucia Zouks,Guyana Amazon Warriors,189/7,194/2,Guyana Amazon Warriors,8 wickets,189,7,194,2
+743185,"Warner Park, Basseterre, St Kitts",25th Match,Basseterre,2014-08-09,Caribbean Premier League,Trinidad & Tobago Red Steel,Antigua Hawksbills,113,114/5,Antigua Hawksbills,5 wickets,113,10,114,5
+743183,"Warner Park, Basseterre, St Kitts",24th Match,Basseterre,2014-08-09,Caribbean Premier League,Jamaica Tallawahs,St Lucia Zouks,143,144/3,St Lucia Zouks,7 wickets,143,10,144,3
+743181,"Warner Park, Basseterre, St Kitts",23rd Match (N),Basseterre,2014-08-08,Caribbean Premier League,Barbados Tridents,Trinidad & Tobago Red Steel,174/5,105,Barbados Tridents,69 runs,174,5,105,10
+743179,"Warner Park, Basseterre, St Kitts",22nd Match,Basseterre,2014-08-07,Caribbean Premier League,Guyana Amazon Warriors,Antigua Hawksbills,212/5,193/3,Guyana Amazon Warriors,19 runs,212,5,193,3
+743177,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",21st Match,Gros Islet,2014-08-03,Caribbean Premier League,Antigua Hawksbills,St Lucia Zouks,103/6,108/5,St Lucia Zouks,5 wickets,103,6,108,5
+743175,"Sabina Park, Kingston, Jamaica",20th Match,Kingston,2014-08-03,Caribbean Premier League,Jamaica Tallawahs,Barbados Tridents,147/8,128/6,Jamaica Tallawahs,19 runs,147,8,128,6
+743173,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",19th Match,Gros Islet,2014-08-02,Caribbean Premier League,St Lucia Zouks,Trinidad & Tobago Red Steel,117,119/2,Trinidad & Tobago Red Steel,8 wickets,117,10,119,2
+743171,"Sabina Park, Kingston, Jamaica",18th Match,Kingston,2014-08-02,Caribbean Premier League,Guyana Amazon Warriors,Jamaica Tallawahs,137/9,138/4,Jamaica Tallawahs,6 wickets,137,9,138,4
+743169,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",17th Match (N),Gros Islet,2014-08-01,Caribbean Premier League,St Lucia Zouks,Barbados Tridents,167/7,168/7,Barbados Tridents,3 wickets,167,7,168,7
+743167,"Sabina Park, Kingston, Jamaica",16th Match,Kingston,2014-07-31,Caribbean Premier League,Antigua Hawksbills,Jamaica Tallawahs,89/9,91/3,Jamaica Tallawahs,7 wickets,89,9,91,3
+743165,"Queen's Park Oval, Port of Spain, Trinidad",15th Match (N),Port of Spain,2014-07-27,Caribbean Premier League,St Lucia Zouks,Trinidad & Tobago Red Steel,136/9,137/1,Trinidad & Tobago Red Steel,9 wickets,136,9,137,1
+743163,"Kensington Oval, Bridgetown, Barbados",14th Match (D/N),Bridgetown,2014-07-26,Caribbean Premier League,Guyana Amazon Warriors,Barbados Tridents,173/5,166/4,Guyana Amazon Warriors,7 runs,173,5,166,4
+743161,"Queen's Park Oval, Port of Spain, Trinidad",13th Match,Port of Spain,2014-07-26,Caribbean Premier League,Trinidad & Tobago Red Steel,Jamaica Tallawahs,183/5,170/6,Trinidad & Tobago Red Steel,13 runs,183,5,170,6
+743159,"Kensington Oval, Bridgetown, Barbados",12th Match,Bridgetown,2014-07-25,Caribbean Premier League,Antigua Hawksbills,Barbados Tridents,129/8,130/9,Barbados Tridents,1 wicket,129,8,130,9
+743157,"Queen's Park Oval, Port of Spain, Trinidad",11th Match (N),Port of Spain,2014-07-25,Caribbean Premier League,Guyana Amazon Warriors,Trinidad & Tobago Red Steel,179/5,180/6,Trinidad & Tobago Red Steel,4 wickets,179,5,180,6
+743155,"Kensington Oval, Bridgetown, Barbados",10th Match,Bridgetown,2014-07-23,Caribbean Premier League,Barbados Tridents,St Lucia Zouks,186/2,157/4,Barbados Tridents,29 runs,186,2,157,4
+743153,"Providence Stadium, Guyana",9th Match,Providence,2014-07-20,Caribbean Premier League,Jamaica Tallawahs,Guyana Amazon Warriors,148/6,144/2,Jamaica Tallawahs,4 runs,148,6,144,2
+743151,"Sir Vivian Richards Stadium, North Sound, Antigua",8th Match,North Sound,2014-07-20,Caribbean Premier League,Antigua Hawksbills,Trinidad & Tobago Red Steel,151/8,152/1,Trinidad & Tobago Red Steel,9 wickets,151,8,152,1
+743149,"Providence Stadium, Guyana",7th Match,Providence,2014-07-19,Caribbean Premier League,St Lucia Zouks,Guyana Amazon Warriors,117,118/1,Guyana Amazon Warriors,9 wickets,117,10,118,1
+743147,"Sir Vivian Richards Stadium, North Sound, Antigua",6th Match,North Sound,2014-07-19,Caribbean Premier League,Antigua Hawksbills,Barbados Tridents,172/6,173/5,Barbados Tridents,5 wickets,172,6,173,5
+743145,"Providence Stadium, Guyana",5th Match (N),Providence,2014-07-17,Caribbean Premier League,Trinidad & Tobago Red Steel,Guyana Amazon Warriors,118/8,118/9,Guyana Amazon Warriors,Super Over,118,8,118,9
+743143,"Sir Vivian Richards Stadium, North Sound, Antigua",4th Match,North Sound,2014-07-17,Caribbean Premier League,Antigua Hawksbills,Jamaica Tallawahs,96,97/2,Jamaica Tallawahs,8 wickets,96,10,97,2
+743141,"National Cricket Stadium, St George's, Grenada",3rd Match,St George's,2014-07-12,Caribbean Premier League,St Lucia Zouks,Jamaica Tallawahs,161/5,162/3,Jamaica Tallawahs,7 wickets,161,5,162,3
+743139,"National Cricket Stadium, St George's, Grenada",2nd Match,St George's,2014-07-12,Caribbean Premier League,Barbados Tridents,Trinidad & Tobago Red Steel,124/6,125/3,Trinidad & Tobago Red Steel,7 wickets,124,6,125,3
+743137,"National Cricket Stadium, St George's, Grenada",1st Match,St George's,2014-07-11,Caribbean Premier League,Antigua Hawksbills,Guyana Amazon Warriors,136/8,140/8,Guyana Amazon Warriors,2 wickets,136,8,140,8

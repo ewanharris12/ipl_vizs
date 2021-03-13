@@ -1,0 +1,134 @@
+match_id,venue,match_type,city,date,full_league,team_one,team_two,inn_one,inn_two,winner,margin,inn_one_score,inn_one_wickets,inn_two_score,inn_two_wickets
+693273,"Edgbaston, Birmingham",Final (D/N),Birmingham,2014-08-23,NatWest t20 Blast,Warwickshire,Lancashire,181/5,177/8,Warwickshire,4 runs,181,5,177,8
+693271,"Edgbaston, Birmingham",2nd Semi-Final,Birmingham,2014-08-23,NatWest t20 Blast,Lancashire,Hampshire,160/5,101,Lancashire,41 runs,160,5,101,10
+693269,"Edgbaston, Birmingham",1st Semi-Final,Birmingham,2014-08-23,NatWest t20 Blast,Warwickshire,Surrey,194/4,178/7,Warwickshire,16 runs,194,4,178,7
+693267,"Trent Bridge, Nottingham",4th Quarter-Final,Nottingham,2014-08-03,NatWest t20 Blast,Nottinghamshire,Hampshire,197/2,198/5,Hampshire,5 wickets,197,2,198,5
+693265,"County Ground, Chelmsford",3rd Quarter-Final (N),Chelmsford,2014-08-02,NatWest t20 Blast,Warwickshire,Essex,197/2,178/5,Warwickshire,19 runs,197,2,178,5
+693263,"Kennington Oval, London",2nd Quarter-Final,London,2014-08-02,NatWest t20 Blast,Worcestershire,Surrey,141/9,144/7,Surrey,3 wickets,141,9,144,7
+693261,"Old Trafford, Manchester",1st Quarter-Final (N),Manchester,2014-08-01,NatWest t20 Blast,Lancashire,Glamorgan,137/8,136/7,Lancashire,1 run,137,8,136,7
+693257,"County Ground, Chelmsford",South Division,Chelmsford,2014-07-25,NatWest t20 Blast,Essex,Sussex,225/3,226/3,Sussex,7 wickets,225,3,226,3
+693259,"St Lawrence Ground, Canterbury",South Division,Canterbury,2014-07-25,NatWest t20 Blast,Kent,Surrey,175/7,154/7,Kent,21 runs,175,7,154,7
+693255,"Edgbaston, Birmingham",North Division,Birmingham,2014-07-25,NatWest t20 Blast,Warwickshire,Leicestershire,160/6,108,Warwickshire,52 runs,160,6,108,10
+693253,"Riverside Ground, Chester-le-Street",North Division,Chester-le-Street,2014-07-25,NatWest t20 Blast,Northamptonshire,Durham,195/3,199/5,Durham,5 wickets,195,3,199,5
+693251,"Headingley, Leeds",North Division,Leeds,2014-07-25,NatWest t20 Blast,Yorkshire,Nottinghamshire,200/5,201/4,Nottinghamshire,6 wickets,200,5,201,4
+693249,"County Ground, New Road, Worcester",North Division,Worcester,2014-07-25,NatWest t20 Blast,Worcestershire,Derbyshire,209/4,181/7,Worcestershire,28 runs,209,4,181,7
+693247,"Sophia Gardens, Cardiff",South Division,Cardiff,2014-07-25,NatWest t20 Blast,Gloucestershire,Glamorgan,108/9,110/2,Glamorgan,8 wickets,108,9,110,2
+693245,"The Cooper Associates County Ground, Taunton",South Division,Taunton,2014-07-25,NatWest t20 Blast,Somerset,Middlesex,183/3,161/7,Somerset,22 runs,183,3,161,7
+693243,"Old Trafford, Manchester",North Division (N),Manchester,2014-07-24,NatWest t20 Blast,Lancashire,Durham,164/8,137/7,Lancashire,27 runs,164,8,137,7
+693241,"Lord's, London",South Division (N),London,2014-07-24,NatWest t20 Blast,Middlesex,Surrey,137/8,138/8,Surrey,2 wickets,137,8,138,8
+693239,"County Ground, Northampton",North Division (D/N),Northampton,2014-07-23,NatWest t20 Blast,Nottinghamshire,Northamptonshire,174/6,152/7,Nottinghamshire,22 runs,174,6,152,7
+693237,"County Ground, Chelmsford",South Division (D/N),Chelmsford,2014-07-22,NatWest t20 Blast,Essex,Hampshire,167/9,168/5,Hampshire,5 wickets,167,9,168,5
+693235,"College Ground, Cheltenham",South Division,Cheltenham,2014-07-20,NatWest t20 Blast,Essex,Gloucestershire,183/7,186/4,Gloucestershire,6 wickets,183,7,186,4
+693233,"Trent Bridge, Nottingham",North Division,Nottingham,2014-07-20,NatWest t20 Blast,Nottinghamshire,Leicestershire,121/9,90,Nottinghamshire,31 runs,121,9,90,10
+693231,"The Rose Bowl, Southampton",South Division (N),Southampton,2014-07-18,NatWest t20 Blast,Hampshire,Sussex,177/3,171/8,Hampshire,6 runs,177,3,171,8
+693229,"St Lawrence Ground, Canterbury",South Division (N),Canterbury,2014-07-18,NatWest t20 Blast,Kent,Somerset,195/7,59/5,Kent,40 runs,195,7,59,5
+693225,"Old Trafford, Manchester",North Division (D/N),Manchester,2014-07-18,NatWest t20 Blast,Lancashire,Derbyshire,225/7,190/7,Lancashire,35 runs,225,7,190,7
+693219,"County Ground, Northampton",North Division (D/N),Northampton,2014-07-18,NatWest t20 Blast,Worcestershire,Northamptonshire,162/9,131,Worcestershire,31 runs,162,9,131,10
+693217,"Sophia Gardens, Cardiff",South Division (D/N),Cardiff,2014-07-18,NatWest t20 Blast,Glamorgan,Essex,157/2,159/3,Essex,7 wickets,157,2,159,3
+693223,"Grace Road, Leicester",North Division,Leicester,2014-07-18,NatWest t20 Blast,Durham,Leicestershire,117/9,120/7,Leicestershire,3 wickets,117,9,120,7
+693221,"Headingley, Leeds",North Division,Leeds,2014-07-18,NatWest t20 Blast,Yorkshire,Warwickshire,147/6,148/5,Warwickshire,5 wickets,147,6,148,5
+693227,"College Ground, Cheltenham",South Division,Cheltenham,2014-07-18,NatWest t20 Blast,Surrey,Gloucestershire,157/8,152/7,Surrey,5 runs,157,8,152,7
+693215,"Kennington Oval, London",South Division (D/N),London,2014-07-16,NatWest t20 Blast,Somerset,Surrey,136/9,137/7,Surrey,3 wickets,136,9,137,7
+693213,"County Ground, Hove",South Division (D/N),Brighton,2014-07-15,NatWest t20 Blast,Glamorgan,Sussex,151/8,153/5,Sussex,5 wickets,151,8,153,5
+693211,"Queen's Park, Chesterfield",North Division,Chesterfield,2014-07-13,NatWest t20 Blast,Yorkshire,Derbyshire,183/4,124,Yorkshire,59 runs,183,4,124,10
+693209,"Castle Park Cricket Ground, Colchester",South Division,Colchester,2014-07-12,NatWest t20 Blast,Essex,Kent,209/5,146,Essex,63 runs,209,5,146,10
+693207,"The Rose Bowl, Southampton",South Division (N),Southampton,2014-07-11,NatWest t20 Blast,Middlesex,Hampshire,173/6,123,Middlesex,50 runs,173,6,123,10
+693199,"County Ground, Hove",South Division (N),Brighton,2014-07-11,NatWest t20 Blast,Kent,Sussex,149/9,146/9,Kent,3 runs,149,9,146,9
+693205,"Edgbaston, Birmingham",North Division (D/N),Birmingham,2014-07-11,NatWest t20 Blast,Worcestershire,Warwickshire,175/6,176/5,Warwickshire,5 wickets,175,6,176,5
+693197,"Kennington Oval, London",South Division (D/N),London,2014-07-11,NatWest t20 Blast,Glamorgan,Surrey,192/4,188/4,Glamorgan,4 runs,192,4,188,4
+693195,"County Ground, Northampton",North Division (D/N),Northampton,2014-07-11,NatWest t20 Blast,Derbyshire,Northamptonshire,191/6,192/6,Northamptonshire,4 wickets,191,6,192,6
+693203,"Riverside Ground, Chester-le-Street",North Division,Chester-le-Street,2014-07-11,NatWest t20 Blast,Yorkshire,Durham,186/8,137,Yorkshire,49 runs,186,8,137,10
+693201,"Grace Road, Leicester",North Division,Leicester,2014-07-11,NatWest t20 Blast,Lancashire,Leicestershire,151/7,133,Lancashire,18 runs,151,7,133,10
+693193,"The Cooper Associates County Ground, Taunton",South Division,Taunton,2014-07-11,NatWest t20 Blast,Somerset,Gloucestershire,175/8,168/6,Somerset,7 runs,175,8,168,6
+693191,"Edgbaston, Birmingham",North Division (D/N),Birmingham,2014-07-08,NatWest t20 Blast,Nottinghamshire,Warwickshire,158/9,152/6,Nottinghamshire,6 runs,158,9,152,6
+693189,"Queen's Park, Chesterfield",North Division,Chesterfield,2014-07-06,NatWest t20 Blast,Derbyshire,Leicestershire,143,144/5,Leicestershire,5 wickets,143,10,144,5
+693187,"County Ground, New Road, Worcester",North Division,Worcester,2014-07-06,NatWest t20 Blast,Lancashire,Worcestershire,229/4,179/7,Lancashire,50 runs,229,4,179,7
+693185,"The Rose Bowl, Southampton",South Division,Southampton,2014-07-06,NatWest t20 Blast,Somerset,Hampshire,155/4,116,Somerset,39 runs,155,4,116,10
+693181,"St Lawrence Ground, Canterbury",South Division (N),Canterbury,2014-07-04,NatWest t20 Blast,Hampshire,Kent,173/9,126,Hampshire,47 runs,173,9,126,10
+693179,"County Ground, Chelmsford",South Division (N),Chelmsford,2014-07-04,NatWest t20 Blast,Surrey,Essex,165/4,166/5,Essex,5 wickets,165,4,166,5
+693177,"Edgbaston, Birmingham",North Division (D/N),Birmingham,2014-07-04,NatWest t20 Blast,Warwickshire,Lancashire,,,,,,,,
+693169,"Sophia Gardens, Cardiff",South Division (D/N),Cardiff,2014-07-04,NatWest t20 Blast,Glamorgan,Somerset,,,,,,,,
+693183,"County Ground, Bristol",South Division,Bristol,2014-07-04,NatWest t20 Blast,Gloucestershire,Sussex,138/7,125,Gloucestershire,13 runs,138,7,125,10
+693175,"Riverside Ground, Chester-le-Street",North Division,Chester-le-Street,2014-07-04,NatWest t20 Blast,Durham,Nottinghamshire,,,,,,,,
+693173,"Grace Road, Leicester",North Division,Leicester,2014-07-04,NatWest t20 Blast,Northamptonshire,Leicestershire,,,,,,,,
+693171,"County Ground, New Road, Worcester",North Division,Worcester,2014-07-04,NatWest t20 Blast,Worcestershire,Yorkshire,,,,,,,,
+693167,"County Ground, Northampton",North Division (D/N),Northampton,2014-07-03,NatWest t20 Blast,Northamptonshire,Warwickshire,139/8,124/9,Northamptonshire,15 runs,139,8,124,9
+693165,"Old Deer Park, Richmond",South Division,Richmond,2014-07-03,NatWest t20 Blast,Middlesex,Glamorgan,184/3,187/4,Glamorgan,6 wickets,184,3,187,4
+693161,"Kennington Oval, London",South Division (N),London,2014-07-02,NatWest t20 Blast,Kent,Surrey,155/4,156/2,Surrey,8 wickets,155,4,156,2
+693163,"Headingley, Leeds",North Division,Leeds,2014-07-02,NatWest t20 Blast,Durham,Yorkshire,123/9,95,Durham,28 runs,123,9,95,10
+693159,"Headingley, Leeds",North Division,Leeds,2014-07-01,NatWest t20 Blast,Yorkshire,Leicestershire,168/5,154/8,Yorkshire,14 runs,168,5,154,8
+693157,"Riverside Ground, Chester-le-Street",North Division,Chester-le-Street,2014-06-29,NatWest t20 Blast,Derbyshire,Durham,125,129/2,Durham,8 wickets,125,10,129,2
+693155,"Trent Bridge, Nottingham",North Division,Nottingham,2014-06-28,NatWest t20 Blast,Nottinghamshire,Yorkshire,143/9,121/9,Nottinghamshire,22 runs,143,9,121,9
+693151,"County Ground, Derby",North Division (N),Derby,2014-06-27,NatWest t20 Blast,Warwickshire,Derbyshire,189/5,193/7,Derbyshire,3 wickets,189,5,193,7
+693147,"County Ground, Hove",South Division (N),Brighton,2014-06-27,NatWest t20 Blast,Middlesex,Sussex,107,110/4,Sussex,6 wickets,107,10,110,4
+693145,"Kennington Oval, London",South Division (D/N),London,2014-06-27,NatWest t20 Blast,Hampshire,Surrey,131/9,137/2,Surrey,8 wickets,131,9,137,2
+693141,"County Ground, Northampton",North Division (D/N),Northampton,2014-06-27,NatWest t20 Blast,Durham,Northamptonshire,,,,,,,,
+693153,"County Ground, Bristol",South Division,Bristol,2014-06-27,NatWest t20 Blast,Kent,Gloucestershire,150/6,154/7,Gloucestershire,3 wickets,150,6,154,7
+693149,"Headingley, Leeds",North Division,Leeds,2014-06-27,NatWest t20 Blast,Yorkshire,Lancashire,,,,,,,,
+693143,"County Ground, New Road, Worcester",North Division,Worcester,2014-06-27,NatWest t20 Blast,Worcestershire,Nottinghamshire,,,,,,,,
+693139,"The Cooper Associates County Ground, Taunton",South Division,Taunton,2014-06-27,NatWest t20 Blast,Somerset,Essex,150/7,125/2,Essex,8 wickets,150,7,125,2
+693137,"Lord's, London",South Division (D/N),London,2014-06-26,NatWest t20 Blast,Gloucestershire,Middlesex,,,,,,,,
+693135,"Sophia Gardens, Cardiff",South Division (D/N),Cardiff,2014-06-25,NatWest t20 Blast,Hampshire,Glamorgan,170/6,164/6,Hampshire,6 runs,170,6,164,6
+693133,"The Rose Bowl, Southampton",South Division (N),Southampton,2014-06-20,NatWest t20 Blast,Hampshire,Gloucestershire,180/6,178/8,Hampshire,2 runs,180,6,178,8
+693131,"St Lawrence Ground, Canterbury",South Division (N),Canterbury,2014-06-20,NatWest t20 Blast,Sussex,Kent,149/8,114,Sussex,35 runs,149,8,114,10
+693129,"County Ground, Chelmsford",South Division (N),Chelmsford,2014-06-20,NatWest t20 Blast,Middlesex,Essex,153/5,157/8,Essex,2 wickets,153,5,157,8
+693121,"Sophia Gardens, Cardiff",South Division (D/N),Cardiff,2014-06-20,NatWest t20 Blast,Surrey,Glamorgan,165/5,148/8,Surrey,17 runs,165,5,148,8
+693125,"Old Trafford, Manchester",North Division (D/N),Manchester,2014-06-20,NatWest t20 Blast,Lancashire,Northamptonshire,187/3,134,Lancashire,53 runs,187,3,134,10
+693119,"Trent Bridge, Nottingham",North Division (D/N),Nottingham,2014-06-20,NatWest t20 Blast,Nottinghamshire,Derbyshire,206/5,179/7,Nottinghamshire,27 runs,206,5,179,7
+693127,"Riverside Ground, Chester-le-Street",North Division,Chester-le-Street,2014-06-20,NatWest t20 Blast,Durham,Leicestershire,177/7,178/6,Leicestershire,4 wickets,177,7,178,6
+693123,"County Ground, New Road, Worcester",North Division,Worcester,2014-06-20,NatWest t20 Blast,Warwickshire,Worcestershire,133/8,134/2,Worcestershire,8 wickets,133,8,134,2
+693115,"Grace Road, Leicester",North Division,Leicester,2014-06-19,NatWest t20 Blast,Nottinghamshire,Leicestershire,220/4,196/5,Nottinghamshire,24 runs,220,4,196,5
+693117,"Edgbaston, Birmingham",North Division,Birmingham,2014-06-19,NatWest t20 Blast,Northamptonshire,Warwickshire,133/7,136/2,Warwickshire,8 wickets,133,7,136,2
+693113,"Kennington Oval, London",South Division (D/N),London,2014-06-18,NatWest t20 Blast,Somerset,Middlesex,152/4,155/2,Middlesex,8 wickets,152,4,155,2
+693111,Arundel Castle Cricket Club Ground,South Division,Arundel,2014-06-15,NatWest t20 Blast,Somerset,Sussex,163/4,129,Somerset,34 runs,163,4,129,10
+693109,"County Ground, Chelmsford",South Division (N),Chelmsford,2014-06-13,NatWest t20 Blast,Gloucestershire,Essex,162/6,163/2,Essex,8 wickets,162,6,163,2
+693107,"County Ground, Derby",North Division (N),Derby,2014-06-13,NatWest t20 Blast,Worcestershire,Derbyshire,177/5,169/8,Worcestershire,8 runs,177,5,169,8
+693105,"Old Trafford, Manchester",North Division (D/N),Manchester,2014-06-13,NatWest t20 Blast,Lancashire,Leicestershire,166/7,157/7,Lancashire,9 runs,166,7,157,7
+693103,"Kennington Oval, London",South Division (D/N),London,2014-06-13,NatWest t20 Blast,Sussex,Surrey,148/5,149/0,Surrey,10 wickets,148,5,149,0
+693101,"County Ground, Northampton",North Division (D/N),Northampton,2014-06-13,NatWest t20 Blast,Yorkshire,Northamptonshire,181/3,165/9,Yorkshire,16 runs,181,3,165,9
+693099,"Sophia Gardens, Cardiff",South Division (D/N),Cardiff,2014-06-13,NatWest t20 Blast,Glamorgan,Kent,177/7,177/9,,Super Over,177,7,177,9
+693095,"Trent Bridge, Nottingham",North Division,Nottingham,2014-06-13,NatWest t20 Blast,Warwickshire,Nottinghamshire,156/5,138/7,Warwickshire,18 runs,156,5,138,7
+693097,"The Cooper Associates County Ground, Taunton",South Division,Taunton,2014-06-13,NatWest t20 Blast,Somerset,Hampshire,176/4,175/7,Somerset,1 run,176,4,175,7
+693093,"St Lawrence Ground, Canterbury",South Division (D/N),Canterbury,2014-06-11,NatWest t20 Blast,Kent,Essex,189/5,193/4,Essex,6 wickets,189,5,193,4
+693091,"County Ground, Bristol",South Division,Bristol,2014-06-08,NatWest t20 Blast,Gloucestershire,Glamorgan,,,,,,,,
+693089,"County Ground, New Road, Worcester",North Division,Worcester,2014-06-07,NatWest t20 Blast,Durham,Worcestershire,105/3,107/5,Worcestershire,5 wickets,105,3,107,5
+693087,"St Lawrence Ground, Canterbury",South Division (N),Canterbury,2014-06-06,NatWest t20 Blast,Kent,Middlesex,208/4,192,Kent,16 runs,208,4,192,10
+693085,"County Ground, Derby",North Division (N),Derby,2014-06-06,NatWest t20 Blast,Derbyshire,Nottinghamshire,164/7,165/5,Nottinghamshire,5 wickets,164,7,165,5
+693077,"County Ground, Hove",South Division (N),Brighton,2014-06-06,NatWest t20 Blast,Gloucestershire,Sussex,189/6,185,Gloucestershire,4 runs,189,6,185,10
+693083,"Edgbaston, Birmingham",North Division (D/N),Birmingham,2014-06-06,NatWest t20 Blast,Durham,Warwickshire,146/7,147/4,Warwickshire,6 wickets,146,7,147,4
+693081,"Old Trafford, Manchester",North Division (D/N),Manchester,2014-06-06,NatWest t20 Blast,Lancashire,Yorkshire,179/6,180/5,Yorkshire,5 wickets,179,6,180,5
+693075,"Kennington Oval, London",South Division (D/N),London,2014-06-06,NatWest t20 Blast,Surrey,Essex,151/6,155/5,Essex,5 wickets,151,6,155,5
+693079,"Grace Road, Leicester",North Division,Leicester,2014-06-06,NatWest t20 Blast,Leicestershire,Worcestershire,164/6,167/5,Worcestershire,5 wickets,164,6,167,5
+693073,"The Cooper Associates County Ground, Taunton",South Division,Taunton,2014-06-06,NatWest t20 Blast,Glamorgan,Somerset,176/3,169/4,Glamorgan,7 runs,176,3,169,4
+693071,"The Rose Bowl, Southampton",South Division (D/N),Southampton,2014-06-05,NatWest t20 Blast,Hampshire,Kent,171/7,149/4,Hampshire,22 runs,171,7,149,4
+693069,"Grace Road, Leicester",North Division,Leicester,2014-06-01,NatWest t20 Blast,Warwickshire,Leicestershire,175/9,150/6,Warwickshire,25 runs,175,9,150,6
+693067,"The Rose Bowl, Southampton",South Division (N),Southampton,2014-05-30,NatWest t20 Blast,Essex,Hampshire,145/5,146/2,Hampshire,8 wickets,145,5,146,2
+693053,"St Lawrence Ground, Canterbury",South Division (N),Canterbury,2014-05-30,NatWest t20 Blast,Kent,Gloucestershire,136/7,115/9,Kent,21 runs,136,7,115,9
+693065,"Old Trafford, Manchester",North Division (D/N),Manchester,2014-05-30,NatWest t20 Blast,Lancashire,Warwickshire,126,111,Lancashire,15 runs,126,10,111,10
+693061,"Kennington Oval, London",South Division (D/N),London,2014-05-30,NatWest t20 Blast,Middlesex,Surrey,117/7,121/4,Surrey,6 wickets,117,7,121,4
+693057,"Sophia Gardens, Cardiff",South Division (D/N),Cardiff,2014-05-30,NatWest t20 Blast,Sussex,Glamorgan,178/7,179/5,Glamorgan,5 wickets,178,7,179,5
+693055,"Trent Bridge, Nottingham",North Division,Nottingham,2014-05-30,NatWest t20 Blast,Durham,Nottinghamshire,132/8,129/7,Durham,3 runs,132,8,129,7
+693063,"Headingley, Leeds",North Division,Leeds,2014-05-30,NatWest t20 Blast,Derbyshire,Yorkshire,127/6,128/2,Yorkshire,8 wickets,127,6,128,2
+693059,"County Ground, New Road, Worcester",North Division,Worcester,2014-05-30,NatWest t20 Blast,Northamptonshire,Worcestershire,134/7,138/5,Worcestershire,5 wickets,134,7,138,5
+693051,"County Ground, Derby",North Division (D/N),Derby,2014-05-29,NatWest t20 Blast,Derbyshire,Northamptonshire,,,,,,,,
+693049,"Riverside Ground, Chester-le-Street",North Division,Chester-le-Street,2014-05-29,NatWest t20 Blast,Lancashire,Durham,133/6,132/7,Lancashire,1 run,133,6,132,7
+693047,"Merchant Taylors' School Ground, Northwood",South Division,Northwood,2014-05-25,NatWest t20 Blast,Hampshire,Middlesex,198/2,151/9,Hampshire,47 runs,198,2,151,9
+693043,"County Ground, Chelmsford",South Division (N),Chelmsford,2014-05-23,NatWest t20 Blast,Glamorgan,Essex,189/6,195/6,Essex,4 wickets,189,6,195,6
+693041,"County Ground, Derby",North Division (N),Derby,2014-05-23,NatWest t20 Blast,Lancashire,Derbyshire,169/3,149/5,Lancashire,20 runs,169,3,149,5
+693037,"County Ground, Hove",South Division (N),Brighton,2014-05-23,NatWest t20 Blast,Hampshire,Sussex,177/5,159/5,Hampshire,18 runs,177,5,159,5
+693039,"Edgbaston, Birmingham",North Division (D/N),Birmingham,2014-05-23,NatWest t20 Blast,Warwickshire,Yorkshire,,,,,,,,
+693035,"County Ground, Northampton",North Division (D/N),Northampton,2014-05-23,NatWest t20 Blast,Leicestershire,Northamptonshire,176/4,179/8,Northamptonshire,2 wickets,176,4,179,8
+693031,"Trent Bridge, Nottingham",North Division (D/N),Nottingham,2014-05-23,NatWest t20 Blast,Worcestershire,Nottinghamshire,163/6,139/9,Worcestershire,24 runs,163,6,139,9
+693045,"County Ground, Bristol",South Division,Bristol,2014-05-23,NatWest t20 Blast,Middlesex,Gloucestershire,111/8,113/5,Gloucestershire,5 wickets,111,8,113,5
+693033,"The Cooper Associates County Ground, Taunton",South Division,Taunton,2014-05-23,NatWest t20 Blast,Kent,Somerset,164/5,122/5,Kent,42 runs,164,5,122,5
+693029,"The Cooper Associates County Ground, Taunton",South Division,Taunton,2014-05-18,NatWest t20 Blast,Surrey,Somerset,173/7,159/6,Surrey,14 runs,173,7,159,6
+693027,"Old Trafford, Manchester",North Division (N),Manchester,2014-05-17,NatWest t20 Blast,Lancashire,Worcestershire,194/3,182/5,Lancashire,12 runs,194,3,182,5
+693025,"Lord's, London",South Division,London,2014-05-17,NatWest t20 Blast,Sussex,Middlesex,128,115/6,Sussex,13 runs,128,10,115,6
+693023,"Lord's, London",South Division,London,2014-05-17,NatWest t20 Blast,Middlesex,Essex,180/5,181/2,Essex,8 wickets,180,5,181,2
+693021,"The Rose Bowl, Southampton",South Division (N),Southampton,2014-05-16,NatWest t20 Blast,Glamorgan,Hampshire,161/7,151/6,Glamorgan,10 runs,161,7,151,6
+693011,"County Ground, Hove",South Division (N),Brighton,2014-05-16,NatWest t20 Blast,Surrey,Sussex,171/7,172/8,Sussex,2 wickets,171,7,172,8
+693009,"Trent Bridge, Nottingham",North Division (D/N),Nottingham,2014-05-16,NatWest t20 Blast,Nottinghamshire,Lancashire,182/5,149,Nottinghamshire,33 runs,182,5,149,10
+693019,"County Ground, Bristol",South Division,Bristol,2014-05-16,NatWest t20 Blast,Somerset,Gloucestershire,156/8,138,Somerset,18 runs,156,8,138,10
+693017,"Riverside Ground, Chester-le-Street",North Division,Chester-le-Street,2014-05-16,NatWest t20 Blast,Durham,Worcestershire,173/4,144,Durham,29 runs,173,4,144,10
+693015,"Grace Road, Leicester",North Division,Leicester,2014-05-16,NatWest t20 Blast,Leicestershire,Derbyshire,197/4,170/7,Leicestershire,27 runs,197,4,170,7
+693013,"Headingley, Leeds",North Division,Leeds,2014-05-16,NatWest t20 Blast,Yorkshire,Northamptonshire,162/7,165/7,Northamptonshire,3 wickets,162,7,165,7

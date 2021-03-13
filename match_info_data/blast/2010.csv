@@ -1,0 +1,152 @@
+match_id,venue,match_type,city,date,full_league,team_one,team_two,inn_one,inn_two,winner,margin,inn_one_score,inn_one_wickets,inn_two_score,inn_two_wickets
+435840,"The Rose Bowl, Southampton",Final (N),Southampton,2010-08-14,Friends Provident t20,Somerset,Hampshire,173/6,173/5,Hampshire,lost fewer wickets,173,6,173,5
+435839,"The Rose Bowl, Southampton",2nd Semi-Final,Southampton,2010-08-14,Friends Provident t20,Somerset,Nottinghamshire,182/5,117/4,Somerset,3 runs,182,5,117,4
+435838,"The Rose Bowl, Southampton",1st Semi-Final,Southampton,2010-08-14,Friends Provident t20,Essex,Hampshire,156/7,157/4,Hampshire,6 wickets,156,7,157,4
+435834,"County Ground, Chelmsford",Quarter-Final,Chelmsford,2010-07-27,Friends Provident t20,Lancashire,Essex,183/6,184/2,Essex,8 wickets,183,6,184,2
+435837,"The Cooper Associates County Ground, Taunton",Quarter-Final,Taunton,2010-07-27,Friends Provident t20,Northamptonshire,Somerset,112/6,115/3,Somerset,7 wickets,112,6,115,3
+435835,"Trent Bridge, Nottingham",Quarter-Final,Nottingham,2010-07-26,Friends Provident t20,Nottinghamshire,Sussex,141/9,128/7,Nottinghamshire,13 runs,141,9,128,7
+435836,"Edgbaston, Birmingham",Quarter-Final,Birmingham,2010-07-26,Friends Provident t20,Warwickshire,Hampshire,153/5,154/5,Hampshire,5 wickets,153,5,154,5
+435829,"The Rose Bowl, Southampton",South Group,Southampton,2010-07-18,Friends Provident t20,Hampshire,Sussex,195/5,150,Hampshire,45 runs,195,5,150,10
+435833,"County Ground, Derby",North Group,Derby,2010-07-18,Friends Provident t20,Derbyshire,Yorkshire,137/7,138/4,Yorkshire,6 wickets,137,7,138,4
+435832,"Grace Road, Leicester",North Group,Leicester,2010-07-18,Friends Provident t20,Warwickshire,Leicestershire,137/7,129/6,Warwickshire,8 runs,137,7,129,6
+435831,"Riverside Ground, Chester-le-Street",North Group,Chester-le-Street,2010-07-18,Friends Provident t20,Durham,Northamptonshire,130/5,133/3,Northamptonshire,7 wickets,130,5,133,3
+435830,"County Ground, Bristol",South Group,Bristol,2010-07-18,Friends Provident t20,Gloucestershire,Surrey,147/9,150/4,Surrey,6 wickets,147,9,150,4
+435828,"County Ground, New Road, Worcester",North Group,Worcester,2010-07-18,Friends Provident t20,Lancashire,Worcestershire,198/6,191/7,Lancashire,7 runs,198,6,191,7
+435827,"County Ground, Chelmsford",South Group,Chelmsford,2010-07-18,Friends Provident t20,Middlesex,Essex,173/7,162/6,Middlesex,11 runs,173,7,162,6
+435826,"The Cooper Associates County Ground, Taunton",South Group,Taunton,2010-07-18,Friends Provident t20,Kent,Somerset,141,82,Kent,59 runs,141,10,82,10
+435825,"Trent Bridge, Nottingham",North Group (N),Nottingham,2010-07-17,Friends Provident t20,Yorkshire,Nottinghamshire,112/7,116/3,Nottinghamshire,7 wickets,112,7,116,3
+435824,"County Ground, Hove",South Group (N),Brighton,2010-07-16,Friends Provident t20,Sussex,Essex,185/4,188/5,Essex,5 wickets,185,4,188,5
+435818,"The Rose Bowl, Southampton",South Group (N),Southampton,2010-07-16,Friends Provident t20,Hampshire,Middlesex,99,100/2,Middlesex,8 wickets,99,10,100,2
+435823,"County Ground, Derby",North Group (N),Derby,2010-07-16,Friends Provident t20,Northamptonshire,Derbyshire,159/4,116,Northamptonshire,43 runs,159,4,116,10
+435822,"Sophia Gardens, Cardiff",South Group (N),Cardiff,2010-07-16,Friends Provident t20,Kent,Glamorgan,158/9,95/3,Kent,14 runs,158,9,95,3
+435821,"County Ground, Bristol",South Group,Bristol,2010-07-16,Friends Provident t20,Gloucestershire,Somerset,152/9,156/4,Somerset,6 wickets,152,9,156,4
+435820,"Grace Road, Leicester",North Group,Leicester,2010-07-16,Friends Provident t20,Leicestershire,Durham,,,,,,,,
+435819,"Edgbaston, Birmingham",North Group,Birmingham,2010-07-16,Friends Provident t20,Warwickshire,Worcestershire,112/4,103/7,Warwickshire,9 runs,112,4,103,7
+435815,"County Ground, Chelmsford",South Group (N),Chelmsford,2010-07-15,Friends Provident t20,Gloucestershire,Essex,162/5,167/3,Essex,7 wickets,162,5,167,3
+435816,"County Ground, Northampton",North Group (N),Northampton,2010-07-15,Friends Provident t20,Northamptonshire,Lancashire,170/4,159/6,Northamptonshire,11 runs,170,4,159,6
+435817,"Trent Bridge, Nottingham",North Group (N),Nottingham,2010-07-15,Friends Provident t20,Leicestershire,Nottinghamshire,145/5,107/9,Leicestershire,23 runs,145,5,107,9
+435813,"Sophia Gardens, Cardiff",South Group (N),Cardiff,2010-07-14,Friends Provident t20,Glamorgan,Somerset,116/7,92/3,Somerset,7 wickets,116,7,92,3
+435814,"Riverside Ground, Chester-le-Street",North Group,Chester-le-Street,2010-07-14,Friends Provident t20,Durham,Derbyshire,,,,,,,,
+435812,"Old Trafford, Manchester",North Group,Manchester,2010-07-14,Friends Provident t20,Nottinghamshire,Lancashire,138/7,83/1,Lancashire,9 wickets,138,7,83,1
+435811,"Edgbaston, Birmingham",North Group,Birmingham,2010-07-14,Friends Provident t20,Warwickshire,Yorkshire,145/8,131,Warwickshire,14 runs,145,8,131,10
+435810,"St Lawrence Ground, Canterbury",South Group,Canterbury,2010-07-11,Friends Provident t20,Glamorgan,Kent,126/6,130/4,Kent,6 wickets,126,6,130,4
+435808,"County Ground, Chelmsford",South Group,Chelmsford,2010-07-11,Friends Provident t20,Essex,Somerset,173/6,177/4,Somerset,6 wickets,173,6,177,4
+435809,"County Ground, New Road, Worcester",North Group,Worcester,2010-07-11,Friends Provident t20,Leicestershire,Worcestershire,171/4,172/4,Worcestershire,6 wickets,171,4,172,4
+435807,"Old Trafford, Manchester",North Group,Manchester,2010-07-11,Friends Provident t20,Derbyshire,Lancashire,163/6,156/6,Derbyshire,7 runs,163,6,156,6
+435806,Uxbridge Cricket Club Ground,South Group,Uxbridge,2010-07-11,Friends Provident t20,Middlesex,Gloucestershire,185/8,188/4,Gloucestershire,6 wickets,185,8,188,4
+435805,"County Ground, Northampton",North Group,Northampton,2010-07-11,Friends Provident t20,Nottinghamshire,Northamptonshire,144/7,144/8,,Super Over,144,7,144,8
+435804,Arundel Castle Cricket Club Ground,South Group,Arundel,2010-07-11,Friends Provident t20,Sussex,Surrey,121/8,122/2,Surrey,8 wickets,121,8,122,2
+435803,Uxbridge Cricket Club Ground,South Group,Uxbridge,2010-07-10,Friends Provident t20,Middlesex,Hampshire,164/7,165/4,Hampshire,6 wickets,164,7,165,4
+435800,"County Ground, Northampton",North Group (N),Northampton,2010-07-09,Friends Provident t20,Northamptonshire,Warwickshire,146/5,147/4,Warwickshire,6 wickets,146,5,147,4
+435802,"Sophia Gardens, Cardiff",South Group (N),Cardiff,2010-07-09,Friends Provident t20,Glamorgan,Surrey,164/8,154/8,Glamorgan,10 runs,164,8,154,8
+435799,"Old Trafford, Manchester",North Group,Manchester,2010-07-09,Friends Provident t20,Yorkshire,Lancashire,162/8,163/5,Lancashire,5 wickets,162,8,163,5
+435801,"The Cooper Associates County Ground, Taunton",South Group,Taunton,2010-07-09,Friends Provident t20,Hampshire,Somerset,216/5,220/4,Somerset,6 wickets,216,5,220,4
+435798,"Kennington Oval, London",South Group,London,2010-07-09,Friends Provident t20,Kent,Essex,171/6,174/6,Essex,4 wickets,171,6,174,6
+435797,"County Ground, New Road, Worcester",North Group,Worcester,2010-07-09,Friends Provident t20,Durham,Worcestershire,144/6,141/8,Durham,3 runs,144,6,141,8
+435796,"Kennington Oval, London",South Group (N),London,2010-07-08,Friends Provident t20,Surrey,Middlesex,120/8,121/3,Middlesex,7 wickets,120,8,121,3
+435795,"Grace Road, Leicester",North Group,Leicester,2010-07-07,Friends Provident t20,Leicestershire,Worcestershire,142/8,146/7,Worcestershire,3 wickets,142,8,146,7
+435780,"Old Trafford, Manchester",North Group,Manchester,2010-07-05,Friends Provident t20,Lancashire,Worcestershire,170/5,124,Lancashire,46 runs,170,5,124,10
+435791,"St Lawrence Ground, Canterbury",South Group,Canterbury,2010-07-04,Friends Provident t20,Kent,Gloucestershire,165/9,153,Kent,12 runs,165,9,153,10
+435788,"Headingley, Leeds",North Group,Leeds,2010-07-04,Friends Provident t20,Warwickshire,Yorkshire,155/8,121/9,Warwickshire,34 runs,155,8,121,9
+435794,"Queen's Park, Chesterfield",North Group,Chesterfield,2010-07-04,Friends Provident t20,Lancashire,Derbyshire,132/7,135/5,Derbyshire,5 wickets,132,7,135,5
+435793,"County Ground, Chelmsford",South Group,Chelmsford,2010-07-04,Friends Provident t20,Hampshire,Essex,161/6,163/7,Essex,3 wickets,161,6,163,7
+435792,"Grace Road, Leicester",North Group,Leicester,2010-07-04,Friends Provident t20,Leicestershire,Nottinghamshire,182/3,185/3,Nottinghamshire,7 wickets,182,3,185,3
+435790,"Kennington Oval, London",South Group,London,2010-07-04,Friends Provident t20,Surrey,Glamorgan,168/4,172/5,Glamorgan,5 wickets,168,4,172,5
+435789,"The Cooper Associates County Ground, Taunton",South Group,Taunton,2010-07-04,Friends Provident t20,Somerset,Middlesex,204/5,125,Somerset,79 runs,204,5,125,10
+435781,"County Ground, Hove",South Group (N),Brighton,2010-07-02,Friends Provident t20,Sussex,Middlesex,140/9,143/5,Middlesex,5 wickets,140,9,143,5
+435782,"County Ground, Northampton",North Group (N),Northampton,2010-07-02,Friends Provident t20,Yorkshire,Northamptonshire,180/3,180/5,,Super Over,180,3,180,5
+435787,"Kennington Oval, London",South Group (N),London,2010-07-02,Friends Provident t20,Surrey,Somerset,171/6,132/9,Surrey,39 runs,171,6,132,9
+435785,"Riverside Ground, Chester-le-Street",North Group,Chester-le-Street,2010-07-02,Friends Provident t20,Durham,Warwickshire,117/8,120/5,Warwickshire,5 wickets,117,8,120,5
+435786,"Queen's Park, Chesterfield",North Group,Chesterfield,2010-07-02,Friends Provident t20,Leicestershire,Derbyshire,212/5,196/8,Leicestershire,16 runs,212,5,196,8
+435784,"County Ground, Bristol",South Group,Bristol,2010-07-02,Friends Provident t20,Glamorgan,Gloucestershire,153/7,154/2,Gloucestershire,8 wickets,153,7,154,2
+435783,"St Lawrence Ground, Canterbury",South Group,Canterbury,2010-07-02,Friends Provident t20,Hampshire,Kent,139,94,Hampshire,45 runs,139,10,94,10
+435779,"The Rose Bowl, Southampton",South Group (N),Southampton,2010-07-01,Friends Provident t20,Hampshire,Glamorgan,199/5,145/9,Hampshire,54 runs,199,5,145,9
+435778,"County Ground, Chelmsford",South Group (N),Chelmsford,2010-06-29,Friends Provident t20,Sussex,Essex,174/5,157/9,Sussex,17 runs,174,5,157,9
+435777,"The Cooper Associates County Ground, Taunton",South Group,Taunton,2010-06-28,Friends Provident t20,Glamorgan,Somerset,138,139/4,Somerset,6 wickets,138,10,139,4
+435774,"County Ground, Hove",South Group,Brighton,2010-06-27,Friends Provident t20,Kent,Sussex,194/1,167/9,Kent,27 runs,194,1,167,9
+435771,"County Ground, Bristol",South Group,Bristol,2010-06-27,Friends Provident t20,Gloucestershire,Middlesex,153/6,149/7,Gloucestershire,4 runs,153,6,149,7
+435773,"County Ground, New Road, Worcester",North Group,Worcester,2010-06-27,Friends Provident t20,Derbyshire,Worcestershire,147/7,148/2,Worcestershire,8 wickets,147,7,148,2
+435776,"The Rose Bowl, Southampton",South Group,Southampton,2010-06-27,Friends Provident t20,Hampshire,Essex,159/8,164/1,Essex,9 wickets,159,8,164,1
+435775,"Trent Bridge, Nottingham",North Group,Nottingham,2010-06-27,Friends Provident t20,Nottinghamshire,Warwickshire,149/6,117,Nottinghamshire,32 runs,149,6,117,10
+435772,"Headingley, Leeds",North Group,Leeds,2010-06-27,Friends Provident t20,Leicestershire,Yorkshire,175/4,169/8,Leicestershire,6 runs,175,4,169,8
+435770,"County Ground, Northampton",North Group,Northampton,2010-06-26,Friends Provident t20,Northamptonshire,Durham,164/5,134,Northamptonshire,30 runs,164,5,134,10
+435769,"Sophia Gardens, Cardiff",South Group,Cardiff,2010-06-26,Friends Provident t20,Middlesex,Glamorgan,166/2,167/3,Glamorgan,7 wickets,166,2,167,3
+435764,"County Ground, Chelmsford",South Group (N),Chelmsford,2010-06-25,Friends Provident t20,Surrey,Essex,187/6,188/4,Essex,6 wickets,187,6,188,4
+435765,"The Rose Bowl, Southampton",South Group (N),Southampton,2010-06-25,Friends Provident t20,Hampshire,Gloucestershire,205/5,177,Hampshire,28 runs,205,5,177,10
+435767,"Trent Bridge, Nottingham",North Group,Nottingham,2010-06-25,Friends Provident t20,Durham,Nottinghamshire,155/9,159/6,Nottinghamshire,4 wickets,155,9,159,6
+435768,"Edgbaston, Birmingham",North Group,Birmingham,2010-06-25,Friends Provident t20,Derbyshire,Warwickshire,148/7,152/4,Warwickshire,6 wickets,148,7,152,4
+435766,"Grace Road, Leicester",North Group,Leicester,2010-06-25,Friends Provident t20,Leicestershire,Lancashire,176/6,180/4,Lancashire,6 wickets,176,6,180,4
+435763,"County Ground, New Road, Worcester",North Group,Worcester,2010-06-25,Friends Provident t20,Northamptonshire,Worcestershire,140/5,142/1,Worcestershire,9 wickets,140,5,142,1
+435762,"The Cooper Associates County Ground, Taunton",South Group,Taunton,2010-06-25,Friends Provident t20,Sussex,Somerset,159,161/3,Somerset,7 wickets,159,10,161,3
+435761,"Lord's, London",South Group (N),London,2010-06-24,Friends Provident t20,Middlesex,Kent,154/6,141/7,Middlesex,13 runs,154,6,141,7
+435760,"Headingley, Leeds",North Group,Leeds,2010-06-24,Friends Provident t20,Nottinghamshire,Yorkshire,158/7,162/3,Yorkshire,7 wickets,158,7,162,3
+435759,"County Ground, Hove",South Group (N),Brighton,2010-06-23,Friends Provident t20,Sussex,Glamorgan,239/5,186/5,Sussex,53 runs,239,5,186,5
+435758,"Edgbaston, Birmingham",North Group,Birmingham,2010-06-23,Friends Provident t20,Leicestershire,Warwickshire,172/6,140,Leicestershire,32 runs,172,6,140,10
+435757,"The Kent County Cricket Ground, Beckenham",South Group,Beckenham,2010-06-23,Friends Provident t20,Surrey,Kent,201/4,163/8,Surrey,38 runs,201,4,163,8
+435756,"County Ground, Bristol",South Group,Bristol,2010-06-23,Friends Provident t20,Essex,Gloucestershire,184/4,118,Essex,66 runs,184,4,118,10
+435754,"Trent Bridge, Nottingham",North Group,Nottingham,2010-06-22,Friends Provident t20,Northamptonshire,Nottinghamshire,121/7,121,,Super Over,121,7,121,10
+435755,"Old Trafford, Manchester",North Group,Manchester,2010-06-22,Friends Provident t20,Lancashire,Durham,187/8,137,Lancashire,50 runs,187,8,137,10
+435753,"Kennington Oval, London",South Group,London,2010-06-22,Friends Provident t20,Surrey,Hampshire,200/8,189/6,Surrey,11 runs,200,8,189,6
+435752,"Headingley, Leeds",North Group,Leeds,2010-06-22,Friends Provident t20,Yorkshire,Worcestershire,213/7,109,Yorkshire,104 runs,213,7,109,10
+435751,"County Ground, Derby",North Group (N),Derby,2010-06-21,Friends Provident t20,Worcestershire,Derbyshire,127/7,128/4,Derbyshire,6 wickets,127,7,128,4
+435745,"The Kent County Cricket Ground, Beckenham",South Group,Beckenham,2010-06-20,Friends Provident t20,Somerset,Kent,189/4,105,Somerset,84 runs,189,4,105,10
+435750,"Grace Road, Leicester",North Group,Leicester,2010-06-20,Friends Provident t20,Leicestershire,Yorkshire,148/8,150/1,Yorkshire,9 wickets,148,8,150,1
+435749,"Riverside Ground, Chester-le-Street",North Group,Chester-le-Street,2010-06-20,Friends Provident t20,Nottinghamshire,Durham,186/4,175/5,Nottinghamshire,11 runs,186,4,175,5
+435748,"Old Trafford, Manchester",North Group,Manchester,2010-06-20,Friends Provident t20,Warwickshire,Lancashire,126/6,127/5,Lancashire,5 wickets,126,6,127,5
+435747,"County Ground, Northampton",North Group,Northampton,2010-06-20,Friends Provident t20,Derbyshire,Northamptonshire,109/9,100/8,Derbyshire,9 runs,109,9,100,8
+435746,"Kennington Oval, London",South Group,London,2010-06-20,Friends Provident t20,Sussex,Surrey,158/7,119,Sussex,39 runs,158,7,119,10
+435743,"Sophia Gardens, Cardiff",South Group (N),Cardiff,2010-06-19,Friends Provident t20,Glamorgan,Essex,94/9,95/1,Essex,9 wickets,94,9,95,1
+435744,"County Ground, Bristol",South Group,Bristol,2010-06-19,Friends Provident t20,Gloucestershire,Hampshire,68,69/3,Hampshire,7 wickets,68,10,69,3
+435742,"Grace Road, Leicester",North Group,Leicester,2010-06-18,Friends Provident t20,Northamptonshire,Leicestershire,166/4,156/6,Northamptonshire,10 runs,166,4,156,6
+435740,"County Ground, Hove",South Group,Brighton,2010-06-18,Friends Provident t20,Hampshire,Sussex,132/8,136/1,Sussex,9 wickets,132,8,136,1
+435737,"Riverside Ground, Chester-le-Street",North Group,Chester-le-Street,2010-06-18,Friends Provident t20,Yorkshire,Durham,131/8,132/4,Durham,6 wickets,131,8,132,4
+435741,"County Ground, New Road, Worcester",North Group,Worcester,2010-06-18,Friends Provident t20,Worcestershire,Warwickshire,118/9,121/1,Warwickshire,9 wickets,118,9,121,1
+435739,"The Cooper Associates County Ground, Taunton",South Group,Taunton,2010-06-18,Friends Provident t20,Gloucestershire,Somerset,199/8,200/4,Somerset,6 wickets,199,8,200,4
+435738,"Kennington Oval, London",South Group,London,2010-06-18,Friends Provident t20,Surrey,Kent,150/7,81/5,Surrey,15 runs,150,7,81,5
+435736,"County Ground, Derby",North Group (N),Derby,2010-06-17,Friends Provident t20,Derbyshire,Nottinghamshire,152/7,153/4,Nottinghamshire,6 wickets,152,7,153,4
+435734,"Lord's, London",South Group (N),London,2010-06-17,Friends Provident t20,Middlesex,Surrey,128/9,130/1,Surrey,9 wickets,128,9,130,1
+435735,"Headingley, Leeds",North Group,Leeds,2010-06-17,Friends Provident t20,Yorkshire,Lancashire,155/6,138,Yorkshire,17 runs,155,6,138,10
+435731,"County Ground, Hove",South Group (N),Brighton,2010-06-16,Friends Provident t20,Gloucestershire,Sussex,178/4,170/9,Gloucestershire,8 runs,178,4,170,9
+435733,"The Cooper Associates County Ground, Taunton",South Group,Taunton,2010-06-16,Friends Provident t20,Essex,Somerset,177/7,167/9,Essex,10 runs,177,7,167,9
+435732,"Edgbaston, Birmingham",North Group,Birmingham,2010-06-16,Friends Provident t20,Nottinghamshire,Warwickshire,176/6,178/5,Warwickshire,5 wickets,176,6,178,5
+435730,"Trent Bridge, Nottingham",North Group (N),Nottingham,2010-06-15,Friends Provident t20,Nottinghamshire,Lancashire,157/7,131,Nottinghamshire,26 runs,157,7,131,10
+435729,"Old Deer Park, Richmond",South Group,Richmond,2010-06-15,Friends Provident t20,Middlesex,Glamorgan,213/4,129,Middlesex,84 runs,213,4,129,10
+435728,"Riverside Ground, Chester-le-Street",North Group,Chester-le-Street,2010-06-14,Friends Provident t20,Durham,Leicestershire,225/2,154,Durham,71 runs,225,2,154,10
+435721,"Lord's, London",South Group,London,2010-06-13,Friends Provident t20,Middlesex,Essex,200/6,195/8,Middlesex,5 runs,200,6,195,8
+435727,"Headingley, Leeds",North Group,Leeds,2010-06-13,Friends Provident t20,Northamptonshire,Yorkshire,151/7,51/4,Northamptonshire,14 runs,151,7,51,4
+435726,"Edgbaston, Birmingham",North Group,Birmingham,2010-06-13,Friends Provident t20,Warwickshire,Lancashire,196/9,3/0,,,196,9,3,0
+435725,"Trent Bridge, Nottingham",North Group,Nottingham,2010-06-13,Friends Provident t20,Worcestershire,Nottinghamshire,150/7,155/4,Nottinghamshire,6 wickets,150,7,155,4
+435724,"The Rose Bowl, Southampton",South Group,Southampton,2010-06-13,Friends Provident t20,Hampshire,Surrey,201/2,191/9,Hampshire,10 runs,201,2,191,9
+435723,"King's School Playing Fields, Gloucester",South Group,Gloucester,2010-06-13,Friends Provident t20,Kent,Gloucestershire,217,181,Kent,36 runs,217,10,181,10
+435722,"County Ground, Derby",North Group,Derby,2010-06-13,Friends Provident t20,Derbyshire,Durham,,,,,,,,
+435719,"Sophia Gardens, Cardiff",South Group,Cardiff,2010-06-13,Friends Provident t20,Glamorgan,Sussex,143/6,144/7,Sussex,3 wickets,143,6,144,7
+435720,"The Cooper Associates County Ground, Taunton",South Group,Taunton,2010-06-12,Friends Provident t20,Surrey,Somerset,160/7,139/8,Surrey,21 runs,160,7,139,8
+435715,"The Rose Bowl, Southampton",South Group (N),Southampton,2010-06-11,Friends Provident t20,Somerset,Hampshire,104/7,97,Somerset,7 runs,104,7,97,10
+435717,"County Ground, Chelmsford",South Group (N),Chelmsford,2010-06-11,Friends Provident t20,Essex,Glamorgan,191/6,192/3,Glamorgan,7 wickets,191,6,192,3
+435714,"County Ground, Northampton",North Group (N),Northampton,2010-06-11,Friends Provident t20,Northamptonshire,Worcestershire,143/8,122/8,Northamptonshire,21 runs,143,8,122,8
+435712,"Trent Bridge, Nottingham",North Group,Nottingham,2010-06-11,Friends Provident t20,Derbyshire,Nottinghamshire,192/6,193/5,Nottinghamshire,5 wickets,192,6,193,5
+435718,"St Lawrence Ground, Canterbury",South Group,Canterbury,2010-06-11,Friends Provident t20,Kent,Middlesex,183/6,185/4,Middlesex,6 wickets,183,6,185,4
+435716,"King's School Playing Fields, Gloucester",South Group,Gloucester,2010-06-11,Friends Provident t20,Gloucestershire,Sussex,166/8,168/3,Sussex,7 wickets,166,8,168,3
+435713,"Old Trafford, Manchester",North Group,Manchester,2010-06-11,Friends Provident t20,Leicestershire,Lancashire,141/6,127/9,Leicestershire,14 runs,141,6,127,9
+435711,"Edgbaston, Birmingham",North Group,Birmingham,2010-06-11,Friends Provident t20,Durham,Warwickshire,215/6,200/7,Durham,15 runs,215,6,200,7
+435709,"Kennington Oval, London",South Group (N),London,2010-06-10,Friends Provident t20,Essex,Surrey,121/8,112/7,Essex,9 runs,121,8,112,7
+435710,"County Ground, New Road, Worcester",North Group,Worcester,2010-06-10,Friends Provident t20,Worcestershire,Nottinghamshire,113/9,114/4,Nottinghamshire,6 wickets,113,9,114,4
+435708,"Headingley, Leeds",North Group,Leeds,2010-06-10,Friends Provident t20,Durham,Yorkshire,156/7,160/1,Yorkshire,9 wickets,156,7,160,1
+435704,"County Ground, Derby",North Group (N),Derby,2010-06-09,Friends Provident t20,Derbyshire,Warwickshire,120/4,123/7,Warwickshire,3 wickets,120,4,123,7
+435707,"Lord's, London",South Group (N),London,2010-06-09,Friends Provident t20,Middlesex,Somerset,155/6,158/5,Somerset,5 wickets,155,6,158,5
+435706,"Old Trafford, Manchester",North Group,Manchester,2010-06-09,Friends Provident t20,Lancashire,Northamptonshire,157/5,88,Lancashire,69 runs,157,5,88,10
+435705,"Nevill Ground, Tunbridge Wells",South Group,Tunbridge Wells,2010-06-09,Friends Provident t20,Kent,Sussex,163/5,166/6,Sussex,4 wickets,163,5,166,6
+435701,"Sophia Gardens, Cardiff",South Group (N),Cardiff,2010-06-08,Friends Provident t20,Hampshire,Glamorgan,114/9,115/3,Glamorgan,7 wickets,114,9,115,3
+435702,"County Ground, Northampton",North Group (N),Northampton,2010-06-08,Friends Provident t20,Leicestershire,Northamptonshire,149/8,137/9,Leicestershire,12 runs,149,8,137,9
+435703,"Kennington Oval, London",South Group,London,2010-06-08,Friends Provident t20,Surrey,Gloucestershire,97,98/0,Gloucestershire,10 wickets,97,10,98,0
+435700,"Riverside Ground, Chester-le-Street",North Group,Chester-le-Street,2010-06-06,Friends Provident t20,Durham,Worcestershire,,,,,,,,
+435697,"Sophia Gardens, Cardiff",South Group (N),Cardiff,2010-06-04,Friends Provident t20,Gloucestershire,Glamorgan,148/6,151/4,Glamorgan,6 wickets,148,6,151,4
+435699,"Riverside Ground, Chester-le-Street",North Group,Chester-le-Street,2010-06-04,Friends Provident t20,Lancashire,Durham,179/4,156/8,Lancashire,23 runs,179,4,156,8
+435698,"County Ground, New Road, Worcester",North Group,Worcester,2010-06-04,Friends Provident t20,Worcestershire,Yorkshire,208/7,187/7,Worcestershire,21 runs,208,7,187,7
+435694,"The Rose Bowl, Southampton",South Group (N),Southampton,2010-06-03,Friends Provident t20,Kent,Hampshire,114/9,117/5,Hampshire,5 wickets,114,9,117,5
+435695,"Lord's, London",South Group (N),London,2010-06-03,Friends Provident t20,Sussex,Middlesex,146/6,118/6,Sussex,28 runs,146,6,118,6
+435696,"Headingley, Leeds",North Group,Leeds,2010-06-03,Friends Provident t20,Derbyshire,Yorkshire,222/5,157,Derbyshire,65 runs,222,5,157,10
+435693,"Edgbaston, Birmingham",North Group,Birmingham,2010-06-03,Friends Provident t20,Northamptonshire,Warwickshire,147/5,151/2,Warwickshire,8 wickets,147,5,151,2
+435691,"County Ground, Chelmsford",South Group (N),Chelmsford,2010-06-02,Friends Provident t20,Essex,Kent,167/9,170/4,Kent,6 wickets,167,9,170,4
+435692,"Grace Road, Leicester",North Group,Leicester,2010-06-02,Friends Provident t20,Derbyshire,Leicestershire,165/5,154/8,Derbyshire,11 runs,165,5,154,8
+435690,"County Ground, Hove",South Group (N),Brighton,2010-06-01,Friends Provident t20,Sussex,Somerset,155/7,103,Sussex,52 runs,155,7,103,10

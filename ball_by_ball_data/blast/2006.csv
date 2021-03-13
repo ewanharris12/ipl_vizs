@@ -1,0 +1,735 @@
+match_id,year,id,over,ball,runs,extras,extra_type,batter,batter_runs,batter_balls,batter_sr,nonstriker,nonstriker_runs,nonstriker_balls,nonstriker_sr,bowler,batter_out,wicket_type,team,team_code,innings_runs,innings_wickets,innings_balls
+225345,2006,119060,19.0,6.0,4.0,0.0,,Darren Maddy,86,61,140.98,Paul Harrison,10,7,142.86,Mark Ealham,,,Leicestershire,Leics,173.0,2,119.0
+225345,2006,119050,19.0,5.0,2.0,0.0,,Darren Maddy,79,59,133.9,,0,0,,Mark Ealham,,,Leicestershire,Leics,171.0,2,118.0
+225345,2006,119040,19.0,4.0,2.0,0.0,,Darren Maddy,79,59,133.9,,0,0,,Mark Ealham,,,Leicestershire,Leics,169.0,2,117.0
+225345,2006,119030,19.0,3.0,1.0,0.0,,Paul Harrison,7,4,175.0,,0,0,,Mark Ealham,,,Leicestershire,Leics,168.0,2,116.0
+225345,2006,119020,19.0,2.0,0.0,0.0,,Paul Harrison,7,4,175.0,,0,0,,Mark Ealham,,,Leicestershire,Leics,168.0,2,115.0
+225345,2006,119010,19.0,1.0,2.0,0.0,,Paul Harrison,7,4,175.0,,0,0,,Mark Ealham,,,Leicestershire,Leics,166.0,2,114.0
+225345,2006,118060,18.0,6.0,1.0,0.0,,Paul Harrison,7,4,175.0,Darren Maddy,79,59,133.9,Paul Franks,,,Leicestershire,Leics,165.0,2,113.0
+225345,2006,118050,18.0,5.0,2.0,0.0,,Paul Harrison,0,0,,,0,0,,Paul Franks,,,Leicestershire,Leics,163.0,2,112.0
+225345,2006,118040,18.0,4.0,2.0,0.0,,Paul Harrison,0,0,,,0,0,,Paul Franks,,,Leicestershire,Leics,161.0,2,111.0
+225345,2006,118030,18.0,3.0,2.0,0.0,,Paul Harrison,0,0,,,0,0,,Paul Franks,,,Leicestershire,Leics,159.0,2,110.0
+225345,2006,118020,18.0,2.0,1.0,0.0,,Jim Allenby,63,40,157.5,,0,0,,Paul Franks,J Allenby,J Allenby run out (Shreck) 64 (47m 41b 5x4 3x6) SR: 156.09,Leicestershire,Leics,158.0,1,109.0
+225345,2006,118010,18.0,1.0,1.0,0.0,,Darren Maddy,78,58,134.48,,0,0,,Paul Franks,,,Leicestershire,Leics,157.0,1,108.0
+225345,2006,117060,17.0,6.0,6.0,0.0,,Jim Allenby,62,39,158.97,Darren Maddy,78,58,134.48,Gareth Clough,,,Leicestershire,Leics,151.0,1,107.0
+225345,2006,117050,17.0,5.0,1.0,0.0,,Darren Maddy,74,54,137.04,,0,0,,Gareth Clough,,,Leicestershire,Leics,150.0,1,106.0
+225345,2006,117040,17.0,4.0,3.0,0.0,,Jim Allenby,53,37,143.24,,0,0,,Gareth Clough,,,Leicestershire,Leics,147.0,1,105.0
+225345,2006,117030,17.0,3.0,1.0,0.0,,Darren Maddy,74,54,137.04,,0,0,,Gareth Clough,,,Leicestershire,Leics,146.0,1,104.0
+225345,2006,117020,17.0,2.0,0.0,0.0,,Darren Maddy,74,54,137.04,,0,0,,Gareth Clough,,,Leicestershire,Leics,146.0,1,103.0
+225345,2006,117010,17.0,1.0,2.0,0.0,,Darren Maddy,74,54,137.04,,0,0,,Gareth Clough,,,Leicestershire,Leics,144.0,1,102.0
+225345,2006,116060,16.0,6.0,1.0,0.0,,Darren Maddy,74,54,137.04,Jim Allenby,53,37,143.24,Paul Franks,,,Leicestershire,Leics,143.0,1,101.0
+225345,2006,116050,16.0,5.0,1.0,0.0,,Jim Allenby,47,34,138.24,,0,0,,Paul Franks,,,Leicestershire,Leics,142.0,1,100.0
+225345,2006,14010,4.0,1.0,1.0,0.0,,Darren Maddy,16,15,106.67,,0,0,,Ryan Sidebottom,,,Leicestershire,Leics,25.0,0,24.0
+225345,2006,13060,3.0,6.0,1.0,0.0,,Darren Maddy,16,15,106.67,HD Ackerman,9,9,100.0,Charlie Shreck,,,Leicestershire,Leics,24.0,0,23.0
+225345,2006,13050,3.0,5.0,1.0,0.0,,HD Ackerman,4,5,80.0,,0,0,,Charlie Shreck,,,Leicestershire,Leics,23.0,0,22.0
+225345,2006,13040,3.0,4.0,0.0,0.0,,HD Ackerman,4,5,80.0,,0,0,,Charlie Shreck,,,Leicestershire,Leics,23.0,0,21.0
+225345,2006,13030,3.0,3.0,4.0,0.0,,HD Ackerman,4,5,80.0,,0,0,,Charlie Shreck,,,Leicestershire,Leics,19.0,0,20.0
+225345,2006,13020,3.0,2.0,0.0,0.0,,HD Ackerman,4,5,80.0,,0,0,,Charlie Shreck,,,Leicestershire,Leics,19.0,0,19.0
+225345,2006,13010,3.0,1.0,1.0,0.0,,Darren Maddy,14,13,107.69,,0,0,,Charlie Shreck,,,Leicestershire,Leics,18.0,0,18.0
+225345,2006,12060,2.0,6.0,1.0,0.0,,Darren Maddy,14,13,107.69,HD Ackerman,4,5,80.0,Ryan Sidebottom,,,Leicestershire,Leics,17.0,0,17.0
+225345,2006,12050,2.0,5.0,0.0,0.0,,Darren Maddy,3,8,37.5,,0,0,,Ryan Sidebottom,,,Leicestershire,Leics,17.0,0,16.0
+225345,2006,12040,2.0,4.0,4.0,0.0,,Darren Maddy,3,8,37.5,,0,0,,Ryan Sidebottom,,,Leicestershire,Leics,13.0,0,15.0
+225345,2006,12030,2.0,3.0,0.0,0.0,,Darren Maddy,3,8,37.5,,0,0,,Ryan Sidebottom,,,Leicestershire,Leics,13.0,0,14.0
+225345,2006,12020,2.0,2.0,6.0,0.0,,Darren Maddy,3,8,37.5,,0,0,,Ryan Sidebottom,,,Leicestershire,Leics,7.0,0,13.0
+225345,2006,12010,2.0,1.0,1.0,0.0,,HD Ackerman,3,4,75.0,,0,0,,Ryan Sidebottom,,,Leicestershire,Leics,6.0,0,12.0
+225345,2006,11060,1.0,6.0,1.0,0.0,,HD Ackerman,3,4,75.0,Darren Maddy,3,8,37.5,Charlie Shreck,,,Leicestershire,Leics,5.0,0,11.0
+225345,2006,11050,1.0,5.0,1.0,0.0,,Darren Maddy,1,4,25.0,,0,0,,Charlie Shreck,,,Leicestershire,Leics,4.0,0,10.0
+225345,2006,11040,1.0,4.0,0.0,0.0,,Darren Maddy,1,4,25.0,,0,0,,Charlie Shreck,,,Leicestershire,Leics,4.0,0,9.0
+225345,2006,11030,1.0,3.0,1.0,0.0,,HD Ackerman,1,2,50.0,,0,0,,Charlie Shreck,,,Leicestershire,Leics,3.0,0,8.0
+225345,2006,11020,1.0,2.0,1.0,0.0,,Darren Maddy,1,4,25.0,,0,0,,Charlie Shreck,,,Leicestershire,Leics,2.0,0,7.0
+225345,2006,11010,1.0,1.0,0.0,0.0,,Darren Maddy,1,4,25.0,,0,0,,Charlie Shreck,,,Leicestershire,Leics,2.0,0,6.0
+225345,2006,160,0.0,6.0,1.0,0.0,,Darren Maddy,1,4,25.0,HD Ackerman,1,2,50.0,Ryan Sidebottom,,,Leicestershire,Leics,1.0,0,5.0
+225345,2006,150,0.0,5.0,0.0,0.0,,Darren Maddy,0,0,,,0,0,,Ryan Sidebottom,,,Leicestershire,Leics,1.0,0,4.0
+225345,2006,140,0.0,4.0,0.0,0.0,,Darren Maddy,0,0,,,0,0,,Ryan Sidebottom,,,Leicestershire,Leics,1.0,0,3.0
+225345,2006,130,0.0,3.0,0.0,0.0,,Darren Maddy,0,0,,,0,0,,Ryan Sidebottom,,,Leicestershire,Leics,1.0,0,2.0
+225345,2006,120,0.0,2.0,1.0,0.0,,HD Ackerman,0,0,,,0,0,,Ryan Sidebottom,,,Leicestershire,Leics,0.0,0,1.0
+225345,2006,110,0.0,1.0,0.0,0.0,,HD Ackerman,0,0,,,0,0,,Ryan Sidebottom,,,Leicestershire,Leics,0.0,0,0.0
+225345,2006,18020,8.0,2.0,1.0,0.0,,Darren Maddy,25,25,100.0,,0,0,,Graeme Swann,,,Leicestershire,Leics,57.0,1,49.0
+225345,2006,18010,8.0,1.0,0.0,1.0,lb,Jim Allenby,20,12,166.67,,0,0,,Graeme Swann,,,Leicestershire,Leics,56.0,1,48.0
+225345,2006,17060,7.0,6.0,1.0,0.0,,Jim Allenby,20,12,166.67,Darren Maddy,25,25,100.0,Charlie Shreck,,,Leicestershire,Leics,55.0,1,47.0
+225345,2006,17050,7.0,5.0,1.0,0.0,,Darren Maddy,23,22,104.55,,0,0,,Charlie Shreck,,,Leicestershire,Leics,54.0,1,46.0
+225345,2006,17040,7.0,4.0,1.0,0.0,,Jim Allenby,14,9,155.56,,0,0,,Charlie Shreck,,,Leicestershire,Leics,53.0,1,45.0
+225345,2006,17030,7.0,3.0,4.0,0.0,,Jim Allenby,14,9,155.56,,0,0,,Charlie Shreck,,,Leicestershire,Leics,49.0,1,44.0
+225345,2006,17020,7.0,2.0,1.0,0.0,,Darren Maddy,23,22,104.55,,0,0,,Charlie Shreck,,,Leicestershire,Leics,48.0,1,43.0
+225345,2006,17010,7.0,1.0,0.0,0.0,,Darren Maddy,23,22,104.55,,0,0,,Charlie Shreck,,,Leicestershire,Leics,48.0,1,42.0
+225345,2006,16060,6.0,6.0,1.0,0.0,,Darren Maddy,23,22,104.55,Jim Allenby,14,9,155.56,Ryan Sidebottom,,,Leicestershire,Leics,47.0,1,41.0
+225345,2006,16050,6.0,5.0,2.0,0.0,,Darren Maddy,19,20,95.0,,0,0,,Ryan Sidebottom,,,Leicestershire,Leics,45.0,1,40.0
+225345,2006,16040,6.0,4.0,1.0,0.0,,Jim Allenby,13,6,216.67,,0,0,,Ryan Sidebottom,,,Leicestershire,Leics,44.0,1,39.0
+225345,2006,16030,6.0,3.0,0.0,0.0,,Jim Allenby,13,6,216.67,,0,0,,Ryan Sidebottom,,,Leicestershire,Leics,44.0,1,38.0
+225345,2006,16020,6.0,2.0,0.0,0.0,,Jim Allenby,13,6,216.67,,0,0,,Ryan Sidebottom,,,Leicestershire,Leics,44.0,1,37.0
+225345,2006,16010,6.0,1.0,1.0,0.0,,Darren Maddy,19,20,95.0,,0,0,,Ryan Sidebottom,,,Leicestershire,Leics,43.0,1,36.0
+225345,2006,15060,5.0,6.0,0.0,0.0,,Jim Allenby,13,6,216.67,Darren Maddy,19,20,95.0,Charlie Shreck,,,Leicestershire,Leics,43.0,1,35.0
+225345,2006,15050,5.0,5.0,4.0,0.0,,Jim Allenby,2,2,100.0,,0,0,,Charlie Shreck,,,Leicestershire,Leics,39.0,1,34.0
+225345,2006,15040,5.0,4.0,6.0,0.0,,Jim Allenby,2,2,100.0,,0,0,,Charlie Shreck,,,Leicestershire,Leics,33.0,1,33.0
+225345,2006,15030,5.0,3.0,1.0,0.0,,Darren Maddy,19,18,105.56,,0,0,,Charlie Shreck,,,Leicestershire,Leics,32.0,1,32.0
+225345,2006,15020,5.0,2.0,1.0,0.0,,Jim Allenby,2,2,100.0,,0,0,,Charlie Shreck,,,Leicestershire,Leics,31.0,1,31.0
+225345,2006,15010,5.0,1.0,1.0,0.0,,Darren Maddy,19,18,105.56,,0,0,,Charlie Shreck,,,Leicestershire,Leics,30.0,1,30.0
+225345,2006,14060,4.0,6.0,1.0,0.0,,Darren Maddy,19,18,105.56,Jim Allenby,2,2,100.0,Ryan Sidebottom,,,Leicestershire,Leics,29.0,1,29.0
+225345,2006,14050,4.0,5.0,1.0,0.0,,Jim Allenby,0,0,,,0,0,,Ryan Sidebottom,,,Leicestershire,Leics,28.0,1,28.0
+225345,2006,14040,4.0,4.0,1.0,0.0,,Darren Maddy,17,16,106.25,,0,0,,Ryan Sidebottom,,,Leicestershire,Leics,27.0,1,27.0
+225345,2006,14030,4.0,3.0,1.0,0.0,,Jim Allenby,0,0,,,0,0,,Ryan Sidebottom,,,Leicestershire,Leics,26.0,1,26.0
+225345,2006,14020,4.0,2.0,0.0,0.0,,HD Ackerman,9,10,90.0,Darren Maddy,17,16,106.25,Ryan Sidebottom,HD Ackerman,HD Ackerman  b Sidebottom 11 (14m 11b 1x4 0x6) SR: 100.00,Leicestershire,Leics,26.0,0,25.0
+225345,2006,112030,12.0,3.0,0.0,1.0,lb,Darren Maddy,40,35,114.29,,0,0,,Graeme Swann,,,Leicestershire,Leics,95.0,1,74.0
+225345,2006,112020,12.0,2.0,0.0,2.0,lb,Darren Maddy,40,35,114.29,,0,0,,Graeme Swann,,,Leicestershire,Leics,93.0,1,73.0
+225345,2006,112010,12.0,1.0,1.0,0.0,,Jim Allenby,40,26,153.85,,0,0,,Graeme Swann,,,Leicestershire,Leics,92.0,1,72.0
+225345,2006,111060,11.0,6.0,1.0,0.0,,Jim Allenby,40,26,153.85,Darren Maddy,40,35,114.29,Mark Ealham,,,Leicestershire,Leics,91.0,1,71.0
+225345,2006,111050,11.0,5.0,1.0,0.0,,Darren Maddy,31,32,96.88,,0,0,,Mark Ealham,,,Leicestershire,Leics,90.0,1,70.0
+225345,2006,111040,11.0,4.0,4.0,0.0,,Darren Maddy,31,32,96.88,,0,0,,Mark Ealham,,,Leicestershire,Leics,86.0,1,69.0
+225345,2006,111030,11.0,3.0,4.0,0.0,,Darren Maddy,31,32,96.88,,0,0,,Mark Ealham,,,Leicestershire,Leics,82.0,1,68.0
+225345,2006,111020,11.0,2.0,1.0,0.0,,Jim Allenby,38,23,165.22,,0,0,,Mark Ealham,,,Leicestershire,Leics,81.0,1,67.0
+225345,2006,111010,11.0,1.0,0.0,0.0,,Jim Allenby,38,23,165.22,,0,0,,Mark Ealham,,,Leicestershire,Leics,81.0,1,66.0
+225345,2006,110060,10.0,6.0,1.0,0.0,,Jim Allenby,38,23,165.22,Darren Maddy,31,32,96.88,Graeme Swann,,,Leicestershire,Leics,80.0,1,65.0
+225345,2006,110050,10.0,5.0,1.0,0.0,,Darren Maddy,29,30,96.67,,0,0,,Graeme Swann,,,Leicestershire,Leics,79.0,1,64.0
+225345,2006,110040,10.0,4.0,1.0,0.0,,Jim Allenby,32,19,168.42,,0,0,,Graeme Swann,,,Leicestershire,Leics,78.0,1,63.0
+225345,2006,110030,10.0,3.0,4.0,0.0,,Jim Allenby,32,19,168.42,,0,0,,Graeme Swann,,,Leicestershire,Leics,74.0,1,62.0
+225345,2006,110020,10.0,2.0,0.0,0.0,,Jim Allenby,32,19,168.42,,0,0,,Graeme Swann,,,Leicestershire,Leics,74.0,1,61.0
+225345,2006,110010,10.0,1.0,1.0,0.0,,Darren Maddy,29,30,96.67,,0,0,,Graeme Swann,,,Leicestershire,Leics,73.0,1,60.0
+225345,2006,19060,9.0,6.0,1.0,0.0,,Darren Maddy,29,30,96.67,Jim Allenby,32,19,168.42,Mark Ealham,,,Leicestershire,Leics,72.0,1,59.0
+225345,2006,19050,9.0,5.0,0.0,0.0,,Darren Maddy,27,27,100.0,,0,0,,Mark Ealham,,,Leicestershire,Leics,72.0,1,58.0
+225345,2006,19040,9.0,4.0,1.0,0.0,,Jim Allenby,25,16,156.25,,0,0,,Mark Ealham,,,Leicestershire,Leics,71.0,1,57.0
+225345,2006,19030,9.0,3.0,6.0,0.0,,Jim Allenby,25,16,156.25,,0,0,,Mark Ealham,,,Leicestershire,Leics,65.0,1,56.0
+225345,2006,19020,9.0,2.0,0.0,0.0,,Jim Allenby,25,16,156.25,,0,0,,Mark Ealham,,,Leicestershire,Leics,65.0,1,55.0
+225345,2006,19010,9.0,1.0,1.0,0.0,,Darren Maddy,27,27,100.0,,0,0,,Mark Ealham,,,Leicestershire,Leics,64.0,1,54.0
+225345,2006,18060,8.0,6.0,1.0,0.0,,Darren Maddy,27,27,100.0,Jim Allenby,25,16,156.25,Graeme Swann,,,Leicestershire,Leics,63.0,1,53.0
+225345,2006,18050,8.0,5.0,1.0,0.0,,Jim Allenby,20,12,166.67,,0,0,,Graeme Swann,,,Leicestershire,Leics,62.0,1,52.0
+225345,2006,18040,8.0,4.0,0.0,0.0,,Jim Allenby,20,12,166.67,,0,0,,Graeme Swann,,,Leicestershire,Leics,62.0,1,51.0
+225345,2006,18030,8.0,3.0,4.0,0.0,,Jim Allenby,20,12,166.67,,0,0,,Graeme Swann,,,Leicestershire,Leics,58.0,1,50.0
+225345,2006,116040,16.0,4.0,1.0,0.0,,Darren Maddy,66,51,129.41,,0,0,,Paul Franks,,,Leicestershire,Leics,141.0,1,99.0
+225345,2006,116030,16.0,3.0,6.0,0.0,,Darren Maddy,66,51,129.41,,0,0,,Paul Franks,,,Leicestershire,Leics,135.0,1,98.0
+225345,2006,116020,16.0,2.0,1.0,0.0,,Jim Allenby,47,34,138.24,,0,0,,Paul Franks,,,Leicestershire,Leics,134.0,1,97.0
+225345,2006,116010,16.0,1.0,4.0,0.0,,Jim Allenby,47,34,138.24,,0,0,,Paul Franks,,,Leicestershire,Leics,130.0,1,96.0
+225345,2006,115060,15.0,6.0,0.0,0.0,,Darren Maddy,66,51,129.41,Jim Allenby,47,34,138.24,Gareth Clough,,,Leicestershire,Leics,130.0,1,95.0
+225345,2006,115050,15.0,5.0,0.0,0.0,,Darren Maddy,65,47,138.3,,0,0,,Gareth Clough,,,Leicestershire,Leics,130.0,1,94.0
+225345,2006,115040,15.0,4.0,0.0,0.0,,Darren Maddy,65,47,138.3,,0,0,,Gareth Clough,,,Leicestershire,Leics,130.0,1,93.0
+225345,2006,115030,15.0,3.0,1.0,0.0,,Jim Allenby,46,32,143.75,,0,0,,Gareth Clough,,,Leicestershire,Leics,129.0,1,92.0
+225345,2006,115020,15.0,2.0,1.0,0.0,,Darren Maddy,65,47,138.3,,0,0,,Gareth Clough,,,Leicestershire,Leics,128.0,1,91.0
+225345,2006,115010,15.0,1.0,0.0,1.0,lb,Jim Allenby,46,32,143.75,,0,0,,Gareth Clough,,,Leicestershire,Leics,127.0,1,90.0
+225345,2006,114060,14.0,6.0,1.0,0.0,,Jim Allenby,46,32,143.75,Darren Maddy,65,47,138.3,Graeme Swann,,,Leicestershire,Leics,126.0,1,89.0
+225345,2006,114050,14.0,5.0,1.0,0.0,,Darren Maddy,55,43,127.91,,0,0,,Graeme Swann,,,Leicestershire,Leics,125.0,1,88.0
+225345,2006,114040,14.0,4.0,0.0,1.0,lb,Jim Allenby,45,30,150.0,,0,0,,Graeme Swann,,,Leicestershire,Leics,124.0,1,87.0
+225345,2006,114030,14.0,3.0,1.0,0.0,,Darren Maddy,55,43,127.91,,0,0,,Graeme Swann,,,Leicestershire,Leics,123.0,1,86.0
+225345,2006,114020,14.0,2.0,4.0,0.0,,Darren Maddy,55,43,127.91,,0,0,,Graeme Swann,,,Leicestershire,Leics,119.0,1,85.0
+225345,2006,114010,14.0,1.0,4.0,0.0,,Darren Maddy,55,43,127.91,,0,0,,Graeme Swann,,,Leicestershire,Leics,115.0,1,84.0
+225345,2006,113060,13.0,6.0,2.0,0.0,,Jim Allenby,45,30,150.0,Darren Maddy,55,43,127.91,Mark Ealham,,,Leicestershire,Leics,113.0,1,83.0
+225345,2006,113050,13.0,5.0,1.0,0.0,,Darren Maddy,42,39,107.69,,0,0,,Mark Ealham,,,Leicestershire,Leics,112.0,1,82.0
+225345,2006,113040,13.0,4.0,6.0,0.0,,Darren Maddy,42,39,107.69,,0,0,,Mark Ealham,,,Leicestershire,Leics,106.0,1,81.0
+225345,2006,113030,13.0,3.0,0.0,0.0,,Darren Maddy,42,39,107.69,,0,0,,Mark Ealham,,,Leicestershire,Leics,106.0,1,80.0
+225345,2006,113020,13.0,2.0,6.0,0.0,,Darren Maddy,42,39,107.69,,0,0,,Mark Ealham,,,Leicestershire,Leics,100.0,1,79.0
+225345,2006,113010,13.0,1.0,1.0,0.0,,Jim Allenby,42,28,150.0,,0,0,,Mark Ealham,,,Leicestershire,Leics,99.0,1,78.0
+225345,2006,112060,12.0,6.0,0.0,0.0,,Darren Maddy,42,39,107.69,Jim Allenby,42,28,150.0,Graeme Swann,,,Leicestershire,Leics,99.0,1,77.0
+225345,2006,112050,12.0,5.0,2.0,0.0,,Darren Maddy,40,35,114.29,,0,0,,Graeme Swann,,,Leicestershire,Leics,97.0,1,76.0
+225345,2006,112040,12.0,4.0,1.0,0.0,,Jim Allenby,40,26,153.85,,0,0,,Graeme Swann,,,Leicestershire,Leics,96.0,1,75.0
+225345,2006,219060,19.0,6.0,6.0,0.0,,Will Smith,9,3,300.0,Ryan Sidebottom,0,0,,Jim Allenby,,,Nottinghamshire,Notts,167.0,8,119.0
+225345,2006,219050,19.0,5.0,2.0,0.0,,Will Smith,1,1,100.0,,0,0,,Jim Allenby,,,Nottinghamshire,Notts,165.0,8,118.0
+225345,2006,219040,19.0,4.0,0.0,0.0,,Gareth Clough,0,1,0.0,Will Smith,1,1,100.0,Jim Allenby,GD Clough,GD Clough c Maddy b Allenby 0 (4m 1b 0x4 0x6) SR: 0.00,Nottinghamshire,Notts,165.0,7,117.0
+225345,2006,219030,19.0,3.0,1.0,0.0,,Will Smith,0,0,,,0,0,,Jim Allenby,,,Nottinghamshire,Notts,164.0,7,116.0
+225345,2006,219020,19.0,2.0,1.0,0.0,,Paul Franks,9,5,180.0,,0,0,,Jim Allenby,PJ Franks,PJ Franks run out (Harrison) 11 (7m 6b 0x4 1x6) SR: 183.33,Nottinghamshire,Notts,163.0,6,115.0
+225345,2006,219010,19.0,1.0,2.0,0.0,,Paul Franks,8,4,200.0,,0,0,,Jim Allenby,,,Nottinghamshire,Notts,161.0,6,114.0
+225345,2006,218060,18.0,6.0,1.0,0.0,,Paul Franks,8,4,200.0,Gareth Clough,0,0,,Claude Henderson,,,Nottinghamshire,Notts,160.0,6,113.0
+225345,2006,218050,18.0,5.0,0.0,0.0,,Samit Patel,26,16,162.5,,0,0,,Claude Henderson,SR Patel,SR Patel run out (Ackerman) 27 (20m 17b 5x4 0x6) SR: 158.82,Nottinghamshire,Notts,160.0,5,112.0
+225345,2006,218040,18.0,4.0,1.0,0.0,,Paul Franks,0,0,,,0,0,,Claude Henderson,,,Nottinghamshire,Notts,159.0,5,111.0
+225345,2006,218030,18.0,3.0,6.0,0.0,,Paul Franks,0,0,,,0,0,,Claude Henderson,,,Nottinghamshire,Notts,153.0,5,110.0
+225345,2006,218020,18.0,2.0,0.0,0.0,,Paul Franks,0,0,,,0,0,,Claude Henderson,,,Nottinghamshire,Notts,153.0,5,109.0
+225345,2006,218010,18.0,1.0,1.0,0.0,,Samit Patel,26,15,173.33,,0,0,,Claude Henderson,,,Nottinghamshire,Notts,152.0,5,108.0
+225345,2006,217060,17.0,6.0,1.0,0.0,,Samit Patel,26,15,173.33,Paul Franks,0,0,,Jim Allenby,,,Nottinghamshire,Notts,151.0,5,107.0
+225345,2006,217050,17.0,5.0,0.0,0.0,,Mark Ealham,15,6,250.0,Samit Patel,25,14,178.57,Jim Allenby,MA Ealham,MA Ealham c Maddy b Allenby 16 (9m 7b 2x4 1x6) SR: 228.57,Nottinghamshire,Notts,151.0,4,106.0
+225345,2006,217040,17.0,4.0,1.0,0.0,,Samit Patel,16,11,145.45,,0,0,,Jim Allenby,,,Nottinghamshire,Notts,150.0,4,105.0
+225345,2006,217030,17.0,3.0,4.0,0.0,,Samit Patel,16,11,145.45,,0,0,,Jim Allenby,,,Nottinghamshire,Notts,146.0,4,104.0
+225345,2006,217020,17.0,2.0,4.0,0.0,,Samit Patel,16,11,145.45,,0,0,,Jim Allenby,,,Nottinghamshire,Notts,142.0,4,103.0
+225345,2006,217010,17.0,1.0,1.0,0.0,,Mark Ealham,15,5,300.0,,0,0,,Jim Allenby,,,Nottinghamshire,Notts,141.0,4,102.0
+225345,2006,216060,16.0,6.0,4.0,0.0,,Samit Patel,16,11,145.45,Mark Ealham,15,5,300.0,Ryan Cummins,,,Nottinghamshire,Notts,137.0,4,101.0
+225345,2006,216050,16.0,5.0,1.0,0.0,,Mark Ealham,0,0,,,0,0,,Ryan Cummins,,,Nottinghamshire,Notts,136.0,4,100.0
+225345,2006,216040,16.0,4.0,4.0,0.0,,Mark Ealham,0,0,,,0,0,,Ryan Cummins,,,Nottinghamshire,Notts,132.0,4,99.0
+225345,2006,23060,3.0,6.0,0.0,1.0,lb,Graeme Swann,9,10,90.0,Stephen Fleming,18,14,128.57,Ryan Cummins,,,Nottinghamshire,Notts,30.0,0,23.0
+225345,2006,23050,3.0,5.0,0.0,0.0,,Graeme Swann,4,6,66.67,,0,0,,Ryan Cummins,,,Nottinghamshire,Notts,30.0,0,22.0
+225345,2006,23040,3.0,4.0,1.0,0.0,,Stephen Fleming,15,12,125.0,,0,0,,Ryan Cummins,,,Nottinghamshire,Notts,29.0,0,21.0
+225345,2006,23030,3.0,3.0,2.0,0.0,,Stephen Fleming,15,12,125.0,,0,0,,Ryan Cummins,,,Nottinghamshire,Notts,27.0,0,20.0
+225345,2006,23020,3.0,2.0,1.0,0.0,,Graeme Swann,4,6,66.67,,0,0,,Ryan Cummins,,,Nottinghamshire,Notts,26.0,0,19.0
+225345,2006,23010,3.0,1.0,4.0,0.0,,Graeme Swann,4,6,66.67,,0,0,,Ryan Cummins,,,Nottinghamshire,Notts,22.0,0,18.0
+225345,2006,22060,2.0,6.0,1.0,0.0,,Graeme Swann,4,6,66.67,Stephen Fleming,15,12,125.0,Stuart Broad,,,Nottinghamshire,Notts,21.0,0,17.0
+225345,2006,22050,2.0,5.0,1.0,0.0,,Stephen Fleming,14,8,175.0,,0,0,,Stuart Broad,,,Nottinghamshire,Notts,20.0,0,16.0
+225345,2006,22040,2.0,4.0,0.0,1.0,lb,Graeme Swann,3,4,75.0,,0,0,,Stuart Broad,,,Nottinghamshire,Notts,19.0,0,15.0
+225345,2006,22030,2.0,3.0,0.0,1.0,lb,Stephen Fleming,14,8,175.0,,0,0,,Stuart Broad,,,Nottinghamshire,Notts,18.0,0,14.0
+225345,2006,22020,2.0,2.0,0.0,0.0,,Stephen Fleming,14,8,175.0,,0,0,,Stuart Broad,,,Nottinghamshire,Notts,18.0,0,13.0
+225345,2006,22010,2.0,1.0,0.0,0.0,,Stephen Fleming,14,8,175.0,,0,0,,Stuart Broad,,,Nottinghamshire,Notts,18.0,0,12.0
+225345,2006,21060,1.0,6.0,1.0,0.0,,Stephen Fleming,14,8,175.0,Graeme Swann,3,4,75.0,Ryan Cummins,,,Nottinghamshire,Notts,17.0,0,11.0
+225345,2006,21050,1.0,5.0,0.0,0.0,,Stephen Fleming,1,2,50.0,,0,0,,Ryan Cummins,,,Nottinghamshire,Notts,17.0,0,10.0
+225345,2006,21040,1.0,4.0,4.0,0.0,,Stephen Fleming,1,2,50.0,,0,0,,Ryan Cummins,,,Nottinghamshire,Notts,13.0,0,9.0
+225345,2006,21030,1.0,3.0,0.0,0.0,,Stephen Fleming,1,2,50.0,,0,0,,Ryan Cummins,,,Nottinghamshire,Notts,13.0,0,8.0
+225345,2006,21020,1.0,2.0,4.0,0.0,,Stephen Fleming,1,2,50.0,,0,0,,Ryan Cummins,,,Nottinghamshire,Notts,9.0,0,7.0
+225345,2006,21010,1.0,1.0,4.0,0.0,,Stephen Fleming,1,2,50.0,,0,0,,Ryan Cummins,,,Nottinghamshire,Notts,5.0,0,6.0
+225345,2006,270,0.0,6.0,1.0,0.0,,Stephen Fleming,1,2,50.0,Graeme Swann,3,4,75.0,Stuart Broad,,,Nottinghamshire,Notts,4.0,0,5.0
+225345,2006,260,0.0,5.0,0.0,0.0,,Stephen Fleming,0,0,,,0,0,,Stuart Broad,,,Nottinghamshire,Notts,3.0,0,4.0
+225345,2006,250,0.0,4.0,1.0,0.0,,Graeme Swann,0,0,,,0,0,,Stuart Broad,,,Nottinghamshire,Notts,2.0,0,3.0
+225345,2006,240,0.0,3.0,0.0,0.0,,Graeme Swann,0,0,,,0,0,,Stuart Broad,,,Nottinghamshire,Notts,2.0,0,2.0
+225345,2006,230,0.0,2.0,2.0,0.0,,Graeme Swann,0,0,,,0,0,,Stuart Broad,,,Nottinghamshire,Notts,0.0,0,1.0
+225345,2006,220,0.0,2.0,0.0,0.0,,Graeme Swann,0,0,,,0,0,,Stuart Broad,,,Nottinghamshire,Notts,0.0,0,1.0
+225345,2006,210,0.0,1.0,0.0,0.0,,Graeme Swann,0,0,,,0,0,,Stuart Broad,,,Nottinghamshire,Notts,0.0,0,0.0
+225345,2006,28010,8.0,1.0,4.0,0.0,,Stephen Fleming,35,26,134.62,,0,0,,Darren Maddy,,,Nottinghamshire,Notts,60.0,1,48.0
+225345,2006,27060,7.0,6.0,2.0,0.0,,David Hussey,7,4,175.0,Stephen Fleming,35,26,134.62,David Masters,,,Nottinghamshire,Notts,58.0,1,47.0
+225345,2006,27050,7.0,5.0,1.0,0.0,,Stephen Fleming,33,23,143.48,,0,0,,David Masters,,,Nottinghamshire,Notts,57.0,1,46.0
+225345,2006,27040,7.0,4.0,1.0,0.0,,David Hussey,0,1,0.0,,0,0,,David Masters,,,Nottinghamshire,Notts,56.0,1,45.0
+225345,2006,27030,7.0,3.0,4.0,0.0,,David Hussey,0,1,0.0,,0,0,,David Masters,,,Nottinghamshire,Notts,52.0,1,44.0
+225345,2006,27020,7.0,2.0,1.0,0.0,,Stephen Fleming,33,23,143.48,,0,0,,David Masters,,,Nottinghamshire,Notts,51.0,1,43.0
+225345,2006,27010,7.0,1.0,0.0,0.0,,Stephen Fleming,33,23,143.48,,0,0,,David Masters,,,Nottinghamshire,Notts,51.0,1,42.0
+225345,2006,26060,6.0,6.0,0.0,0.0,,David Hussey,0,1,0.0,Stephen Fleming,33,23,143.48,Darren Maddy,,,Nottinghamshire,Notts,51.0,1,41.0
+225345,2006,26050,6.0,5.0,0.0,0.0,,Graeme Swann,13,16,81.25,Stephen Fleming,33,23,143.48,Darren Maddy,GP Swann,GP Swann lbw b Maddy 14 (26m 18b 1x4 0x6) SR: 77.77,Nottinghamshire,Notts,51.0,0,40.0
+225345,2006,26040,6.0,4.0,1.0,0.0,,Stephen Fleming,32,21,152.38,,0,0,,Darren Maddy,,,Nottinghamshire,Notts,50.0,0,39.0
+225345,2006,26030,6.0,3.0,0.0,0.0,,Stephen Fleming,32,21,152.38,,0,0,,Darren Maddy,,,Nottinghamshire,Notts,50.0,0,38.0
+225345,2006,26020,6.0,2.0,1.0,0.0,,Graeme Swann,13,15,86.67,,0,0,,Darren Maddy,,,Nottinghamshire,Notts,49.0,0,37.0
+225345,2006,26010,6.0,1.0,0.0,0.0,,Graeme Swann,13,15,86.67,,0,0,,Darren Maddy,,,Nottinghamshire,Notts,49.0,0,36.0
+225345,2006,25060,5.0,6.0,4.0,0.0,,Stephen Fleming,32,21,152.38,Graeme Swann,13,15,86.67,David Masters,,,Nottinghamshire,Notts,45.0,0,35.0
+225345,2006,25050,5.0,5.0,1.0,0.0,,Graeme Swann,10,12,83.33,,0,0,,David Masters,,,Nottinghamshire,Notts,44.0,0,34.0
+225345,2006,25040,5.0,4.0,1.0,0.0,,Stephen Fleming,26,18,144.44,,0,0,,David Masters,,,Nottinghamshire,Notts,43.0,0,33.0
+225345,2006,25030,5.0,3.0,1.0,0.0,,Graeme Swann,10,12,83.33,,0,0,,David Masters,,,Nottinghamshire,Notts,42.0,0,32.0
+225345,2006,25020,5.0,2.0,1.0,0.0,,Stephen Fleming,26,18,144.44,,0,0,,David Masters,,,Nottinghamshire,Notts,41.0,0,31.0
+225345,2006,25010,5.0,1.0,1.0,0.0,,Graeme Swann,10,12,83.33,,0,0,,David Masters,,,Nottinghamshire,Notts,40.0,0,30.0
+225345,2006,24060,4.0,6.0,4.0,0.0,,Stephen Fleming,26,18,144.44,Graeme Swann,10,12,83.33,Stuart Broad,,,Nottinghamshire,Notts,36.0,0,29.0
+225345,2006,24050,4.0,5.0,0.0,0.0,,Stephen Fleming,18,14,128.57,,0,0,,Stuart Broad,,,Nottinghamshire,Notts,36.0,0,28.0
+225345,2006,24040,4.0,4.0,0.0,0.0,,Stephen Fleming,18,14,128.57,,0,0,,Stuart Broad,,,Nottinghamshire,Notts,36.0,0,27.0
+225345,2006,24030,4.0,3.0,4.0,0.0,,Stephen Fleming,18,14,128.57,,0,0,,Stuart Broad,,,Nottinghamshire,Notts,32.0,0,26.0
+225345,2006,24020,4.0,2.0,1.0,0.0,,Graeme Swann,9,10,90.0,,0,0,,Stuart Broad,,,Nottinghamshire,Notts,31.0,0,25.0
+225345,2006,24010,4.0,1.0,0.0,0.0,,Graeme Swann,9,10,90.0,,0,0,,Stuart Broad,,,Nottinghamshire,Notts,31.0,0,24.0
+225345,2006,212020,12.0,2.0,1.0,0.0,,Stephen Fleming,50,35,142.86,,0,0,,Jeremy Snape,,,Nottinghamshire,Notts,106.0,1,73.0
+225345,2006,212010,12.0,1.0,2.0,0.0,,Stephen Fleming,50,35,142.86,,0,0,,Jeremy Snape,,,Nottinghamshire,Notts,104.0,1,72.0
+225345,2006,211060,11.0,6.0,4.0,0.0,,David Hussey,36,19,189.47,Stephen Fleming,50,35,142.86,Claude Henderson,,,Nottinghamshire,Notts,100.0,1,71.0
+225345,2006,211050,11.0,5.0,4.0,0.0,,David Hussey,23,15,153.33,,0,0,,Claude Henderson,,,Nottinghamshire,Notts,96.0,1,70.0
+225345,2006,211040,11.0,4.0,1.0,0.0,,Stephen Fleming,49,33,148.48,,0,0,,Claude Henderson,,,Nottinghamshire,Notts,95.0,1,69.0
+225345,2006,211030,11.0,3.0,0.0,0.0,,Stephen Fleming,49,33,148.48,,0,0,,Claude Henderson,,,Nottinghamshire,Notts,95.0,1,68.0
+225345,2006,211020,11.0,2.0,1.0,0.0,,David Hussey,23,15,153.33,,0,0,,Claude Henderson,,,Nottinghamshire,Notts,94.0,1,67.0
+225345,2006,211010,11.0,1.0,4.0,0.0,,David Hussey,23,15,153.33,,0,0,,Claude Henderson,,,Nottinghamshire,Notts,90.0,1,66.0
+225345,2006,210060,10.0,6.0,1.0,0.0,,David Hussey,23,15,153.33,Stephen Fleming,49,33,148.48,Jeremy Snape,,,Nottinghamshire,Notts,89.0,1,65.0
+225345,2006,210050,10.0,5.0,4.0,0.0,,David Hussey,17,11,154.55,,0,0,,Jeremy Snape,,,Nottinghamshire,Notts,85.0,1,64.0
+225345,2006,210040,10.0,4.0,0.0,0.0,,David Hussey,17,11,154.55,,0,0,,Jeremy Snape,,,Nottinghamshire,Notts,85.0,1,63.0
+225345,2006,210030,10.0,3.0,1.0,0.0,,Stephen Fleming,44,31,141.94,,0,0,,Jeremy Snape,,,Nottinghamshire,Notts,84.0,1,62.0
+225345,2006,210020,10.0,2.0,4.0,0.0,,Stephen Fleming,44,31,141.94,,0,0,,Jeremy Snape,,,Nottinghamshire,Notts,80.0,1,61.0
+225345,2006,210010,10.0,1.0,1.0,0.0,,David Hussey,17,11,154.55,,0,0,,Jeremy Snape,,,Nottinghamshire,Notts,79.0,1,60.0
+225345,2006,29060,9.0,6.0,1.0,0.0,,David Hussey,17,11,154.55,Stephen Fleming,44,31,141.94,Claude Henderson,,,Nottinghamshire,Notts,78.0,1,59.0
+225345,2006,29050,9.0,5.0,1.0,0.0,,Stephen Fleming,42,29,144.83,,0,0,,Claude Henderson,,,Nottinghamshire,Notts,77.0,1,58.0
+225345,2006,29040,9.0,4.0,1.0,0.0,,David Hussey,14,7,200.0,,0,0,,Claude Henderson,,,Nottinghamshire,Notts,76.0,1,57.0
+225345,2006,29030,9.0,3.0,0.0,0.0,,David Hussey,14,7,200.0,,0,0,,Claude Henderson,,,Nottinghamshire,Notts,76.0,1,56.0
+225345,2006,29020,9.0,2.0,1.0,0.0,,Stephen Fleming,42,29,144.83,,0,0,,Claude Henderson,,,Nottinghamshire,Notts,75.0,1,55.0
+225345,2006,29010,9.0,1.0,1.0,0.0,,David Hussey,14,7,200.0,,0,0,,Claude Henderson,,,Nottinghamshire,Notts,74.0,1,54.0
+225345,2006,28060,8.0,6.0,2.0,0.0,,Stephen Fleming,42,29,144.83,David Hussey,14,7,200.0,Darren Maddy,,,Nottinghamshire,Notts,72.0,1,53.0
+225345,2006,28050,8.0,5.0,1.0,0.0,,David Hussey,7,4,175.0,,0,0,,Darren Maddy,,,Nottinghamshire,Notts,71.0,1,52.0
+225345,2006,28040,8.0,4.0,6.0,0.0,,David Hussey,7,4,175.0,,0,0,,Darren Maddy,,,Nottinghamshire,Notts,65.0,1,51.0
+225345,2006,28030,8.0,3.0,0.0,0.0,,David Hussey,7,4,175.0,,0,0,,Darren Maddy,,,Nottinghamshire,Notts,65.0,1,50.0
+225345,2006,28020,8.0,2.0,1.0,0.0,,Stephen Fleming,35,26,134.62,,0,0,,Darren Maddy,,,Nottinghamshire,Notts,64.0,1,49.0
+225345,2006,216030,16.0,3.0,0.0,0.0,,Mark Ealham,0,0,,,0,0,,Ryan Cummins,,,Nottinghamshire,Notts,132.0,4,98.0
+225345,2006,216020,16.0,2.0,6.0,0.0,,Mark Ealham,0,0,,,0,0,,Ryan Cummins,,,Nottinghamshire,Notts,126.0,4,97.0
+225345,2006,216010,16.0,1.0,4.0,0.0,,Mark Ealham,0,0,,,0,0,,Ryan Cummins,,,Nottinghamshire,Notts,122.0,4,96.0
+225345,2006,215060,15.0,6.0,0.0,0.0,,Samit Patel,12,10,120.0,Mark Ealham,0,0,,Claude Henderson,,,Nottinghamshire,Notts,122.0,4,95.0
+225345,2006,215050,15.0,5.0,0.0,0.0,,Chris Read,1,4,25.0,Samit Patel,12,9,133.33,Claude Henderson,CMW Read,CMW Read c Broad b Henderson 2 (9m 6b 0x4 0x6) SR: 33.33,Nottinghamshire,Notts,122.0,3,94.0
+225345,2006,215040,15.0,4.0,0.0,0.0,,Chris Read,1,3,33.33,,0,0,,Claude Henderson,,,Nottinghamshire,Notts,122.0,3,93.0
+225345,2006,215030,15.0,3.0,1.0,0.0,,Samit Patel,7,7,100.0,,0,0,,Claude Henderson,,,Nottinghamshire,Notts,121.0,3,92.0
+225345,2006,215020,15.0,2.0,4.0,0.0,,Samit Patel,7,7,100.0,,0,0,,Claude Henderson,,,Nottinghamshire,Notts,117.0,3,91.0
+225345,2006,215010,15.0,1.0,1.0,0.0,,Chris Read,1,3,33.33,,0,0,,Claude Henderson,,,Nottinghamshire,Notts,116.0,3,90.0
+225345,2006,214060,14.0,6.0,2.0,0.0,,Samit Patel,7,7,100.0,Chris Read,1,3,33.33,Jeremy Snape,,,Nottinghamshire,Notts,114.0,3,89.0
+225345,2006,214050,14.0,5.0,4.0,0.0,,Samit Patel,1,1,100.0,,0,0,,Jeremy Snape,,,Nottinghamshire,Notts,110.0,3,88.0
+225345,2006,214040,14.0,4.0,0.0,0.0,,Samit Patel,1,1,100.0,,0,0,,Jeremy Snape,,,Nottinghamshire,Notts,110.0,3,87.0
+225345,2006,214030,14.0,3.0,0.0,0.0,,Samit Patel,1,1,100.0,,0,0,,Jeremy Snape,,,Nottinghamshire,Notts,110.0,3,86.0
+225345,2006,214020,14.0,2.0,0.0,0.0,,Samit Patel,1,1,100.0,,0,0,,Jeremy Snape,,,Nottinghamshire,Notts,110.0,3,85.0
+225345,2006,214010,14.0,1.0,0.0,0.0,,Samit Patel,1,1,100.0,,0,0,,Jeremy Snape,,,Nottinghamshire,Notts,110.0,3,84.0
+225345,2006,213060,13.0,6.0,0.0,0.0,,Chris Read,1,3,33.33,Samit Patel,1,1,100.0,Stuart Broad,,,Nottinghamshire,Notts,110.0,3,83.0
+225345,2006,213050,13.0,5.0,1.0,0.0,,Samit Patel,0,0,,,0,0,,Stuart Broad,,,Nottinghamshire,Notts,109.0,3,82.0
+225345,2006,213040,13.0,4.0,0.0,0.0,,David Hussey,37,22,168.18,Chris Read,1,2,50.0,Stuart Broad,DJ Hussey,DJ Hussey c Snape b Broad 37 (22m 23b 5x4 1x6) SR: 160.86,Nottinghamshire,Notts,109.0,2,81.0
+225345,2006,213030,13.0,3.0,0.0,0.0,,David Hussey,37,21,176.19,,0,0,,Stuart Broad,,,Nottinghamshire,Notts,109.0,2,80.0
+225345,2006,213020,13.0,2.0,1.0,0.0,,Chris Read,0,0,,,0,0,,Stuart Broad,,,Nottinghamshire,Notts,108.0,2,79.0
+225345,2006,213010,13.0,1.0,0.0,0.0,,Chris Read,0,0,,,0,0,,Stuart Broad,,,Nottinghamshire,Notts,108.0,2,78.0
+225345,2006,212060,12.0,6.0,0.0,0.0,,Stephen Fleming,50,35,142.86,David Hussey,37,21,176.19,Jeremy Snape,SP Fleming,SP Fleming c Cummins b Snape 53 (47m 39b 8x4 0x6) SR: 135.89,Nottinghamshire,Notts,108.0,1,77.0
+225345,2006,212050,12.0,5.0,0.0,0.0,,Stephen Fleming,50,35,142.86,,0,0,,Jeremy Snape,,,Nottinghamshire,Notts,108.0,1,76.0
+225345,2006,212040,12.0,4.0,1.0,0.0,,David Hussey,36,19,189.47,,0,0,,Jeremy Snape,,,Nottinghamshire,Notts,107.0,1,75.0
+225345,2006,212030,12.0,3.0,0.0,0.0,,David Hussey,36,19,189.47,,0,0,,Jeremy Snape,,,Nottinghamshire,Notts,107.0,1,74.0
+254572,2006,119060,19.0,6.0,1.0,0.0,,Mark Ealham,18,7,257.14,Paul Franks,0,2,0.0,Azhar Mahmood,MA Ealham,MA Ealham run out (Clarke) 18 (12m 7b 0x4 2x6) SR: 257.14,Nottinghamshire,Notts,175.0,4,119.0
+254572,2006,13060,3.0,6.0,1.0,0.0,,Graeme Swann,15,13,115.38,Stephen Fleming,15,11,136.36,Tim Murtagh,,,Nottinghamshire,Notts,32.0,0,23.0
+254572,2006,13050,3.0,5.0,0.0,1.0,lb,Stephen Fleming,10,8,125.0,,0,0,,Tim Murtagh,,,Nottinghamshire,Notts,31.0,0,22.0
+254572,2006,13040,3.0,4.0,4.0,0.0,,Stephen Fleming,10,8,125.0,,0,0,,Tim Murtagh,,,Nottinghamshire,Notts,27.0,0,21.0
+254572,2006,13030,3.0,3.0,1.0,0.0,,Graeme Swann,9,10,90.0,,0,0,,Tim Murtagh,,,Nottinghamshire,Notts,26.0,0,20.0
+254572,2006,13020,3.0,2.0,4.0,0.0,,Graeme Swann,9,10,90.0,,0,0,,Tim Murtagh,,,Nottinghamshire,Notts,22.0,0,19.0
+254572,2006,13010,3.0,1.0,1.0,0.0,,Stephen Fleming,10,8,125.0,,0,0,,Tim Murtagh,,,Nottinghamshire,Notts,21.0,0,18.0
+254572,2006,12060,2.0,6.0,4.0,0.0,,Graeme Swann,9,10,90.0,Stephen Fleming,10,8,125.0,Azhar Mahmood,,,Nottinghamshire,Notts,17.0,0,17.0
+254572,2006,12050,2.0,5.0,0.0,0.0,,Graeme Swann,5,6,83.33,,0,0,,Azhar Mahmood,,,Nottinghamshire,Notts,17.0,0,16.0
+254572,2006,12040,2.0,4.0,0.0,0.0,,Graeme Swann,5,6,83.33,,0,0,,Azhar Mahmood,,,Nottinghamshire,Notts,17.0,0,15.0
+254572,2006,12030,2.0,3.0,0.0,0.0,,Graeme Swann,5,6,83.33,,0,0,,Azhar Mahmood,,,Nottinghamshire,Notts,17.0,0,14.0
+254572,2006,12020,2.0,2.0,1.0,0.0,,Stephen Fleming,9,6,150.0,,0,0,,Azhar Mahmood,,,Nottinghamshire,Notts,16.0,0,13.0
+254572,2006,12010,2.0,1.0,0.0,0.0,,Stephen Fleming,9,6,150.0,,0,0,,Azhar Mahmood,,,Nottinghamshire,Notts,16.0,0,12.0
+254572,2006,11060,1.0,6.0,4.0,0.0,,Graeme Swann,5,6,83.33,Stephen Fleming,9,6,150.0,Tim Murtagh,,,Nottinghamshire,Notts,12.0,0,11.0
+254572,2006,11050,1.0,5.0,1.0,0.0,,Stephen Fleming,1,2,50.0,,0,0,,Tim Murtagh,,,Nottinghamshire,Notts,11.0,0,10.0
+254572,2006,11040,1.0,4.0,4.0,0.0,,Stephen Fleming,1,2,50.0,,0,0,,Tim Murtagh,,,Nottinghamshire,Notts,7.0,0,9.0
+254572,2006,11030,1.0,3.0,0.0,1.0,lb,Graeme Swann,1,4,25.0,,0,0,,Tim Murtagh,,,Nottinghamshire,Notts,6.0,0,8.0
+254572,2006,11020,1.0,2.0,1.0,0.0,,Stephen Fleming,1,2,50.0,,0,0,,Tim Murtagh,,,Nottinghamshire,Notts,5.0,0,7.0
+254572,2006,11010,1.0,1.0,2.0,0.0,,Stephen Fleming,1,2,50.0,,0,0,,Tim Murtagh,,,Nottinghamshire,Notts,3.0,0,6.0
+254572,2006,170,0.0,6.0,1.0,0.0,,Stephen Fleming,1,2,50.0,Graeme Swann,1,4,25.0,Azhar Mahmood,,,Nottinghamshire,Notts,2.0,0,5.0
+254572,2006,160,0.0,5.0,0.0,0.0,,Stephen Fleming,0,0,,,0,0,,Azhar Mahmood,,,Nottinghamshire,Notts,1.0,0,4.0
+254572,2006,150,0.0,5.0,0.0,0.0,,Stephen Fleming,0,0,,,0,0,,Azhar Mahmood,,,Nottinghamshire,Notts,1.0,0,4.0
+254572,2006,140,0.0,4.0,1.0,0.0,,Graeme Swann,0,0,,,0,0,,Azhar Mahmood,,,Nottinghamshire,Notts,0.0,0,3.0
+254572,2006,130,0.0,3.0,0.0,0.0,,Graeme Swann,0,0,,,0,0,,Azhar Mahmood,,,Nottinghamshire,Notts,0.0,0,2.0
+254572,2006,120,0.0,2.0,0.0,0.0,,Graeme Swann,0,0,,,0,0,,Azhar Mahmood,,,Nottinghamshire,Notts,0.0,0,1.0
+254572,2006,110,0.0,1.0,0.0,0.0,,Graeme Swann,0,0,,,0,0,,Azhar Mahmood,,,Nottinghamshire,Notts,0.0,0,0.0
+254572,2006,17040,7.0,4.0,0.0,0.0,,Stephen Fleming,30,22,136.36,Graeme Swann,25,22,113.64,Anil Kumble,SP Fleming,SP Fleming  b Kumble 31 (31m 24b 5x4 0x6) SR: 129.16,Nottinghamshire,Notts,62.0,0,45.0
+254572,2006,17030,7.0,3.0,0.0,0.0,,Stephen Fleming,30,21,142.86,,0,0,,Anil Kumble,,,Nottinghamshire,Notts,62.0,0,44.0
+254572,2006,17020,7.0,2.0,1.0,0.0,,Graeme Swann,24,21,114.29,,0,0,,Anil Kumble,,,Nottinghamshire,Notts,61.0,0,43.0
+254572,2006,17010,7.0,1.0,1.0,0.0,,Stephen Fleming,30,21,142.86,,0,0,,Anil Kumble,,,Nottinghamshire,Notts,60.0,0,42.0
+254572,2006,16070,6.0,6.0,1.0,0.0,,Stephen Fleming,30,21,142.86,Graeme Swann,24,21,114.29,Rikki Clarke,,,Nottinghamshire,Notts,59.0,0,41.0
+254572,2006,16060,6.0,5.0,4.0,0.0,,Stephen Fleming,24,18,133.33,,0,0,,Rikki Clarke,,,Nottinghamshire,Notts,54.0,0,40.0
+254572,2006,16050,6.0,4.0,1.0,0.0,,Graeme Swann,20,18,111.11,,0,0,,Rikki Clarke,,,Nottinghamshire,Notts,53.0,0,39.0
+254572,2006,16040,6.0,3.0,1.0,0.0,,Stephen Fleming,24,18,133.33,,0,0,,Rikki Clarke,,,Nottinghamshire,Notts,52.0,0,38.0
+254572,2006,16030,6.0,3.0,0.0,0.0,,Stephen Fleming,24,18,133.33,,0,0,,Rikki Clarke,,,Nottinghamshire,Notts,52.0,0,38.0
+254572,2006,16020,6.0,2.0,1.0,0.0,,Graeme Swann,20,18,111.11,,0,0,,Rikki Clarke,,,Nottinghamshire,Notts,51.0,0,37.0
+254572,2006,16010,6.0,1.0,2.0,0.0,,Graeme Swann,20,18,111.11,,0,0,,Rikki Clarke,,,Nottinghamshire,Notts,49.0,0,36.0
+254572,2006,15060,5.0,6.0,3.0,0.0,,Graeme Swann,20,18,111.11,Stephen Fleming,24,18,133.33,Anil Kumble,,,Nottinghamshire,Notts,46.0,0,35.0
+254572,2006,15050,5.0,5.0,1.0,0.0,,Stephen Fleming,23,15,153.33,,0,0,,Anil Kumble,,,Nottinghamshire,Notts,45.0,0,34.0
+254572,2006,15040,5.0,4.0,0.0,0.0,,Stephen Fleming,23,15,153.33,,0,0,,Anil Kumble,,,Nottinghamshire,Notts,45.0,0,33.0
+254572,2006,15030,5.0,3.0,0.0,0.0,,Stephen Fleming,23,15,153.33,,0,0,,Anil Kumble,,,Nottinghamshire,Notts,45.0,0,32.0
+254572,2006,15020,5.0,2.0,1.0,0.0,,Graeme Swann,16,15,106.67,,0,0,,Anil Kumble,,,Nottinghamshire,Notts,44.0,0,31.0
+254572,2006,15010,5.0,1.0,0.0,0.0,,Graeme Swann,16,15,106.67,,0,0,,Anil Kumble,,,Nottinghamshire,Notts,44.0,0,30.0
+254572,2006,14080,4.0,6.0,0.0,0.0,,Stephen Fleming,23,15,153.33,Graeme Swann,16,15,106.67,Azhar Mahmood,,,Nottinghamshire,Notts,44.0,0,29.0
+254572,2006,14070,4.0,6.0,0.0,0.0,,Stephen Fleming,15,11,136.36,,0,0,,Azhar Mahmood,,,Nottinghamshire,Notts,42.0,0,29.0
+254572,2006,14060,4.0,5.0,4.0,0.0,,Stephen Fleming,15,11,136.36,,0,0,,Azhar Mahmood,,,Nottinghamshire,Notts,38.0,0,28.0
+254572,2006,14050,4.0,5.0,0.0,0.0,,Stephen Fleming,15,11,136.36,,0,0,,Azhar Mahmood,,,Nottinghamshire,Notts,38.0,0,28.0
+254572,2006,14040,4.0,4.0,0.0,0.0,,Stephen Fleming,15,11,136.36,,0,0,,Azhar Mahmood,,,Nottinghamshire,Notts,38.0,0,27.0
+254572,2006,14030,4.0,3.0,4.0,0.0,,Stephen Fleming,15,11,136.36,,0,0,,Azhar Mahmood,,,Nottinghamshire,Notts,34.0,0,26.0
+254572,2006,14020,4.0,2.0,1.0,0.0,,Graeme Swann,15,13,115.38,,0,0,,Azhar Mahmood,,,Nottinghamshire,Notts,33.0,0,25.0
+254572,2006,14010,4.0,1.0,0.0,0.0,,Graeme Swann,15,13,115.38,,0,0,,Azhar Mahmood,,,Nottinghamshire,Notts,33.0,0,24.0
+254572,2006,111040,11.0,4.0,4.0,0.0,,Samit Patel,7,4,175.0,,0,0,,Nayan Doshi,,,Nottinghamshire,Notts,87.0,2,69.0
+254572,2006,111030,11.0,3.0,1.0,0.0,,David Hussey,7,12,58.33,,0,0,,Nayan Doshi,,,Nottinghamshire,Notts,86.0,2,68.0
+254572,2006,111020,11.0,2.0,0.0,1.0,lb,Samit Patel,7,4,175.0,,0,0,,Nayan Doshi,,,Nottinghamshire,Notts,85.0,2,67.0
+254572,2006,111010,11.0,1.0,0.0,0.0,,Samit Patel,7,4,175.0,,0,0,,Nayan Doshi,,,Nottinghamshire,Notts,85.0,2,66.0
+254572,2006,110060,10.0,6.0,2.0,0.0,,David Hussey,7,12,58.33,Samit Patel,7,4,175.0,Ian Salisbury,,,Nottinghamshire,Notts,83.0,2,65.0
+254572,2006,110050,10.0,5.0,0.0,0.0,,David Hussey,4,9,44.44,,0,0,,Ian Salisbury,,,Nottinghamshire,Notts,83.0,2,64.0
+254572,2006,110040,10.0,4.0,1.0,0.0,,Samit Patel,1,1,100.0,,0,0,,Ian Salisbury,,,Nottinghamshire,Notts,82.0,2,63.0
+254572,2006,110030,10.0,3.0,4.0,0.0,,Samit Patel,1,1,100.0,,0,0,,Ian Salisbury,,,Nottinghamshire,Notts,78.0,2,62.0
+254572,2006,110020,10.0,2.0,1.0,0.0,,David Hussey,4,9,44.44,,0,0,,Ian Salisbury,,,Nottinghamshire,Notts,77.0,2,61.0
+254572,2006,110010,10.0,1.0,1.0,0.0,,Samit Patel,1,1,100.0,,0,0,,Ian Salisbury,,,Nottinghamshire,Notts,76.0,2,60.0
+254572,2006,19060,9.0,6.0,1.0,0.0,,Samit Patel,1,1,100.0,David Hussey,4,9,44.44,Nayan Doshi,,,Nottinghamshire,Notts,75.0,2,59.0
+254572,2006,19050,9.0,5.0,0.0,0.0,,David Hussey,3,6,50.0,Graeme Swann,30,25,120.0,Nayan Doshi,GP Swann,GP Swann run out (Azhar Mahmood) 32 (41m 26b 3x4 0x6) SR: 123.07,Nottinghamshire,Notts,75.0,1,58.0
+254572,2006,19040,9.0,4.0,1.0,0.0,,Graeme Swann,30,24,125.0,,0,0,,Nayan Doshi,,,Nottinghamshire,Notts,74.0,1,57.0
+254572,2006,19030,9.0,3.0,1.0,0.0,,David Hussey,3,6,50.0,,0,0,,Nayan Doshi,,,Nottinghamshire,Notts,73.0,1,56.0
+254572,2006,19020,9.0,2.0,0.0,0.0,,David Hussey,3,6,50.0,,0,0,,Nayan Doshi,,,Nottinghamshire,Notts,73.0,1,55.0
+254572,2006,19010,9.0,1.0,1.0,0.0,,Graeme Swann,30,24,125.0,,0,0,,Nayan Doshi,,,Nottinghamshire,Notts,72.0,1,54.0
+254572,2006,18070,8.0,6.0,0.0,0.0,,David Hussey,3,6,50.0,Graeme Swann,30,24,125.0,Rikki Clarke,,,Nottinghamshire,Notts,72.0,1,53.0
+254572,2006,18060,8.0,5.0,0.0,0.0,,David Hussey,1,2,50.0,,0,0,,Rikki Clarke,,,Nottinghamshire,Notts,71.0,1,52.0
+254572,2006,18050,8.0,4.0,3.0,0.0,,Graeme Swann,25,22,113.64,,0,0,,Rikki Clarke,,,Nottinghamshire,Notts,68.0,1,51.0
+254572,2006,18040,8.0,4.0,0.0,0.0,,Graeme Swann,25,22,113.64,,0,0,,Rikki Clarke,,,Nottinghamshire,Notts,68.0,1,51.0
+254572,2006,18030,8.0,3.0,2.0,0.0,,Graeme Swann,25,22,113.64,,0,0,,Rikki Clarke,,,Nottinghamshire,Notts,66.0,1,50.0
+254572,2006,18020,8.0,2.0,0.0,1.0,lb,David Hussey,1,2,50.0,,0,0,,Rikki Clarke,,,Nottinghamshire,Notts,65.0,1,49.0
+254572,2006,18010,8.0,1.0,2.0,0.0,,David Hussey,1,2,50.0,,0,0,,Rikki Clarke,,,Nottinghamshire,Notts,63.0,1,48.0
+254572,2006,17060,7.0,6.0,1.0,0.0,,David Hussey,1,2,50.0,Graeme Swann,25,22,113.64,Anil Kumble,,,Nottinghamshire,Notts,62.0,1,47.0
+254572,2006,17050,7.0,5.0,0.0,0.0,,David Hussey,0,0,,,0,0,,Anil Kumble,,,Nottinghamshire,Notts,62.0,1,46.0
+254572,2006,115040,15.0,4.0,1.0,0.0,,David Hussey,31,23,134.78,,0,0,,Nayan Doshi,,,Nottinghamshire,Notts,133.0,3,93.0
+254572,2006,115030,15.0,3.0,1.0,0.0,,Chris Read,5,4,125.0,,0,0,,Nayan Doshi,,,Nottinghamshire,Notts,132.0,3,92.0
+254572,2006,115020,15.0,2.0,1.0,0.0,,David Hussey,31,23,134.78,,0,0,,Nayan Doshi,,,Nottinghamshire,Notts,131.0,3,91.0
+254572,2006,115010,15.0,1.0,6.0,0.0,,David Hussey,31,23,134.78,,0,0,,Nayan Doshi,,,Nottinghamshire,Notts,125.0,3,90.0
+254572,2006,114060,14.0,6.0,0.0,0.0,,Chris Read,5,4,125.0,David Hussey,31,23,134.78,Anil Kumble,,,Nottinghamshire,Notts,125.0,3,89.0
+254572,2006,114050,14.0,5.0,1.0,0.0,,David Hussey,18,19,94.74,,0,0,,Anil Kumble,,,Nottinghamshire,Notts,124.0,3,88.0
+254572,2006,114040,14.0,4.0,6.0,0.0,,David Hussey,18,19,94.74,,0,0,,Anil Kumble,,,Nottinghamshire,Notts,118.0,3,87.0
+254572,2006,114030,14.0,3.0,6.0,0.0,,David Hussey,18,19,94.74,,0,0,,Anil Kumble,,,Nottinghamshire,Notts,112.0,3,86.0
+254572,2006,114020,14.0,2.0,0.0,0.0,,David Hussey,18,19,94.74,,0,0,,Anil Kumble,,,Nottinghamshire,Notts,112.0,3,85.0
+254572,2006,114010,14.0,1.0,1.0,0.0,,Chris Read,4,2,200.0,,0,0,,Anil Kumble,,,Nottinghamshire,Notts,111.0,3,84.0
+254572,2006,113060,13.0,6.0,1.0,0.0,,Chris Read,4,2,200.0,David Hussey,18,19,94.74,Nayan Doshi,,,Nottinghamshire,Notts,110.0,3,83.0
+254572,2006,113050,13.0,5.0,1.0,0.0,,David Hussey,17,17,100.0,,0,0,,Nayan Doshi,,,Nottinghamshire,Notts,109.0,3,82.0
+254572,2006,113040,13.0,4.0,0.0,0.0,,David Hussey,17,17,100.0,,0,0,,Nayan Doshi,,,Nottinghamshire,Notts,109.0,3,81.0
+254572,2006,113030,13.0,3.0,3.0,0.0,,Chris Read,0,0,,,0,0,,Nayan Doshi,,,Nottinghamshire,Notts,106.0,3,80.0
+254572,2006,113020,13.0,2.0,0.0,0.0,,Samit Patel,16,12,133.33,David Hussey,17,17,100.0,Nayan Doshi,SR Patel,SR Patel st &dagger;Batty b Doshi 16 (9m 13b 2x4 0x6) SR: 123.07,Nottinghamshire,Notts,106.0,2,79.0
+254572,2006,113010,13.0,1.0,0.0,0.0,,Samit Patel,16,11,145.45,,0,0,,Nayan Doshi,,,Nottinghamshire,Notts,106.0,2,78.0
+254572,2006,112070,12.0,6.0,6.0,0.0,,David Hussey,17,17,100.0,Samit Patel,16,11,145.45,Ian Salisbury,,,Nottinghamshire,Notts,100.0,2,77.0
+254572,2006,112060,12.0,5.0,0.0,0.0,,David Hussey,8,13,61.54,,0,0,,Ian Salisbury,,,Nottinghamshire,Notts,99.0,2,76.0
+254572,2006,112050,12.0,4.0,1.0,0.0,,Samit Patel,14,9,155.56,,0,0,,Ian Salisbury,,,Nottinghamshire,Notts,98.0,2,75.0
+254572,2006,112040,12.0,4.0,0.0,0.0,,Samit Patel,14,9,155.56,,0,0,,Ian Salisbury,,,Nottinghamshire,Notts,98.0,2,75.0
+254572,2006,112030,12.0,3.0,1.0,0.0,,David Hussey,8,13,61.54,,0,0,,Ian Salisbury,,,Nottinghamshire,Notts,97.0,2,74.0
+254572,2006,112020,12.0,2.0,2.0,0.0,,David Hussey,8,13,61.54,,0,0,,Ian Salisbury,,,Nottinghamshire,Notts,95.0,2,73.0
+254572,2006,112010,12.0,1.0,1.0,0.0,,Samit Patel,14,9,155.56,,0,0,,Ian Salisbury,,,Nottinghamshire,Notts,94.0,2,72.0
+254572,2006,111060,11.0,6.0,1.0,0.0,,Samit Patel,14,9,155.56,David Hussey,8,13,61.54,Nayan Doshi,,,Nottinghamshire,Notts,93.0,2,71.0
+254572,2006,111050,11.0,5.0,2.0,0.0,,Samit Patel,7,4,175.0,,0,0,,Nayan Doshi,,,Nottinghamshire,Notts,91.0,2,70.0
+254572,2006,119050,19.0,5.0,6.0,0.0,,Mark Ealham,1,1,100.0,,0,0,,Azhar Mahmood,,,Nottinghamshire,Notts,169.0,5,118.0
+254572,2006,119040,19.0,4.0,2.0,0.0,,Mark Ealham,1,1,100.0,,0,0,,Azhar Mahmood,,,Nottinghamshire,Notts,167.0,5,117.0
+254572,2006,119030,19.0,3.0,2.0,0.0,,Mark Ealham,1,1,100.0,,0,0,,Azhar Mahmood,,,Nottinghamshire,Notts,165.0,5,116.0
+254572,2006,119020,19.0,2.0,0.0,0.0,,Mark Ealham,1,1,100.0,,0,0,,Azhar Mahmood,,,Nottinghamshire,Notts,165.0,5,115.0
+254572,2006,119010,19.0,1.0,6.0,0.0,,Mark Ealham,1,1,100.0,,0,0,,Azhar Mahmood,,,Nottinghamshire,Notts,159.0,5,114.0
+254572,2006,118060,18.0,6.0,0.0,0.0,,Paul Franks,0,2,0.0,Mark Ealham,1,1,100.0,Tim Murtagh,,,Nottinghamshire,Notts,159.0,5,113.0
+254572,2006,118050,18.0,5.0,0.0,4.0,b,Paul Franks,0,0,,,0,0,,Tim Murtagh,,,Nottinghamshire,Notts,155.0,5,112.0
+254572,2006,118040,18.0,4.0,0.0,0.0,,Chris Read,16,16,100.0,Mark Ealham,1,1,100.0,Tim Murtagh,CMW Read,CMW Read c Butcher b Murtagh 23 (16m 18b 1x4 1x6) SR: 127.77,Nottinghamshire,Notts,155.0,4,111.0
+254572,2006,118030,18.0,3.0,6.0,0.0,,Chris Read,16,15,106.67,,0,0,,Tim Murtagh,,,Nottinghamshire,Notts,149.0,4,110.0
+254572,2006,118020,18.0,2.0,1.0,0.0,,Mark Ealham,0,0,,,0,0,,Tim Murtagh,,,Nottinghamshire,Notts,148.0,4,109.0
+254572,2006,118010,18.0,1.0,1.0,0.0,,Chris Read,16,15,106.67,,0,0,,Tim Murtagh,,,Nottinghamshire,Notts,147.0,4,108.0
+254572,2006,117060,17.0,6.0,1.0,0.0,,Chris Read,16,15,106.67,Mark Ealham,0,0,,Ian Salisbury,,,Nottinghamshire,Notts,146.0,4,107.0
+254572,2006,117050,17.0,5.0,2.0,0.0,,Chris Read,9,9,100.0,,0,0,,Ian Salisbury,,,Nottinghamshire,Notts,144.0,4,106.0
+254572,2006,117040,17.0,4.0,0.0,0.0,,Chris Read,9,9,100.0,,0,0,,Ian Salisbury,,,Nottinghamshire,Notts,144.0,4,105.0
+254572,2006,117030,17.0,3.0,4.0,0.0,,Chris Read,9,9,100.0,,0,0,,Ian Salisbury,,,Nottinghamshire,Notts,140.0,4,104.0
+254572,2006,117020,17.0,2.0,0.0,0.0,,Chris Read,9,9,100.0,,0,0,,Ian Salisbury,,,Nottinghamshire,Notts,140.0,4,103.0
+254572,2006,117010,17.0,1.0,0.0,0.0,,Chris Read,9,9,100.0,,0,0,,Ian Salisbury,,,Nottinghamshire,Notts,140.0,4,102.0
+254572,2006,116060,16.0,6.0,0.0,0.0,,David Hussey,39,26,150.0,Chris Read,9,9,100.0,Anil Kumble,DJ Hussey,DJ Hussey  b Kumble 42 (30m 30b 0x4 4x6) SR: 140.00,Nottinghamshire,Notts,140.0,3,101.0
+254572,2006,116050,16.0,5.0,2.0,0.0,,David Hussey,39,26,150.0,,0,0,,Anil Kumble,,,Nottinghamshire,Notts,138.0,3,100.0
+254572,2006,116040,16.0,4.0,0.0,0.0,,David Hussey,39,26,150.0,,0,0,,Anil Kumble,,,Nottinghamshire,Notts,138.0,3,99.0
+254572,2006,116030,16.0,3.0,1.0,0.0,,Chris Read,8,7,114.29,,0,0,,Anil Kumble,,,Nottinghamshire,Notts,137.0,3,98.0
+254572,2006,116020,16.0,2.0,0.0,0.0,,Chris Read,8,7,114.29,,0,0,,Anil Kumble,,,Nottinghamshire,Notts,137.0,3,97.0
+254572,2006,116010,16.0,1.0,1.0,0.0,,David Hussey,39,26,150.0,,0,0,,Anil Kumble,,,Nottinghamshire,Notts,136.0,3,96.0
+254572,2006,115060,15.0,6.0,2.0,0.0,,Chris Read,8,7,114.29,David Hussey,39,26,150.0,Nayan Doshi,,,Nottinghamshire,Notts,134.0,3,95.0
+254572,2006,115050,15.0,5.0,0.0,0.0,,Chris Read,5,4,125.0,,0,0,,Nayan Doshi,,,Nottinghamshire,Notts,134.0,3,94.0
+254572,2006,219010,19.0,1.0,0.0,0.0,,Nayan Doshi,1,2,50.0,Jonathan Batty,58,42,138.1,Mark Ealham,ND Doshi,ND Doshi c Smith b Ealham 1 (2m 2b 0x4 0x6) SR: 50.00,Surrey,Surr,133.0,9,114.0
+254572,2006,218070,18.0,6.0,0.0,0.0,,Jonathan Batty,58,42,138.1,Nayan Doshi,1,1,100.0,Paul Franks,,,Surrey,Surr,133.0,9,113.0
+254572,2006,218060,18.0,5.0,1.0,0.0,,Nayan Doshi,0,0,,,0,0,,Paul Franks,,,Surrey,Surr,131.0,9,112.0
+254572,2006,218050,18.0,5.0,0.0,0.0,,Nayan Doshi,0,0,,,0,0,,Paul Franks,,,Surrey,Surr,131.0,9,112.0
+254572,2006,218040,18.0,4.0,0.0,0.0,,Anil Kumble,6,6,100.0,Jonathan Batty,58,41,141.46,Paul Franks,A Kumble,A Kumble  b Franks 8 (10m 7b 0x4 0x6) SR: 114.28,Surrey,Surr,131.0,8,111.0
+254572,2006,218030,18.0,3.0,2.0,0.0,,Anil Kumble,6,5,120.0,,0,0,,Paul Franks,,,Surrey,Surr,129.0,8,110.0
+254572,2006,218020,18.0,2.0,1.0,0.0,,Jonathan Batty,53,39,135.9,,0,0,,Paul Franks,,,Surrey,Surr,128.0,8,109.0
+254572,2006,218010,18.0,1.0,4.0,0.0,,Jonathan Batty,53,39,135.9,,0,0,,Paul Franks,,,Surrey,Surr,124.0,8,108.0
+254572,2006,217070,17.0,6.0,1.0,0.0,,Jonathan Batty,53,39,135.9,Anil Kumble,6,5,120.0,Gareth Clough,,,Surrey,Surr,123.0,8,107.0
+254572,2006,217060,17.0,5.0,2.0,0.0,,Jonathan Batty,43,32,134.38,,0,0,,Gareth Clough,,,Surrey,Surr,121.0,8,106.0
+254572,2006,217050,17.0,5.0,1.0,1.0,nb,Jonathan Batty,43,32,134.38,,0,0,,Gareth Clough,,,Surrey,Surr,119.0,8,106.0
+254572,2006,217040,17.0,4.0,4.0,0.0,,Jonathan Batty,43,32,134.38,,0,0,,Gareth Clough,,,Surrey,Surr,115.0,8,105.0
+254572,2006,217030,17.0,3.0,1.0,0.0,,Anil Kumble,5,4,125.0,,0,0,,Gareth Clough,,,Surrey,Surr,114.0,8,104.0
+254572,2006,217020,17.0,2.0,1.0,0.0,,Jonathan Batty,43,32,134.38,,0,0,,Gareth Clough,,,Surrey,Surr,113.0,8,103.0
+254572,2006,217010,17.0,1.0,2.0,0.0,,Jonathan Batty,43,32,134.38,,0,0,,Gareth Clough,,,Surrey,Surr,111.0,8,102.0
+254572,2006,216070,16.0,6.0,1.0,0.0,,Jonathan Batty,43,32,134.38,Anil Kumble,5,4,125.0,Paul Franks,,,Surrey,Surr,110.0,8,101.0
+254572,2006,216060,16.0,5.0,4.0,0.0,,Jonathan Batty,37,29,127.59,,0,0,,Paul Franks,,,Surrey,Surr,105.0,8,100.0
+254572,2006,216050,16.0,4.0,1.0,0.0,,Anil Kumble,1,1,100.0,,0,0,,Paul Franks,,,Surrey,Surr,104.0,8,99.0
+254572,2006,216040,16.0,3.0,2.0,0.0,,Anil Kumble,1,1,100.0,,0,0,,Paul Franks,,,Surrey,Surr,102.0,8,98.0
+254572,2006,23060,3.0,6.0,0.0,0.0,,Rikki Clarke,1,4,25.0,Mark Ramprakash,2,6,33.33,Charlie Shreck,R Clarke,R Clarke  b Shreck 5 (5m 7b 0x4 0x6) SR: 71.42,Surrey,Surr,16.0,3,23.0
+254572,2006,23050,3.0,5.0,0.0,1.0,lb,Mark Ramprakash,1,3,33.33,,0,0,,Charlie Shreck,,,Surrey,Surr,15.0,3,22.0
+254572,2006,23040,3.0,4.0,0.0,0.0,,Mark Ramprakash,1,3,33.33,,0,0,,Charlie Shreck,,,Surrey,Surr,15.0,3,21.0
+254572,2006,23030,3.0,3.0,3.0,0.0,,Rikki Clarke,1,4,25.0,,0,0,,Charlie Shreck,,,Surrey,Surr,12.0,3,20.0
+254572,2006,23020,3.0,2.0,1.0,0.0,,Mark Ramprakash,1,3,33.33,,0,0,,Charlie Shreck,,,Surrey,Surr,11.0,3,19.0
+254572,2006,23010,3.0,1.0,1.0,0.0,,Rikki Clarke,1,4,25.0,,0,0,,Charlie Shreck,,,Surrey,Surr,10.0,3,18.0
+254572,2006,22060,2.0,6.0,1.0,0.0,,Rikki Clarke,1,4,25.0,Mark Ramprakash,1,3,33.33,Ryan Sidebottom,,,Surrey,Surr,9.0,3,17.0
+254572,2006,22050,2.0,5.0,0.0,0.0,,Rikki Clarke,0,0,,,0,0,,Ryan Sidebottom,,,Surrey,Surr,9.0,3,16.0
+254572,2006,22040,2.0,4.0,0.0,0.0,,Rikki Clarke,0,0,,,0,0,,Ryan Sidebottom,,,Surrey,Surr,9.0,3,15.0
+254572,2006,22030,2.0,3.0,0.0,0.0,,Rikki Clarke,0,0,,,0,0,,Ryan Sidebottom,,,Surrey,Surr,9.0,3,14.0
+254572,2006,22020,2.0,2.0,0.0,0.0,,Mark Ramprakash,1,1,100.0,Mark Butcher,1,2,50.0,Ryan Sidebottom,MA Butcher,MA Butcher run out (Smith) 1 (4m 1b 0x4 0x6) SR: 100.00,Surrey,Surr,9.0,2,13.0
+254572,2006,22010,2.0,1.0,0.0,0.0,,Mark Ramprakash,1,1,100.0,,0,0,,Ryan Sidebottom,,,Surrey,Surr,9.0,2,12.0
+254572,2006,21070,1.0,6.0,1.0,0.0,,Mark Ramprakash,1,1,100.0,Mark Butcher,1,1,100.0,Charlie Shreck,,,Surrey,Surr,8.0,2,11.0
+254572,2006,21060,1.0,5.0,1.0,0.0,,Mark Butcher,0,0,,,0,0,,Charlie Shreck,,,Surrey,Surr,6.0,2,10.0
+254572,2006,21050,1.0,5.0,0.0,0.0,,Mark Butcher,0,0,,,0,0,,Charlie Shreck,,,Surrey,Surr,6.0,2,10.0
+254572,2006,21040,1.0,4.0,0.0,0.0,,James Benning,0,6,0.0,Mark Ramprakash,0,0,,Charlie Shreck,JGE Benning,JGE Benning  b Shreck 0 (7m 7b 0x4 0x6) SR: 0.00,Surrey,Surr,6.0,1,9.0
+254572,2006,21030,1.0,3.0,0.0,0.0,,James Benning,0,5,0.0,,0,0,,Charlie Shreck,,,Surrey,Surr,6.0,1,8.0
+254572,2006,21020,1.0,2.0,0.0,0.0,,Ali Brown,1,2,50.0,James Benning,0,5,0.0,Charlie Shreck,AD Brown,AD Brown c Smith b Shreck 5 (5m 3b 1x4 0x6) SR: 166.66,Surrey,Surr,6.0,0,7.0
+254572,2006,21010,1.0,1.0,4.0,0.0,,Ali Brown,1,1,100.0,,0,0,,Charlie Shreck,,,Surrey,Surr,2.0,0,6.0
+254572,2006,260,0.0,6.0,1.0,0.0,,Ali Brown,1,1,100.0,James Benning,0,5,0.0,Ryan Sidebottom,,,Surrey,Surr,1.0,0,5.0
+254572,2006,250,0.0,5.0,0.0,1.0,lb,James Benning,0,0,,,0,0,,Ryan Sidebottom,,,Surrey,Surr,0.0,0,4.0
+254572,2006,240,0.0,4.0,0.0,0.0,,James Benning,0,0,,,0,0,,Ryan Sidebottom,,,Surrey,Surr,0.0,0,3.0
+254572,2006,230,0.0,3.0,0.0,0.0,,James Benning,0,0,,,0,0,,Ryan Sidebottom,,,Surrey,Surr,0.0,0,2.0
+254572,2006,220,0.0,2.0,0.0,0.0,,James Benning,0,0,,,0,0,,Ryan Sidebottom,,,Surrey,Surr,0.0,0,1.0
+254572,2006,210,0.0,1.0,0.0,0.0,,James Benning,0,0,,,0,0,,Ryan Sidebottom,,,Surrey,Surr,0.0,0,0.0
+254572,2006,28010,8.0,1.0,2.0,0.0,,Mark Ramprakash,17,22,77.27,,0,0,,Graeme Swann,,,Surrey,Surr,42.0,4,48.0
+254572,2006,27060,7.0,6.0,1.0,0.0,,Mark Ramprakash,17,22,77.27,Azhar Mahmood,11,8,137.5,Charlie Shreck,,,Surrey,Surr,41.0,4,47.0
+254572,2006,27050,7.0,5.0,4.0,0.0,,Mark Ramprakash,6,17,35.29,,0,0,,Charlie Shreck,,,Surrey,Surr,37.0,4,46.0
+254572,2006,27040,7.0,4.0,0.0,0.0,,Mark Ramprakash,6,17,35.29,,0,0,,Charlie Shreck,,,Surrey,Surr,37.0,4,45.0
+254572,2006,27030,7.0,3.0,0.0,0.0,,Mark Ramprakash,6,17,35.29,,0,0,,Charlie Shreck,,,Surrey,Surr,37.0,4,44.0
+254572,2006,27020,7.0,2.0,6.0,0.0,,Mark Ramprakash,6,17,35.29,,0,0,,Charlie Shreck,,,Surrey,Surr,31.0,4,43.0
+254572,2006,27010,7.0,1.0,1.0,0.0,,Azhar Mahmood,10,7,142.86,,0,0,,Charlie Shreck,,,Surrey,Surr,30.0,4,42.0
+254572,2006,26060,6.0,6.0,1.0,0.0,,Azhar Mahmood,10,7,142.86,Mark Ramprakash,6,17,35.29,Ryan Sidebottom,,,Surrey,Surr,29.0,4,41.0
+254572,2006,26050,6.0,5.0,1.0,0.0,,Mark Ramprakash,4,13,30.77,,0,0,,Ryan Sidebottom,,,Surrey,Surr,28.0,4,40.0
+254572,2006,26040,6.0,4.0,0.0,0.0,,Mark Ramprakash,4,13,30.77,,0,0,,Ryan Sidebottom,,,Surrey,Surr,28.0,4,39.0
+254572,2006,26030,6.0,3.0,0.0,0.0,,Mark Ramprakash,4,13,30.77,,0,0,,Ryan Sidebottom,,,Surrey,Surr,28.0,4,38.0
+254572,2006,26020,6.0,2.0,1.0,0.0,,Azhar Mahmood,8,5,160.0,,0,0,,Ryan Sidebottom,,,Surrey,Surr,27.0,4,37.0
+254572,2006,26010,6.0,1.0,1.0,0.0,,Mark Ramprakash,4,13,30.77,,0,0,,Ryan Sidebottom,,,Surrey,Surr,26.0,4,36.0
+254572,2006,25060,5.0,6.0,0.0,0.0,,Azhar Mahmood,8,5,160.0,Mark Ramprakash,4,13,30.77,Charlie Shreck,,,Surrey,Surr,26.0,4,35.0
+254572,2006,25050,5.0,5.0,0.0,0.0,,Azhar Mahmood,0,0,,,0,0,,Charlie Shreck,,,Surrey,Surr,26.0,4,34.0
+254572,2006,25040,5.0,4.0,4.0,0.0,,Azhar Mahmood,0,0,,,0,0,,Charlie Shreck,,,Surrey,Surr,22.0,4,33.0
+254572,2006,25030,5.0,3.0,4.0,0.0,,Azhar Mahmood,0,0,,,0,0,,Charlie Shreck,,,Surrey,Surr,18.0,4,32.0
+254572,2006,25020,5.0,2.0,0.0,0.0,,Azhar Mahmood,0,0,,,0,0,,Charlie Shreck,,,Surrey,Surr,18.0,4,31.0
+254572,2006,25010,5.0,1.0,1.0,0.0,,Mark Ramprakash,3,12,25.0,,0,0,,Charlie Shreck,,,Surrey,Surr,17.0,4,30.0
+254572,2006,24060,4.0,6.0,1.0,0.0,,Mark Ramprakash,3,12,25.0,Azhar Mahmood,0,0,,Ryan Sidebottom,,,Surrey,Surr,16.0,4,29.0
+254572,2006,24050,4.0,5.0,0.0,0.0,,Mark Ramprakash,2,6,33.33,,0,0,,Ryan Sidebottom,,,Surrey,Surr,16.0,4,28.0
+254572,2006,24040,4.0,4.0,0.0,0.0,,Mark Ramprakash,2,6,33.33,,0,0,,Ryan Sidebottom,,,Surrey,Surr,16.0,4,27.0
+254572,2006,24030,4.0,3.0,0.0,0.0,,Mark Ramprakash,2,6,33.33,,0,0,,Ryan Sidebottom,,,Surrey,Surr,16.0,4,26.0
+254572,2006,24020,4.0,2.0,0.0,0.0,,Mark Ramprakash,2,6,33.33,,0,0,,Ryan Sidebottom,,,Surrey,Surr,16.0,4,25.0
+254572,2006,24010,4.0,1.0,0.0,0.0,,Mark Ramprakash,2,6,33.33,,0,0,,Ryan Sidebottom,,,Surrey,Surr,16.0,4,24.0
+254572,2006,212020,12.0,2.0,0.0,0.0,,Jonathan Batty,17,13,130.77,,0,0,,Graeme Swann,,,Surrey,Surr,75.0,6,73.0
+254572,2006,212010,12.0,1.0,1.0,0.0,,Tim Murtagh,2,4,50.0,,0,0,,Graeme Swann,,,Surrey,Surr,74.0,6,72.0
+254572,2006,211060,11.0,6.0,1.0,0.0,,Tim Murtagh,2,4,50.0,Jonathan Batty,17,13,130.77,Mark Ealham,,,Surrey,Surr,73.0,6,71.0
+254572,2006,211050,11.0,5.0,1.0,0.0,,Jonathan Batty,8,9,88.89,,0,0,,Mark Ealham,,,Surrey,Surr,72.0,6,70.0
+254572,2006,211040,11.0,4.0,4.0,0.0,,Jonathan Batty,8,9,88.89,,0,0,,Mark Ealham,,,Surrey,Surr,68.0,6,69.0
+254572,2006,211030,11.0,3.0,0.0,0.0,,Jonathan Batty,8,9,88.89,,0,0,,Mark Ealham,,,Surrey,Surr,68.0,6,68.0
+254572,2006,211020,11.0,2.0,4.0,0.0,,Jonathan Batty,8,9,88.89,,0,0,,Mark Ealham,,,Surrey,Surr,64.0,6,67.0
+254572,2006,211010,11.0,1.0,0.0,1.0,lb,Tim Murtagh,1,2,50.0,,0,0,,Mark Ealham,,,Surrey,Surr,63.0,6,66.0
+254572,2006,210060,10.0,6.0,0.0,0.0,,Jonathan Batty,8,9,88.89,Tim Murtagh,1,2,50.0,Graeme Swann,,,Surrey,Surr,63.0,6,65.0
+254572,2006,210050,10.0,5.0,4.0,0.0,,Jonathan Batty,4,6,66.67,,0,0,,Graeme Swann,,,Surrey,Surr,59.0,6,64.0
+254572,2006,210040,10.0,4.0,0.0,0.0,,Jonathan Batty,4,6,66.67,,0,0,,Graeme Swann,,,Surrey,Surr,59.0,6,63.0
+254572,2006,210030,10.0,3.0,1.0,0.0,,Tim Murtagh,0,0,,,0,0,,Graeme Swann,,,Surrey,Surr,58.0,6,62.0
+254572,2006,210020,10.0,2.0,0.0,0.0,,Tim Murtagh,0,0,,,0,0,,Graeme Swann,,,Surrey,Surr,58.0,6,61.0
+254572,2006,210010,10.0,1.0,0.0,0.0,,Azhar Mahmood,21,13,161.54,Jonathan Batty,4,6,66.67,Graeme Swann,Azhar Mahmood,Azhar Mahmood c Smith b Swann 21 (25m 13b 3x4 1x6) SR: 161.53,Surrey,Surr,58.0,5,60.0
+254572,2006,29060,9.0,6.0,4.0,0.0,,Jonathan Batty,4,6,66.67,Azhar Mahmood,21,12,175.0,Mark Ealham,,,Surrey,Surr,54.0,5,59.0
+254572,2006,29050,9.0,5.0,0.0,0.0,,Jonathan Batty,0,0,,,0,0,,Mark Ealham,,,Surrey,Surr,54.0,5,58.0
+254572,2006,29040,9.0,4.0,0.0,0.0,,Jonathan Batty,0,0,,,0,0,,Mark Ealham,,,Surrey,Surr,54.0,5,57.0
+254572,2006,29030,9.0,3.0,0.0,0.0,,Jonathan Batty,0,0,,,0,0,,Mark Ealham,,,Surrey,Surr,54.0,5,56.0
+254572,2006,29020,9.0,2.0,0.0,0.0,,Jonathan Batty,0,0,,,0,0,,Mark Ealham,,,Surrey,Surr,54.0,5,55.0
+254572,2006,29010,9.0,1.0,0.0,0.0,,Jonathan Batty,0,0,,,0,0,,Mark Ealham,,,Surrey,Surr,54.0,5,54.0
+254572,2006,28060,8.0,6.0,0.0,0.0,,Azhar Mahmood,21,12,175.0,Jonathan Batty,0,0,,Graeme Swann,,,Surrey,Surr,54.0,5,53.0
+254572,2006,28050,8.0,5.0,0.0,0.0,,Azhar Mahmood,11,8,137.5,,0,0,,Graeme Swann,,,Surrey,Surr,54.0,5,52.0
+254572,2006,28040,8.0,4.0,4.0,0.0,,Azhar Mahmood,11,8,137.5,,0,0,,Graeme Swann,,,Surrey,Surr,50.0,5,51.0
+254572,2006,28030,8.0,3.0,6.0,0.0,,Azhar Mahmood,11,8,137.5,,0,0,,Graeme Swann,,,Surrey,Surr,44.0,5,50.0
+254572,2006,28020,8.0,2.0,0.0,0.0,,Mark Ramprakash,17,23,73.91,,0,0,,Graeme Swann,MR Ramprakash,MR Ramprakash run out (Ealham) 19 (32m 24b 1x4 1x6) SR: 79.16,Surrey,Surr,44.0,4,49.0
+254572,2006,216030,16.0,2.0,1.0,0.0,,Jonathan Batty,37,29,127.59,,0,0,,Paul Franks,,,Surrey,Surr,101.0,8,97.0
+254572,2006,216020,16.0,1.0,1.0,0.0,,Anil Kumble,1,1,100.0,,0,0,,Paul Franks,,,Surrey,Surr,100.0,8,96.0
+254572,2006,216010,16.0,1.0,0.0,0.0,,Anil Kumble,1,1,100.0,,0,0,,Paul Franks,,,Surrey,Surr,100.0,8,96.0
+254572,2006,215060,15.0,6.0,2.0,0.0,,Jonathan Batty,37,29,127.59,Anil Kumble,1,1,100.0,Gareth Clough,,,Surrey,Surr,98.0,8,95.0
+254572,2006,215050,15.0,5.0,0.0,0.0,,Jonathan Batty,35,27,129.63,,0,0,,Gareth Clough,,,Surrey,Surr,98.0,8,94.0
+254572,2006,215040,15.0,4.0,1.0,0.0,,Anil Kumble,0,0,,,0,0,,Gareth Clough,,,Surrey,Surr,97.0,8,93.0
+254572,2006,215030,15.0,3.0,0.0,0.0,,Ian Salisbury,0,1,0.0,Jonathan Batty,35,27,129.63,Gareth Clough,IDK Salisbury,IDK Salisbury  b Clough 0 (1m 1b 0x4 0x6) SR: 0.00,Surrey,Surr,97.0,7,92.0
+254572,2006,215020,15.0,2.0,0.0,0.0,,Tim Murtagh,7,10,70.0,Jonathan Batty,35,27,129.63,Gareth Clough,TJ Murtagh,TJ Murtagh c Smith b Clough 7 (18m 9b 0x4 0x6) SR: 77.77,Surrey,Surr,97.0,6,91.0
+254572,2006,215010,15.0,1.0,1.0,0.0,,Jonathan Batty,34,26,130.77,,0,0,,Gareth Clough,,,Surrey,Surr,96.0,6,90.0
+254572,2006,214060,14.0,6.0,1.0,0.0,,Jonathan Batty,34,26,130.77,Tim Murtagh,7,9,77.78,Graeme Swann,,,Surrey,Surr,95.0,6,89.0
+254572,2006,214050,14.0,5.0,2.0,0.0,,Jonathan Batty,25,21,119.05,,0,0,,Graeme Swann,,,Surrey,Surr,93.0,6,88.0
+254572,2006,214040,14.0,4.0,4.0,0.0,,Jonathan Batty,25,21,119.05,,0,0,,Graeme Swann,,,Surrey,Surr,89.0,6,87.0
+254572,2006,214030,14.0,3.0,0.0,0.0,,Jonathan Batty,25,21,119.05,,0,0,,Graeme Swann,,,Surrey,Surr,89.0,6,86.0
+254572,2006,214020,14.0,2.0,2.0,0.0,,Jonathan Batty,25,21,119.05,,0,0,,Graeme Swann,,,Surrey,Surr,87.0,6,85.0
+254572,2006,214010,14.0,1.0,1.0,0.0,,Tim Murtagh,6,8,75.0,,0,0,,Graeme Swann,,,Surrey,Surr,86.0,6,84.0
+254572,2006,213060,13.0,6.0,0.0,0.0,,Jonathan Batty,25,21,119.05,Tim Murtagh,6,8,75.0,Mark Ealham,,,Surrey,Surr,86.0,6,83.0
+254572,2006,213050,13.0,5.0,1.0,0.0,,Tim Murtagh,4,6,66.67,,0,0,,Mark Ealham,,,Surrey,Surr,85.0,6,82.0
+254572,2006,213040,13.0,4.0,1.0,0.0,,Jonathan Batty,19,17,111.76,,0,0,,Mark Ealham,,,Surrey,Surr,84.0,6,81.0
+254572,2006,213030,13.0,3.0,1.0,0.0,,Tim Murtagh,4,6,66.67,,0,0,,Mark Ealham,,,Surrey,Surr,83.0,6,80.0
+254572,2006,213020,13.0,2.0,1.0,0.0,,Jonathan Batty,19,17,111.76,,0,0,,Mark Ealham,,,Surrey,Surr,82.0,6,79.0
+254572,2006,213010,13.0,1.0,4.0,0.0,,Jonathan Batty,19,17,111.76,,0,0,,Mark Ealham,,,Surrey,Surr,78.0,6,78.0
+254572,2006,212060,12.0,6.0,1.0,0.0,,Jonathan Batty,19,17,111.76,Tim Murtagh,4,6,66.67,Graeme Swann,,,Surrey,Surr,77.0,6,77.0
+254572,2006,212050,12.0,5.0,1.0,0.0,,Tim Murtagh,2,4,50.0,,0,0,,Graeme Swann,,,Surrey,Surr,76.0,6,76.0
+254572,2006,212040,12.0,4.0,1.0,0.0,,Jonathan Batty,17,13,130.77,,0,0,,Graeme Swann,,,Surrey,Surr,75.0,6,75.0
+254572,2006,212030,12.0,3.0,0.0,0.0,,Jonathan Batty,17,13,130.77,,0,0,,Graeme Swann,,,Surrey,Surr,75.0,6,74.0
+254573,2006,119060,19.0,6.0,0.0,0.0,,Jeremy Snape,9,3,300.0,Paul Nixon,57,33,172.73,Andy Bichel,JN Snape,JN Snape lbw b Bichel 10 (6m 5b 2x4 0x6) SR: 200.00,Leicestershire,Leics,173.0,3,119.0
+254573,2006,119050,19.0,5.0,1.0,0.0,,Paul Nixon,50,29,172.41,,0,0,,Andy Bichel,,,Leicestershire,Leics,172.0,3,118.0
+254573,2006,119040,19.0,4.0,2.0,0.0,,Paul Nixon,50,29,172.41,,0,0,,Andy Bichel,,,Leicestershire,Leics,170.0,3,117.0
+254573,2006,119030,19.0,3.0,0.0,0.0,,Paul Nixon,50,29,172.41,,0,0,,Andy Bichel,,,Leicestershire,Leics,170.0,3,116.0
+254573,2006,119020,19.0,2.0,4.0,0.0,,Paul Nixon,50,29,172.41,,0,0,,Andy Bichel,,,Leicestershire,Leics,166.0,3,115.0
+254573,2006,119010,19.0,1.0,1.0,0.0,,Jeremy Snape,9,3,300.0,,0,0,,Andy Bichel,,,Leicestershire,Leics,165.0,3,114.0
+254573,2006,118060,18.0,6.0,6.0,0.0,,Paul Nixon,50,29,172.41,Jeremy Snape,9,3,300.0,Darren Gough,,,Leicestershire,Leics,159.0,3,113.0
+254573,2006,118050,18.0,5.0,1.0,0.0,,Jeremy Snape,0,0,,,0,0,,Darren Gough,,,Leicestershire,Leics,158.0,2,112.0
+254573,2006,118040,18.0,4.0,4.0,0.0,,Jeremy Snape,0,0,,,0,0,,Darren Gough,,,Leicestershire,Leics,154.0,2,111.0
+254573,2006,118030,18.0,3.0,4.0,0.0,,Jeremy Snape,0,0,,,0,0,,Darren Gough,,,Leicestershire,Leics,150.0,2,110.0
+254573,2006,118020,18.0,2.0,1.0,0.0,,Paul Nixon,41,26,157.69,,0,0,,Darren Gough,,,Leicestershire,Leics,149.0,2,109.0
+254573,2006,118010,18.0,1.0,2.0,0.0,,Paul Nixon,41,26,157.69,,0,0,,Darren Gough,,,Leicestershire,Leics,147.0,2,108.0
+254573,2006,117070,17.0,6.0,0.0,0.0,,Paul Nixon,41,26,157.69,HD Ackerman,64,49,130.61,Ravi Bopara,HD Ackerman,HD Ackerman run out (Middlebrook) 64 (65m 49b 6x4 1x6) SR: 130.61,Leicestershire,Leics,147.0,1,107.0
+254573,2006,117060,17.0,5.0,1.0,0.0,,HD Ackerman,52,45,115.56,,0,0,,Ravi Bopara,,,Leicestershire,Leics,145.0,2,106.0
+254573,2006,117050,17.0,4.0,4.0,0.0,,HD Ackerman,52,45,115.56,,0,0,,Ravi Bopara,,,Leicestershire,Leics,141.0,2,105.0
+254573,2006,117040,17.0,4.0,0.0,0.0,,HD Ackerman,52,45,115.56,,0,0,,Ravi Bopara,,,Leicestershire,Leics,141.0,2,105.0
+254573,2006,117030,17.0,3.0,1.0,0.0,,Paul Nixon,40,24,166.67,,0,0,,Ravi Bopara,,,Leicestershire,Leics,140.0,2,104.0
+254573,2006,117020,17.0,2.0,1.0,0.0,,HD Ackerman,52,45,115.56,,0,0,,Ravi Bopara,,,Leicestershire,Leics,139.0,2,103.0
+254573,2006,117010,17.0,1.0,6.0,0.0,,HD Ackerman,52,45,115.56,,0,0,,Ravi Bopara,,,Leicestershire,Leics,133.0,2,102.0
+254573,2006,116060,16.0,6.0,1.0,0.0,,HD Ackerman,52,45,115.56,Paul Nixon,40,24,166.67,Darren Gough,,,Leicestershire,Leics,132.0,2,101.0
+254573,2006,116050,16.0,5.0,1.0,0.0,,Paul Nixon,35,20,175.0,,0,0,,Darren Gough,,,Leicestershire,Leics,131.0,2,100.0
+254573,2006,116040,16.0,4.0,2.0,0.0,,Paul Nixon,35,20,175.0,,0,0,,Darren Gough,,,Leicestershire,Leics,129.0,2,99.0
+254573,2006,13060,3.0,6.0,1.0,0.0,,Darren Maddy,10,13,76.92,HD Ackerman,6,11,54.55,Andy Bichel,,,Leicestershire,Leics,17.0,0,23.0
+254573,2006,13050,3.0,5.0,0.0,0.0,,Darren Maddy,8,10,80.0,,0,0,,Andy Bichel,,,Leicestershire,Leics,17.0,0,22.0
+254573,2006,13040,3.0,4.0,1.0,0.0,,HD Ackerman,5,8,62.5,,0,0,,Andy Bichel,,,Leicestershire,Leics,16.0,0,21.0
+254573,2006,13030,3.0,3.0,1.0,0.0,,Darren Maddy,8,10,80.0,,0,0,,Andy Bichel,,,Leicestershire,Leics,15.0,0,20.0
+254573,2006,13020,3.0,2.0,0.0,1.0,lb,HD Ackerman,5,8,62.5,,0,0,,Andy Bichel,,,Leicestershire,Leics,14.0,0,19.0
+254573,2006,13010,3.0,1.0,0.0,0.0,,HD Ackerman,5,8,62.5,,0,0,,Andy Bichel,,,Leicestershire,Leics,14.0,0,18.0
+254573,2006,12060,2.0,6.0,1.0,0.0,,HD Ackerman,5,8,62.5,Darren Maddy,8,10,80.0,Darren Gough,,,Leicestershire,Leics,13.0,0,17.0
+254573,2006,12050,2.0,5.0,1.0,0.0,,Darren Maddy,6,6,100.0,,0,0,,Darren Gough,,,Leicestershire,Leics,12.0,0,16.0
+254573,2006,12040,2.0,4.0,1.0,0.0,,HD Ackerman,3,6,50.0,,0,0,,Darren Gough,,,Leicestershire,Leics,11.0,0,15.0
+254573,2006,12030,2.0,3.0,1.0,0.0,,Darren Maddy,6,6,100.0,,0,0,,Darren Gough,,,Leicestershire,Leics,10.0,0,14.0
+254573,2006,12020,2.0,2.0,0.0,0.0,,Darren Maddy,6,6,100.0,,0,0,,Darren Gough,,,Leicestershire,Leics,10.0,0,13.0
+254573,2006,12010,2.0,1.0,0.0,0.0,,Darren Maddy,6,6,100.0,,0,0,,Darren Gough,,,Leicestershire,Leics,10.0,0,12.0
+254573,2006,11060,1.0,6.0,1.0,0.0,,Darren Maddy,6,6,100.0,HD Ackerman,3,6,50.0,Andy Bichel,,,Leicestershire,Leics,9.0,0,11.0
+254573,2006,11050,1.0,5.0,1.0,0.0,,HD Ackerman,1,4,25.0,,0,0,,Andy Bichel,,,Leicestershire,Leics,8.0,0,10.0
+254573,2006,11040,1.0,4.0,1.0,0.0,,Darren Maddy,0,2,0.0,,0,0,,Andy Bichel,,,Leicestershire,Leics,7.0,0,9.0
+254573,2006,11030,1.0,3.0,0.0,0.0,,Darren Maddy,0,2,0.0,,0,0,,Andy Bichel,,,Leicestershire,Leics,7.0,0,8.0
+254573,2006,11020,1.0,2.0,4.0,0.0,,Darren Maddy,0,2,0.0,,0,0,,Andy Bichel,,,Leicestershire,Leics,3.0,0,7.0
+254573,2006,11010,1.0,1.0,1.0,0.0,,HD Ackerman,1,4,25.0,,0,0,,Andy Bichel,,,Leicestershire,Leics,2.0,0,6.0
+254573,2006,170,0.0,6.0,0.0,0.0,,Darren Maddy,0,2,0.0,HD Ackerman,1,4,25.0,Darren Gough,,,Leicestershire,Leics,2.0,0,5.0
+254573,2006,160,0.0,5.0,0.0,0.0,,Darren Maddy,0,0,,,0,0,,Darren Gough,,,Leicestershire,Leics,1.0,0,4.0
+254573,2006,150,0.0,4.0,1.0,0.0,,HD Ackerman,0,0,,,0,0,,Darren Gough,,,Leicestershire,Leics,0.0,0,3.0
+254573,2006,140,0.0,3.0,0.0,0.0,,HD Ackerman,0,0,,,0,0,,Darren Gough,,,Leicestershire,Leics,0.0,0,2.0
+254573,2006,130,0.0,2.0,0.0,0.0,,HD Ackerman,0,0,,,0,0,,Darren Gough,,,Leicestershire,Leics,0.0,0,1.0
+254573,2006,120,0.0,1.0,0.0,0.0,,HD Ackerman,0,0,,,0,0,,Darren Gough,,,Leicestershire,Leics,0.0,0,0.0
+254573,2006,110,0.0,1.0,0.0,0.0,,HD Ackerman,0,0,,,0,0,,Darren Gough,,,Leicestershire,Leics,0.0,0,0.0
+254573,2006,18010,8.0,1.0,1.0,0.0,,Jim Allenby,6,4,150.0,,0,0,,Graham Napier,,,Leicestershire,Leics,56.0,1,48.0
+254573,2006,17060,7.0,6.0,4.0,0.0,,HD Ackerman,25,22,113.64,Jim Allenby,6,4,150.0,Ravi Bopara,,,Leicestershire,Leics,52.0,1,47.0
+254573,2006,17050,7.0,5.0,2.0,0.0,,HD Ackerman,19,19,100.0,,0,0,,Ravi Bopara,,,Leicestershire,Leics,50.0,1,46.0
+254573,2006,17040,7.0,4.0,0.0,0.0,,HD Ackerman,19,19,100.0,,0,0,,Ravi Bopara,,,Leicestershire,Leics,50.0,1,45.0
+254573,2006,17030,7.0,3.0,1.0,0.0,,Jim Allenby,1,1,100.0,,0,0,,Ravi Bopara,,,Leicestershire,Leics,49.0,1,44.0
+254573,2006,17020,7.0,2.0,4.0,0.0,,Jim Allenby,1,1,100.0,,0,0,,Ravi Bopara,,,Leicestershire,Leics,45.0,1,43.0
+254573,2006,17010,7.0,1.0,0.0,2.0,lb,Jim Allenby,1,1,100.0,,0,0,,Ravi Bopara,,,Leicestershire,Leics,43.0,1,42.0
+254573,2006,16060,6.0,6.0,1.0,0.0,,Jim Allenby,1,1,100.0,HD Ackerman,19,19,100.0,Graham Napier,,,Leicestershire,Leics,42.0,1,41.0
+254573,2006,16050,6.0,5.0,0.0,0.0,,Darren Maddy,17,20,85.0,HD Ackerman,19,19,100.0,Graham Napier,DL Maddy,DL Maddy c Irani b Napier 21 (26m 22b 2x4 0x6) SR: 95.45,Leicestershire,Leics,42.0,0,40.0
+254573,2006,16040,6.0,4.0,1.0,0.0,,HD Ackerman,17,17,100.0,,0,0,,Graham Napier,,,Leicestershire,Leics,41.0,0,39.0
+254573,2006,16030,6.0,3.0,3.0,0.0,,Darren Maddy,17,19,89.47,,0,0,,Graham Napier,,,Leicestershire,Leics,38.0,0,38.0
+254573,2006,16020,6.0,2.0,1.0,0.0,,HD Ackerman,17,17,100.0,,0,0,,Graham Napier,,,Leicestershire,Leics,37.0,0,37.0
+254573,2006,16010,6.0,1.0,1.0,0.0,,Darren Maddy,17,19,89.47,,0,0,,Graham Napier,,,Leicestershire,Leics,36.0,0,36.0
+254573,2006,15060,5.0,6.0,2.0,0.0,,HD Ackerman,17,17,100.0,Darren Maddy,17,19,89.47,Andy Bichel,,,Leicestershire,Leics,34.0,0,35.0
+254573,2006,15050,5.0,5.0,1.0,0.0,,Darren Maddy,11,15,73.33,,0,0,,Andy Bichel,,,Leicestershire,Leics,33.0,0,34.0
+254573,2006,15040,5.0,4.0,0.0,0.0,,Darren Maddy,11,15,73.33,,0,0,,Andy Bichel,,,Leicestershire,Leics,33.0,0,33.0
+254573,2006,15030,5.0,3.0,4.0,0.0,,Darren Maddy,11,15,73.33,,0,0,,Andy Bichel,,,Leicestershire,Leics,29.0,0,32.0
+254573,2006,15020,5.0,2.0,1.0,0.0,,HD Ackerman,14,15,93.33,,0,0,,Andy Bichel,,,Leicestershire,Leics,28.0,0,31.0
+254573,2006,15010,5.0,1.0,1.0,0.0,,Darren Maddy,11,15,73.33,,0,0,,Andy Bichel,,,Leicestershire,Leics,27.0,0,30.0
+254573,2006,14060,4.0,6.0,4.0,0.0,,HD Ackerman,14,15,93.33,Darren Maddy,11,15,73.33,Graham Napier,,,Leicestershire,Leics,23.0,0,29.0
+254573,2006,14050,4.0,5.0,4.0,0.0,,HD Ackerman,6,11,54.55,,0,0,,Graham Napier,,,Leicestershire,Leics,19.0,0,28.0
+254573,2006,14040,4.0,4.0,0.0,0.0,,HD Ackerman,6,11,54.55,,0,0,,Graham Napier,,,Leicestershire,Leics,19.0,0,27.0
+254573,2006,14030,4.0,3.0,0.0,0.0,,HD Ackerman,6,11,54.55,,0,0,,Graham Napier,,,Leicestershire,Leics,19.0,0,26.0
+254573,2006,14020,4.0,2.0,1.0,0.0,,Darren Maddy,10,13,76.92,,0,0,,Graham Napier,,,Leicestershire,Leics,18.0,0,25.0
+254573,2006,14010,4.0,1.0,0.0,0.0,,Darren Maddy,10,13,76.92,,0,0,,Graham Napier,,,Leicestershire,Leics,18.0,0,24.0
+254573,2006,112020,12.0,2.0,1.0,0.0,,Paul Nixon,15,7,214.29,,0,0,,James Middlebrook,,,Leicestershire,Leics,89.0,2,73.0
+254573,2006,112010,12.0,1.0,1.0,0.0,,HD Ackerman,31,32,96.88,,0,0,,James Middlebrook,,,Leicestershire,Leics,88.0,2,72.0
+254573,2006,111060,11.0,6.0,4.0,0.0,,Paul Nixon,15,7,214.29,HD Ackerman,31,32,96.88,Tim Phillips,,,Leicestershire,Leics,84.0,2,71.0
+254573,2006,111050,11.0,5.0,2.0,0.0,,Paul Nixon,2,2,100.0,,0,0,,Tim Phillips,,,Leicestershire,Leics,82.0,2,70.0
+254573,2006,111040,11.0,4.0,2.0,0.0,,Paul Nixon,2,2,100.0,,0,0,,Tim Phillips,,,Leicestershire,Leics,80.0,2,69.0
+254573,2006,111030,11.0,3.0,4.0,0.0,,Paul Nixon,2,2,100.0,,0,0,,Tim Phillips,,,Leicestershire,Leics,76.0,2,68.0
+254573,2006,111020,11.0,2.0,1.0,0.0,,HD Ackerman,30,31,96.77,,0,0,,Tim Phillips,,,Leicestershire,Leics,75.0,2,67.0
+254573,2006,111010,11.0,1.0,1.0,0.0,,Paul Nixon,2,2,100.0,,0,0,,Tim Phillips,,,Leicestershire,Leics,74.0,2,66.0
+254573,2006,110060,10.0,6.0,1.0,0.0,,Paul Nixon,2,2,100.0,HD Ackerman,30,31,96.77,Graham Napier,,,Leicestershire,Leics,73.0,2,65.0
+254573,2006,110050,10.0,5.0,1.0,0.0,,HD Ackerman,28,29,96.55,,0,0,,Graham Napier,,,Leicestershire,Leics,72.0,2,64.0
+254573,2006,110040,10.0,4.0,1.0,0.0,,Paul Nixon,0,0,,,0,0,,Graham Napier,,,Leicestershire,Leics,71.0,2,63.0
+254573,2006,110030,10.0,3.0,1.0,0.0,,HD Ackerman,28,29,96.55,,0,0,,Graham Napier,,,Leicestershire,Leics,70.0,2,62.0
+254573,2006,110020,10.0,2.0,0.0,0.0,,Jim Allenby,16,10,160.0,HD Ackerman,28,29,96.55,Graham Napier,J Allenby,J Allenby c Phillips b Napier 16 (11m 11b 1x4 1x6) SR: 145.45,Leicestershire,Leics,70.0,1,61.0
+254573,2006,110010,10.0,1.0,0.0,0.0,,Jim Allenby,16,9,177.78,,0,0,,Graham Napier,,,Leicestershire,Leics,70.0,1,60.0
+254573,2006,19060,9.0,6.0,1.0,0.0,,Jim Allenby,16,9,177.78,HD Ackerman,28,29,96.55,Tim Phillips,,,Leicestershire,Leics,69.0,1,59.0
+254573,2006,19050,9.0,5.0,6.0,0.0,,Jim Allenby,8,6,133.33,,0,0,,Tim Phillips,,,Leicestershire,Leics,63.0,1,58.0
+254573,2006,19040,9.0,4.0,0.0,1.0,lb,HD Ackerman,27,26,103.85,,0,0,,Tim Phillips,,,Leicestershire,Leics,62.0,1,57.0
+254573,2006,19030,9.0,3.0,0.0,0.0,,HD Ackerman,27,26,103.85,,0,0,,Tim Phillips,,,Leicestershire,Leics,62.0,1,56.0
+254573,2006,19020,9.0,2.0,1.0,0.0,,Jim Allenby,8,6,133.33,,0,0,,Tim Phillips,,,Leicestershire,Leics,61.0,1,55.0
+254573,2006,19010,9.0,1.0,1.0,0.0,,HD Ackerman,27,26,103.85,,0,0,,Tim Phillips,,,Leicestershire,Leics,60.0,1,54.0
+254573,2006,18060,8.0,6.0,1.0,0.0,,HD Ackerman,27,26,103.85,Jim Allenby,8,6,133.33,Graham Napier,,,Leicestershire,Leics,59.0,1,53.0
+254573,2006,18050,8.0,5.0,0.0,0.0,,HD Ackerman,25,22,113.64,,0,0,,Graham Napier,,,Leicestershire,Leics,59.0,1,52.0
+254573,2006,18040,8.0,4.0,0.0,0.0,,HD Ackerman,25,22,113.64,,0,0,,Graham Napier,,,Leicestershire,Leics,59.0,1,51.0
+254573,2006,18030,8.0,3.0,1.0,0.0,,Jim Allenby,6,4,150.0,,0,0,,Graham Napier,,,Leicestershire,Leics,58.0,1,50.0
+254573,2006,18020,8.0,2.0,1.0,0.0,,HD Ackerman,25,22,113.64,,0,0,,Graham Napier,,,Leicestershire,Leics,57.0,1,49.0
+254573,2006,116030,16.0,3.0,2.0,0.0,,Paul Nixon,35,20,175.0,,0,0,,Darren Gough,,,Leicestershire,Leics,127.0,2,98.0
+254573,2006,116020,16.0,2.0,0.0,0.0,,Paul Nixon,35,20,175.0,,0,0,,Darren Gough,,,Leicestershire,Leics,127.0,2,97.0
+254573,2006,116010,16.0,1.0,1.0,0.0,,HD Ackerman,50,43,116.28,,0,0,,Darren Gough,,,Leicestershire,Leics,126.0,2,96.0
+254573,2006,115060,15.0,6.0,1.0,0.0,,HD Ackerman,50,43,116.28,Paul Nixon,35,20,175.0,Ravi Bopara,,,Leicestershire,Leics,125.0,2,95.0
+254573,2006,115050,15.0,5.0,1.0,0.0,,Paul Nixon,33,18,183.33,,0,0,,Ravi Bopara,,,Leicestershire,Leics,124.0,2,94.0
+254573,2006,115040,15.0,4.0,1.0,0.0,,HD Ackerman,42,39,107.69,,0,0,,Ravi Bopara,,,Leicestershire,Leics,123.0,2,93.0
+254573,2006,115030,15.0,3.0,4.0,0.0,,HD Ackerman,42,39,107.69,,0,0,,Ravi Bopara,,,Leicestershire,Leics,119.0,2,92.0
+254573,2006,115020,15.0,2.0,1.0,0.0,,Paul Nixon,33,18,183.33,,0,0,,Ravi Bopara,,,Leicestershire,Leics,118.0,2,91.0
+254573,2006,115010,15.0,1.0,1.0,0.0,,HD Ackerman,42,39,107.69,,0,0,,Ravi Bopara,,,Leicestershire,Leics,117.0,2,90.0
+254573,2006,114060,14.0,6.0,4.0,0.0,,Paul Nixon,33,18,183.33,HD Ackerman,42,39,107.69,James Middlebrook,,,Leicestershire,Leics,113.0,2,89.0
+254573,2006,114050,14.0,5.0,4.0,0.0,,Paul Nixon,24,15,160.0,,0,0,,James Middlebrook,,,Leicestershire,Leics,109.0,2,88.0
+254573,2006,114040,14.0,4.0,1.0,0.0,,HD Ackerman,35,36,97.22,,0,0,,James Middlebrook,,,Leicestershire,Leics,108.0,2,87.0
+254573,2006,114030,14.0,3.0,2.0,0.0,,HD Ackerman,35,36,97.22,,0,0,,James Middlebrook,,,Leicestershire,Leics,106.0,2,86.0
+254573,2006,114020,14.0,2.0,4.0,0.0,,HD Ackerman,35,36,97.22,,0,0,,James Middlebrook,,,Leicestershire,Leics,102.0,2,85.0
+254573,2006,114010,14.0,1.0,1.0,0.0,,Paul Nixon,24,15,160.0,,0,0,,James Middlebrook,,,Leicestershire,Leics,101.0,2,84.0
+254573,2006,113060,13.0,6.0,1.0,0.0,,Paul Nixon,24,15,160.0,HD Ackerman,35,36,97.22,Tim Phillips,,,Leicestershire,Leics,100.0,2,83.0
+254573,2006,113050,13.0,5.0,0.0,0.0,,Paul Nixon,21,10,210.0,,0,0,,Tim Phillips,,,Leicestershire,Leics,100.0,2,82.0
+254573,2006,113040,13.0,4.0,2.0,0.0,,Paul Nixon,21,10,210.0,,0,0,,Tim Phillips,,,Leicestershire,Leics,98.0,2,81.0
+254573,2006,113030,13.0,3.0,0.0,0.0,,Paul Nixon,21,10,210.0,,0,0,,Tim Phillips,,,Leicestershire,Leics,98.0,2,80.0
+254573,2006,113020,13.0,2.0,0.0,0.0,,Paul Nixon,21,10,210.0,,0,0,,Tim Phillips,,,Leicestershire,Leics,98.0,2,79.0
+254573,2006,113010,13.0,1.0,1.0,0.0,,HD Ackerman,34,35,97.14,,0,0,,Tim Phillips,,,Leicestershire,Leics,97.0,2,78.0
+254573,2006,112060,12.0,6.0,1.0,0.0,,HD Ackerman,34,35,97.14,Paul Nixon,21,10,210.0,James Middlebrook,,,Leicestershire,Leics,96.0,2,77.0
+254573,2006,112050,12.0,5.0,1.0,0.0,,Paul Nixon,15,7,214.29,,0,0,,James Middlebrook,,,Leicestershire,Leics,95.0,2,76.0
+254573,2006,112040,12.0,4.0,4.0,0.0,,Paul Nixon,15,7,214.29,,0,0,,James Middlebrook,,,Leicestershire,Leics,91.0,2,75.0
+254573,2006,112030,12.0,3.0,1.0,0.0,,HD Ackerman,31,32,96.88,,0,0,,James Middlebrook,,,Leicestershire,Leics,90.0,2,74.0
+254573,2006,219060,19.0,6.0,1.0,0.0,,Andy Bichel,12,9,133.33,Tim Phillips,5,4,125.0,Jim Allenby,,,Essex,Essex,149.0,9,119.0
+254573,2006,23050,3.0,5.0,0.0,0.0,,Alastair Cook,0,1,0.0,,0,0,,Adam Griffith,,,Essex,Essex,17.0,1,22.0
+254573,2006,23040,3.0,4.0,0.0,0.0,,Alastair Cook,0,1,0.0,,0,0,,Adam Griffith,,,Essex,Essex,17.0,1,21.0
+254573,2006,23030,3.0,3.0,0.0,0.0,,Alastair Cook,0,1,0.0,,0,0,,Adam Griffith,,,Essex,Essex,17.0,1,20.0
+254573,2006,23020,3.0,2.0,0.0,0.0,,Alastair Cook,0,1,0.0,,0,0,,Adam Griffith,,,Essex,Essex,17.0,1,19.0
+254573,2006,23010,3.0,1.0,1.0,0.0,,Mark Pettini,14,10,140.0,,0,0,,Adam Griffith,,,Essex,Essex,16.0,1,18.0
+254573,2006,22070,2.0,6.0,0.0,0.0,,Alastair Cook,0,1,0.0,Mark Pettini,14,10,140.0,Stuart Broad,,,Essex,Essex,16.0,1,17.0
+254573,2006,22060,2.0,5.0,0.0,0.0,,Ronnie Irani,0,4,0.0,Mark Pettini,14,10,140.0,Stuart Broad,RC Irani,RC Irani c &dagger;Nixon b Broad 0 (11m 7b 0x4 0x6) SR: 0.00,Essex,Essex,16.0,0,16.0
+254573,2006,22050,2.0,4.0,0.0,0.0,,Ronnie Irani,0,3,0.0,,0,0,,Stuart Broad,,,Essex,Essex,16.0,0,15.0
+254573,2006,22040,2.0,3.0,0.0,0.0,,Ronnie Irani,0,3,0.0,,0,0,,Stuart Broad,,,Essex,Essex,16.0,0,14.0
+254573,2006,22030,2.0,2.0,1.0,0.0,,Mark Pettini,13,9,144.44,,0,0,,Stuart Broad,,,Essex,Essex,15.0,0,13.0
+254573,2006,22020,2.0,2.0,0.0,1.0,wd,Ronnie Irani,0,3,0.0,,0,0,,Stuart Broad,,,Essex,Essex,14.0,0,13.0
+254573,2006,22010,2.0,1.0,0.0,0.0,,Ronnie Irani,0,3,0.0,,0,0,,Stuart Broad,,,Essex,Essex,14.0,0,12.0
+254573,2006,21070,1.0,6.0,2.0,0.0,,Mark Pettini,13,9,144.44,Ronnie Irani,0,3,0.0,Adam Griffith,,,Essex,Essex,12.0,0,11.0
+254573,2006,21060,1.0,5.0,4.0,0.0,,Mark Pettini,1,3,33.33,,0,0,,Adam Griffith,,,Essex,Essex,7.0,0,10.0
+254573,2006,21050,1.0,4.0,4.0,0.0,,Mark Pettini,1,3,33.33,,0,0,,Adam Griffith,,,Essex,Essex,3.0,0,9.0
+254573,2006,21040,1.0,3.0,0.0,0.0,,Mark Pettini,1,3,33.33,,0,0,,Adam Griffith,,,Essex,Essex,3.0,0,8.0
+254573,2006,21030,1.0,3.0,0.0,0.0,,Mark Pettini,1,3,33.33,,0,0,,Adam Griffith,,,Essex,Essex,3.0,0,8.0
+254573,2006,21020,1.0,2.0,2.0,0.0,,Mark Pettini,1,3,33.33,,0,0,,Adam Griffith,,,Essex,Essex,1.0,0,7.0
+254573,2006,21010,1.0,1.0,0.0,0.0,,Mark Pettini,1,3,33.33,,0,0,,Adam Griffith,,,Essex,Essex,1.0,0,6.0
+254573,2006,260,0.0,6.0,0.0,0.0,,Ronnie Irani,0,3,0.0,Mark Pettini,1,3,33.33,Stuart Broad,,,Essex,Essex,1.0,0,5.0
+254573,2006,250,0.0,5.0,0.0,0.0,,Ronnie Irani,0,0,,,0,0,,Stuart Broad,,,Essex,Essex,1.0,0,4.0
+254573,2006,240,0.0,4.0,0.0,0.0,,Ronnie Irani,0,0,,,0,0,,Stuart Broad,,,Essex,Essex,1.0,0,3.0
+254573,2006,230,0.0,3.0,1.0,0.0,,Mark Pettini,0,0,,,0,0,,Stuart Broad,,,Essex,Essex,0.0,0,2.0
+254573,2006,220,0.0,2.0,0.0,0.0,,Mark Pettini,0,0,,,0,0,,Stuart Broad,,,Essex,Essex,0.0,0,1.0
+254573,2006,210,0.0,1.0,0.0,0.0,,Mark Pettini,0,0,,,0,0,,Stuart Broad,,,Essex,Essex,0.0,0,0.0
+254573,2006,27040,7.0,4.0,0.0,0.0,,Darren Gough,0,0,,,0,0,,David Masters,,,Essex,Essex,50.0,1,45.0
+254573,2006,27030,7.0,3.0,1.0,0.0,,Mark Pettini,32,20,160.0,,0,0,,David Masters,,,Essex,Essex,49.0,1,44.0
+254573,2006,27020,7.0,2.0,1.0,0.0,,Darren Gough,0,0,,,0,0,,David Masters,,,Essex,Essex,48.0,1,43.0
+254573,2006,27010,7.0,1.0,0.0,0.0,,Darren Gough,0,0,,,0,0,,David Masters,,,Essex,Essex,48.0,1,42.0
+254573,2006,26070,6.0,6.0,0.0,0.0,,Alastair Cook,9,16,56.25,Mark Pettini,32,20,160.0,Stuart Broad,AN Cook,AN Cook run out (Maddy) 9 (19m 16b 1x4 0x6) SR: 56.25,Essex,Essex,48.0,0,41.0
+254573,2006,26060,6.0,5.0,1.0,0.0,,Mark Pettini,21,15,140.0,,0,0,,Stuart Broad,,,Essex,Essex,46.0,1,40.0
+254573,2006,26050,6.0,5.0,0.0,0.0,,Mark Pettini,21,15,140.0,,0,0,,Stuart Broad,,,Essex,Essex,46.0,1,40.0
+254573,2006,26040,6.0,4.0,4.0,0.0,,Mark Pettini,21,15,140.0,,0,0,,Stuart Broad,,,Essex,Essex,42.0,1,39.0
+254573,2006,26030,6.0,3.0,0.0,0.0,,Mark Pettini,21,15,140.0,,0,0,,Stuart Broad,,,Essex,Essex,42.0,1,38.0
+254573,2006,26020,6.0,2.0,2.0,0.0,,Mark Pettini,21,15,140.0,,0,0,,Stuart Broad,,,Essex,Essex,40.0,1,37.0
+254573,2006,26010,6.0,1.0,4.0,0.0,,Mark Pettini,21,15,140.0,,0,0,,Stuart Broad,,,Essex,Essex,36.0,1,36.0
+254573,2006,25070,5.0,6.0,2.0,0.0,,Alastair Cook,9,15,60.0,Mark Pettini,21,15,140.0,Adam Griffith,,,Essex,Essex,34.0,1,35.0
+254573,2006,25060,5.0,5.0,4.0,0.0,,Alastair Cook,2,9,22.22,,0,0,,Adam Griffith,,,Essex,Essex,29.0,1,34.0
+254573,2006,25050,5.0,4.0,0.0,0.0,,Alastair Cook,2,9,22.22,,0,0,,Adam Griffith,,,Essex,Essex,29.0,1,33.0
+254573,2006,25040,5.0,3.0,0.0,0.0,,Alastair Cook,2,9,22.22,,0,0,,Adam Griffith,,,Essex,Essex,29.0,1,32.0
+254573,2006,25030,5.0,2.0,0.0,0.0,,Alastair Cook,2,9,22.22,,0,0,,Adam Griffith,,,Essex,Essex,29.0,1,31.0
+254573,2006,25020,5.0,2.0,2.0,1.0,nb,Mark Pettini,20,14,142.86,,0,0,,Adam Griffith,,,Essex,Essex,26.0,1,31.0
+254573,2006,25010,5.0,1.0,1.0,0.0,,Alastair Cook,2,9,22.22,,0,0,,Adam Griffith,,,Essex,Essex,25.0,1,30.0
+254573,2006,24060,4.0,6.0,0.0,0.0,,Mark Pettini,20,14,142.86,Alastair Cook,2,9,22.22,Stuart Broad,,,Essex,Essex,25.0,1,29.0
+254573,2006,24050,4.0,5.0,1.0,0.0,,Alastair Cook,0,6,0.0,,0,0,,Stuart Broad,,,Essex,Essex,24.0,1,28.0
+254573,2006,24040,4.0,4.0,1.0,0.0,,Mark Pettini,15,11,136.36,,0,0,,Stuart Broad,,,Essex,Essex,23.0,1,27.0
+254573,2006,24030,4.0,3.0,4.0,0.0,,Mark Pettini,15,11,136.36,,0,0,,Stuart Broad,,,Essex,Essex,19.0,1,26.0
+254573,2006,24020,4.0,2.0,1.0,0.0,,Alastair Cook,0,6,0.0,,0,0,,Stuart Broad,,,Essex,Essex,18.0,1,25.0
+254573,2006,24010,4.0,1.0,0.0,0.0,,Alastair Cook,0,6,0.0,,0,0,,Stuart Broad,,,Essex,Essex,18.0,1,24.0
+254573,2006,23060,3.0,6.0,0.0,1.0,lb,Alastair Cook,0,6,0.0,Mark Pettini,15,11,136.36,Adam Griffith,,,Essex,Essex,17.0,1,23.0
+254573,2006,211050,11.0,5.0,0.0,0.0,,Ryan ten Doeschate,0,0,,,0,0,,Claude Henderson,,,Essex,Essex,82.0,4,70.0
+254573,2006,211040,11.0,4.0,0.0,0.0,,Ryan ten Doeschate,0,0,,,0,0,,Claude Henderson,,,Essex,Essex,82.0,4,69.0
+254573,2006,211030,11.0,3.0,0.0,0.0,,Ryan ten Doeschate,0,0,,,0,0,,Claude Henderson,,,Essex,Essex,82.0,4,68.0
+254573,2006,211020,11.0,2.0,0.0,0.0,,Darren Gough,9,12,75.0,Ravi Bopara,0,1,0.0,Claude Henderson,D Gough,D Gough c Allenby b Henderson 10 (17m 13b 1x4 0x6) SR: 76.92,Essex,Essex,82.0,3,67.0
+254573,2006,211010,11.0,1.0,0.0,0.0,,Darren Gough,9,11,81.82,,0,0,,Claude Henderson,,,Essex,Essex,82.0,3,66.0
+254573,2006,210060,10.0,6.0,0.0,0.0,,Ravi Bopara,0,1,0.0,Darren Gough,9,11,81.82,Jeremy Snape,,,Essex,Essex,82.0,3,65.0
+254573,2006,210050,10.0,5.0,0.0,0.0,,Mark Pettini,56,31,180.65,Darren Gough,9,11,81.82,Jeremy Snape,ML Pettini hit wicket,ML Pettini hit wicket b Snape 57 (46m 32b 9x4 0x6) SR: 178.12,Essex,Essex,82.0,2,64.0
+254573,2006,210040,10.0,4.0,1.0,0.0,,Darren Gough,7,8,87.5,,0,0,,Jeremy Snape,,,Essex,Essex,81.0,2,63.0
+254573,2006,210030,10.0,3.0,1.0,0.0,,Mark Pettini,56,30,186.67,,0,0,,Jeremy Snape,,,Essex,Essex,80.0,2,62.0
+254573,2006,210020,10.0,2.0,1.0,0.0,,Darren Gough,7,8,87.5,,0,0,,Jeremy Snape,,,Essex,Essex,79.0,2,61.0
+254573,2006,210010,10.0,1.0,0.0,0.0,,Darren Gough,7,8,87.5,,0,0,,Jeremy Snape,,,Essex,Essex,79.0,2,60.0
+254573,2006,29060,9.0,6.0,4.0,0.0,,Mark Pettini,56,30,186.67,Darren Gough,7,8,87.5,David Masters,,,Essex,Essex,75.0,2,59.0
+254573,2006,29050,9.0,5.0,4.0,0.0,,Mark Pettini,43,26,165.38,,0,0,,David Masters,,,Essex,Essex,71.0,2,58.0
+254573,2006,29040,9.0,4.0,1.0,0.0,,Darren Gough,6,6,100.0,,0,0,,David Masters,,,Essex,Essex,70.0,2,57.0
+254573,2006,29030,9.0,3.0,0.0,0.0,,Darren Gough,6,6,100.0,,0,0,,David Masters,,,Essex,Essex,70.0,2,56.0
+254573,2006,29020,9.0,2.0,1.0,0.0,,Mark Pettini,43,26,165.38,,0,0,,David Masters,,,Essex,Essex,69.0,2,55.0
+254573,2006,29010,9.0,1.0,4.0,0.0,,Mark Pettini,43,26,165.38,,0,0,,David Masters,,,Essex,Essex,65.0,2,54.0
+254573,2006,28060,8.0,6.0,1.0,0.0,,Mark Pettini,43,26,165.38,Darren Gough,6,6,100.0,Darren Maddy,,,Essex,Essex,64.0,2,53.0
+254573,2006,28050,8.0,5.0,4.0,0.0,,Mark Pettini,33,21,157.14,,0,0,,Darren Maddy,,,Essex,Essex,60.0,2,52.0
+254573,2006,28040,8.0,4.0,0.0,0.0,,Mark Pettini,33,21,157.14,,0,0,,Darren Maddy,,,Essex,Essex,60.0,2,51.0
+254573,2006,28030,8.0,3.0,1.0,0.0,,Darren Gough,5,5,100.0,,0,0,,Darren Maddy,,,Essex,Essex,59.0,2,50.0
+254573,2006,28020,8.0,2.0,3.0,0.0,,Mark Pettini,33,21,157.14,,0,0,,Darren Maddy,,,Essex,Essex,56.0,2,49.0
+254573,2006,28010,8.0,1.0,2.0,0.0,,Mark Pettini,33,21,157.14,,0,0,,Darren Maddy,,,Essex,Essex,54.0,2,48.0
+254573,2006,27060,7.0,6.0,0.0,0.0,,Darren Gough,5,5,100.0,Mark Pettini,33,21,157.14,David Masters,,,Essex,Essex,54.0,2,47.0
+254573,2006,27050,7.0,5.0,4.0,0.0,,Darren Gough,0,0,,,0,0,,David Masters,,,Essex,Essex,50.0,1,46.0
+254573,2006,215050,15.0,5.0,1.0,0.0,,James Middlebrook,0,0,,,0,0,,Claude Henderson,,,Essex,Essex,115.0,6,94.0
+254573,2006,215040,15.0,4.0,0.0,1.0,lb,James Foster,1,1,100.0,,0,0,,Claude Henderson,,,Essex,Essex,114.0,6,93.0
+254573,2006,215030,15.0,3.0,4.0,0.0,,James Foster,1,1,100.0,,0,0,,Claude Henderson,,,Essex,Essex,110.0,6,92.0
+254573,2006,215020,15.0,2.0,2.0,0.0,,James Foster,1,1,100.0,,0,0,,Claude Henderson,,,Essex,Essex,108.0,6,91.0
+254573,2006,215010,15.0,1.0,0.0,0.0,,James Foster,1,1,100.0,,0,0,,Claude Henderson,,,Essex,Essex,108.0,6,90.0
+254573,2006,214060,14.0,6.0,0.0,0.0,,Ryan ten Doeschate,17,14,121.43,James Foster,1,1,100.0,Jeremy Snape,RN ten Doeschate,RN ten Doeschate c Maddy b Snape 19 (10m 14b 2x4 0x6) SR: 135.71,Essex,Essex,108.0,5,89.0
+254573,2006,214050,14.0,5.0,1.0,0.0,,James Foster,0,0,,,0,0,,Jeremy Snape,,,Essex,Essex,105.0,5,88.0
+254573,2006,214040,14.0,4.0,0.0,0.0,,Ravi Bopara,4,6,66.67,Ryan ten Doeschate,17,14,121.43,Jeremy Snape,RS Bopara,RS Bopara c Allenby b Snape 5 (11m 8b 0x4 0x6) SR: 62.50,Essex,Essex,105.0,4,87.0
+254573,2006,214030,14.0,3.0,1.0,0.0,,Ryan ten Doeschate,15,12,125.0,,0,0,,Jeremy Snape,,,Essex,Essex,104.0,4,86.0
+254573,2006,214020,14.0,2.0,1.0,0.0,,Ravi Bopara,4,5,80.0,,0,0,,Jeremy Snape,,,Essex,Essex,103.0,4,85.0
+254573,2006,214010,14.0,1.0,1.0,0.0,,Ryan ten Doeschate,15,12,125.0,,0,0,,Jeremy Snape,,,Essex,Essex,102.0,4,84.0
+254573,2006,213060,13.0,6.0,1.0,0.0,,Ryan ten Doeschate,15,12,125.0,Ravi Bopara,4,5,80.0,Claude Henderson,,,Essex,Essex,101.0,4,83.0
+254573,2006,213050,13.0,5.0,0.0,0.0,,Ryan ten Doeschate,7,7,100.0,,0,0,,Claude Henderson,,,Essex,Essex,101.0,4,82.0
+254573,2006,213040,13.0,4.0,2.0,0.0,,Ryan ten Doeschate,7,7,100.0,,0,0,,Claude Henderson,,,Essex,Essex,99.0,4,81.0
+254573,2006,213030,13.0,3.0,1.0,0.0,,Ravi Bopara,3,4,75.0,,0,0,,Claude Henderson,,,Essex,Essex,98.0,4,80.0
+254573,2006,213020,13.0,2.0,1.0,0.0,,Ryan ten Doeschate,7,7,100.0,,0,0,,Claude Henderson,,,Essex,Essex,97.0,4,79.0
+254573,2006,213010,13.0,1.0,4.0,0.0,,Ryan ten Doeschate,7,7,100.0,,0,0,,Claude Henderson,,,Essex,Essex,93.0,4,78.0
+254573,2006,212060,12.0,6.0,1.0,0.0,,Ryan ten Doeschate,7,7,100.0,Ravi Bopara,3,4,75.0,Jeremy Snape,,,Essex,Essex,92.0,4,77.0
+254573,2006,212050,12.0,5.0,0.0,0.0,,Ryan ten Doeschate,1,3,33.33,,0,0,,Jeremy Snape,,,Essex,Essex,92.0,4,76.0
+254573,2006,212040,12.0,4.0,1.0,0.0,,Ravi Bopara,1,2,50.0,,0,0,,Jeremy Snape,,,Essex,Essex,91.0,4,75.0
+254573,2006,212030,12.0,3.0,1.0,0.0,,Ryan ten Doeschate,1,3,33.33,,0,0,,Jeremy Snape,,,Essex,Essex,90.0,4,74.0
+254573,2006,212020,12.0,2.0,4.0,0.0,,Ryan ten Doeschate,1,3,33.33,,0,0,,Jeremy Snape,,,Essex,Essex,86.0,4,73.0
+254573,2006,212010,12.0,1.0,1.0,0.0,,Ravi Bopara,1,2,50.0,,0,0,,Jeremy Snape,,,Essex,Essex,85.0,4,72.0
+254573,2006,211070,11.0,6.0,1.0,0.0,,Ravi Bopara,1,2,50.0,Ryan ten Doeschate,1,3,33.33,Claude Henderson,,,Essex,Essex,84.0,4,71.0
+254573,2006,211060,11.0,5.0,1.0,0.0,,Ryan ten Doeschate,0,0,,,0,0,,Claude Henderson,,,Essex,Essex,82.0,4,70.0
+254573,2006,219050,19.0,5.0,1.0,0.0,,Tim Phillips,1,1,100.0,,0,0,,Jim Allenby,,,Essex,Essex,149.0,9,118.0
+254573,2006,219040,19.0,4.0,2.0,0.0,,Tim Phillips,1,1,100.0,,0,0,,Jim Allenby,,,Essex,Essex,147.0,9,117.0
+254573,2006,219030,19.0,3.0,1.0,0.0,,Andy Bichel,9,6,150.0,,0,0,,Jim Allenby,,,Essex,Essex,146.0,9,116.0
+254573,2006,219020,19.0,2.0,2.0,0.0,,Andy Bichel,9,6,150.0,,0,0,,Jim Allenby,,,Essex,Essex,144.0,9,115.0
+254573,2006,219010,19.0,1.0,1.0,0.0,,Tim Phillips,1,1,100.0,,0,0,,Jim Allenby,,,Essex,Essex,143.0,9,114.0
+254573,2006,218060,18.0,6.0,1.0,0.0,,Tim Phillips,1,1,100.0,Andy Bichel,9,6,150.0,Adam Griffith,,,Essex,Essex,142.0,9,113.0
+254573,2006,218050,18.0,5.0,1.0,0.0,,Andy Bichel,8,5,160.0,,0,0,,Adam Griffith,,,Essex,Essex,141.0,9,112.0
+254573,2006,218040,18.0,4.0,0.0,0.0,,Graham Napier,2,3,66.67,Andy Bichel,8,5,160.0,Adam Griffith,GR Napier,GR Napier c Mansoor Amjad b Griffith 7 (4m 6b 1x4 0x6) SR: 116.66,Essex,Essex,141.0,8,111.0
+254573,2006,218030,18.0,3.0,1.0,0.0,,Andy Bichel,7,4,175.0,,0,0,,Adam Griffith,,,Essex,Essex,140.0,8,110.0
+254573,2006,218020,18.0,2.0,1.0,0.0,,Graham Napier,2,2,100.0,,0,0,,Adam Griffith,,,Essex,Essex,139.0,8,109.0
+254573,2006,218010,18.0,1.0,4.0,0.0,,Graham Napier,2,2,100.0,,0,0,,Adam Griffith,,,Essex,Essex,135.0,8,108.0
+254573,2006,217060,17.0,6.0,2.0,0.0,,Andy Bichel,7,4,175.0,Graham Napier,2,2,100.0,Jim Allenby,,,Essex,Essex,133.0,8,107.0
+254573,2006,217050,17.0,5.0,0.0,0.0,,Andy Bichel,0,0,,,0,0,,Jim Allenby,,,Essex,Essex,133.0,8,106.0
+254573,2006,217040,17.0,4.0,4.0,0.0,,Andy Bichel,0,0,,,0,0,,Jim Allenby,,,Essex,Essex,129.0,8,105.0
+254573,2006,217030,17.0,3.0,1.0,0.0,,Graham Napier,1,1,100.0,,0,0,,Jim Allenby,,,Essex,Essex,128.0,8,104.0
+254573,2006,217020,17.0,2.0,1.0,0.0,,Andy Bichel,0,0,,,0,0,,Jim Allenby,,,Essex,Essex,127.0,8,103.0
+254573,2006,217010,17.0,1.0,0.0,0.0,,James Foster,13,10,130.0,Graham Napier,1,1,100.0,Jim Allenby,JS Foster,JS Foster c Ackerman b Allenby 14 (9m 10b 2x4 0x6) SR: 140.00,Essex,Essex,127.0,7,102.0
+254573,2006,216070,16.0,6.0,1.0,0.0,,James Foster,13,9,144.44,Graham Napier,1,1,100.0,Jeremy Snape,,,Essex,Essex,123.0,7,101.0
+254573,2006,216060,16.0,5.0,0.0,0.0,,James Foster,12,7,171.43,,0,0,,Jeremy Snape,,,Essex,Essex,123.0,7,100.0
+254573,2006,216050,16.0,4.0,1.0,0.0,,Graham Napier,0,0,,,0,0,,Jeremy Snape,,,Essex,Essex,122.0,7,99.0
+254573,2006,216040,16.0,3.0,0.0,0.0,,James Middlebrook,1,2,50.0,James Foster,12,7,171.43,Jeremy Snape,JD Middlebrook,JD Middlebrook c Allenby b Snape 1 (5m 3b 0x4 0x6) SR: 33.33,Essex,Essex,122.0,6,98.0
+254573,2006,216030,16.0,2.0,1.0,0.0,,James Foster,11,6,183.33,,0,0,,Jeremy Snape,,,Essex,Essex,121.0,6,97.0
+254573,2006,216020,16.0,2.0,0.0,1.0,wd,James Middlebrook,1,1,100.0,,0,0,,Jeremy Snape,,,Essex,Essex,120.0,6,97.0
+254573,2006,216010,16.0,1.0,0.0,0.0,,James Middlebrook,1,1,100.0,,0,0,,Jeremy Snape,,,Essex,Essex,120.0,6,96.0
+254573,2006,215060,15.0,6.0,4.0,0.0,,James Foster,11,6,183.33,James Middlebrook,1,1,100.0,Claude Henderson,,,Essex,Essex,116.0,6,95.0

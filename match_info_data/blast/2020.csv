@@ -1,0 +1,98 @@
+match_id,venue,match_type,city,date,full_league,team_one,team_two,inn_one,inn_two,winner,margin,inn_one_score,inn_one_wickets,inn_two_score,inn_two_wickets
+1229399,"Edgbaston, Birmingham",Final (N),Birmingham,2020-10-04,Vitality Blast,Surrey,Nottinghamshire,127/7,129/4,Nottinghamshire,6 wickets,127,7,129,4
+1229398,"Edgbaston, Birmingham",2nd Semi Final,Birmingham,2020-10-04,Vitality Blast,Lancashire,Nottinghamshire,94/4,95/5,Nottinghamshire,5 wickets,94,4,95,5
+1229397,"Edgbaston, Birmingham",1st Semi Final,Birmingham,2020-10-03,Vitality Blast,Gloucestershire,Surrey,73/7,74/4,Surrey,6 wickets,73,7,74,4
+1207789,"Trent Bridge, Nottingham",1st Quarter Final (N),Nottingham,2020-10-01,Vitality Blast,Leicestershire,Nottinghamshire,139/7,139/7,,Super Over,139,7,139,7
+1207788,"County Ground, Bristol",3rd Quarter Final,Bristol,2020-10-01,Vitality Blast,Northamptonshire,Gloucestershire,113,114/3,Gloucestershire,7 wickets,113,10,114,3
+1229396,"County Ground, Hove",4th Quarter Final,Brighton,2020-10-01,Vitality Blast,Lancashire,Sussex,140/8,95,Lancashire,45 runs,140,8,95,10
+1229395,"Kennington Oval, London",2nd Quarter Final,London,2020-10-01,Vitality Blast,Surrey,Kent,169/2,113/7,Surrey,56 runs,169,2,113,7
+1207787,"County Ground, Bristol",Central Group,Bristol,2020-09-20,Vitality Blast,Somerset,Gloucestershire,161/7,163/8,Gloucestershire,2 wickets,161,7,163,8
+1207786,"County Ground, Chelmsford",South Group,Chelmsford,2020-09-20,Vitality Blast,Essex,Sussex,136/9,137/6,Sussex,4 wickets,136,9,137,6
+1207785,"Trent Bridge, Nottingham",North Group,Nottingham,2020-09-20,Vitality Blast,Nottinghamshire,Durham,150/6,132,Nottinghamshire,18 runs,150,6,132,10
+1207784,"Old Trafford, Manchester",North Group,Manchester,2020-09-20,Vitality Blast,Leicestershire,Lancashire,154/5,132/5,Leicestershire,22 runs,154,5,132,5
+1207783,"Headingley, Leeds",North Group,Leeds,2020-09-20,Vitality Blast,Derbyshire,Yorkshire,167/6,171/4,Yorkshire,6 wickets,167,6,171,4
+1207782,"County Ground, New Road, Worcester",Central Group,Worcester,2020-09-20,Vitality Blast,Worcestershire,Glamorgan,190/3,196/4,Glamorgan,6 wickets,190,3,196,4
+1207781,"Edgbaston, Birmingham",Central Group,Birmingham,2020-09-20,Vitality Blast,Birmingham Bears,Northamptonshire,191/5,193/7,Northamptonshire,3 wickets,191,5,193,7
+1207780,"The Rose Bowl, Southampton",South Group,Southampton,2020-09-20,Vitality Blast,Hampshire,Middlesex,141/9,121,Hampshire,20 runs,141,9,121,10
+1207779,"Kennington Oval, London",South Group,London,2020-09-20,Vitality Blast,Kent,Surrey,159/8,161/4,Surrey,6 wickets,159,8,161,4
+1207775,"Sophia Gardens, Cardiff",Central Group (N),Cardiff,2020-09-18,Vitality Blast,Glamorgan,Gloucestershire,188/4,171/6,Glamorgan,17 runs,188,4,171,6
+1207773,"Edgbaston, Birmingham",Central Group (N),Birmingham,2020-09-18,Vitality Blast,Birmingham Bears,Worcestershire,179/6,163/8,Birmingham Bears,16 runs,179,6,163,8
+1207778,"Grace Road, Leicester",North Group (D/N),Leicester,2020-09-18,Vitality Blast,Nottinghamshire,Leicestershire,162/7,163/6,Leicestershire,4 wickets,162,7,163,6
+1207774,"The Cooper Associates County Ground, Taunton",Central Group (D/N),Taunton,2020-09-18,Vitality Blast,Northamptonshire,Somerset,140/9,146/3,Somerset,7 wickets,140,9,146,3
+1207776,"Old Trafford, Manchester",North Group (D/N),Manchester,2020-09-18,Vitality Blast,Durham,Lancashire,157/5,83,Durham,74 runs,157,5,83,10
+1207777,"The Rose Bowl, Southampton",South Group,Southampton,2020-09-18,Vitality Blast,Hampshire,Surrey,138/8,143/1,Surrey,9 wickets,138,8,143,1
+1207772,"County Ground, Hove",South Group,Brighton,2020-09-18,Vitality Blast,Middlesex,Sussex,155/8,158/7,Sussex,3 wickets,155,8,158,7
+1207771,"St Lawrence Ground, Canterbury",South Group,Canterbury,2020-09-18,Vitality Blast,Essex,Kent,167/9,171/6,Kent,4 wickets,167,9,171,6
+1207769,"Old Trafford, Manchester",North Group (N),Manchester,2020-09-17,Vitality Blast,Lancashire,Yorkshire,167/6,160/6,Lancashire,7 runs,167,6,160,6
+1207770,"Trent Bridge, Nottingham",North Group (N),Nottingham,2020-09-17,Vitality Blast,Derbyshire,Nottinghamshire,142/8,143/2,Nottinghamshire,8 wickets,142,8,143,2
+1207768,"Headingley, Leeds",North Group (N),Leeds,2020-09-16,Vitality Blast,Durham,Yorkshire,147,104,Durham,43 runs,147,10,104,10
+1207767,"Kennington Oval, London",South Group (N),London,2020-09-16,Vitality Blast,Sussex,Surrey,165/7,167/6,Surrey,4 wickets,165,7,167,6
+1207765,"Sophia Gardens, Cardiff",Central Group (N),Cardiff,2020-09-16,Vitality Blast,Somerset,Glamorgan,183/3,117,Somerset,66 runs,183,3,117,10
+1207766,"St Lawrence Ground, Canterbury",South Group,Canterbury,2020-09-16,Vitality Blast,Middlesex,Kent,184/6,182/7,Middlesex,2 runs,184,6,182,7
+1207764,"The Rose Bowl, Southampton",South Group,Southampton,2020-09-16,Vitality Blast,Essex,Hampshire,168/3,114/9,Essex,54 runs,168,3,114,9
+1207763,"County Ground, Northampton",Central Group (N),Northampton,2020-09-15,Vitality Blast,Worcestershire,Northamptonshire,178/6,170/7,Worcestershire,8 runs,178,6,170,7
+1207761,"Grace Road, Leicester",North Group (N),Leicester,2020-09-15,Vitality Blast,Derbyshire,Leicestershire,147/8,143/4,Derbyshire,4 runs,147,8,143,4
+1207762,"County Ground, Bristol",Central Group,Bristol,2020-09-15,Vitality Blast,Gloucestershire,Birmingham Bears,173/6,123,Gloucestershire,50 runs,173,6,123,10
+1207757,"Headingley, Leeds",North Group (N),Leeds,2020-09-14,Vitality Blast,Yorkshire,Lancashire,145/9,148/4,Lancashire,6 wickets,145,9,148,4
+1207758,"Lord's, London",South Group (N),London,2020-09-14,Vitality Blast,Surrey,Middlesex,218/5,188/5,Surrey,30 runs,218,5,188,5
+1207760,"The Rose Bowl, Southampton",South Group,Southampton,2020-09-14,Vitality Blast,Hampshire,Kent,182/6,183/2,Kent,8 wickets,182,6,183,2
+1207759,"County Ground, Hove",South Group,Brighton,2020-09-14,Vitality Blast,Essex,Sussex,197/5,185/8,Essex,12 runs,197,5,185,8
+1207756,"Riverside Ground, Chester-le-Street",North Group,Chester-le-Street,2020-09-13,Vitality Blast,Leicestershire,Durham,130/9,132/4,Durham,6 wickets,130,9,132,4
+1207755,"Trent Bridge, Nottingham",North Group,Nottingham,2020-09-13,Vitality Blast,Nottinghamshire,Derbyshire,198/6,185/6,Nottinghamshire,13 runs,198,6,185,6
+1207753,"The Cooper Associates County Ground, Taunton",Central Group,Taunton,2020-09-13,Vitality Blast,Gloucestershire,Somerset,203/6,192/8,Gloucestershire,11 runs,203,6,192,8
+1207752,"Sophia Gardens, Cardiff",Central Group,Cardiff,2020-09-13,Vitality Blast,Northamptonshire,Glamorgan,98,99/3,Glamorgan,7 wickets,98,10,99,3
+1207754,"County Ground, New Road, Worcester",Central Group,Worcester,2020-09-13,Vitality Blast,Worcestershire,Birmingham Bears,178/4,181/4,Birmingham Bears,6 wickets,178,4,181,4
+1207751,"Lord's, London",South Group,London,2020-09-12,Vitality Blast,Middlesex,Hampshire,142/6,123,Middlesex,19 runs,142,6,123,10
+1207750,"St Lawrence Ground, Canterbury",South Group,Canterbury,2020-09-12,Vitality Blast,Kent,Sussex,141/8,145/2,Sussex,8 wickets,141,8,145,2
+1207749,"Riverside Ground, Chester-le-Street",North Group (N),Chester-le-Street,2020-09-11,Vitality Blast,Durham,Derbyshire,223/2,168/5,Durham,55 runs,223,2,168,5
+1207747,"Edgbaston, Birmingham",Central Group (N),Birmingham,2020-09-11,Vitality Blast,Birmingham Bears,Glamorgan,142/9,129/8,Birmingham Bears,13 runs,142,9,129,8
+1207746,"Grace Road, Leicester",North Group (N),Leicester,2020-09-11,Vitality Blast,Yorkshire,Leicestershire,188/6,192/7,Leicestershire,3 wickets,188,6,192,7
+1207743,"The Cooper Associates County Ground, Taunton",Central Group (N),Taunton,2020-09-11,Vitality Blast,Worcestershire,Somerset,168/4,165/8,Worcestershire,3 runs,168,4,165,8
+1207744,"Trent Bridge, Nottingham",North Group (N),Nottingham,2020-09-11,Vitality Blast,Lancashire,Nottinghamshire,167/5,169/4,Nottinghamshire,6 wickets,167,5,169,4
+1207748,"County Ground, Northampton",Central Group,Northampton,2020-09-11,Vitality Blast,Gloucestershire,Northamptonshire,185/6,150/6,Gloucestershire,35 runs,185,6,150,6
+1207745,"County Ground, Chelmsford",South Group,Chelmsford,2020-09-11,Vitality Blast,Essex,Surrey,195/8,198/6,Surrey,4 wickets,195,8,198,6
+1207742,"The Rose Bowl, Southampton",South Group (N),Southampton,2020-09-10,Vitality Blast,Sussex,Hampshire,159/5,146/6,Sussex,13 runs,159,5,146,6
+1207740,"Kennington Oval, London",South Group (N),London,2020-09-05,Vitality Blast,Middlesex,Surrey,113/9,116/4,Surrey,6 wickets,113,9,116,4
+1207741,"Kennington Oval, London",South Group,London,2020-09-05,Vitality Blast,Kent,Essex,192/6,163/7,Kent,29 runs,192,6,163,7
+1207737,"Riverside Ground, Chester-le-Street",North Group (N),Chester-le-Street,2020-09-04,Vitality Blast,Yorkshire,Durham,198/3,169,Yorkshire,29 runs,198,3,169,10
+1207736,"The Cooper Associates County Ground, Taunton",Central Group (N),Taunton,2020-09-04,Vitality Blast,Birmingham Bears,Somerset,107/4,120/7,Birmingham Bears,4 runs,107,4,120,7
+1207739,"Trent Bridge, Nottingham",North Group (N),Nottingham,2020-09-04,Vitality Blast,Leicestershire,Nottinghamshire,123/8,124/5,Nottinghamshire,5 wickets,123,8,124,5
+1207738,"Aigburth, Liverpool",North Group,Liverpool,2020-09-04,Vitality Blast,Derbyshire,Lancashire,98/7,102/2,Lancashire,8 wickets,98,7,102,2
+1207735,"County Ground, Bristol",Central Group,Bristol,2020-09-04,Vitality Blast,Gloucestershire,Worcestershire,181/4,151/9,Gloucestershire,30 runs,181,4,151,9
+1207732,"Edgbaston, Birmingham",Central Group (N),Birmingham,2020-09-03,Vitality Blast,Glamorgan,Northamptonshire,160/7,161/6,Northamptonshire,4 wickets,160,7,161,6
+1207734,"Kennington Oval, London",South Group (N),London,2020-09-03,Vitality Blast,Hampshire,Surrey,77/5,81/1,Surrey,9 wickets,77,5,81,1
+1207730,"Lord's, London",South Group (N),London,2020-09-03,Vitality Blast,Middlesex,Essex,167/7,156/8,Middlesex,11 runs,167,7,156,8
+1207733,"County Ground, Hove",South Group,Brighton,2020-09-03,Vitality Blast,Kent,Sussex,195/5,194/7,Kent,1 run,195,5,194,7
+1207731,"Edgbaston, Birmingham",Central Group,Birmingham,2020-09-03,Vitality Blast,Somerset,Worcestershire,229/8,213/7,Somerset,16 runs,229,8,213,7
+1207729,"Edgbaston, Birmingham",Central Group (N),Birmingham,2020-09-02,Vitality Blast,Gloucestershire,Birmingham Bears,157/3,100,Gloucestershire,57 runs,157,3,100,10
+1207727,"Headingley, Leeds",North Group (N),Leeds,2020-09-02,Vitality Blast,Yorkshire,Leicestershire,,,,,,,,
+1207726,"Riverside Ground, Chester-le-Street",North Group (N),Chester-le-Street,2020-09-02,Vitality Blast,Derbyshire,Durham,,,,,,,,
+1207728,"Aigburth, Liverpool",North Group,Liverpool,2020-09-02,Vitality Blast,Lancashire,Nottinghamshire,,,,,,,,
+1207723,"County Ground, Northampton",Central Group (N),Northampton,2020-09-01,Vitality Blast,Northamptonshire,Birmingham Bears,158/7,120,Northamptonshire,38 runs,158,7,120,10
+1207721,"The Cooper Associates County Ground, Taunton",Central Group (N),Taunton,2020-09-01,Vitality Blast,Glamorgan,Somerset,133/8,134/2,Somerset,8 wickets,133,8,134,2
+1207722,"Lord's, London",South Group (N),London,2020-09-01,Vitality Blast,Middlesex,Sussex,165/5,168/7,Sussex,3 wickets,165,5,168,7
+1207725,"County Ground, Chelmsford",South Group,Chelmsford,2020-09-01,Vitality Blast,Essex,Hampshire,139/6,140/5,Hampshire,5 wickets,139,6,140,5
+1207724,"St Lawrence Ground, Canterbury",South Group,Canterbury,2020-09-01,Vitality Blast,Surrey,Kent,161/4,162/5,Kent,5 wickets,161,4,162,5
+1207718,"Headingley, Leeds",North Group (N),Leeds,2020-08-31,Vitality Blast,Lancashire,Derbyshire,178/5,174/7,Lancashire,4 runs,178,5,174,7
+1207719,"Trent Bridge, Nottingham",North Group,Nottingham,2020-08-31,Vitality Blast,Yorkshire,Nottinghamshire,190,194/4,Nottinghamshire,6 wickets,190,10,194,4
+1207717,"Headingley, Leeds",North Group,Leeds,2020-08-31,Vitality Blast,Leicestershire,Durham,177/6,147/8,Leicestershire,30 runs,177,6,147,8
+1207720,"County Ground, New Road, Worcester",Central Group,Worcester,2020-08-31,Vitality Blast,Gloucestershire,Worcestershire,197/3,175/8,Gloucestershire,22 runs,197,3,175,8
+1207716,"Sophia Gardens, Cardiff",Central Group,Cardiff,2020-08-30,Vitality Blast,Glamorgan,Birmingham Bears,140/9,141/4,Birmingham Bears,6 wickets,140,9,141,4
+1207715,"County Ground, Northampton",Central Group,Northampton,2020-08-30,Vitality Blast,Northamptonshire,Somerset,171/6,162/8,Northamptonshire,9 runs,171,6,162,8
+1207714,"Headingley, Leeds",North Group,Leeds,2020-08-30,Vitality Blast,Yorkshire,Derbyshire,220/5,121/9,Yorkshire,99 runs,220,5,121,9
+1207713,"Kennington Oval, London",South Group,London,2020-08-30,Vitality Blast,Essex,Surrey,143/6,143/8,,Super Over,143,6,143,8
+1207712,"County Ground, Hove",South Group,Brighton,2020-08-30,Vitality Blast,Hampshire,Sussex,176/5,177/4,Sussex,6 wickets,176,5,177,4
+1207711,"County Ground, Bristol",Central Group,Bristol,2020-08-29,Vitality Blast,Glamorgan,Gloucestershire,150/7,135,Glamorgan,15 runs,150,7,135,10
+1207709,"Lord's, London",South Group,London,2020-08-29,Vitality Blast,Middlesex,Kent,209/4,209/5,,Super Over,209,4,209,5
+1207708,"Grace Road, Leicester",North Group,Leicester,2020-08-29,Vitality Blast,Leicestershire,Lancashire,,,,,,,,
+1207707,"Riverside Ground, Chester-le-Street",North Group,Chester-le-Street,2020-08-29,Vitality Blast,Durham,Nottinghamshire,181/3,185/4,Nottinghamshire,6 wickets,181,3,185,4
+1207710,"County Ground, New Road, Worcester",Central Group,Worcester,2020-08-29,Vitality Blast,Worcestershire,Northamptonshire,124/7,128/1,Northamptonshire,9 wickets,124,7,128,1
+1207705,"Edgbaston, Birmingham",Central Group (N),Birmingham,2020-08-28,Vitality Blast,Birmingham Bears,Somerset,,,,,,,,
+1207706,"County Ground, Hove",South Group,Brighton,2020-08-28,Vitality Blast,Sussex,Surrey,,,,,,,,
+1207703,"Headingley, Leeds",North Group (N),Leeds,2020-08-27,Vitality Blast,Yorkshire,Nottinghamshire,,,,,,,,
+1207702,"Riverside Ground, Chester-le-Street",North Group (N),Chester-le-Street,2020-08-27,Vitality Blast,Lancashire,Durham,190/3,163/7,Lancashire,27 runs,190,3,163,7
+1207701,"Grace Road, Leicester",North Group (N),Leicester,2020-08-27,Vitality Blast,Derbyshire,Leicestershire,,,,,,,,
+1207699,"Sophia Gardens, Cardiff",Central Group (N),Cardiff,2020-08-27,Vitality Blast,Glamorgan,Worcestershire,,,,,,,,
+1207704,"County Ground, Chelmsford",South Group,Chelmsford,2020-08-27,Vitality Blast,Middlesex,Essex,184/5,10/0,,,184,5,10,0
+1207700,"County Ground, Bristol",Central Group,Bristol,2020-08-27,Vitality Blast,Gloucestershire,Northamptonshire,,,,,,,,
+1207698,"St Lawrence Ground, Canterbury",South Group,Canterbury,2020-08-27,Vitality Blast,Hampshire,Kent,139/6,52/0,,,139,6,52,0

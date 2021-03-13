@@ -1,0 +1,98 @@
+match_id,venue,match_type,city,date,full_league,team_one,team_two,inn_one,inn_two,winner,margin,inn_one_score,inn_one_wickets,inn_two_score,inn_two_wickets
+593701,"Edgbaston, Birmingham",Final (N),Birmingham,2013-08-17,Friends Life t20,Northamptonshire,Surrey,194/2,92,Northamptonshire,102 runs,194,2,92,10
+593700,"Edgbaston, Birmingham",2nd Semi-Final,Birmingham,2013-08-17,Friends Life t20,Hampshire,Surrey,142/9,145/6,Surrey,4 wickets,142,9,145,6
+593699,"Edgbaston, Birmingham",1st Semi-Final,Birmingham,2013-08-17,Friends Life t20,Essex,Northamptonshire,168/5,171/3,Northamptonshire,7 wickets,168,5,171,3
+593698,"Trent Bridge, Nottingham",4th Quarter-final (N),Nottingham,2013-08-08,Friends Life t20,Essex,Nottinghamshire,187/6,140,Essex,47 runs,187,6,140,10
+593697,"The Rose Bowl, Southampton",3rd Quarter-final (N),Southampton,2013-08-07,Friends Life t20,Hampshire,Lancashire,202/3,201/4,Hampshire,1 run,202,3,201,4
+593696,"County Ground, Northampton",2nd Quarter-final (N),Northampton,2013-08-06,Friends Life t20,Northamptonshire,Durham,183/4,147/6,Northamptonshire,36 runs,183,4,147,6
+593695,"Kennington Oval, London",1st Quarter-final,London,2013-08-06,Friends Life t20,Somerset,Surrey,148/6,151/7,Surrey,3 wickets,148,6,151,7
+593694,"County Ground, Chelmsford",South Division (N),Chelmsford,2013-07-31,Friends Life t20,Surrey,Essex,165,104,Surrey,61 runs,165,10,104,10
+593693,"The Rose Bowl, Southampton",South Division (N),Southampton,2013-07-31,Friends Life t20,Hampshire,Middlesex,190/3,182/7,Hampshire,8 runs,190,3,182,7
+593692,"County Ground, Hove",South Division (N),Brighton,2013-07-31,Friends Life t20,Sussex,Kent,113,117/2,Kent,8 wickets,113,10,117,2
+593691,"County Ground, Northampton",Midlands/Wales/West Division (N),Northampton,2013-07-30,Friends Life t20,Worcestershire,Northamptonshire,182/6,145/6,Worcestershire,37 runs,182,6,145,6
+593690,"Edgbaston, Birmingham",Midlands/Wales/West Division (N),Birmingham,2013-07-30,Friends Life t20,Somerset,Warwickshire,175/5,165/3,Somerset,10 runs,175,5,165,3
+593689,"Sophia Gardens, Cardiff",Midlands/Wales/West Division (N),Cardiff,2013-07-30,Friends Life t20,Glamorgan,Gloucestershire,141/5,145/1,Gloucestershire,9 wickets,141,5,145,1
+593688,"St Lawrence Ground, Canterbury",South Division (N),Canterbury,2013-07-29,Friends Life t20,Hampshire,Kent,185/6,123/9,Hampshire,62 runs,185,6,123,9
+593687,"Grace Road, Leicester",North Division,Leicester,2013-07-28,Friends Life t20,Yorkshire,Leicestershire,105,106/0,Leicestershire,10 wickets,105,10,106,0
+593686,"Trent Bridge, Nottingham",North Division,Nottingham,2013-07-28,Friends Life t20,Nottinghamshire,Lancashire,194/6,134,Nottinghamshire,60 runs,194,6,134,10
+593685,"Riverside Ground, Chester-le-Street",North Division,Chester-le-Street,2013-07-28,Friends Life t20,Durham,Derbyshire,187/3,150,Durham,37 runs,187,3,150,10
+593684,"County Ground, New Road, Worcester",Midlands/Wales/West Division,Worcester,2013-07-27,Friends Life t20,Somerset,Worcestershire,188/4,191/5,Worcestershire,5 wickets,188,4,191,5
+593682,"Edgbaston, Birmingham",Midlands/Wales/West Division (N),Birmingham,2013-07-26,Friends Life t20,Worcestershire,Warwickshire,146/8,149/2,Warwickshire,8 wickets,146,8,149,2
+593679,"County Ground, Derby",North Division (N),Derby,2013-07-26,Friends Life t20,Leicestershire,Derbyshire,151/6,72,Leicestershire,79 runs,151,6,72,10
+593677,"The Rose Bowl, Southampton",South Division (N),Southampton,2013-07-26,Friends Life t20,Essex,Hampshire,182/5,183/5,Hampshire,5 wickets,182,5,183,5
+593680,"Sophia Gardens, Cardiff",Midlands/Wales/West Division (N),Cardiff,2013-07-26,Friends Life t20,Glamorgan,Northamptonshire,125/9,129/4,Northamptonshire,6 wickets,125,9,129,4
+593678,"Kennington Oval, London",South Division (N),London,2013-07-26,Friends Life t20,Kent,Surrey,139/4,140/5,Surrey,5 wickets,139,4,140,5
+593683,"Trent Bridge, Nottingham",North Division,Nottingham,2013-07-26,Friends Life t20,Yorkshire,Nottinghamshire,132/7,133/4,Nottinghamshire,6 wickets,132,7,133,4
+593681,"County Ground, Bristol",Midlands/Wales/West Division,Bristol,2013-07-26,Friends Life t20,Gloucestershire,Somerset,125,129/1,Somerset,9 wickets,125,10,129,1
+593676,"Lord's, London",South Division (N),London,2013-07-25,Friends Life t20,Surrey,Middlesex,178/7,92,Surrey,86 runs,178,7,92,10
+593675,"Riverside Ground, Chester-le-Street",North Division,Chester-le-Street,2013-07-25,Friends Life t20,Leicestershire,Durham,119/7,120/5,Durham,5 wickets,119,7,120,5
+593673,"St Lawrence Ground, Canterbury",South Division (N),Canterbury,2013-07-24,Friends Life t20,Kent,Sussex,173/3,164/6,Kent,9 runs,173,3,164,6
+593672,"Edgbaston, Birmingham",Midlands/Wales/West Division (N),Birmingham,2013-07-24,Friends Life t20,Gloucestershire,Warwickshire,145/7,149/3,Warwickshire,7 wickets,145,7,149,3
+593674,"Old Trafford, Manchester",North Division (N),Manchester,2013-07-24,Friends Life t20,Yorkshire,Lancashire,124/8,127/2,Lancashire,8 wickets,124,8,127,2
+593671,"Sophia Gardens, Cardiff",Midlands/Wales/West Division (N),Cardiff,2013-07-23,Friends Life t20,Worcestershire,Glamorgan,157/6,161/5,Glamorgan,5 wickets,157,6,161,5
+593669,"Trent Bridge, Nottingham",North Division,Nottingham,2013-07-23,Friends Life t20,Derbyshire,Nottinghamshire,108/1,92/7,Derbyshire,16 runs,108,1,92,7
+593670,"Grace Road, Leicester",North Division,Leicester,2013-07-23,Friends Life t20,Leicestershire,Lancashire,139/9,139/9,,Super Over,139,9,139,9
+593667,"Headingley, Leeds",North Division,Leeds,2013-07-21,Friends Life t20,Nottinghamshire,Yorkshire,155/8,130/6,Nottinghamshire,25 runs,155,8,130,6
+593663,"County Ground, Hove",South Division,Brighton,2013-07-21,Friends Life t20,Sussex,Essex,146/8,147/3,Essex,7 wickets,146,8,147,3
+593668,"The Cooper Associates County Ground, Taunton",Midlands/Wales/West Division,Taunton,2013-07-21,Friends Life t20,Warwickshire,Somerset,73,78/0,Somerset,10 wickets,73,10,78,0
+593666,"County Ground, New Road, Worcester",Midlands/Wales/West Division,Worcester,2013-07-21,Friends Life t20,Northamptonshire,Worcestershire,137/6,132/6,Northamptonshire,5 runs,137,6,132,6
+593665,"The Rose Bowl, Southampton",South Division,Southampton,2013-07-21,Friends Life t20,Kent,Hampshire,143/8,135/8,Kent,8 runs,143,8,135,8
+593664,"College Ground, Cheltenham",Midlands/Wales/West Division,Cheltenham,2013-07-21,Friends Life t20,Glamorgan,Gloucestershire,98/9,99/0,Gloucestershire,10 wickets,98,9,99,0
+593662,"Queen's Park, Chesterfield",North Division,Chesterfield,2013-07-21,Friends Life t20,Derbyshire,Durham,136/7,137/6,Durham,4 wickets,136,7,137,6
+593661,"Edgbaston, Birmingham",Midlands/Wales/West Division,Birmingham,2013-07-20,Friends Life t20,Northamptonshire,Warwickshire,111,115/7,Warwickshire,3 wickets,111,10,115,7
+593660,"Kennington Oval, London",South Division (N),London,2013-07-19,Friends Life t20,Surrey,Hampshire,126/6,127/3,Hampshire,7 wickets,126,6,127,3
+593658,"Trent Bridge, Nottingham",North Division,Nottingham,2013-07-19,Friends Life t20,Nottinghamshire,Durham,159/7,160/7,Durham,3 wickets,159,7,160,7
+593659,"The Cooper Associates County Ground, Taunton",Midlands/Wales/West Division,Taunton,2013-07-19,Friends Life t20,Somerset,Glamorgan,199/6,135,Somerset,64 runs,199,6,135,10
+593657,"County Ground, Northampton",Midlands/Wales/West Division (N),Northampton,2013-07-17,Friends Life t20,Northamptonshire,Somerset,150/8,140/8,Northamptonshire,10 runs,150,8,140,8
+593655,"County Ground, Hove",South Division (N),Brighton,2013-07-16,Friends Life t20,Sussex,Middlesex,148/7,152/4,Middlesex,6 wickets,148,7,152,4
+593656,"College Ground, Cheltenham",Midlands/Wales/West Division,Cheltenham,2013-07-16,Friends Life t20,Northamptonshire,Gloucestershire,206/3,189/6,Northamptonshire,17 runs,206,3,189,6
+593654,"Kennington Oval, London",South Division (N),London,2013-07-15,Friends Life t20,Surrey,Essex,148/6,149/2,Essex,8 wickets,148,6,149,2
+593653,"Queen's Park, Chesterfield",North Division,Chesterfield,2013-07-14,Friends Life t20,Yorkshire,Derbyshire,142/9,136/5,Yorkshire,6 runs,142,9,136,5
+593652,"The Cooper Associates County Ground, Taunton",Midlands/Wales/West Division,Taunton,2013-07-14,Friends Life t20,Worcestershire,Somerset,168/7,160/8,Worcestershire,8 runs,168,7,160,8
+593651,"College Ground, Cheltenham",Midlands/Wales/West Division,Cheltenham,2013-07-14,Friends Life t20,Gloucestershire,Warwickshire,96,97/4,Warwickshire,6 wickets,96,10,97,4
+593650,"County Ground, Chelmsford",South Division,Chelmsford,2013-07-14,Friends Life t20,Sussex,Essex,171/9,172/4,Essex,6 wickets,171,9,172,4
+593649,"Old Deer Park, Richmond",South Division,Richmond,2013-07-14,Friends Life t20,Middlesex,Hampshire,162/5,164/3,Hampshire,7 wickets,162,5,164,3
+593648,"County Ground, Northampton",Midlands/Wales/West Division,Northampton,2013-07-14,Friends Life t20,Glamorgan,Northamptonshire,153/7,157/3,Northamptonshire,7 wickets,153,7,157,3
+593647,"Old Trafford, Manchester",North Division,Manchester,2013-07-14,Friends Life t20,Lancashire,Durham,170/5,145/5,Lancashire,25 runs,170,5,145,5
+593644,"The Rose Bowl, Southampton",South Division (N),Southampton,2013-07-12,Friends Life t20,Sussex,Hampshire,118/7,122/6,Hampshire,4 wickets,118,7,122,6
+593641,"County Ground, Chelmsford",South Division (N),Chelmsford,2013-07-12,Friends Life t20,Essex,Middlesex,74,77/2,Middlesex,8 wickets,74,10,77,2
+593643,"Sophia Gardens, Cardiff",Midlands/Wales/West Division (N),Cardiff,2013-07-12,Friends Life t20,Somerset,Glamorgan,125/6,126/1,Glamorgan,9 wickets,125,6,126,1
+593640,"Old Trafford, Manchester",North Division (N),Manchester,2013-07-12,Friends Life t20,Lancashire,Derbyshire,165/9,153/6,Lancashire,12 runs,165,9,153,6
+593646,"Riverside Ground, Chester-le-Street",North Division,Chester-le-Street,2013-07-12,Friends Life t20,Durham,Yorkshire,215/6,139/8,Durham,76 runs,215,6,139,8
+593645,"County Ground, New Road, Worcester",Midlands/Wales/West Division,Worcester,2013-07-12,Friends Life t20,Worcestershire,Warwickshire,188/5,189/3,Warwickshire,7 wickets,188,5,189,3
+593642,"Grace Road, Leicester",North Division,Leicester,2013-07-12,Friends Life t20,Nottinghamshire,Leicestershire,158/6,161/3,Leicestershire,7 wickets,158,6,161,3
+593639,"Headingley, Leeds",North Division,Leeds,2013-07-09,Friends Life t20,Leicestershire,Yorkshire,113/9,117/3,Yorkshire,7 wickets,113,9,117,3
+593638,"County Ground, Chelmsford",South Division (N),Chelmsford,2013-07-08,Friends Life t20,Essex,Kent,180/8,118,Essex,62 runs,180,8,118,10
+593634,"County Ground, New Road, Worcester",Midlands/Wales/West Division,Worcester,2013-07-07,Friends Life t20,Gloucestershire,Worcestershire,119/9,120/5,Worcestershire,5 wickets,119,9,120,5
+593637,"The Cooper Associates County Ground, Taunton",Midlands/Wales/West Division,Taunton,2013-07-07,Friends Life t20,Northamptonshire,Somerset,152/7,155/4,Somerset,6 wickets,152,7,155,4
+593635,Uxbridge Cricket Club Ground,South Division,Uxbridge,2013-07-07,Friends Life t20,Kent,Middlesex,140/6,142/1,Middlesex,9 wickets,140,6,142,1
+593636,"Old Trafford, Manchester",North Division,Manchester,2013-07-07,Friends Life t20,Lancashire,Leicestershire,155/4,151/7,Lancashire,4 runs,155,4,151,7
+593633,"Riverside Ground, Chester-le-Street",North Division,Chester-le-Street,2013-07-06,Friends Life t20,Durham,Nottinghamshire,154/4,156/2,Nottinghamshire,8 wickets,154,4,156,2
+593632,Rugby School Ground,Midlands/Wales/West Division,Rugby,2013-07-06,Friends Life t20,Warwickshire,Glamorgan,126/8,132/2,Glamorgan,8 wickets,126,8,132,2
+593627,"County Ground, Hove",South Division (N),Brighton,2013-07-05,Friends Life t20,Sussex,Hampshire,145/6,148/5,Hampshire,5 wickets,145,6,148,5
+593630,"County Ground, Derby",North Division (N),Derby,2013-07-05,Friends Life t20,Derbyshire,Nottinghamshire,115/9,116/4,Nottinghamshire,6 wickets,115,9,116,4
+593625,"St Lawrence Ground, Canterbury",South Division (N),Canterbury,2013-07-05,Friends Life t20,Essex,Kent,164/6,117,Essex,47 runs,164,6,117,10
+593631,"County Ground, Northampton",Midlands/Wales/West Division (N),Northampton,2013-07-05,Friends Life t20,Northamptonshire,Warwickshire,161/2,134/8,Northamptonshire,27 runs,161,2,134,8
+593629,"Kennington Oval, London",South Division (N),London,2013-07-05,Friends Life t20,Surrey,Middlesex,147/9,132/8,Surrey,15 runs,147,9,132,8
+593628,"Headingley, Leeds",North Division,Leeds,2013-07-05,Friends Life t20,Yorkshire,Lancashire,152/6,152/5,,Super Over,152,6,152,5
+593626,"The Cooper Associates County Ground, Taunton",Midlands/Wales/West Division,Taunton,2013-07-05,Friends Life t20,Gloucestershire,Somerset,190/6,192/6,Somerset,4 wickets,190,6,192,6
+593624,"Grace Road, Leicester",North Division,Leicester,2013-07-05,Friends Life t20,Leicestershire,Durham,176/5,165,Leicestershire,11 runs,176,5,165,10
+593623,"Lord's, London",South Division (N),London,2013-07-04,Friends Life t20,Essex,Middlesex,170/8,174/3,Middlesex,7 wickets,170,8,174,3
+593622,"Sophia Gardens, Cardiff",Midlands/Wales/West Division (N),Cardiff,2013-07-03,Friends Life t20,Warwickshire,Glamorgan,118,121/6,Glamorgan,4 wickets,118,10,121,6
+593621,"Kennington Oval, London",South Division (N),London,2013-07-03,Friends Life t20,Surrey,Sussex,139/6,136/8,Surrey,3 runs,139,6,136,8
+593620,"County Ground, Derby",North Division (N),Derby,2013-07-02,Friends Life t20,Lancashire,Derbyshire,151/8,154/3,Derbyshire,7 wickets,151,8,154,3
+593619,"Old Trafford, Manchester",North Division (N),Manchester,2013-07-01,Friends Life t20,Lancashire,Nottinghamshire,155/6,159/6,Nottinghamshire,4 wickets,155,6,159,6
+593616,"St Lawrence Ground, Canterbury",South Division,Canterbury,2013-06-30,Friends Life t20,Surrey,Kent,176/3,145/9,Surrey,31 runs,176,3,145,9
+593615,"North Marine Road Ground, Scarborough",North Division,Scarborough,2013-06-30,Friends Life t20,Yorkshire,Durham,146/7,147/6,Durham,4 wickets,146,7,147,6
+593618,"County Ground, Bristol",Midlands/Wales/West Division,Bristol,2013-06-30,Friends Life t20,Gloucestershire,Worcestershire,184/5,136,Gloucestershire,48 runs,184,5,136,10
+593617,"Lord's, London",South Division,London,2013-06-30,Friends Life t20,Sussex,Middlesex,202/3,178/8,Sussex,24 runs,202,3,178,8
+593614,"Grace Road, Leicester",North Division,Leicester,2013-06-29,Friends Life t20,Derbyshire,Leicestershire,173/3,149,Derbyshire,24 runs,173,3,149,10
+593613,"County Ground, Hove",South Division (N),Brighton,2013-06-28,Friends Life t20,Surrey,Sussex,157/6,147/7,Surrey,10 runs,157,6,147,7
+593612,"St Lawrence Ground, Canterbury",South Division (N),Canterbury,2013-06-28,Friends Life t20,Kent,Middlesex,129/5,111/6,Middlesex,4 wickets,129,5,111,6
+593609,"County Ground, Chelmsford",South Division (N),Chelmsford,2013-06-28,Friends Life t20,Essex,Hampshire,,,,,,,,
+593608,"County Ground, Northampton",Midlands/Wales/West Division (N),Northampton,2013-06-28,Friends Life t20,Northamptonshire,Gloucestershire,124/4,83/9,Northamptonshire,41 runs,124,4,83,9
+593611,"Trent Bridge, Nottingham",North Division,Nottingham,2013-06-28,Friends Life t20,Leicestershire,Nottinghamshire,183/8,184/3,Nottinghamshire,7 wickets,183,8,184,3
+593606,"Headingley, Leeds",North Division,Leeds,2013-06-28,Friends Life t20,Yorkshire,Derbyshire,119/8,120/8,Derbyshire,2 wickets,119,8,120,8
+593610,"Riverside Ground, Chester-le-Street",North Division,Chester-le-Street,2013-06-28,Friends Life t20,Lancashire,Durham,165/3,156/8,Lancashire,9 runs,165,3,156,8
+593607,"County Ground, New Road, Worcester",Midlands/Wales/West Division,Worcester,2013-06-28,Friends Life t20,Glamorgan,Worcestershire,159/4,102/9,Glamorgan,58 runs,159,4,102,9
+593605,"The Rose Bowl, Southampton",South Division (N),Southampton,2013-06-26,Friends Life t20,Surrey,Hampshire,139/6,144/5,Hampshire,5 wickets,139,6,144,5

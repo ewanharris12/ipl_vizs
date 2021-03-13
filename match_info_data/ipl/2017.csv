@@ -1,0 +1,61 @@
+match_id,venue,match_type,city,date,full_league,team_one,team_two,inn_one,inn_two,winner,margin,inn_one_score,inn_one_wickets,inn_two_score,inn_two_wickets
+1082650,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Final (N),Hyderabad,2017-05-21,Indian Premier League,Mumbai Indians,Rising Pune Supergiant,129/8,128/6,Mumbai Indians,1 run,129,8,128,6
+1082649,"M.Chinnaswamy Stadium, Bengaluru",Qualifier 2 (N),Bengaluru,2017-05-19,Indian Premier League,Kolkata Knight Riders,Mumbai Indians,107,111/4,Mumbai Indians,6 wickets,107,10,111,4
+1082648,"M.Chinnaswamy Stadium, Bengaluru",Eliminator (N),Bengaluru,2017-05-17,Indian Premier League,Sunrisers Hyderabad,Kolkata Knight Riders,128/7,48/3,Kolkata Knight Riders,7 wickets,128,7,48,3
+1082647,"Wankhede Stadium, Mumbai",Qualifier 1 (N),Mumbai,2017-05-16,Indian Premier League,Rising Pune Supergiant,Mumbai Indians,162/4,142/9,Rising Pune Supergiants,20 runs,162,4,142,9
+1082646,"Arun Jaitley Stadium, Delhi",56th match (N),Delhi,2017-05-14,Indian Premier League,Royal Challengers Bangalore,Delhi Daredevils,161/6,151,Royal Challengers Bangalore,10 runs,161,6,151,10
+1082645,"Maharashtra Cricket Association Stadium, Pune",55th match (D/N),Pune,2017-05-14,Indian Premier League,Kings XI Punjab,Rising Pune Supergiant,73,78/1,Rising Pune Supergiants,9 wickets,73,10,78,1
+1082644,"Eden Gardens, Kolkata",54th match (N),Kolkata,2017-05-13,Indian Premier League,Mumbai Indians,Kolkata Knight Riders,173/5,164/8,Mumbai Indians,9 runs,173,5,164,8
+1082643,"Green Park, Kanpur",53rd match (D/N),Kanpur,2017-05-13,Indian Premier League,Gujarat Lions,Sunrisers Hyderabad,154,158/2,Sunrisers Hyderabad,8 wickets,154,10,158,2
+1082642,"Arun Jaitley Stadium, Delhi",52nd match (N),Delhi,2017-05-12,Indian Premier League,Delhi Daredevils,Rising Pune Supergiant,168/8,161/7,Delhi Daredevils,7 runs,168,8,161,7
+1082641,"Wankhede Stadium, Mumbai",51st match (N),Mumbai,2017-05-11,Indian Premier League,Kings XI Punjab,Mumbai Indians,230/3,223/6,Kings XI Punjab,7 runs,230,3,223,6
+1082640,"Green Park, Kanpur",50th match (N),Kanpur,2017-05-10,Indian Premier League,Gujarat Lions,Delhi Daredevils,195/5,197/8,Delhi Daredevils,2 wickets,195,5,197,8
+1082639,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",49th match (N),Chandigarh,2017-05-09,Indian Premier League,Kings XI Punjab,Kolkata Knight Riders,167/6,153/6,Kings XI Punjab,14 runs,167,6,153,6
+1082638,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",48th match (N),Hyderabad,2017-05-08,Indian Premier League,Mumbai Indians,Sunrisers Hyderabad,138/7,140/3,Sunrisers Hyderabad,7 wickets,138,7,140,3
+1082637,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",47th match (N),Chandigarh,2017-05-07,Indian Premier League,Kings XI Punjab,Gujarat Lions,189/3,192/4,Gujarat Lions,6 wickets,189,3,192,4
+1082636,"M.Chinnaswamy Stadium, Bengaluru",46th match (D/N),Bengaluru,2017-05-07,Indian Premier League,Royal Challengers Bangalore,Kolkata Knight Riders,158/6,159/4,Kolkata Knight Riders,6 wickets,158,6,159,4
+1082635,"Arun Jaitley Stadium, Delhi",45th match (N),Delhi,2017-05-06,Indian Premier League,Mumbai Indians,Delhi Daredevils,212/3,66,Mumbai Indians,146 runs,212,3,66,10
+1082634,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",44th match (D/N),Hyderabad,2017-05-06,Indian Premier League,Rising Pune Supergiant,Sunrisers Hyderabad,148/8,136/9,Rising Pune Supergiants,12 runs,148,8,136,9
+1082633,"M.Chinnaswamy Stadium, Bengaluru",43rd match (N),Bengaluru,2017-05-05,Indian Premier League,Kings XI Punjab,Royal Challengers Bangalore,138/7,119,Kings XI Punjab,19 runs,138,7,119,10
+1082632,"Arun Jaitley Stadium, Delhi",42nd match (N),Delhi,2017-05-04,Indian Premier League,Gujarat Lions,Delhi Daredevils,208/7,214/3,Delhi Daredevils,7 wickets,208,7,214,3
+1082631,"Eden Gardens, Kolkata",41st match (N),Kolkata,2017-05-03,Indian Premier League,Kolkata Knight Riders,Rising Pune Supergiant,155/8,158/6,Rising Pune Supergiants,4 wickets,155,8,158,6
+1082630,"Arun Jaitley Stadium, Delhi",40th match (N),Delhi,2017-05-02,Indian Premier League,Sunrisers Hyderabad,Delhi Daredevils,185/3,189/4,Delhi Daredevils,6 wickets,185,3,189,4
+1082629,"Maharashtra Cricket Association Stadium, Pune",39th match (N),Pune,2017-05-01,Indian Premier League,Gujarat Lions,Rising Pune Supergiant,161,167/5,Rising Pune Supergiants,5 wickets,161,10,167,5
+1082628,"Wankhede Stadium, Mumbai",38th match (D/N),Mumbai,2017-05-01,Indian Premier League,Royal Challengers Bangalore,Mumbai Indians,162/8,165/5,Mumbai Indians,5 wickets,162,8,165,5
+1082627,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",37th match (N),Hyderabad,2017-04-30,Indian Premier League,Sunrisers Hyderabad,Kolkata Knight Riders,209/3,161/7,Sunrisers Hyderabad,48 runs,209,3,161,7
+1082626,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",36th match (D/N),Chandigarh,2017-04-30,Indian Premier League,Delhi Daredevils,Kings XI Punjab,67,68/0,Kings XI Punjab,10 wickets,67,10,68,0
+1082625,"Saurashtra Cricket Association Stadium, Rajkot",35th match (N),Rajkot,2017-04-29,Indian Premier League,Gujarat Lions,Mumbai Indians,153/9,153,Mumbai Indians,Super Over,153,9,153,10
+1082624,"Maharashtra Cricket Association Stadium, Pune",34th match (D/N),Pune,2017-04-29,Indian Premier League,Rising Pune Supergiant,Royal Challengers Bangalore,157/3,96/9,Rising Pune Supergiants,61 runs,157,3,96,9
+1082623,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",33rd match (N),Chandigarh,2017-04-28,Indian Premier League,Sunrisers Hyderabad,Kings XI Punjab,207/3,181/9,Sunrisers Hyderabad,26 runs,207,3,181,9
+1082622,"Eden Gardens, Kolkata",32nd match (D/N),Kolkata,2017-04-28,Indian Premier League,Delhi Daredevils,Kolkata Knight Riders,160/6,161/3,Kolkata Knight Riders,7 wickets,160,6,161,3
+1082621,"M.Chinnaswamy Stadium, Bengaluru",31st match (N),Bengaluru,2017-04-27,Indian Premier League,Royal Challengers Bangalore,Gujarat Lions,134,135/3,Gujarat Lions,7 wickets,134,10,135,3
+1082620,"Maharashtra Cricket Association Stadium, Pune",30th match (N),Pune,2017-04-26,Indian Premier League,Rising Pune Supergiant,Kolkata Knight Riders,182/5,184/3,Kolkata Knight Riders,7 wickets,182,5,184,3
+1082619,"M.Chinnaswamy Stadium, Bengaluru",29th match (N),Bengaluru,2017-04-25,Indian Premier League,Royal Challengers Bangalore,Sunrisers Hyderabad,,,,,,,,
+1082618,"Wankhede Stadium, Mumbai",28th match (N),Mumbai,2017-04-24,Indian Premier League,Rising Pune Supergiant,Mumbai Indians,160/6,157/8,Rising Pune Supergiants,3 runs,160,6,157,8
+1082617,"Eden Gardens, Kolkata",27th match (N),Kolkata,2017-04-23,Indian Premier League,Kolkata Knight Riders,Royal Challengers Bangalore,131,49,Kolkata Knight Riders,82 runs,131,10,49,10
+1082616,"Saurashtra Cricket Association Stadium, Rajkot",26th match (D/N),Rajkot,2017-04-23,Indian Premier League,Kings XI Punjab,Gujarat Lions,188/7,162/7,Kings XI Punjab,26 runs,188,7,162,7
+1082614,"Wankhede Stadium, Mumbai",25th match (N),Mumbai,2017-04-22,Indian Premier League,Mumbai Indians,Delhi Daredevils,142/8,128/7,Mumbai Indians,14 runs,142,8,128,7
+1082615,"Maharashtra Cricket Association Stadium, Pune",24th match (D/N),Pune,2017-04-22,Indian Premier League,Sunrisers Hyderabad,Rising Pune Supergiant,176/3,179/4,Rising Pune Supergiants,6 wickets,176,3,179,4
+1082613,"Eden Gardens, Kolkata",23rd match (N),Kolkata,2017-04-21,Indian Premier League,Kolkata Knight Riders,Gujarat Lions,187/5,188/6,Gujarat Lions,4 wickets,187,5,188,6
+1082612,"Holkar Cricket Stadium, Indore",22nd match (N),Indore,2017-04-20,Indian Premier League,Kings XI Punjab,Mumbai Indians,198/4,199/2,Mumbai Indians,8 wickets,198,4,199,2
+1082611,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",21st match (N),Hyderabad,2017-04-19,Indian Premier League,Sunrisers Hyderabad,Delhi Daredevils,191/4,176/5,Sunrisers Hyderabad,15 runs,191,4,176,5
+1082610,"Saurashtra Cricket Association Stadium, Rajkot",20th match (N),Rajkot,2017-04-18,Indian Premier League,Royal Challengers Bangalore,Gujarat Lions,213/2,192/7,Royal Challengers Bangalore,21 runs,213,2,192,7
+1082609,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",19th match (N),Hyderabad,2017-04-17,Indian Premier League,Sunrisers Hyderabad,Kings XI Punjab,159/6,154,Sunrisers Hyderabad,5 runs,159,6,154,10
+1082608,"Arun Jaitley Stadium, Delhi",18th match (D/N),Delhi,2017-04-17,Indian Premier League,Delhi Daredevils,Kolkata Knight Riders,168/7,169/6,Kolkata Knight Riders,4 wickets,168,7,169,6
+1082607,"M.Chinnaswamy Stadium, Bengaluru",17th match (N),Bengaluru,2017-04-16,Indian Premier League,Rising Pune Supergiant,Royal Challengers Bangalore,161/8,134/9,Rising Pune Supergiants,27 runs,161,8,134,9
+1082606,"Wankhede Stadium, Mumbai",16th match (D/N),Mumbai,2017-04-16,Indian Premier League,Gujarat Lions,Mumbai Indians,176/4,177/4,Mumbai Indians,6 wickets,176,4,177,4
+1082605,"Arun Jaitley Stadium, Delhi",15th match (N),Delhi,2017-04-15,Indian Premier League,Delhi Daredevils,Kings XI Punjab,188/6,137/9,Delhi Daredevils,51 runs,188,6,137,9
+1082604,"Eden Gardens, Kolkata",14th match (D/N),Kolkata,2017-04-15,Indian Premier League,Kolkata Knight Riders,Sunrisers Hyderabad,172/6,155/6,Kolkata Knight Riders,17 runs,172,6,155,6
+1082603,"Saurashtra Cricket Association Stadium, Rajkot",13th match (N),Rajkot,2017-04-14,Indian Premier League,Rising Pune Supergiant,Gujarat Lions,171/8,172/3,Gujarat Lions,7 wickets,171,8,172,3
+1082602,"M.Chinnaswamy Stadium, Bengaluru",12th match (D/N),Bengaluru,2017-04-14,Indian Premier League,Royal Challengers Bangalore,Mumbai Indians,142/5,145/6,Mumbai Indians,4 wickets,142,5,145,6
+1082601,"Eden Gardens, Kolkata",11th match (N),Kolkata,2017-04-13,Indian Premier League,Kings XI Punjab,Kolkata Knight Riders,170/9,171/2,Kolkata Knight Riders,8 wickets,170,9,171,2
+1082600,"Wankhede Stadium, Mumbai",10th match (N),Mumbai,2017-04-12,Indian Premier League,Sunrisers Hyderabad,Mumbai Indians,158/8,159/6,Mumbai Indians,4 wickets,158,8,159,6
+1082599,"Maharashtra Cricket Association Stadium, Pune",9th match (N),Pune,2017-04-11,Indian Premier League,Delhi Daredevils,Rising Pune Supergiant,205/4,108,Delhi Daredevils,97 runs,205,4,108,10
+1082598,"Holkar Cricket Stadium, Indore",8th match (N),Indore,2017-04-10,Indian Premier League,Royal Challengers Bangalore,Kings XI Punjab,148/4,150/2,Kings XI Punjab,8 wickets,148,4,150,2
+1082597,"Wankhede Stadium, Mumbai",7th match (N),Mumbai,2017-04-09,Indian Premier League,Kolkata Knight Riders,Mumbai Indians,178/7,180/6,Mumbai Indians,4 wickets,178,7,180,6
+1082596,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",6th match (D/N),Hyderabad,2017-04-09,Indian Premier League,Gujarat Lions,Sunrisers Hyderabad,135/7,140/1,Sunrisers Hyderabad,9 wickets,135,7,140,1
+1082595,"M.Chinnaswamy Stadium, Bengaluru",5th match (N),Bengaluru,2017-04-08,Indian Premier League,Royal Challengers Bangalore,Delhi Daredevils,157/8,142/9,Royal Challengers Bangalore,15 runs,157,8,142,9
+1082594,"Holkar Cricket Stadium, Indore",4th match (D/N),Indore,2017-04-08,Indian Premier League,Rising Pune Supergiant,Kings XI Punjab,163/6,164/4,Kings XI Punjab,6 wickets,163,6,164,4
+1082593,"Saurashtra Cricket Association Stadium, Rajkot",3rd match (N),Rajkot,2017-04-07,Indian Premier League,Gujarat Lions,Kolkata Knight Riders,183/4,184/0,Kolkata Knight Riders,10 wickets,183,4,184,0
+1082592,"Maharashtra Cricket Association Stadium, Pune",2nd match (N),Pune,2017-04-06,Indian Premier League,Mumbai Indians,Rising Pune Supergiant,184/8,187/3,Rising Pune Supergiants,7 wickets,184,8,187,3
+1082591,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1st match (N),Hyderabad,2017-04-05,Indian Premier League,Sunrisers Hyderabad,Royal Challengers Bangalore,207/4,172,Sunrisers Hyderabad,35 runs,207,4,172,10

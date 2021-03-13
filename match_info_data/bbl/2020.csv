@@ -1,0 +1,62 @@
+match_id,venue,match_type,city,date,full_league,team_one,team_two,inn_one,inn_two,winner,margin,inn_one_score,inn_one_wickets,inn_two_score,inn_two_wickets
+1226882,Sydney Cricket Ground,Final,Sydney,2021-02-06,Big Bash League,Sydney Sixers,Perth Scorchers,188/6,161/9,Sydney Sixers,27 runs,188,6,161,9
+1226886,"Manuka Oval, Canberra",Challenger,Canberra,2021-02-04,Big Bash League,Perth Scorchers,Brisbane Heat,189/1,150/9,Perth Scorchers,49 runs,189,1,150,9
+1226885,"Manuka Oval, Canberra",Knockout (N),Canberra,2021-01-31,Big Bash League,Sydney Thunder,Brisbane Heat,158/8,162/3,Brisbane Heat,7 wickets,158,8,162,3
+1226884,"Manuka Oval, Canberra",Qualifier (N),Canberra,2021-01-30,Big Bash League,Perth Scorchers,Sydney Sixers,167/6,168/1,Sydney Sixers,9 wickets,167,6,168,1
+1226883,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Eliminator (N),Brisbane,2021-01-29,Big Bash League,Adelaide Strikers,Brisbane Heat,130/7,131/4,Brisbane Heat,6 wickets,130,7,131,4
+1226858,Melbourne Cricket Ground,56th Match (N),Melbourne,2021-01-26,Big Bash League,Melbourne Stars,Sydney Sixers,177/6,180/5,Sydney Sixers,5 wickets,177,6,180,5
+1226860,Melbourne Cricket Ground,55th Match (D/N),Melbourne,2021-01-26,Big Bash League,Melbourne Renegades,Hobart Hurricanes,150/5,139/9,Melbourne Renegades,11 runs,150,5,139,9
+1226862,Adelaide Oval,54th Match,Adelaide,2021-01-26,Big Bash League,Brisbane Heat,Perth Scorchers,181/7,175/6,Brisbane Heat,6 runs,181,7,175,6
+1226836,Adelaide Oval,53rd Match (N),Adelaide,2021-01-25,Big Bash League,Adelaide Strikers,Sydney Thunder,115/4,116/1,Sydney Thunder,9 wickets,115,4,116,1
+1226827,Melbourne Cricket Ground,52nd Match (N),Melbourne,2021-01-24,Big Bash League,Hobart Hurricanes,Sydney Sixers,188/8,181/8,Hobart Hurricanes,7 runs,188,8,181,8
+1226847,Adelaide Oval,51st Match (D/N),Adelaide,2021-01-24,Big Bash League,Adelaide Strikers,Sydney Thunder,159/6,153/7,Adelaide Strikers,6 runs,159,6,153,7
+1226849,Melbourne Cricket Ground,50th Match (N),Melbourne,2021-01-23,Big Bash League,Perth Scorchers,Melbourne Stars,182/4,171/6,Perth Scorchers,11 runs,182,4,171,6
+1226848,"Docklands Stadium, Melbourne",49th Match (D/N),Melbourne,2021-01-23,Big Bash League,Brisbane Heat,Melbourne Renegades,173/5,147,Brisbane Heat,26 runs,173,5,147,10
+1226880,Adelaide Oval,48th Match (N),Adelaide,2021-01-22,Big Bash League,Sydney Thunder,Sydney Sixers,232/5,186/5,Sydney Thunder,46 runs,232,5,186,5
+1226834,"Docklands Stadium, Melbourne",47th Match (D/N),Melbourne,2021-01-22,Big Bash League,Perth Scorchers,Hobart Hurricanes,179/8,157/8,Perth Scorchers,22 runs,179,8,157,8
+1226859,Adelaide Oval,46th Match (N),Adelaide,2021-01-21,Big Bash League,Adelaide Strikers,Brisbane Heat,197/5,115,Adelaide Strikers,82 runs,197,5,115,10
+1226869,"Docklands Stadium, Melbourne",45th Match (N),Melbourne,2021-01-20,Big Bash League,Melbourne Stars,Melbourne Renegades,158/6,160/5,Melbourne Renegades,5 wickets,158,6,160,5
+1226838,"Docklands Stadium, Melbourne",44th Match (N),Melbourne,2021-01-19,Big Bash League,Perth Scorchers,Brisbane Heat,174/5,115,Perth Scorchers,59 runs,174,5,115,10
+1226840,"Manuka Oval, Canberra",43rd Match (N),Canberra,2021-01-18,Big Bash League,Sydney Thunder,Hobart Hurricanes,177/5,181/4,Hobart Hurricanes,6 wickets,177,5,181,4
+1226864,Melbourne Cricket Ground,42nd Match (N),Melbourne,2021-01-17,Big Bash League,Melbourne Renegades,Melbourne Stars,150,153/4,Melbourne Stars,6 wickets,150,10,153,4
+1226865,"Manuka Oval, Canberra",41st Match (N),Canberra,2021-01-16,Big Bash League,Perth Scorchers,Sydney Sixers,163/7,164/3,Sydney Sixers,7 wickets,163,7,164,3
+1226839,Melbourne Cricket Ground,40th Match (N),Melbourne,2021-01-15,Big Bash League,Melbourne Stars,Adelaide Strikers,179/2,68,Melbourne Stars,111 runs,179,2,68,10
+1226843,"Manuka Oval, Canberra",39th Match (N),Canberra,2021-01-14,Big Bash League,Melbourne Renegades,Brisbane Heat,149/6,150/5,Brisbane Heat,5 wickets,149,6,150,5
+1226861,"Manuka Oval, Canberra",38th Match (N),Canberra,2021-01-13,Big Bash League,Sydney Thunder,Sydney Sixers,166/6,132/5,Sydney Sixers,5 wickets,166,6,132,5
+1226857,Perth Stadium,37th Match (D/N),Perth,2021-01-12,Big Bash League,Hobart Hurricanes,Perth Scorchers,139/5,140/1,Perth Scorchers,9 wickets,139,5,140,1
+1226876,Adelaide Oval,36th Match (N),Adelaide,2021-01-11,Big Bash League,Melbourne Stars,Adelaide Strikers,149/7,150/5,Adelaide Strikers,5 wickets,149,7,150,5
+1226855,Carrara Oval,35th Match (N),Carrara,2021-01-10,Big Bash League,Brisbane Heat,Sydney Sixers,148,152/7,Sydney Sixers,3 wickets,148,10,152,7
+1226878,Perth Stadium,34th Match (D/N),Perth,2021-01-09,Big Bash League,Perth Scorchers,Sydney Thunder,185/6,168,Perth Scorchers,17 runs,185,6,168,10
+1226826,Adelaide Oval,33rd Match (D/N),Adelaide,2021-01-08,Big Bash League,Adelaide Strikers,Melbourne Renegades,177/7,178/4,Melbourne Renegades,6 wickets,177,7,178,4
+1226835,Carrara Oval,32nd Match (N),Carrara,2021-01-07,Big Bash League,Brisbane Heat,Melbourne Stars,115/3,111/5,Brisbane Heat,18 runs,115,3,111,5
+1226871,Perth Stadium,31st Match (D/N),Perth,2021-01-07,Big Bash League,Sydney Thunder,Hobart Hurricanes,167/5,128/8,Sydney Thunder,39 runs,167,5,128,8
+1226829,Perth Stadium,30th Match (D/N),Perth,2021-01-06,Big Bash League,Perth Scorchers,Sydney Sixers,183/4,97,Perth Scorchers,86 runs,183,4,97,10
+1226833,Adelaide Oval,29th Match (N),Adelaide,2021-01-05,Big Bash League,Adelaide Strikers,Melbourne Renegades,171/5,111,Adelaide Strikers,60 runs,171,5,111,10
+1226851,"Brisbane Cricket Ground, Woolloongabba, Brisbane",28th Match (N),Brisbane,2021-01-04,Big Bash League,Sydney Thunder,Brisbane Heat,174/8,175/5,Brisbane Heat,5 wickets,174,8,175,5
+1226879,"Bellerive Oval, Hobart",27th Match (D/N),Hobart,2021-01-04,Big Bash League,Melbourne Stars,Hobart Hurricanes,183/6,173/6,Melbourne Stars,10 runs,183,6,173,6
+1226842,Carrara Oval,26th Match (N),Carrara,2021-01-03,Big Bash League,Adelaide Strikers,Sydney Sixers,150/4,151/3,Sydney Sixers,7 wickets,150,4,151,3
+1226853,Perth Stadium,25th Match,Perth,2021-01-03,Big Bash League,Perth Scorchers,Melbourne Renegades,185/3,89,Perth Scorchers,96 runs,185,3,89,10
+1226832,"Brisbane Cricket Ground, Woolloongabba, Brisbane",24th Match (N),Brisbane,2021-01-02,Big Bash League,Sydney Sixers,Brisbane Heat,165/8,171/6,Brisbane Heat,4 wickets,165,8,171,6
+1226844,"Bellerive Oval, Hobart",23rd Match (D/N),Hobart,2021-01-02,Big Bash League,Hobart Hurricanes,Melbourne Stars,164/5,143/9,Hobart Hurricanes,21 runs,164,5,143,9
+1226856,Carrara Oval,22nd Match (N),Carrara,2021-01-01,Big Bash League,Melbourne Renegades,Sydney Thunder,166/6,117/2,Sydney Thunder,7 runs,166,6,117,2
+1226870,Adelaide Oval,21st Match (N),Adelaide,2020-12-31,Big Bash League,Adelaide Strikers,Perth Scorchers,146/9,147/3,Perth Scorchers,7 wickets,146,9,147,3
+1226875,"Brisbane Cricket Ground, Woolloongabba, Brisbane",20th Match (N),Brisbane,2020-12-30,Big Bash League,Hobart Hurricanes,Brisbane Heat,150,149/8,Hobart Hurricanes,1 run,150,10,149,8
+1226854,"Manuka Oval, Canberra",19th Match (N),Canberra,2020-12-29,Big Bash League,Sydney Thunder,Melbourne Stars,219/7,144,Sydney Thunder,75 runs,219,7,144,10
+1226877,Carrara Oval,18th Match (D/N),Carrara,2020-12-29,Big Bash League,Melbourne Renegades,Sydney Sixers,168/6,169/8,Sydney Sixers,2 wickets,168,6,169,8
+1226845,Adelaide Oval,17th Match (N),Adelaide,2020-12-28,Big Bash League,Adelaide Strikers,Perth Scorchers,165/8,94,Adelaide Strikers,71 runs,165,8,94,10
+1226868,"Brisbane Cricket Ground, Woolloongabba, Brisbane",16th Match (N),Brisbane,2020-12-27,Big Bash League,Hobart Hurricanes,Brisbane Heat,148/7,152/6,Brisbane Heat,4 wickets,148,7,152,6
+1226846,Carrara Oval,15th Match (N),Carrara,2020-12-26,Big Bash League,Melbourne Stars,Sydney Sixers,193/5,194/9,Sydney Sixers,1 wicket,193,5,194,9
+1226874,"Manuka Oval, Canberra",14th Match (N),Canberra,2020-12-26,Big Bash League,Sydney Thunder,Melbourne Renegades,209/8,80,Sydney Thunder,129 runs,209,8,80,10
+1226881,"Brisbane Cricket Ground, Woolloongabba, Brisbane",13th Match (N),Brisbane,2020-12-23,Big Bash League,Adelaide Strikers,Brisbane Heat,150/6,148/9,Adelaide Strikers,2 runs,150,6,148,9
+1226831,"Manuka Oval, Canberra",12th Match (N),Canberra,2020-12-22,Big Bash League,Perth Scorchers,Sydney Thunder,152/5,156/3,Sydney Thunder,7 wickets,152,5,156,3
+1226873,"Bellerive Oval, Hobart",11th Match (D/N),Hobart,2020-12-20,Big Bash League,Sydney Sixers,Adelaide Strikers,177/5,139/7,Sydney Sixers,38 runs,177,5,139,7
+1226830,"Bellerive Oval, Hobart",10th Match,Hobart,2020-12-19,Big Bash League,Melbourne Renegades,Hobart Hurricanes,157/5,161/4,Hobart Hurricanes,6 wickets,157,5,161,4
+1226867,"Aurora Stadium, Launceston",9th Match (N),Launceston,2020-12-16,Big Bash League,Perth Scorchers,Melbourne Stars,158/6,10/1,,,158,6,10,1
+1226863,"Aurora Stadium, Launceston",8th Match (N),Launceston,2020-12-15,Big Bash League,Hobart Hurricanes,Adelaide Strikers,146,147/5,Adelaide Strikers,5 wickets,146,10,147,5
+1226866,"Manuka Oval, Canberra",7th Match (N),Canberra,2020-12-14,Big Bash League,Brisbane Heat,Sydney Thunder,178/6,180/6,Sydney Thunder,4 wickets,178,6,180,6
+1226837,"Bellerive Oval, Hobart",6th Match (N),Hobart,2020-12-13,Big Bash League,Sydney Sixers,Melbourne Renegades,205/4,60,Sydney Sixers,145 runs,205,4,60,10
+1226850,"Bellerive Oval, Hobart",5th Match,Hobart,2020-12-13,Big Bash League,Hobart Hurricanes,Adelaide Strikers,174/5,163/9,Hobart Hurricanes,11 runs,174,5,163,9
+1226841,"Bellerive Oval, Hobart",4th Match (N),Hobart,2020-12-12,Big Bash League,Perth Scorchers,Melbourne Renegades,130,131/3,Melbourne Renegades,7 wickets,130,10,131,3
+1226828,"Manuka Oval, Canberra",3rd Match (D/N),Canberra,2020-12-12,Big Bash League,Melbourne Stars,Sydney Thunder,169/8,147/9,Melbourne Stars,22 runs,169,8,147,9
+1226872,"Manuka Oval, Canberra",2nd Match (N),Canberra,2020-12-11,Big Bash League,Brisbane Heat,Melbourne Stars,125,129/4,Melbourne Stars,6 wickets,125,10,129,4
+1226852,"Bellerive Oval, Hobart",1st Match (N),Hobart,2020-12-10,Big Bash League,Hobart Hurricanes,Sydney Sixers,178/8,162/6,Hobart Hurricanes,16 runs,178,8,162,6

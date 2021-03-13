@@ -1,0 +1,98 @@
+match_id,venue,match_type,city,date,full_league,team_one,team_two,inn_one,inn_two,winner,margin,inn_one_score,inn_one_wickets,inn_two_score,inn_two_wickets
+383223,"Edgbaston, Birmingham",Final (N),Birmingham,2009-08-15,Twenty20 Cup,Sussex,Somerset,172/7,109,Sussex,63 runs,172,7,109,10
+383222,"Edgbaston, Birmingham",2nd Semi-Final,Birmingham,2009-08-15,Twenty20 Cup,Kent,Somerset,145/5,146/3,Somerset,7 wickets,145,5,146,3
+383221,"Edgbaston, Birmingham",1st Semi-Final,Birmingham,2009-08-15,Twenty20 Cup,Northamptonshire,Sussex,136/6,137/3,Sussex,7 wickets,136,6,137,3
+383220,"County Ground, Northampton",Quarter-Final,Northampton,2009-07-29,Twenty20 Cup,Northamptonshire,Hampshire,134/6,121,Northamptonshire,13 runs,134,6,121,10
+383219,"Old Trafford, Manchester",Quarter-Final,Manchester,2009-07-28,Twenty20 Cup,Lancashire,Somerset,,,,,,,,
+383218,"County Ground, Hove",Quarter-Final,Brighton,2009-07-27,Twenty20 Cup,Sussex,Warwickshire,152/9,114,Sussex,38 runs,152,9,114,10
+383217,"St Lawrence Ground, Canterbury",Quarter-Final,Canterbury,2009-07-27,Twenty20 Cup,Kent,Durham,149/7,93,Kent,56 runs,149,7,93,10
+383208,"County Ground, Chelmsford",South Division,Chelmsford,2009-06-28,Twenty20 Cup,Essex,Hampshire,149/6,153/4,Hampshire,6 wickets,149,6,153,4
+383216,"Headingley, Leeds",North Division,Leeds,2009-06-28,Twenty20 Cup,Derbyshire,Yorkshire,164/5,127,Derbyshire,37 runs,164,5,127,10
+383215,"Edgbaston, Birmingham",Midlands/Wales/West Division,Birmingham,2009-06-28,Twenty20 Cup,Warwickshire,Somerset,193/6,192/7,Warwickshire,1 run,193,6,192,7
+383214,"Trent Bridge, Nottingham",North Division,Nottingham,2009-06-28,Twenty20 Cup,Nottinghamshire,Lancashire,173/7,175/1,Lancashire,9 wickets,173,7,175,1
+383213,"County Ground, Northampton",Midlands/Wales/West Division,Northampton,2009-06-28,Twenty20 Cup,Worcestershire,Northamptonshire,109/9,110/3,Northamptonshire,7 wickets,109,9,110,3
+383212,"Lord's, London",South Division,London,2009-06-28,Twenty20 Cup,Middlesex,Sussex,127/8,130/4,Sussex,6 wickets,127,8,130,4
+383211,"Grace Road, Leicester",North Division,Leicester,2009-06-28,Twenty20 Cup,Leicestershire,Durham,133/8,137/4,Durham,6 wickets,133,8,137,4
+383210,"The Kent County Cricket Ground, Beckenham",South Division,Beckenham,2009-06-28,Twenty20 Cup,Kent,Surrey,184/7,168/9,Kent,16 runs,184,7,168,9
+383209,"County Ground, Bristol",Midlands/Wales/West Division,Bristol,2009-06-28,Twenty20 Cup,Gloucestershire,Glamorgan,148/7,151/4,Glamorgan,6 wickets,148,7,151,4
+383207,"Kennington Oval, London",South Division,London,2009-06-27,Twenty20 Cup,Surrey,Middlesex,160/5,162/3,Middlesex,7 wickets,160,5,162,3
+383202,"The Rose Bowl, Southampton",South Division (N),Southampton,2009-06-26,Twenty20 Cup,Hampshire,Kent,131/7,132/3,Kent,7 wickets,131,7,132,3
+383200,"Sophia Gardens, Cardiff",Midlands/Wales/West Division (N),Cardiff,2009-06-26,Twenty20 Cup,Northamptonshire,Glamorgan,157/7,137/9,Northamptonshire,20 runs,157,7,137,9
+383199,"Riverside Ground, Chester-le-Street",North Division,Chester-le-Street,2009-06-26,Twenty20 Cup,Durham,Lancashire,,,,,,,,
+383201,"County Ground, Bristol",Midlands/Wales/West Division,Bristol,2009-06-26,Twenty20 Cup,Gloucestershire,Somerset,173,175/7,Somerset,3 wickets,173,10,175,7
+383206,"County Ground, New Road, Worcester",Midlands/Wales/West Division,Worcester,2009-06-26,Twenty20 Cup,Worcestershire,Warwickshire,162/6,166/3,Warwickshire,7 wickets,162,6,166,3
+383205,"Trent Bridge, Nottingham",North Division,Nottingham,2009-06-26,Twenty20 Cup,Derbyshire,Nottinghamshire,165/6,166/2,Nottinghamshire,8 wickets,165,6,166,2
+383204,"Lord's, London",South Division,London,2009-06-26,Twenty20 Cup,Middlesex,Essex,166/5,143,Middlesex,23 runs,166,5,143,10
+383203,"Grace Road, Leicester",North Division,Leicester,2009-06-26,Twenty20 Cup,Leicestershire,Yorkshire,164/6,153/6,Leicestershire,11 runs,164,6,153,6
+383196,"County Ground, Derby",North Division (N),Derby,2009-06-25,Twenty20 Cup,Lancashire,Derbyshire,220/5,164/7,Lancashire,56 runs,220,5,164,7
+383198,"Kennington Oval, London",South Division,London,2009-06-25,Twenty20 Cup,Essex,Surrey,210/3,126,Essex,84 runs,210,3,126,10
+383197,"The Cooper Associates County Ground, Taunton",Midlands/Wales/West Division,Taunton,2009-06-25,Twenty20 Cup,Northamptonshire,Somerset,,,,,,,,
+383192,"Riverside Ground, Chester-le-Street",North Division,Chester-le-Street,2009-06-24,Twenty20 Cup,Durham,Yorkshire,131/7,90/9,Durham,41 runs,131,7,90,9
+383195,"County Ground, New Road, Worcester",Midlands/Wales/West Division,Worcester,2009-06-24,Twenty20 Cup,Worcestershire,Glamorgan,222/4,121/6,Worcestershire,101 runs,222,4,121,6
+383194,"Kennington Oval, London",South Division,London,2009-06-24,Twenty20 Cup,Kent,Surrey,168/6,167,Kent,1 run,168,6,167,10
+383193,"Trent Bridge, Nottingham",North Division,Nottingham,2009-06-24,Twenty20 Cup,Leicestershire,Nottinghamshire,123/7,124/1,Nottinghamshire,9 wickets,123,7,124,1
+383188,"The Rose Bowl, Southampton",South Division (N),Southampton,2009-06-23,Twenty20 Cup,Hampshire,Middlesex,183/6,155/5,Hampshire,28 runs,183,6,155,5
+383187,"County Ground, Derby",North Division (N),Derby,2009-06-23,Twenty20 Cup,Derbyshire,Durham,153/6,154/4,Durham,6 wickets,153,6,154,4
+383191,"Edgbaston, Birmingham",Midlands/Wales/West Division,Birmingham,2009-06-23,Twenty20 Cup,Glamorgan,Warwickshire,148/7,149/6,Warwickshire,4 wickets,148,7,149,6
+383190,"The Cooper Associates County Ground, Taunton",Midlands/Wales/West Division,Taunton,2009-06-23,Twenty20 Cup,Worcestershire,Somerset,176/8,177/3,Somerset,7 wickets,176,8,177,3
+383189,"County Ground, Northampton",Midlands/Wales/West Division,Northampton,2009-06-23,Twenty20 Cup,Northamptonshire,Gloucestershire,133,134/8,Gloucestershire,2 wickets,133,10,134,8
+383186,"County Ground, Hove",South Division (N),Brighton,2009-06-22,Twenty20 Cup,Surrey,Sussex,123,125/4,Sussex,6 wickets,123,10,125,4
+383181,"County Ground, Chelmsford",South Division (N),Chelmsford,2009-06-22,Twenty20 Cup,Middlesex,Essex,148,151/2,Essex,8 wickets,148,10,151,2
+383185,"Trent Bridge, Nottingham",North Division,Nottingham,2009-06-22,Twenty20 Cup,Nottinghamshire,Yorkshire,165/4,154/8,Nottinghamshire,11 runs,165,4,154,8
+383184,"Aigburth, Liverpool",North Division,Liverpool,2009-06-22,Twenty20 Cup,Leicestershire,Lancashire,146/5,138,Leicestershire,8 runs,146,5,138,10
+383183,"Nevill Ground, Tunbridge Wells",South Division,Tunbridge Wells,2009-06-22,Twenty20 Cup,Kent,Hampshire,182/4,174/7,Kent,8 runs,182,4,174,7
+383182,"County Ground, Bristol",Midlands/Wales/West Division,Bristol,2009-06-22,Twenty20 Cup,Gloucestershire,Warwickshire,141,144/3,Warwickshire,7 wickets,141,10,144,3
+383178,"County Ground, Hove",South Division (N),Brighton,2009-06-04,Twenty20 Cup,Sussex,Kent,131/3,,Sussex,2 runs,131,3,,
+383175,"The Rose Bowl, Southampton",South Division (N),Southampton,2009-06-04,Twenty20 Cup,Hampshire,Essex,219/2,144,Hampshire,75 runs,219,2,144,10
+383173,"County Ground, Derby",North Division (N),Derby,2009-06-04,Twenty20 Cup,Leicestershire,Derbyshire,144/6,130/5,Leicestershire,14 runs,144,6,130,5
+383180,"Headingley, Leeds",North Division,Leeds,2009-06-04,Twenty20 Cup,Nottinghamshire,Yorkshire,155/6,156/2,Yorkshire,8 wickets,155,6,156,2
+383179,"Edgbaston, Birmingham",Midlands/Wales/West Division,Birmingham,2009-06-04,Twenty20 Cup,Gloucestershire,Warwickshire,135/7,139/6,Warwickshire,4 wickets,135,7,139,6
+383177,"County Ground, Northampton",Midlands/Wales/West Division,Northampton,2009-06-04,Twenty20 Cup,Somerset,Northamptonshire,163/3,133/9,Somerset,30 runs,163,3,133,9
+383176,"Old Trafford, Manchester",North Division,Manchester,2009-06-04,Twenty20 Cup,Durham,Lancashire,123/6,124/4,Lancashire,6 wickets,123,6,124,4
+383174,"Sophia Gardens, Cardiff",Midlands/Wales/West Division,Cardiff,2009-06-04,Twenty20 Cup,Worcestershire,Glamorgan,164/6,135,Worcestershire,29 runs,164,6,135,10
+383169,"County Ground, Chelmsford",South Division (N),Chelmsford,2009-06-03,Twenty20 Cup,Essex,Sussex,126/7,130/2,Sussex,8 wickets,126,7,130,2
+383172,"County Ground, New Road, Worcester",Midlands/Wales/West Division,Worcester,2009-06-03,Twenty20 Cup,Worcestershire,Somerset,165/6,157,Worcestershire,8 runs,165,6,157,10
+383171,"Grace Road, Leicester",North Division,Leicester,2009-06-03,Twenty20 Cup,Leicestershire,Nottinghamshire,205/2,135,Leicestershire,70 runs,205,2,135,10
+383170,"County Ground, Bristol",Midlands/Wales/West Division,Bristol,2009-06-03,Twenty20 Cup,Northamptonshire,Gloucestershire,162,152/7,Northamptonshire,10 runs,162,10,152,7
+383168,"Headingley, Leeds",North Division,Leeds,2009-06-02,Twenty20 Cup,Durham,Yorkshire,116/8,117/8,Yorkshire,2 wickets,116,8,117,8
+383167,Uxbridge Cricket Club Ground,South Division,Uxbridge,2009-06-02,Twenty20 Cup,Hampshire,Middlesex,181/6,125,Hampshire,56 runs,181,6,125,10
+383166,"Old Trafford, Manchester",North Division,Manchester,2009-06-02,Twenty20 Cup,Lancashire,Derbyshire,165/7,127/9,Lancashire,38 runs,165,7,127,9
+383164,"County Ground, Hove",South Division (N),Brighton,2009-06-01,Twenty20 Cup,Middlesex,Sussex,116,120/3,Sussex,7 wickets,116,10,120,3
+383161,"County Ground, Chelmsford",South Division (N),Chelmsford,2009-06-01,Twenty20 Cup,Essex,Kent,205/4,169/7,Essex,36 runs,205,4,169,7
+383165,"Edgbaston, Birmingham",Midlands/Wales/West Division,Birmingham,2009-06-01,Twenty20 Cup,Northamptonshire,Warwickshire,155/7,131/6,Northamptonshire,24 runs,155,7,131,6
+383163,"The Cooper Associates County Ground, Taunton",Midlands/Wales/West Division,Taunton,2009-06-01,Twenty20 Cup,Glamorgan,Somerset,128/7,132/0,Somerset,10 wickets,128,7,132,0
+383162,"County Ground, Bristol",Midlands/Wales/West Division,Bristol,2009-06-01,Twenty20 Cup,Worcestershire,Gloucestershire,188/5,175/8,Worcestershire,13 runs,188,5,175,8
+383159,"St Lawrence Ground, Canterbury",South Division,Canterbury,2009-05-31,Twenty20 Cup,Sussex,Kent,132/7,133/5,Kent,5 wickets,132,7,133,5
+383160,"Grace Road, Leicester",North Division,Leicester,2009-05-31,Twenty20 Cup,Leicestershire,Lancashire,147/3,151/3,Lancashire,7 wickets,147,3,151,3
+383158,"The Rose Bowl, Southampton",South Division,Southampton,2009-05-31,Twenty20 Cup,Hampshire,Surrey,191/6,173/8,Hampshire,18 runs,191,6,173,8
+383157,"Riverside Ground, Chester-le-Street",North Division,Chester-le-Street,2009-05-31,Twenty20 Cup,Durham,Nottinghamshire,177/4,169,Durham,8 runs,177,4,169,10
+383156,"Queen's Park, Chesterfield",North Division,Chesterfield,2009-05-31,Twenty20 Cup,Derbyshire,Yorkshire,131/6,134/2,Yorkshire,8 wickets,131,6,134,2
+383154,"Sophia Gardens, Cardiff",Midlands/Wales/West Division,Cardiff,2009-05-30,Twenty20 Cup,Glamorgan,Warwickshire,129/8,133/4,Warwickshire,6 wickets,129,8,133,4
+383155,"County Ground, New Road, Worcester",Midlands/Wales/West Division,Worcester,2009-05-30,Twenty20 Cup,Worcestershire,Northamptonshire,140/5,142/4,Northamptonshire,6 wickets,140,5,142,4
+383151,"County Ground, Hove",South Division (N),Brighton,2009-05-29,Twenty20 Cup,Hampshire,Sussex,122/7,128/2,Sussex,8 wickets,122,7,128,2
+383147,"County Ground, Chelmsford",South Division (N),Chelmsford,2009-05-29,Twenty20 Cup,Surrey,Essex,165/5,169/6,Essex,4 wickets,165,5,169,6
+383145,"County Ground, Derby",North Division (N),Derby,2009-05-29,Twenty20 Cup,Derbyshire,Nottinghamshire,158/5,159/2,Nottinghamshire,8 wickets,158,5,159,2
+383146,"Riverside Ground, Chester-le-Street",North Division,Chester-le-Street,2009-05-29,Twenty20 Cup,Durham,Leicestershire,144/8,148/3,Leicestershire,7 wickets,144,8,148,3
+383153,"Headingley, Leeds",North Division,Leeds,2009-05-29,Twenty20 Cup,Yorkshire,Lancashire,111/8,112/5,Lancashire,5 wickets,111,8,112,5
+383152,"Edgbaston, Birmingham",Midlands/Wales/West Division,Birmingham,2009-05-29,Twenty20 Cup,Worcestershire,Warwickshire,148/8,149/3,Warwickshire,7 wickets,148,8,149,3
+383150,"The Cooper Associates County Ground, Taunton",Midlands/Wales/West Division,Taunton,2009-05-29,Twenty20 Cup,Gloucestershire,Somerset,162/8,141/5,Gloucestershire,21 runs,162,8,141,5
+383149,"County Ground, Northampton",Midlands/Wales/West Division,Northampton,2009-05-29,Twenty20 Cup,Northamptonshire,Glamorgan,195/3,155/9,Northamptonshire,40 runs,195,3,155,9
+383148,"St Lawrence Ground, Canterbury",South Division,Canterbury,2009-05-29,Twenty20 Cup,Middlesex,Kent,104/6,107/6,Kent,4 wickets,104,6,107,6
+383144,"County Ground, Hove",South Division (N),Brighton,2009-05-28,Twenty20 Cup,Essex,Sussex,148,131,Essex,17 runs,148,10,131,10
+383143,"Grace Road, Leicester",North Division,Leicester,2009-05-28,Twenty20 Cup,Leicestershire,Derbyshire,127/9,129/2,Derbyshire,8 wickets,127,9,129,2
+383142,"Old Trafford, Manchester",North Division,Manchester,2009-05-28,Twenty20 Cup,Lancashire,Nottinghamshire,151/6,140/7,Lancashire,11 runs,151,6,140,7
+383138,"Sophia Gardens, Cardiff",Midlands/Wales/West Division (N),Cardiff,2009-05-27,Twenty20 Cup,Glamorgan,Gloucestershire,166/6,127,Glamorgan,39 runs,166,6,127,10
+383139,"Lord's, London",South Division (N),London,2009-05-27,Twenty20 Cup,Kent,Middlesex,191/3,129/8,Kent,62 runs,191,3,129,8
+383141,"Kennington Oval, London",South Division (N),London,2009-05-27,Twenty20 Cup,Surrey,Hampshire,125/8,124/9,Surrey,1 run,125,8,124,9
+383140,"The Cooper Associates County Ground, Taunton",Midlands/Wales/West Division,Taunton,2009-05-27,Twenty20 Cup,Warwickshire,Somerset,187/5,190/5,Somerset,5 wickets,187,5,190,5
+383137,"Kennington Oval, London",South Division (N),London,2009-05-26,Twenty20 Cup,Sussex,Surrey,184/9,163/9,Sussex,21 runs,184,9,163,9
+383135,"Riverside Ground, Chester-le-Street",North Division,Chester-le-Street,2009-05-26,Twenty20 Cup,Derbyshire,Durham,175/6,116,Derbyshire,59 runs,175,6,116,10
+383136,"Old Trafford, Manchester",North Division,Manchester,2009-05-26,Twenty20 Cup,Yorkshire,Lancashire,105/8,107/4,Lancashire,6 wickets,105,8,107,4
+383127,"Sophia Gardens, Cardiff",Midlands/Wales/West Division (N),Cardiff,2009-05-25,Twenty20 Cup,Somerset,Glamorgan,113/6,112/9,Somerset,1 run,113,6,112,9
+383133,"County Ground, New Road, Worcester",Midlands/Wales/West Division,Worcester,2009-05-25,Twenty20 Cup,Worcestershire,Gloucestershire,145/7,122,Worcestershire,23 runs,145,7,122,10
+383129,"St Lawrence Ground, Canterbury",South Division,Canterbury,2009-05-25,Twenty20 Cup,Essex,Kent,187/7,16/0,,,187,7,16,0
+383130,"Lord's, London",South Division,London,2009-05-25,Twenty20 Cup,Surrey,Middlesex,186/1,129/7,Surrey,57 runs,186,1,129,7
+383134,"Headingley, Leeds",North Division,Leeds,2009-05-25,Twenty20 Cup,Leicestershire,Yorkshire,148/3,149/7,Yorkshire,3 wickets,148,3,149,7
+383132,"Trent Bridge, Nottingham",North Division,Nottingham,2009-05-25,Twenty20 Cup,Nottinghamshire,Durham,163/6,167/9,Durham,1 wicket,163,6,167,9
+383131,"County Ground, Northampton",Midlands/Wales/West Division,Northampton,2009-05-25,Twenty20 Cup,Northamptonshire,Warwickshire,176/6,159/8,Northamptonshire,17 runs,176,6,159,8
+383128,"The Rose Bowl, Southampton",South Division,Southampton,2009-05-25,Twenty20 Cup,Sussex,Hampshire,133/8,137/1,Hampshire,9 wickets,133,8,137,1

@@ -1,0 +1,35 @@
+match_id,venue,match_type,city,date,full_league,team_one,team_two,inn_one,inn_two,winner,margin,inn_one_score,inn_one_wickets,inn_two_score,inn_two_wickets
+1128851,"National Stadium, Karachi",Final (N),Karachi,2018-03-25,Pakistan Super League,Peshawar Zalmi,Islamabad United,148/9,154/7,Islamabad United,3 wickets,148,9,154,7
+1128850,"Gaddafi Stadium, Lahore",Eliminator 2 (N),Lahore,2018-03-21,Pakistan Super League,Peshawar Zalmi,Karachi Kings,170/7,157/2,Peshawar Zalmi,13 runs,170,7,157,2
+1128849,"Gaddafi Stadium, Lahore",Eliminator 1 (N),Lahore,2018-03-20,Pakistan Super League,Peshawar Zalmi,Quetta Gladiators,157,156/9,Peshawar Zalmi,1 run,157,10,156,9
+1128848,Dubai International Cricket Stadium,Qualifier (N),Dubai,2018-03-18,Pakistan Super League,Karachi Kings,Islamabad United,154/4,155/2,Islamabad United,8 wickets,154,4,155,2
+1128847,Sharjah Cricket Stadium,30th Match (N),Sharjah,2018-03-16,Pakistan Super League,Islamabad United,Karachi Kings,124,125/3,Karachi Kings,7 wickets,124,10,125,3
+1128846,Sharjah Cricket Stadium,29th Match (D/N),Sharjah,2018-03-16,Pakistan Super League,Lahore Qalandars,Peshawar Zalmi,172/4,176/3,Peshawar Zalmi,7 wickets,172,4,176,3
+1128845,Sharjah Cricket Stadium,28th Match (N),Sharjah,2018-03-15,Pakistan Super League,Quetta Gladiators,Islamabad United,147/7,149/4,Islamabad United,6 wickets,147,7,149,4
+1128844,Sharjah Cricket Stadium,27th Match (D/N),Sharjah,2018-03-15,Pakistan Super League,Peshawar Zalmi,Karachi Kings,181/6,137/8,Peshawar Zalmi,44 runs,181,6,137,8
+1128843,Sharjah Cricket Stadium,26th Match (N),Sharjah,2018-03-14,Pakistan Super League,Lahore Qalandars,Quetta Gladiators,186/4,169/6,Lahore Qalandars,17 runs,186,4,169,6
+1128842,Sharjah Cricket Stadium,25th Match (N),Sharjah,2018-03-13,Pakistan Super League,Islamabad United,Multan Sultans,185/4,152,Islamabad United,33 runs,185,4,152,10
+1128841,Dubai International Cricket Stadium,24th Match (N),Dubai,2018-03-11,Pakistan Super League,Karachi Kings,Lahore Qalandars,163/5,163/8,Lahore Qalandars,Super Over,163,5,163,8
+1128840,Dubai International Cricket Stadium,23rd Match (N),Dubai,2018-03-10,Pakistan Super League,Peshawar Zalmi,Quetta Gladiators,157/5,158/4,Quetta Gladiators,6 wickets,157,5,158,4
+1128839,Dubai International Cricket Stadium,22nd Match (D/N),Dubai,2018-03-10,Pakistan Super League,Karachi Kings,Multan Sultans,188/3,125,Karachi Kings,63 runs,188,3,125,10
+1128838,Dubai International Cricket Stadium,21st Match (N),Dubai,2018-03-09,Pakistan Super League,Islamabad United,Peshawar Zalmi,182/5,156/9,Islamabad United,26 runs,182,5,156,9
+1128837,Dubai International Cricket Stadium,20th Match (D/N),Dubai,2018-03-09,Pakistan Super League,Multan Sultans,Lahore Qalandars,114,115/4,Lahore Qalandars,6 wickets,114,10,115,4
+1128836,Dubai International Cricket Stadium,19th Match (N),Dubai,2018-03-08,Pakistan Super League,Quetta Gladiators,Karachi Kings,180/4,113/8,Quetta Gladiators,67 runs,180,4,113,8
+1128835,Dubai International Cricket Stadium,18th Match (D/N),Dubai,2018-03-08,Pakistan Super League,Lahore Qalandars,Islamabad United,163/8,164/4,Islamabad United,6 wickets,163,8,164,4
+1128834,Dubai International Cricket Stadium,17th Match (N),Dubai,2018-03-07,Pakistan Super League,Multan Sultans,Quetta Gladiators,152/5,156/8,Quetta Gladiators,2 wickets,152,5,156,8
+1128833,Dubai International Cricket Stadium,16th Match (N),Dubai,2018-03-06,Pakistan Super League,Multan Sultans,Peshawar Zalmi,183/3,164/8,Multan Sultans,19 runs,183,3,164,8
+1128832,Sharjah Cricket Stadium,15th Match (N),Sharjah,2018-03-04,Pakistan Super League,Karachi Kings,Islamabad United,153/6,156/2,Islamabad United,8 wickets,153,6,156,2
+1128831,Sharjah Cricket Stadium,14th Match (N),Sharjah,2018-03-03,Pakistan Super League,Lahore Qalandars,Peshawar Zalmi,100,104/0,Peshawar Zalmi,10 wickets,100,10,104,0
+1128830,Sharjah Cricket Stadium,13th Match (D/N),Sharjah,2018-03-03,Pakistan Super League,Quetta Gladiators,Multan Sultans,102,108/1,Multan Sultans,9 wickets,102,10,108,1
+1128829,Sharjah Cricket Stadium,12th Match (N),Sharjah,2018-03-02,Pakistan Super League,Islamabad United,Lahore Qalandars,121/9,121,Islamabad United,Super Over,121,9,121,10
+1128828,Sharjah Cricket Stadium,11th Match (D/N),Sharjah,2018-03-02,Pakistan Super League,Multan Sultans,Karachi Kings,,,,,,,,
+1128827,Sharjah Cricket Stadium,10th Match (N),Sharjah,2018-03-01,Pakistan Super League,Quetta Gladiators,Peshawar Zalmi,141/8,143/5,Peshawar Zalmi,5 wickets,141,8,143,5
+1128826,Sharjah Cricket Stadium,9th Match (N),Sharjah,2018-02-28,Pakistan Super League,Islamabad United,Quetta Gladiators,134/7,135/4,Quetta Gladiators,6 wickets,134,7,135,4
+1128825,Dubai International Cricket Stadium,8th Match (N),Dubai,2018-02-26,Pakistan Super League,Karachi Kings,Lahore Qalandars,159/7,132,Karachi Kings,27 runs,159,7,132,10
+1128824,Dubai International Cricket Stadium,7th Match (N),Dubai,2018-02-25,Pakistan Super League,Peshawar Zalmi,Karachi Kings,131/9,135/5,Karachi Kings,5 wickets,131,9,135,5
+1128823,Dubai International Cricket Stadium,6th Match (D/N),Dubai,2018-02-25,Pakistan Super League,Multan Sultans,Islamabad United,113,117/5,Islamabad United,5 wickets,113,10,117,5
+1128822,Dubai International Cricket Stadium,5th Match (N),Dubai,2018-02-24,Pakistan Super League,Lahore Qalandars,Quetta Gladiators,119/9,120/1,Quetta Gladiators,9 wickets,119,9,120,1
+1128821,Dubai International Cricket Stadium,4th Match (D/N),Dubai,2018-02-24,Pakistan Super League,Peshawar Zalmi,Islamabad United,176/6,142/9,Peshawar Zalmi,34 runs,176,6,142,9
+1128820,Dubai International Cricket Stadium,3rd Match (N),Dubai,2018-02-23,Pakistan Super League,Multan Sultans,Lahore Qalandars,179/5,136,Multan Sultans,43 runs,179,5,136,10
+1128819,Dubai International Cricket Stadium,2nd Match (D/N),Dubai,2018-02-23,Pakistan Super League,Karachi Kings,Quetta Gladiators,149/9,130/9,Karachi Kings,19 runs,149,9,130,9
+1128818,Dubai International Cricket Stadium,1st Match (N),Dubai,2018-02-22,Pakistan Super League,Peshawar Zalmi,Multan Sultans,151/6,152/3,Multan Sultans,7 wickets,151,6,152,3

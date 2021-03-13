@@ -1,0 +1,61 @@
+match_id,venue,match_type,city,date,full_league,team_one,team_two,inn_one,inn_two,winner,margin,inn_one_score,inn_one_wickets,inn_two_score,inn_two_wickets
+981019,"M.Chinnaswamy Stadium, Bengaluru",Final (N),Bengaluru,2016-05-29,Indian Premier League,Sunrisers Hyderabad,Royal Challengers Bangalore,208/7,200/7,Sunrisers Hyderabad,8 runs,208,7,200,7
+981017,"Arun Jaitley Stadium, Delhi",Qualifier 2 (N),Delhi,2016-05-27,Indian Premier League,Gujarat Lions,Sunrisers Hyderabad,162/7,163/6,Sunrisers Hyderabad,4 wickets,162,7,163,6
+981015,"Arun Jaitley Stadium, Delhi",Eliminator (N),Delhi,2016-05-25,Indian Premier League,Sunrisers Hyderabad,Kolkata Knight Riders,162/8,140/8,Sunrisers Hyderabad,22 runs,162,8,140,8
+981013,"M.Chinnaswamy Stadium, Bengaluru",Qualifier 1 (N),Bengaluru,2016-05-24,Indian Premier League,Gujarat Lions,Royal Challengers Bangalore,158,159/6,Royal Challengers Bangalore,4 wickets,158,10,159,6
+981011,"Shaheed Veer Narayan Singh International Stadium, Raipur",56th match (N),Raipur,2016-05-22,Indian Premier League,Delhi Daredevils,Royal Challengers Bangalore,138/8,139/4,Royal Challengers Bangalore,6 wickets,138,8,139,4
+981009,"Eden Gardens, Kolkata",55th match (D/N),Kolkata,2016-05-22,Indian Premier League,Kolkata Knight Riders,Sunrisers Hyderabad,171/6,149/8,Kolkata Knight Riders,22 runs,171,6,149,8
+981007,"Green Park, Kanpur",54th match (N),Kanpur,2016-05-21,Indian Premier League,Mumbai Indians,Gujarat Lions,172/8,173/4,Gujarat Lions,6 wickets,172,8,173,4
+981005,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",53rd match (D/N),Visakhapatnam,2016-05-21,Indian Premier League,Kings XI Punjab,Rising Pune Supergiants,172/7,173/6,Rising Pune Supergiants,4 wickets,172,7,173,6
+981003,"Shaheed Veer Narayan Singh International Stadium, Raipur",52nd match (N),Raipur,2016-05-20,Indian Premier League,Sunrisers Hyderabad,Delhi Daredevils,158/7,161/4,Delhi Daredevils,6 wickets,158,7,161,4
+981001,"Green Park, Kanpur",51st match (N),Kanpur,2016-05-19,Indian Premier League,Kolkata Knight Riders,Gujarat Lions,124/8,125/4,Gujarat Lions,6 wickets,124,8,125,4
+980999,"M.Chinnaswamy Stadium, Bengaluru",50th match (N),Bengaluru,2016-05-18,Indian Premier League,Royal Challengers Bangalore,Kings XI Punjab,211/3,120/9,Royal Challengers Bangalore,82 runs,211,3,120,9
+980997,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",49th match (N),Visakhapatnam,2016-05-17,Indian Premier League,Delhi Daredevils,Rising Pune Supergiants,121/6,76/1,Rising Pune Supergiants,19 runs,121,6,76,1
+980995,"Eden Gardens, Kolkata",48th match (N),Kolkata,2016-05-16,Indian Premier League,Kolkata Knight Riders,Royal Challengers Bangalore,183/5,186/1,Royal Challengers Bangalore,9 wickets,183,5,186,1
+980993,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",47th match (N),Visakhapatnam,2016-05-15,Indian Premier League,Mumbai Indians,Delhi Daredevils,206/4,126,Mumbai Indians,80 runs,206,4,126,10
+980991,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",46th match (D/N),Chandigarh,2016-05-15,Indian Premier League,Kings XI Punjab,Sunrisers Hyderabad,179/4,180/3,Sunrisers Hyderabad,7 wickets,179,4,180,3
+980989,"Eden Gardens, Kolkata",45th match (N),Kolkata,2016-05-14,Indian Premier League,Rising Pune Supergiants,Kolkata Knight Riders,103/6,66/2,Kolkata Knight Riders,8 wickets,103,6,66,2
+980987,"M.Chinnaswamy Stadium, Bengaluru",44th match (D/N),Bengaluru,2016-05-14,Indian Premier League,Royal Challengers Bangalore,Gujarat Lions,248/3,104,Royal Challengers Bangalore,144 runs,248,3,104,10
+980985,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",43rd match (N),Visakhapatnam,2016-05-13,Indian Premier League,Mumbai Indians,Kings XI Punjab,124/9,127/3,Kings XI Punjab,7 wickets,124,9,127,3
+980983,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",42nd match (N),Hyderabad,2016-05-12,Indian Premier League,Sunrisers Hyderabad,Delhi Daredevils,146/8,150/3,Delhi Daredevils,7 wickets,146,8,150,3
+980981,"M.Chinnaswamy Stadium, Bengaluru",41st match (N),Bengaluru,2016-05-11,Indian Premier League,Royal Challengers Bangalore,Mumbai Indians,151/4,153/4,Mumbai Indians,6 wickets,151,4,153,4
+980979,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",40th match (N),Visakhapatnam,2016-05-10,Indian Premier League,Sunrisers Hyderabad,Rising Pune Supergiants,137/8,133/8,Sunrisers Hyderabad,4 runs,137,8,133,8
+980977,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",39th match (N),Chandigarh,2016-05-09,Indian Premier League,Royal Challengers Bangalore,Kings XI Punjab,175/6,174/4,Royal Challengers Bangalore,1 run,175,6,174,4
+980975,"Eden Gardens, Kolkata",38th match (N),Kolkata,2016-05-08,Indian Premier League,Kolkata Knight Riders,Gujarat Lions,158/4,164/5,Gujarat Lions,5 wickets,158,4,164,5
+980973,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",37th match (D/N),Visakhapatnam,2016-05-08,Indian Premier League,Sunrisers Hyderabad,Mumbai Indians,177/3,92,Sunrisers Hyderabad,85 runs,177,3,92,10
+980971,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",36th match (N),Chandigarh,2016-05-07,Indian Premier League,Kings XI Punjab,Delhi Daredevils,181/5,172/5,Kings XI Punjab,9 runs,181,5,172,5
+980969,"M.Chinnaswamy Stadium, Bengaluru",35th match (D/N),Bengaluru,2016-05-07,Indian Premier League,Rising Pune Supergiants,Royal Challengers Bangalore,191/6,195/3,Royal Challengers Bangalore,7 wickets,191,6,195,3
+980967,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",34th match (N),Hyderabad,2016-05-06,Indian Premier League,Gujarat Lions,Sunrisers Hyderabad,126/6,129/5,Sunrisers Hyderabad,5 wickets,126,6,129,5
+980965,"Arun Jaitley Stadium, Delhi",33rd match (N),Delhi,2016-05-05,Indian Premier League,Delhi Daredevils,Rising Pune Supergiants,162/7,166/3,Rising Pune Supergiants,7 wickets,162,7,166,3
+980963,"Eden Gardens, Kolkata",32nd match (N),Kolkata,2016-05-04,Indian Premier League,Kolkata Knight Riders,Kings XI Punjab,164/3,157/9,Kolkata Knight Riders,7 runs,164,3,157,9
+980961,"Saurashtra Cricket Association Stadium, Rajkot",31st match (N),Rajkot,2016-05-03,Indian Premier League,Gujarat Lions,Delhi Daredevils,149/7,150/2,Delhi Daredevils,8 wickets,149,7,150,2
+980959,"M.Chinnaswamy Stadium, Bengaluru",30th match (N),Bengaluru,2016-05-02,Indian Premier League,Royal Challengers Bangalore,Kolkata Knight Riders,185/7,189/5,Kolkata Knight Riders,5 wickets,185,7,189,5
+980957,"Maharashtra Cricket Association Stadium, Pune",29th match (N),Pune,2016-05-01,Indian Premier League,Rising Pune Supergiants,Mumbai Indians,159/5,161/2,Mumbai Indians,8 wickets,159,5,161,2
+980955,"Saurashtra Cricket Association Stadium, Rajkot",28th match (D/N),Rajkot,2016-05-01,Indian Premier League,Kings XI Punjab,Gujarat Lions,154,131/9,Kings XI Punjab,23 runs,154,10,131,9
+980953,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",27th match (N),Hyderabad,2016-04-30,Indian Premier League,Sunrisers Hyderabad,Royal Challengers Bangalore,194/5,179/6,Sunrisers Hyderabad,15 runs,194,5,179,6
+980951,"Arun Jaitley Stadium, Delhi",26th match (D/N),Delhi,2016-04-30,Indian Premier League,Delhi Daredevils,Kolkata Knight Riders,186/8,159,Delhi Daredevils,27 runs,186,8,159,10
+980949,"Maharashtra Cricket Association Stadium, Pune",25th match (N),Pune,2016-04-29,Indian Premier League,Rising Pune Supergiants,Gujarat Lions,195/3,196/7,Gujarat Lions,3 wickets,195,3,196,7
+980947,"Wankhede Stadium, Mumbai",24th match (N),Mumbai,2016-04-28,Indian Premier League,Kolkata Knight Riders,Mumbai Indians,174/5,178/4,Mumbai Indians,6 wickets,174,5,178,4
+980945,"Arun Jaitley Stadium, Delhi",23rd match (N),Delhi,2016-04-27,Indian Premier League,Gujarat Lions,Delhi Daredevils,172/6,171/5,Gujarat Lions,1 run,172,6,171,5
+980943,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",22nd match (N),Hyderabad,2016-04-26,Indian Premier League,Sunrisers Hyderabad,Rising Pune Supergiants,118/8,94/3,Rising Pune Supergiants,34 runs,118,8,94,3
+980941,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",21st match (N),Chandigarh,2016-04-25,Indian Premier League,Mumbai Indians,Kings XI Punjab,189/6,164/7,Mumbai Indians,25 runs,189,6,164,7
+980939,"Maharashtra Cricket Association Stadium, Pune",20th match (N),Pune,2016-04-24,Indian Premier League,Rising Pune Supergiants,Kolkata Knight Riders,160/5,162/8,Kolkata Knight Riders,2 wickets,160,5,162,8
+980937,"Saurashtra Cricket Association Stadium, Rajkot",19th match (D/N),Rajkot,2016-04-24,Indian Premier League,Royal Challengers Bangalore,Gujarat Lions,180/2,182/4,Gujarat Lions,6 wickets,180,2,182,4
+980935,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",18th match (N),Hyderabad,2016-04-23,Indian Premier League,Kings XI Punjab,Sunrisers Hyderabad,143/6,146/5,Sunrisers Hyderabad,5 wickets,143,6,146,5
+980933,"Arun Jaitley Stadium, Delhi",17th match (D/N),Delhi,2016-04-23,Indian Premier League,Delhi Daredevils,Mumbai Indians,164/4,154/7,Delhi Daredevils,10 runs,164,4,154,7
+980931,"Maharashtra Cricket Association Stadium, Pune",16th match (N),Pune,2016-04-22,Indian Premier League,Royal Challengers Bangalore,Rising Pune Supergiants,185/3,172/8,Royal Challengers Bangalore,13 runs,185,3,172,8
+980929,"Saurashtra Cricket Association Stadium, Rajkot",15th match (N),Rajkot,2016-04-21,Indian Premier League,Gujarat Lions,Sunrisers Hyderabad,135/8,137/0,Sunrisers Hyderabad,10 wickets,135,8,137,0
+980927,"Wankhede Stadium, Mumbai",14th match (N),Mumbai,2016-04-20,Indian Premier League,Royal Challengers Bangalore,Mumbai Indians,170/7,171/4,Mumbai Indians,6 wickets,170,7,171,4
+980925,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",13th match (N),Chandigarh,2016-04-19,Indian Premier League,Kings XI Punjab,Kolkata Knight Riders,138/8,141/4,Kolkata Knight Riders,6 wickets,138,8,141,4
+980923,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",12th match (N),Hyderabad,2016-04-18,Indian Premier League,Mumbai Indians,Sunrisers Hyderabad,142/6,145/3,Sunrisers Hyderabad,7 wickets,142,6,145,3
+980921,"M.Chinnaswamy Stadium, Bengaluru",11th match (N),Bengaluru,2016-04-17,Indian Premier League,Royal Challengers Bangalore,Delhi Daredevils,191/5,192/3,Delhi Daredevils,7 wickets,191,5,192,3
+980919,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",10th match (D/N),Chandigarh,2016-04-17,Indian Premier League,Rising Pune Supergiants,Kings XI Punjab,152/7,153/4,Kings XI Punjab,6 wickets,152,7,153,4
+980917,"Wankhede Stadium, Mumbai",9th match (N),Mumbai,2016-04-16,Indian Premier League,Mumbai Indians,Gujarat Lions,143/8,147/7,Gujarat Lions,3 wickets,143,8,147,7
+980915,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",8th match (D/N),Hyderabad,2016-04-16,Indian Premier League,Sunrisers Hyderabad,Kolkata Knight Riders,142/7,146/2,Kolkata Knight Riders,8 wickets,142,7,146,2
+980913,"Arun Jaitley Stadium, Delhi",7th match (N),Delhi,2016-04-15,Indian Premier League,Kings XI Punjab,Delhi Daredevils,111/9,113/2,Delhi Daredevils,8 wickets,111,9,113,2
+980911,"Saurashtra Cricket Association Stadium, Rajkot",6th match (N),Rajkot,2016-04-14,Indian Premier League,Rising Pune Supergiants,Gujarat Lions,163/5,164/3,Gujarat Lions,7 wickets,163,5,164,3
+980909,"Eden Gardens, Kolkata",5th match (N),Kolkata,2016-04-13,Indian Premier League,Kolkata Knight Riders,Mumbai Indians,187/5,188/4,Mumbai Indians,6 wickets,187,5,188,4
+980907,"M.Chinnaswamy Stadium, Bengaluru",4th match (N),Bengaluru,2016-04-12,Indian Premier League,Royal Challengers Bangalore,Sunrisers Hyderabad,227/4,182/6,Royal Challengers Bangalore,45 runs,227,4,182,6
+980905,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",3rd match (N),Chandigarh,2016-04-11,Indian Premier League,Kings XI Punjab,Gujarat Lions,161/6,162/5,Gujarat Lions,5 wickets,161,6,162,5
+980903,"Eden Gardens, Kolkata",2nd match (N),Kolkata,2016-04-10,Indian Premier League,Delhi Daredevils,Kolkata Knight Riders,98,99/1,Kolkata Knight Riders,9 wickets,98,10,99,1
+980901,"Wankhede Stadium, Mumbai",1st match (N),Mumbai,2016-04-09,Indian Premier League,Mumbai Indians,Rising Pune Supergiants,121/8,126/1,Rising Pune Supergiants,9 wickets,121,8,126,1

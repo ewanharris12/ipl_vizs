@@ -1,0 +1,99 @@
+match_id,venue,match_type,city,date,full_league,team_one,team_two,inn_one,inn_two,winner,margin,inn_one_score,inn_one_wickets,inn_two_score,inn_two_wickets
+320192,"The Rose Bowl, Southampton",Final (N),Southampton,2008-07-26,Twenty20 Cup,Middlesex,Kent,187/6,184/5,Middlesex,3 runs,187,6,184,5
+320191,"The Rose Bowl, Southampton",2nd Semi-Final,Southampton,2008-07-26,Twenty20 Cup,Durham,Middlesex,138/6,141/2,Middlesex,8 wickets,138,6,141,2
+320190,"The Rose Bowl, Southampton",1st Semi-Final,Southampton,2008-07-26,Twenty20 Cup,Kent,Essex,173/7,159/8,Kent,14 runs,173,7,159,8
+361420,"Riverside Ground, Chester-le-Street",Quarter-Final Replay,Chester-le-Street,2008-07-22,Twenty20 Cup,Durham,Glamorgan,163/8,119,Durham,44 runs,163,8,119,10
+320189,"Edgbaston, Birmingham",4th Quarter-Final,Birmingham,2008-07-09,Twenty20 Cup,Kent,Warwickshire,175/6,133/8,Kent,42 runs,175,6,133,8
+320188,"Kennington Oval, London",3rd Quarter-Final,London,2008-07-08,Twenty20 Cup,Middlesex,Lancashire,176/7,164/8,Middlesex,12 runs,176,7,164,8
+320187,"County Ground, Chelmsford",2nd Quarter-Final,Chelmsford,2008-07-07,Twenty20 Cup,Essex,Northamptonshire,192/9,115/7,Essex,59 runs,192,9,115,7
+320186,"Riverside Ground, Chester-le-Street",1st Quarter-Final,Chester-le-Street,2008-07-07,Twenty20 Cup,Durham,Yorkshire,,,,,,,,
+320181,"Trent Bridge, Nottingham",North Division,Nottingham,2008-06-27,Twenty20 Cup,Nottinghamshire,Yorkshire,136/8,137/1,Yorkshire,9 wickets,136,8,137,1
+320185,"County Ground, Chelmsford",South Division,Chelmsford,2008-06-27,Twenty20 Cup,Essex,Hampshire,159,105,Essex,54 runs,159,10,105,10
+320184,"Riverside Ground, Chester-le-Street",North Division,Chester-le-Street,2008-06-27,Twenty20 Cup,Durham,Lancashire,77/7,8/2,,,77,7,8,2
+320183,"County Ground, Bristol",Midlands/West/Wales Division,Bristol,2008-06-27,Twenty20 Cup,Gloucestershire,Somerset,,,,,,,,
+320182,"Grace Road, Leicester",North Division,Leicester,2008-06-27,Twenty20 Cup,Leicestershire,Derbyshire,149/5,126,Leicestershire,23 runs,149,5,126,10
+320180,"County Ground, Hove",South Division,Brighton,2008-06-27,Twenty20 Cup,Kent,Sussex,162/9,112,Kent,50 runs,162,9,112,10
+320179,"Edgbaston, Birmingham",Midlands/West/Wales Division,Birmingham,2008-06-27,Twenty20 Cup,Northamptonshire,Warwickshire,137/8,124/8,Northamptonshire,13 runs,137,8,124,8
+320178,"County Ground, New Road, Worcester",Midlands/West/Wales Division,Worcester,2008-06-27,Twenty20 Cup,Worcestershire,Glamorgan,141/8,142/4,Glamorgan,6 wickets,141,8,142,4
+320177,"Kennington Oval, London",South Division,London,2008-06-27,Twenty20 Cup,Surrey,Middlesex,139/8,140/3,Middlesex,7 wickets,139,8,140,3
+320174,"Headingley, Leeds",North Division,Leeds,2008-06-26,Twenty20 Cup,Yorkshire,Leicestershire,,,,,,,,
+320176,"Edgbaston, Birmingham",Midlands/West/Wales Division,Birmingham,2008-06-26,Twenty20 Cup,Glamorgan,Warwickshire,,,,,,,,
+320175,"County Ground, Northampton",Midlands/West/Wales Division,Northampton,2008-06-26,Twenty20 Cup,Somerset,Northamptonshire,137/9,20/0,,,137,9,20,0
+320173,"County Ground, Hove",South Division (N),Brighton,2008-06-25,Twenty20 Cup,Sussex,Middlesex,151/7,153/4,Middlesex,6 wickets,151,7,153,4
+320172,"County Ground, Derby",North Division (N),Derby,2008-06-25,Twenty20 Cup,Derbyshire,Durham,118/6,124/3,Durham,7 wickets,118,6,124,3
+320170,"The Rose Bowl, Southampton",South Division (N),Southampton,2008-06-25,Twenty20 Cup,Hampshire,Essex,164/6,164/8,,Super Over,164,6,164,8
+320171,"County Ground, Bristol",Midlands/West/Wales Division,Bristol,2008-06-25,Twenty20 Cup,Worcestershire,Gloucestershire,152/8,93,Worcestershire,59 runs,152,8,93,10
+320169,"Old Trafford, Manchester",North Division,Manchester,2008-06-25,Twenty20 Cup,Lancashire,Nottinghamshire,155/8,132,Lancashire,23 runs,155,8,132,10
+320168,"St Lawrence Ground, Canterbury",South Division,Canterbury,2008-06-25,Twenty20 Cup,Surrey,Kent,166/7,160/9,Surrey,6 runs,166,7,160,9
+320163,"County Ground, Chelmsford",South Division (N),Chelmsford,2008-06-24,Twenty20 Cup,Essex,Sussex,242/3,114,Essex,128 runs,242,3,114,10
+320166,"Riverside Ground, Chester-le-Street",North Division,Chester-le-Street,2008-06-24,Twenty20 Cup,Durham,Yorkshire,162/8,49/5,Durham,39 runs,162,8,49,5
+320167,Uxbridge Cricket Club Ground,South Division,Uxbridge,2008-06-24,Twenty20 Cup,Middlesex,Kent,171/7,165/8,Middlesex,6 runs,171,7,165,8
+320165,"County Ground, New Road, Worcester",Midlands/West/Wales Division,Worcester,2008-06-24,Twenty20 Cup,Northamptonshire,Worcestershire,160/7,163/6,Worcestershire,4 wickets,160,7,163,6
+320164,"Edgbaston, Birmingham",Midlands/West/Wales Division,Birmingham,2008-06-24,Twenty20 Cup,Somerset,Warwickshire,173/6,177/6,Warwickshire,4 wickets,173,6,177,6
+320162,"Grace Road, Leicester",North Division,Leicester,2008-06-24,Twenty20 Cup,Leicestershire,Nottinghamshire,131/6,126,Leicestershire,5 runs,131,6,126,10
+320161,"County Ground, Bristol",Midlands/West/Wales Division,Bristol,2008-06-24,Twenty20 Cup,Glamorgan,Gloucestershire,130/6,135/3,Gloucestershire,7 wickets,130,6,135,3
+320159,"The Rose Bowl, Southampton",South Division (N),Southampton,2008-06-23,Twenty20 Cup,Surrey,Hampshire,147/7,151/4,Hampshire,6 wickets,147,7,151,4
+320160,"Old Trafford, Manchester",North Division,Manchester,2008-06-23,Twenty20 Cup,Derbyshire,Lancashire,153/5,154/1,Lancashire,9 wickets,153,5,154,1
+320156,"The Kent County Cricket Ground, Beckenham",South Division,Beckenham,2008-06-22,Twenty20 Cup,Kent,Essex,204/5,123,Kent,81 runs,204,5,123,10
+320150,"County Ground, Northampton",Midlands/West/Wales Division,Northampton,2008-06-22,Twenty20 Cup,Northamptonshire,Glamorgan,207/4,183/8,Northamptonshire,24 runs,207,4,183,8
+320158,"The Cooper Associates County Ground, Taunton",Midlands/West/Wales Division,Taunton,2008-06-22,Twenty20 Cup,Somerset,Worcestershire,212/8,145,Somerset,67 runs,212,8,145,10
+320157,"County Ground, Derby",North Division,Derby,2008-06-22,Twenty20 Cup,Leicestershire,Derbyshire,118/6,122/3,Derbyshire,7 wickets,118,6,122,3
+320155,"Old Deer Park, Richmond",South Division,Richmond,2008-06-22,Twenty20 Cup,Hampshire,Middlesex,133/8,127/7,Hampshire,6 runs,133,8,127,7
+320154,"Trent Bridge, Nottingham",North Division,Nottingham,2008-06-22,Twenty20 Cup,Nottinghamshire,Lancashire,151/7,155/5,Lancashire,5 wickets,151,7,155,5
+320153,"County Ground, Hove",South Division,Brighton,2008-06-22,Twenty20 Cup,Surrey,Sussex,164/8,165/4,Sussex,6 wickets,164,8,165,4
+320152,"Edgbaston, Birmingham",Midlands/West/Wales Division,Birmingham,2008-06-22,Twenty20 Cup,Gloucestershire,Warwickshire,131,134/2,Warwickshire,8 wickets,131,10,134,2
+320151,"Headingley, Leeds",North Division,Leeds,2008-06-22,Twenty20 Cup,Yorkshire,Durham,159/7,159/7,,Super Over,159,7,159,7
+320149,"Sophia Gardens, Cardiff",Midlands/West/Wales Division (N),Cardiff,2008-06-20,Twenty20 Cup,Glamorgan,Northamptonshire,154/6,147/9,Glamorgan,10 runs,154,6,147,9
+320147,"County Ground, Derby",North Division (N),Derby,2008-06-20,Twenty20 Cup,Derbyshire,Nottinghamshire,114/8,116/2,Nottinghamshire,8 wickets,114,8,116,2
+320145,"County Ground, Chelmsford",South Division (N),Chelmsford,2008-06-20,Twenty20 Cup,Essex,Surrey,164/9,94,Essex,70 runs,164,9,94,10
+320144,"The Rose Bowl, Southampton",South Division (N),Southampton,2008-06-20,Twenty20 Cup,Hampshire,Sussex,85,87/1,Sussex,9 wickets,85,10,87,1
+320146,"Riverside Ground, Chester-le-Street",North Division,Chester-le-Street,2008-06-20,Twenty20 Cup,Leicestershire,Durham,119/8,123/2,Durham,8 wickets,119,8,123,2
+320141,"Old Trafford, Manchester",North Division,Manchester,2008-06-20,Twenty20 Cup,Yorkshire,Lancashire,135/8,131/6,Yorkshire,4 runs,135,8,131,6
+320148,"Edgbaston, Birmingham",Midlands/West/Wales Division,Birmingham,2008-06-20,Twenty20 Cup,Warwickshire,Worcestershire,151/5,113,Warwickshire,38 runs,151,5,113,10
+320143,"The Kent County Cricket Ground, Beckenham",South Division,Beckenham,2008-06-20,Twenty20 Cup,Kent,Middlesex,86/7,61/7,Kent,25 runs,86,7,61,7
+320142,"The Cooper Associates County Ground, Taunton",Midlands/West/Wales Division,Taunton,2008-06-20,Twenty20 Cup,Somerset,Gloucestershire,,,,,,,,
+320140,"County Ground, New Road, Worcester",Midlands/West/Wales Division,Worcester,2008-06-19,Twenty20 Cup,Somerset,Worcestershire,176/7,166/6,Somerset,10 runs,176,7,166,6
+320139,"Trent Bridge, Nottingham",North Division,Nottingham,2008-06-19,Twenty20 Cup,Leicestershire,Nottinghamshire,149/7,150/5,Nottinghamshire,5 wickets,149,7,150,5
+320138,"Campbell Park, Milton Keynes",Midlands/West/Wales Division,Milton Keynes,2008-06-19,Twenty20 Cup,Northamptonshire,Warwickshire,102/9,106/1,Warwickshire,9 wickets,102,9,106,1
+320137,"Lord's, London",South Division,London,2008-06-19,Twenty20 Cup,Middlesex,Sussex,177/7,139/9,Middlesex,38 runs,177,7,139,9
+320136,"County Ground, Chelmsford",South Division (N),Chelmsford,2008-06-18,Twenty20 Cup,Essex,Kent,147/5,146/8,Essex,1 run,147,5,146,8
+320132,"Sophia Gardens, Cardiff",Midlands/West/Wales Division (N),Cardiff,2008-06-18,Twenty20 Cup,Glamorgan,Gloucestershire,,,,,,,,
+320135,"Riverside Ground, Chester-le-Street",North Division,Chester-le-Street,2008-06-18,Twenty20 Cup,Durham,Nottinghamshire,,,,,,,,
+320134,"Headingley, Leeds",North Division,Leeds,2008-06-18,Twenty20 Cup,Lancashire,Yorkshire,150/6,154/8,Yorkshire,2 wickets,150,6,154,8
+320133,"Kennington Oval, London",South Division,London,2008-06-18,Twenty20 Cup,Surrey,Hampshire,175/6,177/6,Hampshire,4 wickets,175,6,177,6
+320127,"County Ground, Hove",South Division (N),Brighton,2008-06-17,Twenty20 Cup,Sussex,Essex,144,146/3,Essex,7 wickets,144,10,146,3
+320130,"Old Trafford, Manchester",North Division,Manchester,2008-06-17,Twenty20 Cup,Lancashire,Durham,180/6,181/4,Durham,6 wickets,180,6,181,4
+320131,"Grace Road, Leicester",North Division,Leicester,2008-06-17,Twenty20 Cup,Leicestershire,Yorkshire,154/3,158/4,Yorkshire,6 wickets,154,3,158,4
+320129,"Campbell Park, Milton Keynes",Midlands/West/Wales Division,Milton Keynes,2008-06-17,Twenty20 Cup,Gloucestershire,Northamptonshire,170/7,171/4,Northamptonshire,6 wickets,170,7,171,4
+320128,"The Cooper Associates County Ground, Taunton",Midlands/West/Wales Division,Taunton,2008-06-17,Twenty20 Cup,Somerset,Glamorgan,185/6,170/5,Somerset,15 runs,185,6,170,5
+320126,"County Ground, New Road, Worcester",Midlands/West/Wales Division,Worcester,2008-06-17,Twenty20 Cup,Worcestershire,Warwickshire,141/4,144/3,Warwickshire,7 wickets,141,4,144,3
+320125,"Lord's, London",South Division,London,2008-06-16,Twenty20 Cup,Surrey,Middlesex,141/7,144/5,Middlesex,5 wickets,141,7,144,5
+320123,"Trent Bridge, Nottingham",North Division,Nottingham,2008-06-16,Twenty20 Cup,Nottinghamshire,Derbyshire,144/9,148/7,Derbyshire,3 wickets,144,9,148,7
+320114,"St Lawrence Ground, Canterbury",South Division,Canterbury,2008-06-16,Twenty20 Cup,Hampshire,Kent,162/7,166/6,Kent,4 wickets,162,7,166,6
+320122,"Kennington Oval, London",South Division,London,2008-06-15,Twenty20 Cup,Sussex,Surrey,141/5,142/5,Surrey,5 wickets,141,5,142,5
+320121,"County Ground, Chelmsford",South Division,Chelmsford,2008-06-15,Twenty20 Cup,Essex,Middlesex,132,133/3,Middlesex,7 wickets,132,10,133,3
+320120,"Queen's Park, Chesterfield",North Division,Chesterfield,2008-06-15,Twenty20 Cup,Yorkshire,Derbyshire,169/5,158/6,Yorkshire,11 runs,169,5,158,6
+320119,"Sophia Gardens, Cardiff",Midlands/West/Wales Division,Cardiff,2008-06-15,Twenty20 Cup,Glamorgan,Worcestershire,,,,,,,,
+320118,"Old Trafford, Manchester",North Division,Manchester,2008-06-15,Twenty20 Cup,Lancashire,Leicestershire,167,130/8,Lancashire,37 runs,167,10,130,8
+320117,"County Ground, Bristol",Midlands/West/Wales Division,Bristol,2008-06-15,Twenty20 Cup,Northamptonshire,Gloucestershire,162/5,135,Northamptonshire,27 runs,162,5,135,10
+320116,"The Cooper Associates County Ground, Taunton",Midlands/West/Wales Division,Taunton,2008-06-14,Twenty20 Cup,Somerset,Warwickshire,131,132/5,Warwickshire,5 wickets,131,10,132,5
+320115,"Trent Bridge, Nottingham",North Division,Nottingham,2008-06-14,Twenty20 Cup,Nottinghamshire,Durham,166/6,143/8,Nottinghamshire,23 runs,166,6,143,8
+320124,"The Rose Bowl, Southampton",South Division,Southampton,2008-06-14,Twenty20 Cup,Hampshire,Kent,197/6,153/7,Hampshire,44 runs,197,6,153,7
+320111,"County Ground, Derby",North Division (N),Derby,2008-06-13,Twenty20 Cup,Derbyshire,Lancashire,111,112/0,Lancashire,10 wickets,111,10,112,0
+320110,"Sophia Gardens, Cardiff",Midlands/West/Wales Division (N),Cardiff,2008-06-13,Twenty20 Cup,Glamorgan,Somerset,170/5,156/8,Glamorgan,14 runs,170,5,156,8
+320106,"County Ground, Hove",South Division (N),Brighton,2008-06-13,Twenty20 Cup,Sussex,Hampshire,204/6,205/4,Hampshire,6 wickets,204,6,205,4
+320113,"Grace Road, Leicester",North Division,Leicester,2008-06-13,Twenty20 Cup,Leicestershire,Durham,142/8,147/4,Durham,6 wickets,142,8,147,4
+320112,"County Ground, Bristol",Midlands/West/Wales Division,Bristol,2008-06-13,Twenty20 Cup,Gloucestershire,Warwickshire,158/4,158/6,,Super Over,158,4,158,6
+320109,"County Ground, Northampton",Midlands/West/Wales Division,Northampton,2008-06-13,Twenty20 Cup,Northamptonshire,Worcestershire,182/4,149,Northamptonshire,33 runs,182,4,149,10
+320108,"Kennington Oval, London",South Division,London,2008-06-13,Twenty20 Cup,Kent,Surrey,181/5,168/7,Kent,13 runs,181,5,168,7
+320107,"Headingley, Leeds",North Division,Leeds,2008-06-13,Twenty20 Cup,Yorkshire,Nottinghamshire,141/8,143/6,Nottinghamshire,4 wickets,141,8,143,6
+320105,"County Ground, New Road, Worcester",Midlands/West/Wales Division,Worcester,2008-06-12,Twenty20 Cup,Gloucestershire,Worcestershire,168/9,169/1,Worcestershire,9 wickets,168,9,169,1
+320104,"Lord's, London",South Division,London,2008-06-12,Twenty20 Cup,Essex,Middlesex,115/9,116/3,Middlesex,7 wickets,115,9,116,3
+320103,"Headingley, Leeds",North Division,Leeds,2008-06-12,Twenty20 Cup,Derbyshire,Yorkshire,181/2,134/9,Derbyshire,47 runs,181,2,134,9
+320100,"Sophia Gardens, Cardiff",Midlands/West/Wales Division (N),Cardiff,2008-06-11,Twenty20 Cup,Warwickshire,Glamorgan,,,,,,,,
+320099,"The Rose Bowl, Southampton",South Division (N),Southampton,2008-06-11,Twenty20 Cup,Middlesex,Hampshire,190/7,157/8,Middlesex,33 runs,190,7,157,8
+320101,"Riverside Ground, Chester-le-Street",North Division,Chester-le-Street,2008-06-11,Twenty20 Cup,Derbyshire,Durham,114/9,48/5,Durham,5 wickets,114,9,48,5
+320098,"St Lawrence Ground, Canterbury",South Division,Canterbury,2008-06-11,Twenty20 Cup,Sussex,Kent,137,140/4,Kent,6 wickets,137,10,140,4
+320102,"Kennington Oval, London",South Division,London,2008-06-11,Twenty20 Cup,Surrey,Essex,126/9,127/3,Essex,7 wickets,126,9,127,3
+320097,"The Cooper Associates County Ground, Taunton",Midlands/West/Wales Division,Taunton,2008-06-11,Twenty20 Cup,Northamptonshire,Somerset,201/4,176/7,Northamptonshire,25 runs,201,4,176,7
+320096,"Grace Road, Leicester",North Division,Leicester,2008-06-11,Twenty20 Cup,Lancashire,Leicestershire,157/7,105,Lancashire,52 runs,157,7,105,10

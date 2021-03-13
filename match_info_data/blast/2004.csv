@@ -1,0 +1,53 @@
+match_id,venue,match_type,city,date,full_league,team_one,team_two,inn_one,inn_two,winner,margin,inn_one_score,inn_one_wickets,inn_two_score,inn_two_wickets
+304839,"Edgbaston, Birmingham",Final (D/N),Birmingham,2004-08-07,Twenty20 Cup,Surrey,Leicestershire,168/6,169/3,Leicestershire,7 wickets,168,6,169,3
+304838,"Edgbaston, Birmingham",2nd Semi-Final,Birmingham,2004-08-07,Twenty20 Cup,Leicestershire,Glamorgan,165/5,144,Leicestershire,21 runs,165,5,144,10
+304837,"Edgbaston, Birmingham",1st Semi-Final,Birmingham,2004-08-07,Twenty20 Cup,Surrey,Lancashire,133,132/8,Surrey,1 run,133,10,132,8
+304836,"Kennington Oval, London",Quarter-Final,London,2004-07-19,Twenty20 Cup,Surrey,Worcestershire,145/7,131/8,Surrey,14 runs,145,7,131,8
+304835,"Grace Road, Leicester",Quarter-Final,Leicester,2004-07-19,Twenty20 Cup,Leicestershire,Essex,180/6,166/7,Leicestershire,14 runs,180,6,166,7
+304834,"The Rose Bowl, Southampton",Quarter-Final,Southampton,2004-07-19,Twenty20 Cup,Hampshire,Lancashire,120/9,121/1,Lancashire,9 wickets,120,9,121,1
+304833,"Sophia Gardens, Cardiff",Quarter-Final,Cardiff,2004-07-19,Twenty20 Cup,Warwickshire,Glamorgan,158/7,161/5,Glamorgan,5 wickets,158,7,161,5
+304826,"County Ground, Chelmsford",South Group (D/N),Chelmsford,2004-07-15,Twenty20 Cup,Essex,Sussex,134/8,136/1,Sussex,9 wickets,134,8,136,1
+304832,"County Ground, New Road, Worcester",Midland/Wales/West Group,Worcester,2004-07-15,Twenty20 Cup,Glamorgan,Worcestershire,140/6,120,Glamorgan,20 runs,140,6,120,10
+304831,"The Cooper Associates County Ground, Taunton",Midland/Wales/West Group,Taunton,2004-07-15,Twenty20 Cup,Somerset,Northamptonshire,211/5,207/5,Somerset,4 runs,211,5,207,5
+304830,"Lord's, London",South Group,London,2004-07-15,Twenty20 Cup,Surrey,Middlesex,183/5,146/7,Surrey,37 runs,183,5,146,7
+304829,"Old Trafford, Manchester",North Group,Manchester,2004-07-15,Twenty20 Cup,Nottinghamshire,Lancashire,79/5,82/3,Lancashire,7 wickets,79,5,82,3
+304828,"The Rose Bowl, Southampton",South Group,Southampton,2004-07-15,Twenty20 Cup,Hampshire,Kent,177/3,113/9,Hampshire,64 runs,177,3,113,9
+304827,"County Ground, Bristol",Midland/Wales/West Group,Bristol,2004-07-15,Twenty20 Cup,Gloucestershire,Warwickshire,135/7,135/5,Warwickshire,lost fewer wickets,135,7,135,5
+304825,"Riverside Ground, Chester-le-Street",North Group,Chester-le-Street,2004-07-15,Twenty20 Cup,Yorkshire,Durham,126/7,129/3,Durham,7 wickets,126,7,129,3
+304824,"County Ground, Derby",North Group,Derby,2004-07-15,Twenty20 Cup,Derbyshire,Leicestershire,,,,,,,,
+304823,"Headingley, Leeds",North Group,Leeds,2004-07-14,Twenty20 Cup,Lancashire,Yorkshire,168,170/2,Yorkshire,8 wickets,168,10,170,2
+304822,"Sophia Gardens, Cardiff",Midland/Wales/West Group,Cardiff,2004-07-14,Twenty20 Cup,Glamorgan,Gloucestershire,162/7,130,Glamorgan,32 runs,162,7,130,10
+304821,"The Cooper Associates County Ground, Taunton",Midland/Wales/West Group,Taunton,2004-07-13,Twenty20 Cup,Somerset,Worcestershire,178/6,144/4,Somerset,34 runs,178,6,144,4
+304820,"Grace Road, Leicester",North Group,Leicester,2004-07-13,Twenty20 Cup,Leicestershire,Nottinghamshire,150/7,110,Leicestershire,40 runs,150,7,110,10
+304819,"St Lawrence Ground, Canterbury",South Group,Canterbury,2004-07-13,Twenty20 Cup,Kent,Sussex,163/6,116,Kent,47 runs,163,6,116,10
+304818,"The Rose Bowl, Southampton",South Group,Southampton,2004-07-13,Twenty20 Cup,Hampshire,Middlesex,170/7,140/8,Hampshire,30 runs,170,7,140,8
+304817,"Riverside Ground, Chester-le-Street",North Group,Chester-le-Street,2004-07-13,Twenty20 Cup,Durham,Derbyshire,117/9,118/6,Derbyshire,4 wickets,117,9,118,6
+304816,"Edgbaston, Birmingham",Midland/Wales/West Group,Birmingham,2004-07-12,Twenty20 Cup,Warwickshire,Northamptonshire,123/7,125/6,Northamptonshire,4 wickets,123,7,125,6
+304815,"The Walker Cricket Ground, Southgate",South Group,Southgate,2004-07-12,Twenty20 Cup,Essex,Middlesex,120/8,121/1,Middlesex,9 wickets,120,8,121,1
+304813,"County Ground, Hove",South Group (D/N),Brighton,2004-07-09,Twenty20 Cup,Sussex,Hampshire,67,69/7,Hampshire,3 wickets,67,10,69,7
+304814,"Edgbaston, Birmingham",Midland/Wales/West Group,Birmingham,2004-07-09,Twenty20 Cup,Warwickshire,Worcestershire,146,150/7,Worcestershire,3 wickets,146,10,150,7
+304812,"Kennington Oval, London",South Group,London,2004-07-09,Twenty20 Cup,Surrey,Kent,185/7,182/9,Surrey,3 runs,185,7,182,9
+304811,"Trent Bridge, Nottingham",North Group,Nottingham,2004-07-09,Twenty20 Cup,Derbyshire,Nottinghamshire,163/7,154/8,Derbyshire,9 runs,163,7,154,8
+304810,"County Ground, Bristol",Midland/Wales/West Group,Bristol,2004-07-09,Twenty20 Cup,Somerset,Gloucestershire,,,,,,,,
+304809,"Riverside Ground, Chester-le-Street",North Group,Chester-le-Street,2004-07-09,Twenty20 Cup,Durham,Lancashire,111/8,112/5,Lancashire,5 wickets,111,8,112,5
+304808,"Headingley, Leeds",North Group,Leeds,2004-07-08,Twenty20 Cup,Leicestershire,Yorkshire,221/3,211/6,Leicestershire,10 runs,221,3,211,6
+304807,"County Ground, Northampton",Midland/Wales/West Group,Northampton,2004-07-08,Twenty20 Cup,Northamptonshire,Gloucestershire,42/5,44/2,Gloucestershire,8 wickets,42,5,44,2
+304806,"Sophia Gardens, Cardiff",Midland/Wales/West Group,Cardiff,2004-07-08,Twenty20 Cup,Warwickshire,Glamorgan,152/9,126,Warwickshire,26 runs,152,9,126,10
+304805,"County Ground, Derby",North Group,Derby,2004-07-08,Twenty20 Cup,Derbyshire,Lancashire,142/4,144/5,Lancashire,5 wickets,142,4,144,5
+304801,"County Ground, Chelmsford",South Group (D/N),Chelmsford,2004-07-07,Twenty20 Cup,Essex,Surrey,,,,,,,,
+304804,"Trent Bridge, Nottingham",North Group,Nottingham,2004-07-07,Twenty20 Cup,Yorkshire,Nottinghamshire,207/7,210/7,Nottinghamshire,3 wickets,207,7,210,7
+304803,"Old Deer Park, Richmond",South Group,Richmond,2004-07-07,Twenty20 Cup,Middlesex,Sussex,,,,,,,,
+304802,"Grace Road, Leicester",North Group,Leicester,2004-07-07,Twenty20 Cup,Durham,Leicestershire,138/4,97/9,Durham,41 runs,138,4,97,9
+304800,"The Cooper Associates County Ground, Taunton",Midland/Wales/West Group,Taunton,2004-07-05,Twenty20 Cup,Somerset,Glamorgan,193/8,194/2,Glamorgan,8 wickets,193,8,194,2
+304799,"Wardown Park, Luton",Midland/Wales/West Group,Luton,2004-07-05,Twenty20 Cup,Worcestershire,Northamptonshire,173/5,80/8,Worcestershire,21 runs,173,5,80,8
+304798,"Mote Park, Maidstone",South Group,Maidstone,2004-07-05,Twenty20 Cup,Kent,Essex,125,128/2,Essex,8 wickets,125,10,128,2
+304797,"Kennington Oval, London",South Group,London,2004-07-03,Twenty20 Cup,Surrey,Hampshire,198/5,167/9,Surrey,31 runs,198,5,167,9
+304794,"County Ground, Hove",South Group (D/N),Brighton,2004-07-02,Twenty20 Cup,Surrey,Sussex,221/8,121,Surrey,100 runs,221,8,121,10
+304789,"County Ground, Chelmsford",South Group (D/N),Chelmsford,2004-07-02,Twenty20 Cup,Essex,Hampshire,135/9,95,Essex,40 runs,135,9,95,10
+304796,"County Ground, New Road, Worcester",Midland/Wales/West Group,Worcester,2004-07-02,Twenty20 Cup,Worcestershire,Gloucestershire,184/9,183/5,Worcestershire,1 run,184,9,183,5
+304795,"Edgbaston, Birmingham",Midland/Wales/West Group,Birmingham,2004-07-02,Twenty20 Cup,Somerset,Warwickshire,120,101/3,Warwickshire,7 wickets,120,10,101,3
+304793,"Trent Bridge, Nottingham",North Group,Nottingham,2004-07-02,Twenty20 Cup,Durham,Nottinghamshire,120,122/7,Nottinghamshire,3 wickets,120,10,122,7
+304792,"County Ground, Northampton",Midland/Wales/West Group,Northampton,2004-07-02,Twenty20 Cup,Northamptonshire,Glamorgan,162/5,166/5,Glamorgan,5 wickets,162,5,166,5
+304791,"Old Trafford, Manchester",North Group,Manchester,2004-07-02,Twenty20 Cup,Leicestershire,Lancashire,139/9,131/6,Leicestershire,8 runs,139,9,131,6
+304790,"Mote Park, Maidstone",South Group,Maidstone,2004-07-02,Twenty20 Cup,Middlesex,Kent,155/7,157/3,Kent,7 wickets,155,7,157,3
+304788,"County Ground, Derby",North Group,Derby,2004-07-02,Twenty20 Cup,Derbyshire,Yorkshire,133/8,108/9,Yorkshire,1 wicket,133,8,108,9

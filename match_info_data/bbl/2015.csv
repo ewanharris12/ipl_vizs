@@ -1,0 +1,36 @@
+match_id,venue,match_type,city,date,full_league,team_one,team_two,inn_one,inn_two,winner,margin,inn_one_score,inn_one_wickets,inn_two_score,inn_two_wickets
+897763,Melbourne Cricket Ground,Final (N),Melbourne,2016-01-24,Big Bash League,Melbourne Stars,Sydney Thunder,176/9,181/7,Sydney Thunder,3 wickets,176,9,181,7
+897761,Melbourne Cricket Ground,2nd Semi-Final (N),Melbourne,2016-01-22,Big Bash League,Perth Scorchers,Melbourne Stars,139/7,140/3,Melbourne Stars,7 wickets,139,7,140,3
+897759,Adelaide Oval,1st Semi-Final (N),Adelaide,2016-01-21,Big Bash League,Adelaide Strikers,Sydney Thunder,159/7,160/2,Sydney Thunder,8 wickets,159,7,160,2
+897757,"Docklands Stadium, Melbourne",32nd Match (N),Melbourne,2016-01-18,Big Bash League,Adelaide Strikers,Melbourne Renegades,170/5,143,Adelaide Strikers,27 runs,170,5,143,10
+897755,"W.A.C.A. Ground, Perth",31st Match (N),Perth,2016-01-16,Big Bash League,Melbourne Stars,Perth Scorchers,146/9,94,Melbourne Stars,52 runs,146,9,94,10
+897753,Sydney Cricket Ground,30th Match (N),Sydney,2016-01-16,Big Bash League,Sydney Thunder,Sydney Sixers,202/5,156,Sydney Thunder,46 runs,202,5,156,10
+897751,Melbourne Cricket Ground,29th Match (N),Melbourne,2016-01-14,Big Bash League,Brisbane Heat,Melbourne Stars,188/7,132/9,Brisbane Heat,56 runs,188,7,132,9
+897749,Adelaide Oval,28th Match (N),Adelaide,2016-01-13,Big Bash League,Hobart Hurricanes,Adelaide Strikers,143,146/4,Adelaide Strikers,6 wickets,143,10,146,4
+897747,Sydney Showground Stadium,27th Match (N),Sydney,2016-01-11,Big Bash League,Sydney Thunder,Melbourne Renegades,173/5,176/5,Melbourne Renegades,5 wickets,173,5,176,5
+897745,Sydney Cricket Ground,26th Match (N),Sydney,2016-01-10,Big Bash League,Brisbane Heat,Sydney Sixers,162/8,156/8,Brisbane Heat,6 runs,162,8,156,8
+897743,"Bellerive Oval, Hobart",25th Match,Hobart,2016-01-10,Big Bash League,Perth Scorchers,Hobart Hurricanes,173/5,172/6,Perth Scorchers,1 run,173,5,172,6
+897741,"Docklands Stadium, Melbourne",24th Match (N),Melbourne,2016-01-09,Big Bash League,Melbourne Renegades,Melbourne Stars,155/6,156/2,Melbourne Stars,8 wickets,155,6,156,2
+897739,"Brisbane Cricket Ground, Woolloongabba, Brisbane",23rd Match (N),Brisbane,2016-01-08,Big Bash League,Brisbane Heat,Adelaide Strikers,175/6,179/2,Adelaide Strikers,8 wickets,175,6,179,2
+897737,Sydney Showground Stadium,22nd Match (N),Sydney,2016-01-07,Big Bash League,Perth Scorchers,Sydney Thunder,175/5,145/9,Perth Scorchers,30 runs,175,5,145,9
+897735,Melbourne Cricket Ground,21st Match (N),Melbourne,2016-01-06,Big Bash League,Hobart Hurricanes,Melbourne Stars,124,126/2,Melbourne Stars,8 wickets,124,10,126,2
+897733,Adelaide Oval,20th Match (N),Adelaide,2016-01-05,Big Bash League,Adelaide Strikers,Perth Scorchers,174/2,138,Adelaide Strikers,36 runs,174,2,138,10
+897731,"Bellerive Oval, Hobart",19th Match (N),Hobart,2016-01-04,Big Bash League,Hobart Hurricanes,Melbourne Renegades,140/5,144/5,Melbourne Renegades,5 wickets,140,5,144,5
+897729,"Brisbane Cricket Ground, Woolloongabba, Brisbane",18th Match (N),Brisbane,2016-01-03,Big Bash League,Sydney Thunder,Brisbane Heat,186/5,189/4,Brisbane Heat,6 wickets,186,5,189,4
+897727,"W.A.C.A. Ground, Perth",17th Match (N),Perth,2016-01-02,Big Bash League,Sydney Sixers,Perth Scorchers,112/8,114/1,Perth Scorchers,9 wickets,112,8,114,1
+897725,Melbourne Cricket Ground,16th Match (N),Melbourne,2016-01-02,Big Bash League,Melbourne Renegades,Melbourne Stars,161/7,163/3,Melbourne Stars,7 wickets,161,7,163,3
+897723,"Bellerive Oval, Hobart",15th Match (N),Hobart,2016-01-01,Big Bash League,Hobart Hurricanes,Sydney Thunder,163/6,152/9,Hobart Hurricanes,11 runs,163,6,152,9
+897721,Adelaide Oval,14th Match (N),Adelaide,2015-12-31,Big Bash League,Sydney Sixers,Adelaide Strikers,176/5,182/5,Adelaide Strikers,5 wickets,176,5,182,5
+897719,"Docklands Stadium, Melbourne",13th Match (N),Melbourne,2015-12-30,Big Bash League,Melbourne Renegades,Perth Scorchers,170/4,171/0,Perth Scorchers,10 wickets,170,4,171,0
+897717,"Brisbane Cricket Ground, Woolloongabba, Brisbane",12th Match (N),Brisbane,2015-12-29,Big Bash League,Hobart Hurricanes,Brisbane Heat,194/4,179/9,Hobart Hurricanes,15 runs,194,4,179,9
+897715,Sydney Showground Stadium,11th Match (N),Sydney,2015-12-28,Big Bash League,Adelaide Strikers,Sydney Thunder,117/9,121/3,Sydney Thunder,7 wickets,117,9,121,3
+897713,Sydney Cricket Ground,10th Match (N),Sydney,2015-12-27,Big Bash League,Sydney Sixers,Melbourne Stars,139/6,143/5,Melbourne Stars,5 wickets,139,6,143,5
+897711,"W.A.C.A. Ground, Perth",9th Match,Perth,2015-12-26,Big Bash League,Brisbane Heat,Perth Scorchers,117/7,118/1,Perth Scorchers,9 wickets,117,7,118,1
+897709,"Docklands Stadium, Melbourne",8th Match (N),Melbourne,2015-12-23,Big Bash League,Melbourne Renegades,Sydney Sixers,172/4,174/7,Sydney Sixers,3 wickets,172,4,174,7
+897707,"Bellerive Oval, Hobart",7th Match (N),Hobart,2015-12-22,Big Bash League,Hobart Hurricanes,Brisbane Heat,184/3,164/8,Hobart Hurricanes,20 runs,184,3,164,8
+897705,"W.A.C.A. Ground, Perth",6th Match,Perth,2015-12-21,Big Bash League,Perth Scorchers,Adelaide Strikers,151/6,152/6,Adelaide Strikers,4 wickets,151,6,152,6
+897703,Melbourne Cricket Ground,5th Match (N),Melbourne,2015-12-20,Big Bash League,Sydney Thunder,Melbourne Stars,178/6,177/5,Sydney Thunder,1 run,178,6,177,5
+897701,Sydney Cricket Ground,4th Match,Sydney,2015-12-20,Big Bash League,Sydney Sixers,Hobart Hurricanes,186/7,91,Sydney Sixers,95 runs,186,7,91,10
+897699,"Brisbane Cricket Ground, Woolloongabba, Brisbane",3rd Match (N),Brisbane,2015-12-19,Big Bash League,Brisbane Heat,Melbourne Renegades,180/5,184/3,Melbourne Renegades,7 wickets,180,5,184,3
+897697,Adelaide Oval,2nd Match (N),Adelaide,2015-12-18,Big Bash League,Adelaide Strikers,Melbourne Stars,187/5,168/7,Adelaide Strikers,19 runs,187,5,168,7
+897695,Sydney Showground Stadium,1st Match (N),Sydney,2015-12-17,Big Bash League,Sydney Thunder,Sydney Sixers,158/4,122,Sydney Thunder,36 runs,158,4,122,10

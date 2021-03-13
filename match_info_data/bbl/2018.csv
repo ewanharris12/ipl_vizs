@@ -1,0 +1,60 @@
+match_id,venue,match_type,city,date,full_league,team_one,team_two,inn_one,inn_two,winner,margin,inn_one_score,inn_one_wickets,inn_two_score,inn_two_wickets
+1152569,"Docklands Stadium, Melbourne",Final,Melbourne,2019-02-17,Big Bash League,Melbourne Renegades,Melbourne Stars,145/5,132/7,Melbourne Renegades,13 runs,145,5,132,7
+1152568,"Docklands Stadium, Melbourne",2nd Semi-Final (N),Melbourne,2019-02-15,Big Bash League,Sydney Sixers,Melbourne Renegades,180/3,184/7,Melbourne Renegades,3 wickets,180,3,184,7
+1152567,"Bellerive Oval, Hobart",1st Semi-Final (N),Hobart,2019-02-14,Big Bash League,Hobart Hurricanes,Melbourne Stars,153/7,157/4,Melbourne Stars,6 wickets,153,7,157,4
+1152566,Melbourne Cricket Ground,56th Match,Melbourne,2019-02-10,Big Bash League,Melbourne Stars,Sydney Sixers,168/6,74,Melbourne Stars,94 runs,168,6,74,10
+1152565,"Manuka Oval, Canberra",55th Match (N),Canberra,2019-02-09,Big Bash League,Hobart Hurricanes,Sydney Thunder,165/4,166/6,Sydney Thunder,4 wickets,165,4,166,6
+1152564,Adelaide Oval,54th Match (N),Adelaide,2019-02-09,Big Bash League,Perth Scorchers,Adelaide Strikers,174/6,175/5,Adelaide Strikers,5 wickets,174,6,175,5
+1152563,"Brisbane Cricket Ground, Woolloongabba, Brisbane",53rd Match (N),Brisbane,2019-02-08,Big Bash League,Melbourne Stars,Brisbane Heat,156/8,158/0,Brisbane Heat,10 wickets,156,8,158,0
+1152562,"Bellerive Oval, Hobart",52nd Match (N),Hobart,2019-02-07,Big Bash League,Hobart Hurricanes,Melbourne Renegades,183/6,167/8,Hobart Hurricanes,16 runs,183,6,167,8
+1152561,Perth Stadium,51st Match (N),Perth,2019-02-03,Big Bash League,Perth Scorchers,Melbourne Stars,182/3,155/9,Perth Scorchers,27 runs,182,3,155,9
+1152560,Adelaide Oval,50th Match (N),Adelaide,2019-02-03,Big Bash League,Adelaide Strikers,Brisbane Heat,176/8,180/4,Brisbane Heat,6 wickets,176,8,180,4
+1152559,Sydney Cricket Ground,49th Match (N),Sydney,2019-02-02,Big Bash League,Sydney Thunder,Sydney Sixers,128/6,85/1,Sydney Sixers,9 wickets,128,6,85,1
+1152558,"Brisbane Cricket Ground, Woolloongabba, Brisbane",48th Match (N),Brisbane,2019-02-01,Big Bash League,Perth Scorchers,Brisbane Heat,128/9,130/4,Brisbane Heat,6 wickets,128,9,130,4
+1152557,"Aurora Stadium, Launceston",47th Match (N),Launceston,2019-01-31,Big Bash League,Hobart Hurricanes,Adelaide Strikers,169/7,170/3,Adelaide Strikers,7 wickets,169,7,170,3
+1152556,"Docklands Stadium, Melbourne",46th Match (N),Melbourne,2019-01-30,Big Bash League,Melbourne Renegades,Sydney Thunder,140/7,113,Melbourne Renegades,27 runs,140,7,113,10
+1152555,Sydney Cricket Ground,45th Match (N),Sydney,2019-01-29,Big Bash League,Adelaide Strikers,Sydney Sixers,124/8,130/2,Sydney Sixers,8 wickets,124,8,130,2
+1152554,"Bellerive Oval, Hobart",44th Match (D/N),Hobart,2019-01-29,Big Bash League,Brisbane Heat,Hobart Hurricanes,145/6,146/1,Hobart Hurricanes,9 wickets,145,6,146,1
+1152553,Perth Stadium,43rd Match (N),Perth,2019-01-28,Big Bash League,Melbourne Renegades,Perth Scorchers,157/5,79,Melbourne Renegades,78 runs,157,5,79,10
+1152552,Melbourne Cricket Ground,42nd Match (N),Melbourne,2019-01-27,Big Bash League,Melbourne Stars,Brisbane Heat,134/8,129/8,Melbourne Stars,5 runs,134,8,129,8
+1152551,Perth Stadium,41st Match (N),Perth,2019-01-24,Big Bash League,Perth Scorchers,Sydney Thunder,181/4,182/4,Sydney Thunder,6 wickets,181,4,182,4
+1152550,Sydney Cricket Ground,40th Match (N),Sydney,2019-01-23,Big Bash League,Hobart Hurricanes,Sydney Sixers,172/4,173/1,Sydney Sixers,9 wickets,172,4,173,1
+1152549,"Ted Summerton Reserve, Moe",39th Match (N),Moe,2019-01-23,Big Bash League,Melbourne Stars,Adelaide Strikers,167/2,123,Melbourne Stars,44 runs,167,2,123,10
+1152548,Sydney Showground Stadium,38th Match (N),Sydney,2019-01-22,Big Bash League,Melbourne Renegades,Sydney Thunder,152/9,140/5,Melbourne Renegades,12 runs,152,9,140,5
+1152547,Adelaide Oval,37th Match (N),Adelaide,2019-01-21,Big Bash League,Adelaide Strikers,Hobart Hurricanes,154/5,158/0,Hobart Hurricanes,10 wickets,154,5,158,0
+1152546,Sydney Cricket Ground,36th Match (N),Sydney,2019-01-20,Big Bash League,Sydney Sixers,Brisbane Heat,177/7,98,Sydney Sixers,79 runs,177,7,98,10
+1152545,"Docklands Stadium, Melbourne",35th Match (N),Melbourne,2019-01-19,Big Bash League,Melbourne Renegades,Melbourne Stars,121,124/4,Melbourne Stars,6 wickets,121,10,124,4
+1152544,Perth Stadium,34th Match (N),Perth,2019-01-18,Big Bash League,Perth Scorchers,Hobart Hurricanes,177/9,178/6,Hobart Hurricanes,4 wickets,177,9,178,6
+1152543,"Brisbane Cricket Ground, Woolloongabba, Brisbane",33rd Match (N),Brisbane,2019-01-17,Big Bash League,Sydney Thunder,Brisbane Heat,186/4,10/2,,,186,4,10,2
+1152542,Sydney Cricket Ground,32nd Match (N),Sydney,2019-01-16,Big Bash League,Sydney Sixers,Melbourne Renegades,115/9,116/3,Melbourne Renegades,7 wickets,115,9,116,3
+1152541,Melbourne Cricket Ground,31st Match (N),Melbourne,2019-01-14,Big Bash League,Hobart Hurricanes,Melbourne Stars,185/2,126,Hobart Hurricanes,59 runs,185,2,126,10
+1152540,Perth Stadium,30th Match (N),Perth,2019-01-13,Big Bash League,Sydney Sixers,Perth Scorchers,177/5,178/3,Perth Scorchers,7 wickets,177,5,178,3
+1152539,Geelong Cricket Ground,29th Match (N),Geelong,2019-01-13,Big Bash League,Brisbane Heat,Melbourne Renegades,192/4,91,Brisbane Heat,101 runs,192,4,91,10
+1152538,Sydney Showground Stadium,28th Match,Sydney,2019-01-13,Big Bash League,Sydney Thunder,Adelaide Strikers,168/6,97,Sydney Thunder,71 runs,168,6,97,10
+1152537,Adelaide Oval,27th Match (N),Adelaide,2019-01-11,Big Bash League,Adelaide Strikers,Melbourne Stars,178/5,137,Adelaide Strikers,41 runs,178,5,137,10
+1152536,"Brisbane Cricket Ground, Woolloongabba, Brisbane",26th Match (N),Brisbane,2019-01-10,Big Bash League,Brisbane Heat,Melbourne Renegades,144/8,145/2,Melbourne Renegades,8 wickets,144,8,145,2
+1152535,Melbourne Cricket Ground,25th Match (N),Melbourne,2019-01-09,Big Bash League,Melbourne Stars,Perth Scorchers,146/6,147/4,Perth Scorchers,6 wickets,146,6,147,4
+1152534,Sydney Showground Stadium,24th Match (N),Sydney,2019-01-08,Big Bash League,Brisbane Heat,Sydney Thunder,186/8,34/2,Brisbane Heat,15 runs,186,8,34,2
+1152533,"Docklands Stadium, Melbourne",23rd Match (N),Melbourne,2019-01-07,Big Bash League,Hobart Hurricanes,Melbourne Renegades,145/5,150/4,Melbourne Renegades,6 wickets,145,5,150,4
+1152532,Adelaide Oval,22nd Match (N),Adelaide,2019-01-06,Big Bash League,Adelaide Strikers,Sydney Sixers,150/5,152/4,Sydney Sixers,6 wickets,150,5,152,4
+1152531,Perth Stadium,21st Match (N),Perth,2019-01-05,Big Bash League,Perth Scorchers,Brisbane Heat,135/6,139/5,Brisbane Heat,5 wickets,135,6,139,5
+1152530,Carrara Oval,20th Match (D/N),Carrara,2019-01-05,Big Bash League,Sydney Thunder,Melbourne Stars,135/8,137/2,Melbourne Stars,8 wickets,135,8,137,2
+1152529,"Bellerive Oval, Hobart",19th Match (N),Hobart,2019-01-04,Big Bash League,Sydney Sixers,Hobart Hurricanes,161/8,162/5,Hobart Hurricanes,5 wickets,161,8,162,5
+1152528,"Simonds Stadium, South Geelong, Victoria",18th Match (N),Geelong,2019-01-03,Big Bash League,Adelaide Strikers,Melbourne Renegades,158/6,126/9,Adelaide Strikers,32 runs,158,6,126,9
+1152527,Sydney Showground Stadium,17th Match (N),Sydney,2019-01-02,Big Bash League,Sydney Thunder,Perth Scorchers,142/6,141/5,Sydney Thunder,1 run,142,6,141,5
+1152526,Melbourne Cricket Ground,16th Match (N),Melbourne,2019-01-01,Big Bash League,Melbourne Renegades,Melbourne Stars,148/9,151/3,Melbourne Stars,7 wickets,148,9,151,3
+1152525,Carrara Oval,15th Match,Carrara,2019-01-01,Big Bash League,Brisbane Heat,Sydney Sixers,164/7,165/5,Sydney Sixers,5 wickets,164,7,165,5
+1152524,Adelaide Oval,14th Match (N),Adelaide,2018-12-31,Big Bash League,Adelaide Strikers,Sydney Thunder,175/4,155/6,Adelaide Strikers,20 runs,175,4,155,6
+1152523,"Aurora Stadium, Launceston",13th Match (N),Launceston,2018-12-30,Big Bash League,Perth Scorchers,Hobart Hurricanes,107/8,110/4,Hobart Hurricanes,6 wickets,107,8,110,4
+1152522,"Docklands Stadium, Melbourne",12th Match (N),Melbourne,2018-12-29,Big Bash League,Sydney Sixers,Melbourne Renegades,132/7,99/9,Sydney Sixers,33 runs,132,7,99,9
+1152521,"Bellerive Oval, Hobart",11th Match (N),Hobart,2018-12-28,Big Bash League,Sydney Thunder,Hobart Hurricanes,193/6,196/3,Hobart Hurricanes,7 wickets,193,6,196,3
+1152520,Sydney Cricket Ground,10th Match (N),Sydney,2018-12-27,Big Bash League,Sydney Sixers,Melbourne Stars,130/9,132/5,Melbourne Stars,5 wickets,130,9,132,5
+1152519,Perth Stadium,9th Match (D/N),Perth,2018-12-26,Big Bash League,Adelaide Strikers,Perth Scorchers,88,92/3,Perth Scorchers,7 wickets,88,10,92,3
+1152518,Sydney Showground Stadium,8th Match (N),Sydney,2018-12-24,Big Bash League,Sydney Thunder,Sydney Sixers,169/9,148/9,Sydney Thunder,21 runs,169,9,148,9
+1152517,"Bellerive Oval, Hobart",7th Match (D/N),Hobart,2018-12-24,Big Bash League,Melbourne Stars,Hobart Hurricanes,155/5,156/4,Hobart Hurricanes,6 wickets,155,5,156,4
+1152516,Adelaide Oval,6th Match (N),Adelaide,2018-12-23,Big Bash League,Adelaide Strikers,Melbourne Renegades,174/5,176/5,Melbourne Renegades,5 wickets,174,5,176,5
+1152515,Carrara Oval,5th Match (D/N),Carrara,2018-12-22,Big Bash League,Hobart Hurricanes,Brisbane Heat,159/6,144,Hobart Hurricanes,15 runs,159,6,144,10
+1152514,Sydney Cricket Ground,4th Match,Sydney,2018-12-22,Big Bash League,Sydney Sixers,Perth Scorchers,164/4,147/8,Sydney Sixers,17 runs,164,4,147,8
+1152513,"Manuka Oval, Canberra",3rd Match (N),Canberra,2018-12-21,Big Bash League,Sydney Thunder,Melbourne Stars,181/5,74/6,Sydney Thunder,15 runs,181,5,74,6
+1152512,"Docklands Stadium, Melbourne",2nd Match (N),Melbourne,2018-12-20,Big Bash League,Perth Scorchers,Melbourne Renegades,103,107/6,Melbourne Renegades,4 wickets,103,10,107,6
+1152511,"Brisbane Cricket Ground, Woolloongabba, Brisbane",1st Match (N),Brisbane,2018-12-19,Big Bash League,Brisbane Heat,Adelaide Strikers,146,147/5,Adelaide Strikers,5 wickets,146,10,147,5

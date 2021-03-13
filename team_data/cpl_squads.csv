@@ -1,0 +1,851 @@
+name,overseas,withdrawn,role,keeper,batting_type,bowling_type,team,year,batting_hand,bowling_arm,bowling_speed,spin_type
+Marlon Samuels,False,False,Top-order batsman,False,Right-hand bat,spin,Antigua Hawksbills,2013,R,R,slow,os
+Johnson Charles,False,False,Wicketkeeper batsman,True,Right-hand bat,,Antigua Hawksbills,2013,R,,,
+Rahkeem Cornwall,False,False,Allrounder,False,Right-hand bat,spin,Antigua Hawksbills,2013,R,R,slow,os
+Sheldon Cottrell,False,False,Bowler,False,Right-hand bat,seam,Antigua Hawksbills,2013,R,L,fast,
+Jahmar Hamilton,False,False,Wicketkeeper batsman,True,Right-hand bat,,Antigua Hawksbills,2013,R,,,
+Montcin Hodge,False,False,,False,Right-hand bat,spin,Antigua Hawksbills,2013,R,R,slow,os
+Anthony Martin,False,False,Bowler,False,Right-hand bat,spin,Antigua Hawksbills,2013,R,R,slow,ls
+Dave Mohammed,False,False,,False,Left-hand bat,spin,Antigua Hawksbills,2013,L,L,slow,lls
+Orlando Peters,False,False,Allrounder,False,Right-hand bat,seam,Antigua Hawksbills,2013,R,R,med,
+Ricky Ponting,False,False,Top-order batsman,False,Right-hand bat,seam,Antigua Hawksbills,2013,R,R,med,
+Kieran Powell,False,False,Opening batsman,False,Left-hand bat,seam,Antigua Hawksbills,2013,L,R,med,
+Kemar Roach,False,False,Bowler,False,Right-hand bat,seam,Antigua Hawksbills,2013,R,R,fast,
+Ben Rohrer,False,False,Middle-order batsman,False,Left-hand bat,,Antigua Hawksbills,2013,L,,,
+Devon Thomas,False,False,Top-order batsman,False,Right-hand bat,seam,Antigua Hawksbills,2013,R,R,med,
+Gavin Tonge,False,False,Bowler,False,Right-hand bat,seam,Antigua Hawksbills,2013,R,R,fast,
+Justin Kemp,False,True,,False,Right-hand bat,seam,Antigua Hawksbills,2013,R,R,fast,
+Steven Smith,False,True,Middle-order batsman,False,Right-hand bat,spin,Antigua Hawksbills,2013,R,R,slow,ls
+Kieron Pollard,False,False,Allrounder,False,Right-hand bat,seam,Barbados Tridents,2013,R,R,med,
+Azhar Mahmood,False,False,,False,Right-hand bat,seam,Barbados Tridents,2013,R,R,fast,
+Devendra Bishoo,False,False,Bowler,False,Left-hand bat,spin,Barbados Tridents,2013,L,R,slow,ls
+Carlos Brathwaite,False,False,Allrounder,False,Right-hand bat,seam,Barbados Tridents,2013,R,R,fast,
+Jonathan Carter,False,False,Batting allrounder,False,Left-hand bat,seam,Barbados Tridents,2013,L,R,med,
+Kirk Edwards,False,False,Batsman,False,Right-hand bat,spin,Barbados Tridents,2013,R,R,slow,os
+Rayad Emrit,False,False,Bowling allrounder,False,Right-hand bat,seam,Barbados Tridents,2013,R,R,med,
+Shannon Gabriel,False,False,Bowler,False,Right-hand bat,seam,Barbados Tridents,2013,R,R,fast,
+Jason Holder,False,False,Bowling allrounder,False,Right-hand bat,seam,Barbados Tridents,2013,R,R,med,
+Kyle Mayers,False,False,Batting allrounder,False,Left-hand bat,seam,Barbados Tridents,2013,L,R,med,
+Ashley Nurse,False,False,Bowler,False,Right-hand bat,spin,Barbados Tridents,2013,R,R,slow,os
+Raymon Reifer,False,False,Allrounder,False,Left-hand bat,seam,Barbados Tridents,2013,L,L,med,
+Shakib Al Hasan,False,False,Allrounder,False,Left-hand bat,spin,Barbados Tridents,2013,L,L,slow,sla
+Shoaib Malik,False,False,Allrounder,False,Right-hand bat,spin,Barbados Tridents,2013,R,R,slow,os
+Dwayne Smith,False,False,Allrounder,False,Right-hand bat,seam,Barbados Tridents,2013,R,R,med,
+Umar Akmal,False,True,Middle-order batsman,False,Right-hand bat,spin,Barbados Tridents,2013,R,R,slow,os
+Ramnaresh Sarwan,False,False,Batsman,False,Right-hand bat,spin,Guyana Amazon Warriors,2013,R,R,slow,ls
+Chris Barnwell,False,False,Allrounder,False,Right-hand bat,seam,Guyana Amazon Warriors,2013,R,R,med,
+Narsingh Deonarine,False,False,Batsman,False,Left-hand bat,spin,Guyana Amazon Warriors,2013,L,R,slow,os
+Tillakaratne Dilshan,False,False,Allrounder,False,Right-hand bat,spin,Guyana Amazon Warriors,2013,R,R,slow,os
+James Franklin,False,False,Allrounder,False,Left-hand bat,seam,Guyana Amazon Warriors,2013,L,L,med,
+Trevon Griffith,False,False,Opening batsman,False,Left-hand bat,spin,Guyana Amazon Warriors,2013,L,R,slow,os
+Steven Jacobs,False,False,Bowler,False,Right-hand bat,spin,Guyana Amazon Warriors,2013,R,R,slow,os
+Keon Joseph,False,False,,False,Right-hand bat,seam,Guyana Amazon Warriors,2013,R,R,fast,
+Lasith Malinga,False,False,Bowler,False,Right-hand bat,seam,Guyana Amazon Warriors,2013,R,R,fast,
+Sunil Narine,False,False,Bowling allrounder,False,Left-hand bat,spin,Guyana Amazon Warriors,2013,L,R,slow,os
+William Perkins,False,False,Wicketkeeper batsman,True,Right-hand bat,,Guyana Amazon Warriors,2013,R,,,
+Veerasammy Permaul,False,False,Bowler,False,Right-hand bat,spin,Guyana Amazon Warriors,2013,R,L,slow,sla
+Denesh Ramdin,False,False,Wicketkeeper batsman,True,Right-hand bat,,Guyana Amazon Warriors,2013,R,,,
+Krishmar Santokie,False,False,Bowler,False,Left-hand bat,seam,Guyana Amazon Warriors,2013,L,L,med,
+Lendl Simmons,False,False,Top-order batsman,False,Right-hand bat,seam,Guyana Amazon Warriors,2013,R,R,med,
+Ronsford Beaton,False,True,Bowler,False,Right-hand bat,seam,Guyana Amazon Warriors,2013,R,R,fast,
+Martin Guptill,False,True,Opening batsman,False,Right-hand bat,spin,Guyana Amazon Warriors,2013,R,R,slow,os
+Mohammad Hafeez,False,True,Allrounder,False,Right-hand bat,spin,Guyana Amazon Warriors,2013,R,R,slow,os
+Chris Gayle,False,False,Allrounder,False,Left-hand bat,spin,Jamaica Tallawahs,2013,L,R,slow,os
+Carlton Baugh,False,False,Wicketkeeper,True,Right-hand bat,spin,Jamaica Tallawahs,2013,R,R,slow,ls
+David Bernard,False,False,,False,Right-hand bat,seam,Jamaica Tallawahs,2013,R,R,med,
+Jermaine Blackwood,False,False,Middle-order batsman,False,Right-hand bat,spin,Jamaica Tallawahs,2013,R,R,slow,os
+Nkrumah Bonner,False,False,Allrounder,False,Right-hand bat,spin,Jamaica Tallawahs,2013,R,R,slow,ls
+Akeem Dewar,False,False,,False,Right-hand bat,spin,Jamaica Tallawahs,2013,R,R,slow,ls
+Danza Hyatt,False,False,Allrounder,False,Right-hand bat,seam,Jamaica Tallawahs,2013,R,R,med,
+Nikita Miller,False,False,Bowler,False,Right-hand bat,spin,Jamaica Tallawahs,2013,R,L,slow,sla
+Muttiah Muralitharan,False,False,Bowler,False,Right-hand bat,spin,Jamaica Tallawahs,2013,R,R,slow,os
+Vernon Philander,False,False,Allrounder,False,Right-hand bat,seam,Jamaica Tallawahs,2013,R,R,fast,
+Andrew Richardson,False,False,,False,Left-hand bat,seam,Jamaica Tallawahs,2013,L,R,fast,
+Jacques Rudolph,False,False,,False,Left-hand bat,spin,Jamaica Tallawahs,2013,L,R,slow,ls
+Andre Russell,False,False,Allrounder,False,Right-hand bat,seam,Jamaica Tallawahs,2013,R,R,fast,
+Kumar Sangakkara,False,False,Wicketkeeper batsman,True,Left-hand bat,spin,Jamaica Tallawahs,2013,L,R,slow,os
+Chadwick Walton,False,False,Top-order batsman,False,Right-hand bat,,Jamaica Tallawahs,2013,R,,,
+Ahmed Shehzad,False,True,Opening batsman,False,Right-hand bat,spin,Jamaica Tallawahs,2013,R,R,slow,ls
+Shaun Marsh,False,True,Top-order batsman,False,Left-hand bat,spin,Jamaica Tallawahs,2013,L,L,slow,sla
+Ravi Rampaul,False,True,Bowler,False,Left-hand bat,seam,Jamaica Tallawahs,2013,L,R,fast,
+Daren Sammy,False,False,Allrounder,False,Right-hand bat,seam,St Lucia Zouks,2013,R,R,med,
+Tino Best,False,False,Bowler,False,Right-hand bat,seam,St Lucia Zouks,2013,R,R,fast,
+Andre Fletcher,False,False,Top-order batsman,False,Right-hand bat,seam,St Lucia Zouks,2013,R,R,med,
+Herschelle Gibbs,False,False,,False,Right-hand bat,other,St Lucia Zouks,2013,R,R,slow,
+Kavem Hodge,False,False,Allrounder,False,Right-hand bat,spin,St Lucia Zouks,2013,R,L,slow,sla
+Garey Mathurin,False,False,Allrounder,False,Left-hand bat,spin,St Lucia Zouks,2013,L,L,slow,sla
+Misbah-ul-Haq,False,False,Middle-order batsman,False,Right-hand bat,spin,St Lucia Zouks,2013,R,R,slow,ls
+Albie Morkel,False,False,Bowling allrounder,False,Left-hand bat,seam,St Lucia Zouks,2013,L,R,med,
+Nelon Pascal,False,False,Bowler,False,Right-hand bat,seam,St Lucia Zouks,2013,R,R,fast,
+Kenroy Peters,False,False,Batsman,False,Right-hand bat,seam,St Lucia Zouks,2013,R,L,med,
+Dalton Polius,False,False,,False,Left-hand bat,spin,St Lucia Zouks,2013,L,R,slow,os
+Liam Sebastien,False,False,Allrounder,False,Left-hand bat,spin,St Lucia Zouks,2013,L,R,slow,os
+Shane Shillingford,False,False,Bowler,False,Right-hand bat,spin,St Lucia Zouks,2013,R,R,slow,os
+Devon Smith,False,False,Opening batsman,False,Left-hand bat,spin,St Lucia Zouks,2013,L,R,slow,os
+Tamim Iqbal,False,False,Opening batsman,False,Left-hand bat,,St Lucia Zouks,2013,L,,,
+Shivnarine Chanderpaul,False,True,Batsman,False,Left-hand bat,spin,St Lucia Zouks,2013,L,R,slow,ls
+Luke Pomersbach,False,True,Batsman,False,Left-hand bat,spin,St Lucia Zouks,2013,L,R,slow,os
+Dwayne Bravo,False,False,Allrounder,False,Right-hand bat,seam,Trinidad & Tobago Red Steel,2013,R,R,med,
+Samuel Badree,False,False,Bowler,False,Right-hand bat,spin,Trinidad & Tobago Red Steel,2013,R,R,slow,ls
+Adrian Barath,False,False,Opening batsman,False,Right-hand bat,spin,Trinidad & Tobago Red Steel,2013,R,R,slow,os
+Sulieman Benn,False,False,Bowler,False,Left-hand bat,spin,Trinidad & Tobago Red Steel,2013,L,L,slow,sla
+Darren Bravo,False,False,Top-order batsman,False,Left-hand bat,seam,Trinidad & Tobago Red Steel,2013,L,R,med,
+Yannic Cariah,False,False,Bowler,False,Left-hand bat,spin,Trinidad & Tobago Red Steel,2013,L,R,slow,ls
+Kevon Cooper,False,False,Allrounder,False,Right-hand bat,seam,Trinidad & Tobago Red Steel,2013,R,R,med,
+Miguel Cummins,False,False,Bowler,False,Left-hand bat,seam,Trinidad & Tobago Red Steel,2013,L,R,fast,
+Fidel Edwards,False,False,Bowler,False,Right-hand bat,seam,Trinidad & Tobago Red Steel,2013,R,R,fast,
+Justin Guillen,False,False,,False,Left-hand bat,spin,Trinidad & Tobago Red Steel,2013,L,R,slow,os
+Mahela Jayawardene,False,False,Batsman,False,Right-hand bat,seam,Trinidad & Tobago Red Steel,2013,R,R,med,
+Delorn Johnson,False,False,Bowler,False,Left-hand bat,seam,Trinidad & Tobago Red Steel,2013,L,L,fast,
+Kevin O'Brien,False,False,Batting allrounder,False,Right-hand bat,seam,Trinidad & Tobago Red Steel,2013,R,R,med,
+Nicholas Pooran,False,False,Wicketkeeper batsman,True,Left-hand bat,,Trinidad & Tobago Red Steel,2013,L,,,
+Ross Taylor,False,False,Middle-order batsman,False,Right-hand bat,spin,Trinidad & Tobago Red Steel,2013,R,R,slow,os
+Aaron Finch,False,True,Top-order batsman,False,Right-hand bat,spin,Trinidad & Tobago Red Steel,2013,R,L,slow,sla
+Davy Jacobs,False,True,Wicketkeeper batsman,True,Right-hand bat,seam,Trinidad & Tobago Red Steel,2013,R,R,med,
+Marlon Samuels,False,False,Top-order batsman,False,Right-hand bat,spin,Antigua Hawksbills,2014,R,R,slow,os
+Justin Athanaze,False,False,,False,Right-hand bat,spin,Antigua Hawksbills,2014,R,R,slow,os
+Carlos Brathwaite,False,False,Allrounder,False,Right-hand bat,seam,Antigua Hawksbills,2014,R,R,fast,
+Rahkeem Cornwall,False,False,Allrounder,False,Right-hand bat,spin,Antigua Hawksbills,2014,R,R,slow,os
+Sheldon Cottrell,False,False,Bowler,False,Right-hand bat,seam,Antigua Hawksbills,2014,R,L,fast,
+Miguel Cummins,False,False,Bowler,False,Left-hand bat,seam,Antigua Hawksbills,2014,L,R,fast,
+Ben Dunk,True,False,Wicketkeeper batsman,True,Left-hand bat,spin,Antigua Hawksbills,2014,L,R,slow,os
+Brad Hogg,True,False,Allrounder,False,Left-hand bat,spin,Antigua Hawksbills,2014,L,L,slow,lls
+David Hussey,True,False,Allrounder,False,Right-hand bat,spin,Antigua Hawksbills,2014,R,R,slow,os
+Danza Hyatt,False,False,Allrounder,False,Right-hand bat,seam,Antigua Hawksbills,2014,R,R,med,
+Ben Laughlin,True,False,Bowler,False,Right-hand bat,seam,Antigua Hawksbills,2014,R,R,fast,
+Orlando Peters,False,False,Allrounder,False,Right-hand bat,seam,Antigua Hawksbills,2014,R,R,med,
+Saeed Ajmal,False,False,Bowler,False,Right-hand bat,spin,Antigua Hawksbills,2014,R,R,slow,os
+Devon Thomas,False,False,Top-order batsman,False,Right-hand bat,seam,Antigua Hawksbills,2014,R,R,med,
+Shacaya Thomas,False,False,Middle-order batsman,False,Right-hand bat,,Antigua Hawksbills,2014,R,,,
+Gavin Tonge,False,False,Bowler,False,Right-hand bat,seam,Antigua Hawksbills,2014,R,R,fast,
+Thisara Perera,False,True,Bowling allrounder,False,Left-hand bat,seam,Antigua Hawksbills,2014,L,R,med,
+Kieran Powell,False,True,Opening batsman,False,Left-hand bat,seam,Antigua Hawksbills,2014,L,R,med,
+Kieron Pollard,False,False,Allrounder,False,Right-hand bat,seam,Barbados Tridents,2014,R,R,med,
+Jonathan Carter,False,False,Batting allrounder,False,Left-hand bat,seam,Barbados Tridents,2014,L,R,med,
+Shane Dowrich,False,False,Wicketkeeper batsman,True,Right-hand bat,,Barbados Tridents,2014,R,,,
+Kirk Edwards,False,False,Batsman,False,Right-hand bat,spin,Barbados Tridents,2014,R,R,slow,os
+Rayad Emrit,False,False,Bowling allrounder,False,Right-hand bat,seam,Barbados Tridents,2014,R,R,med,
+Jason Holder,False,False,Bowling allrounder,False,Right-hand bat,seam,Barbados Tridents,2014,R,R,med,
+Akeal Hosein,False,False,Bowler,False,Left-hand bat,spin,Barbados Tridents,2014,L,L,slow,sla
+Neil McKenzie,False,False,,False,Right-hand bat,seam,Barbados Tridents,2014,R,R,med,
+Kyle Mayers,False,False,Batting allrounder,False,Left-hand bat,seam,Barbados Tridents,2014,L,R,med,
+Jeevan Mendis,False,False,Allrounder,False,Left-hand bat,spin,Barbados Tridents,2014,L,R,slow,ls
+Ashley Nurse,False,False,Bowler,False,Right-hand bat,spin,Barbados Tridents,2014,R,R,slow,os
+William Perkins,False,False,Wicketkeeper batsman,True,Right-hand bat,,Barbados Tridents,2014,R,,,
+Ravi Rampaul,False,False,Bowler,False,Left-hand bat,seam,Barbados Tridents,2014,L,R,fast,
+Raymon Reifer,False,False,Allrounder,False,Left-hand bat,seam,Barbados Tridents,2014,L,L,med,
+Shoaib Malik,False,False,Allrounder,False,Right-hand bat,spin,Barbados Tridents,2014,R,R,slow,os
+Dwayne Smith,False,False,Allrounder,False,Right-hand bat,seam,Barbados Tridents,2014,R,R,med,
+Imran Nazir,False,True,,False,Right-hand bat,spin,Barbados Tridents,2014,R,R,slow,ls
+Shakib Al Hasan,False,True,Allrounder,False,Left-hand bat,spin,Barbados Tridents,2014,L,L,slow,sla
+Sunil Narine,False,False,Bowling allrounder,False,Left-hand bat,spin,Guyana Amazon Warriors,2014,L,R,slow,os
+Chris Barnwell,False,False,Allrounder,False,Right-hand bat,seam,Guyana Amazon Warriors,2014,R,R,med,
+Ronsford Beaton,False,False,Bowler,False,Right-hand bat,seam,Guyana Amazon Warriors,2014,R,R,fast,
+Trevon Griffith,False,False,Opening batsman,False,Left-hand bat,spin,Guyana Amazon Warriors,2014,L,R,slow,os
+Martin Guptill,False,False,Opening batsman,False,Right-hand bat,spin,Guyana Amazon Warriors,2014,R,R,slow,os
+Steven Jacobs,False,False,Bowler,False,Right-hand bat,spin,Guyana Amazon Warriors,2014,R,R,slow,os
+Leon Johnson,False,False,Middle-order batsman,False,Left-hand bat,spin,Guyana Amazon Warriors,2014,L,R,slow,ls
+Mohammad Hafeez,False,False,Allrounder,False,Right-hand bat,spin,Guyana Amazon Warriors,2014,R,R,slow,os
+James Neesham,False,False,Batting allrounder,False,Left-hand bat,seam,Guyana Amazon Warriors,2014,L,R,med,
+Veerasammy Permaul,False,False,Bowler,False,Right-hand bat,spin,Guyana Amazon Warriors,2014,R,L,slow,sla
+Denesh Ramdin,False,False,Wicketkeeper batsman,True,Right-hand bat,,Guyana Amazon Warriors,2014,R,,,
+Krishmar Santokie,False,False,Bowler,False,Left-hand bat,seam,Guyana Amazon Warriors,2014,L,L,med,
+Lendl Simmons,False,False,Top-order batsman,False,Right-hand bat,seam,Guyana Amazon Warriors,2014,R,R,med,
+Navin Stewart,False,False,Batsman,False,Right-hand bat,seam,Guyana Amazon Warriors,2014,R,R,fast,
+Corey Anderson,False,True,Batting allrounder,False,Left-hand bat,seam,Guyana Amazon Warriors,2014,L,L,med,
+Chris Gayle,False,False,Allrounder,False,Left-hand bat,spin,Jamaica Tallawahs,2014,L,R,slow,os
+Fabian Allen,False,False,Bowling allrounder,False,Right-hand bat,spin,Jamaica Tallawahs,2014,R,L,slow,sla
+Carlton Baugh,False,False,Wicketkeeper,True,Right-hand bat,spin,Jamaica Tallawahs,2014,R,R,slow,ls
+David Bernard,False,False,,False,Right-hand bat,seam,Jamaica Tallawahs,2014,R,R,med,
+Jermaine Blackwood,False,False,Middle-order batsman,False,Right-hand bat,spin,Jamaica Tallawahs,2014,R,R,slow,os
+Nkrumah Bonner,False,False,Allrounder,False,Right-hand bat,spin,Jamaica Tallawahs,2014,R,R,slow,ls
+Odean Brown,False,False,Bowler,False,Right-hand bat,spin,Jamaica Tallawahs,2014,R,R,slow,ls
+Nikita Miller,False,False,Bowler,False,Right-hand bat,spin,Jamaica Tallawahs,2014,R,L,slow,sla
+Andrew Richardson,False,False,,False,Left-hand bat,seam,Jamaica Tallawahs,2014,L,R,fast,
+Andre Russell,False,False,Allrounder,False,Right-hand bat,seam,Jamaica Tallawahs,2014,R,R,fast,
+Owais Shah,True,False,Batsman,False,Right-hand bat,spin,Jamaica Tallawahs,2014,R,R,slow,os
+Jerome Taylor,False,False,Bowler,False,Right-hand bat,seam,Jamaica Tallawahs,2014,R,R,fast,
+Rusty Theron,False,False,Bowler,False,Right-hand bat,seam,Jamaica Tallawahs,2014,R,R,med,
+Daniel Vettori,True,False,Allrounder,False,Left-hand bat,spin,Jamaica Tallawahs,2014,L,L,slow,sla
+Adam Voges,False,False,Top-order batsman,False,Right-hand bat,spin,Jamaica Tallawahs,2014,R,L,slow,sla
+Chadwick Walton,False,False,Top-order batsman,False,Right-hand bat,,Jamaica Tallawahs,2014,R,,,
+Ahmed Shehzad,False,True,Opening batsman,False,Right-hand bat,spin,Jamaica Tallawahs,2014,R,R,slow,ls
+Muttiah Muralitharan,False,True,Bowler,False,Right-hand bat,spin,Jamaica Tallawahs,2014,R,R,slow,os
+Dwayne Bravo,False,False,Allrounder,False,Right-hand bat,seam,Trinidad & Tobago Red Steel,2014,R,R,med,
+Samuel Badree,False,False,Bowler,False,Right-hand bat,spin,Trinidad & Tobago Red Steel,2014,R,R,slow,ls
+Sulieman Benn,False,False,Bowler,False,Left-hand bat,spin,Trinidad & Tobago Red Steel,2014,L,L,slow,sla
+Darren Bravo,False,False,Top-order batsman,False,Left-hand bat,seam,Trinidad & Tobago Red Steel,2014,L,R,med,
+Kevon Cooper,False,False,Allrounder,False,Right-hand bat,seam,Trinidad & Tobago Red Steel,2014,R,R,med,
+Fidel Edwards,False,False,Bowler,False,Right-hand bat,seam,Trinidad & Tobago Red Steel,2014,R,R,fast,
+Shannon Gabriel,False,False,Bowler,False,Right-hand bat,seam,Trinidad & Tobago Red Steel,2014,R,R,fast,
+Delorn Johnson,False,False,Bowler,False,Left-hand bat,seam,Trinidad & Tobago Red Steel,2014,L,L,fast,
+Evin Lewis,False,False,Opening batsman,False,Left-hand bat,,Trinidad & Tobago Red Steel,2014,L,,,
+Jason Mohammed,False,False,Middle-order batsman,False,Right-hand bat,spin,Trinidad & Tobago Red Steel,2014,R,R,slow,os
+Nasir Jamshed,False,False,Opening batsman,False,Left-hand bat,,Trinidad & Tobago Red Steel,2014,L,,,
+Kevin O'Brien,False,False,Batting allrounder,False,Right-hand bat,seam,Trinidad & Tobago Red Steel,2014,R,R,med,
+Nicholas Pooran,False,False,Wicketkeeper batsman,True,Left-hand bat,,Trinidad & Tobago Red Steel,2014,L,,,
+Javon Searles,False,False,Bowling allrounder,False,Right-hand bat,seam,Trinidad & Tobago Red Steel,2014,R,R,fast,
+Ross Taylor,False,False,Middle-order batsman,False,Right-hand bat,spin,Trinidad & Tobago Red Steel,2014,R,R,slow,os
+Daren Sammy,False,False,Allrounder,False,Right-hand bat,seam,St Lucia Zouks,2014,R,R,med,
+Sunil Ambris,False,False,Opening batsman,False,Right-hand bat,,St Lucia Zouks,2014,R,,,
+Tino Best,False,False,Bowler,False,Right-hand bat,seam,St Lucia Zouks,2014,R,R,fast,
+Johnson Charles,False,False,Wicketkeeper batsman,True,Right-hand bat,,St Lucia Zouks,2014,R,,,
+Henry Davids,False,False,Top-order batsman,False,Right-hand bat,seam,St Lucia Zouks,2014,R,R,med,
+Andre Fletcher,False,False,Top-order batsman,False,Right-hand bat,seam,St Lucia Zouks,2014,R,R,med,
+Ray Jordan,False,False,,False,Right-hand bat,seam,St Lucia Zouks,2014,R,R,fast,
+Keddy Lesporis,False,False,Top-order batsman,False,Right-hand bat,spin,St Lucia Zouks,2014,R,R,slow,os
+Garey Mathurin,False,False,Allrounder,False,Left-hand bat,spin,St Lucia Zouks,2014,L,L,slow,sla
+Mervin Matthew,False,False,Bowler,False,Right-hand bat,seam,St Lucia Zouks,2014,R,R,fast,
+Kevin Pietersen,False,False,Top-order batsman,False,Right-hand bat,spin,St Lucia Zouks,2014,R,R,slow,os
+Liam Sebastien,False,False,Allrounder,False,Left-hand bat,spin,St Lucia Zouks,2014,L,R,slow,os
+Shane Shillingford,False,False,Bowler,False,Right-hand bat,spin,St Lucia Zouks,2014,R,R,slow,os
+Sohail Tanvir,False,False,Bowler,False,Left-hand bat,seam,St Lucia Zouks,2014,L,L,med,
+Roelof van der Merwe,False,False,Allrounder,False,Right-hand bat,spin,St Lucia Zouks,2014,R,L,slow,sla
+Tonito Willett,False,False,Allrounder,False,Right-hand bat,seam,St Lucia Zouks,2014,R,R,med,
+Brad Hodge,False,True,Top-order batsman,False,Right-hand bat,spin,St Lucia Zouks,2014,R,R,slow,os
+Jonathan Carter,False,False,Batting allrounder,False,Left-hand bat,seam,Barbados Tridents,2015,L,R,med,
+Kyle Corbin,False,False,Batsman,False,Right-hand bat,,Barbados Tridents,2015,R,,,
+Rayad Emrit,False,False,Bowling allrounder,False,Right-hand bat,seam,Barbados Tridents,2015,R,R,med,
+Jason Holder,False,False,Bowling allrounder,False,Right-hand bat,seam,Barbados Tridents,2015,R,R,med,
+Shai Hope,False,False,Wicketkeeper batsman,True,Right-hand bat,,Barbados Tridents,2015,R,,,
+Akeal Hosein,False,False,Bowler,False,Left-hand bat,spin,Barbados Tridents,2015,L,L,slow,sla
+Jeevan Mendis,False,False,Allrounder,False,Left-hand bat,spin,Barbados Tridents,2015,L,R,slow,ls
+Dilshan Munaweera,False,False,Opening batsman,False,Right-hand bat,spin,Barbados Tridents,2015,R,R,slow,os
+Ashley Nurse,False,False,Bowler,False,Right-hand bat,spin,Barbados Tridents,2015,R,R,slow,os
+Robin Peterson,False,False,Bowler,False,Left-hand bat,spin,Barbados Tridents,2015,L,L,slow,sla
+Kieron Pollard,False,False,Allrounder,False,Right-hand bat,seam,Barbados Tridents,2015,R,R,med,
+Ravi Rampaul,False,False,Bowler,False,Left-hand bat,seam,Barbados Tridents,2015,L,R,fast,
+Shoaib Malik,False,False,Allrounder,False,Right-hand bat,spin,Barbados Tridents,2015,R,R,slow,os
+Dwayne Smith,False,False,Allrounder,False,Right-hand bat,seam,Barbados Tridents,2015,R,R,med,
+Navin Stewart,False,False,Batsman,False,Right-hand bat,seam,Barbados Tridents,2015,R,R,fast,
+Steven Taylor,False,False,Opening batsman,False,Left-hand bat,spin,Barbados Tridents,2015,L,R,slow,os
+Justin Ontong,False,True,,False,Right-hand bat,spin,Barbados Tridents,2015,R,R,slow,os
+Chris Barnwell,False,False,Allrounder,False,Right-hand bat,seam,Guyana Amazon Warriors,2015,R,R,med,
+Ronsford Beaton,False,False,Bowler,False,Right-hand bat,seam,Guyana Amazon Warriors,2015,R,R,fast,
+Devendra Bishoo,False,False,Bowler,False,Left-hand bat,spin,Guyana Amazon Warriors,2015,L,R,slow,ls
+Shivnarine Chanderpaul,False,False,Batsman,False,Left-hand bat,spin,Guyana Amazon Warriors,2015,L,R,slow,ls
+Marchant de Lange,False,False,Bowler,False,Right-hand bat,seam,Guyana Amazon Warriors,2015,R,R,fast,
+Tillakaratne Dilshan,False,False,Allrounder,False,Right-hand bat,spin,Guyana Amazon Warriors,2015,R,R,slow,os
+Assad Fudadin,False,False,Top-order batsman,False,Left-hand bat,seam,Guyana Amazon Warriors,2015,L,R,med,
+Trevon Griffith,False,False,Opening batsman,False,Left-hand bat,spin,Guyana Amazon Warriors,2015,L,R,slow,os
+Shimron Hetmyer,False,False,Top-order batsman,False,Left-hand bat,,Guyana Amazon Warriors,2015,L,,,
+Brad Hodge,False,False,Top-order batsman,False,Right-hand bat,spin,Guyana Amazon Warriors,2015,R,R,slow,os
+Sunil Narine,False,False,Bowling allrounder,False,Left-hand bat,spin,Guyana Amazon Warriors,2015,L,R,slow,os
+Thisara Perera,False,False,Bowling allrounder,False,Left-hand bat,seam,Guyana Amazon Warriors,2015,L,R,med,
+Veerasammy Permaul,False,False,Bowler,False,Right-hand bat,spin,Guyana Amazon Warriors,2015,R,L,slow,sla
+Denesh Ramdin,False,False,Wicketkeeper batsman,True,Right-hand bat,,Guyana Amazon Warriors,2015,R,,,
+Lendl Simmons,False,False,Top-order batsman,False,Right-hand bat,seam,Guyana Amazon Warriors,2015,R,R,med,
+Umar Akmal,False,False,Middle-order batsman,False,Right-hand bat,spin,Guyana Amazon Warriors,2015,R,R,slow,os
+David Wiese,False,False,Allrounder,False,Right-hand bat,seam,Guyana Amazon Warriors,2015,R,R,med,
+Paul Wintz,False,False,Bowler,False,Right-hand bat,seam,Guyana Amazon Warriors,2015,R,R,fast,
+Lasith Malinga,False,True,Bowler,False,Right-hand bat,seam,Guyana Amazon Warriors,2015,R,R,fast,
+David Bernard,False,False,,False,Right-hand bat,seam,Jamaica Tallawahs,2015,R,R,med,
+Jermaine Blackwood,False,False,Middle-order batsman,False,Right-hand bat,spin,Jamaica Tallawahs,2015,R,R,slow,os
+Nkrumah Bonner,False,False,Allrounder,False,Right-hand bat,spin,Jamaica Tallawahs,2015,R,R,slow,ls
+Narsingh Deonarine,False,False,Batsman,False,Left-hand bat,spin,Jamaica Tallawahs,2015,L,R,slow,os
+Chris Gayle,False,False,Allrounder,False,Left-hand bat,spin,Jamaica Tallawahs,2015,L,R,slow,os
+Mahela Jayawardene,False,False,Batsman,False,Right-hand bat,seam,Jamaica Tallawahs,2015,R,R,med,
+Ramaal Lewis,False,False,Bowler,False,Right-hand bat,spin,Jamaica Tallawahs,2015,R,R,slow,os
+Chris Lynn,False,False,Batsman,False,Right-hand bat,spin,Jamaica Tallawahs,2015,R,L,slow,sla
+Horace Miller,False,False,,False,Right-hand bat,,Jamaica Tallawahs,2015,R,,,
+Nikita Miller,False,False,Bowler,False,Right-hand bat,spin,Jamaica Tallawahs,2015,R,L,slow,sla
+Andre Russell,False,False,Allrounder,False,Right-hand bat,seam,Jamaica Tallawahs,2015,R,R,fast,
+Krishmar Santokie,False,False,Bowler,False,Left-hand bat,seam,Jamaica Tallawahs,2015,L,L,med,
+Jerome Taylor,False,False,Bowler,False,Right-hand bat,seam,Jamaica Tallawahs,2015,R,R,fast,
+Rusty Theron,False,False,Bowler,False,Right-hand bat,seam,Jamaica Tallawahs,2015,R,R,med,
+Daniel Vettori,False,False,Allrounder,False,Left-hand bat,spin,Jamaica Tallawahs,2015,L,L,slow,sla
+Chadwick Walton,False,False,Top-order batsman,False,Right-hand bat,,Jamaica Tallawahs,2015,R,,,
+Justin Athanaze,False,False,,False,Right-hand bat,spin,St Kitts and Nevis Patriots,2015,R,R,slow,os
+Carlos Brathwaite,False,False,Allrounder,False,Right-hand bat,seam,St Kitts and Nevis Patriots,2015,R,R,fast,
+Sheldon Cottrell,False,False,Bowler,False,Right-hand bat,seam,St Kitts and Nevis Patriots,2015,R,L,fast,
+Shane Dowrich,False,False,Wicketkeeper batsman,True,Right-hand bat,,St Kitts and Nevis Patriots,2015,R,,,
+Nikhil Dutta,False,False,Bowler,False,Right-hand bat,spin,St Kitts and Nevis Patriots,2015,R,R,slow,os
+Martin Guptill,False,False,Opening batsman,False,Right-hand bat,spin,St Kitts and Nevis Patriots,2015,R,R,slow,os
+Evin Lewis,False,False,Opening batsman,False,Left-hand bat,,St Kitts and Nevis Patriots,2015,L,,,
+Orlando Peters,False,False,Allrounder,False,Right-hand bat,seam,St Kitts and Nevis Patriots,2015,R,R,med,
+Raymon Reifer,False,False,Allrounder,False,Left-hand bat,seam,St Kitts and Nevis Patriots,2015,L,L,med,
+Marlon Samuels,False,False,Top-order batsman,False,Right-hand bat,spin,St Kitts and Nevis Patriots,2015,R,R,slow,os
+Shahid Afridi,False,False,Allrounder,False,Right-hand bat,spin,St Kitts and Nevis Patriots,2015,R,R,slow,ls
+Tabraiz Shamsi,False,False,Bowler,False,Right-hand bat,spin,St Kitts and Nevis Patriots,2015,R,L,slow,lls
+Sohail Tanvir,False,False,Bowler,False,Left-hand bat,seam,St Kitts and Nevis Patriots,2015,L,L,med,
+Jacques Taylor,False,False,Bowler,False,Right-hand bat,spin,St Kitts and Nevis Patriots,2015,R,R,slow,os
+Devon Thomas,False,False,Top-order batsman,False,Right-hand bat,seam,St Kitts and Nevis Patriots,2015,R,R,med,
+Tonito Willett,False,False,Allrounder,False,Right-hand bat,seam,St Kitts and Nevis Patriots,2015,R,R,med,
+Nicholas Pooran,False,True,Wicketkeeper batsman,True,Left-hand bat,,St Kitts and Nevis Patriots,2015,L,,,
+Kevin Pietersen,False,False,Top-order batsman,False,Right-hand bat,spin,St Lucia Zouks,2015,R,R,slow,os
+Johnson Charles,False,False,Wicketkeeper batsman,True,Right-hand bat,,St Lucia Zouks,2015,R,,,
+Henry Davids,False,False,Top-order batsman,False,Right-hand bat,seam,St Lucia Zouks,2015,R,R,med,
+Fidel Edwards,False,False,Bowler,False,Right-hand bat,seam,St Lucia Zouks,2015,R,R,fast,
+Andre Fletcher,False,False,Top-order batsman,False,Right-hand bat,seam,St Lucia Zouks,2015,R,R,med,
+Shannon Gabriel,False,False,Bowler,False,Right-hand bat,seam,St Lucia Zouks,2015,R,R,fast,
+Delorn Johnson,False,False,Bowler,False,Left-hand bat,seam,St Lucia Zouks,2015,L,L,fast,
+Eddie Leie,False,False,Bowler,False,Right-hand bat,spin,St Lucia Zouks,2015,R,R,slow,ls
+Keddy Lesporis,False,False,Top-order batsman,False,Right-hand bat,spin,St Lucia Zouks,2015,R,R,slow,os
+Nathan McCullum,False,False,Bowler,False,Right-hand bat,spin,St Lucia Zouks,2015,R,R,slow,os
+Kyle Mayers,False,False,Batting allrounder,False,Left-hand bat,seam,St Lucia Zouks,2015,L,R,med,
+Gidron Pope,False,False,Top-order batsman,False,Left-hand bat,spin,St Lucia Zouks,2015,L,R,slow,os
+Kemar Roach,False,False,Bowler,False,Right-hand bat,seam,St Lucia Zouks,2015,R,R,fast,
+Liam Sebastien,False,False,Allrounder,False,Left-hand bat,spin,St Lucia Zouks,2015,L,R,slow,os
+Shane Shillingford,False,False,Bowler,False,Right-hand bat,spin,St Lucia Zouks,2015,R,R,slow,os
+Ross Taylor,False,False,Middle-order batsman,False,Right-hand bat,spin,St Lucia Zouks,2015,R,R,slow,os
+Daren Sammy,False,True,Allrounder,False,Right-hand bat,seam,St Lucia Zouks,2015,R,R,med,
+Shakib Al Hasan,False,True,Allrounder,False,Left-hand bat,spin,St Lucia Zouks,2015,L,L,slow,sla
+Samuel Badree,False,False,Bowler,False,Right-hand bat,spin,Trinidad & Tobago Red Steel,2015,R,R,slow,ls
+Sulieman Benn,False,False,Bowler,False,Left-hand bat,spin,Trinidad & Tobago Red Steel,2015,L,L,slow,sla
+Johan Botha,False,False,Allrounder,False,Right-hand bat,spin,Trinidad & Tobago Red Steel,2015,R,R,slow,os
+Dwayne Bravo,False,False,Allrounder,False,Right-hand bat,seam,Trinidad & Tobago Red Steel,2015,R,R,med,
+Darren Bravo,False,False,Top-order batsman,False,Left-hand bat,seam,Trinidad & Tobago Red Steel,2015,L,R,med,
+Kevon Cooper,False,False,Allrounder,False,Right-hand bat,seam,Trinidad & Tobago Red Steel,2015,R,R,med,
+Miguel Cummins,False,False,Bowler,False,Left-hand bat,seam,Trinidad & Tobago Red Steel,2015,L,R,fast,
+Derone Davis,False,False,Bowler,False,Left-hand bat,spin,Trinidad & Tobago Red Steel,2015,L,L,slow,sla
+Cameron Delport,False,False,Top-order batsman,False,Left-hand bat,seam,Trinidad & Tobago Red Steel,2015,L,R,med,
+Jacques Kallis,False,False,Allrounder,False,Right-hand bat,seam,Trinidad & Tobago Red Steel,2015,R,R,fast,
+Kamran Akmal,False,False,Wicketkeeper batsman,True,Right-hand bat,,Trinidad & Tobago Red Steel,2015,R,,,
+Jason Mohammed,False,False,Middle-order batsman,False,Right-hand bat,spin,Trinidad & Tobago Red Steel,2015,R,R,slow,os
+William Perkins,False,False,Wicketkeeper batsman,True,Right-hand bat,,Trinidad & Tobago Red Steel,2015,R,,,
+Marlon Richards,False,False,,False,Right-hand bat,seam,Trinidad & Tobago Red Steel,2015,R,R,med,
+Javon Searles,False,False,Bowling allrounder,False,Right-hand bat,seam,Trinidad & Tobago Red Steel,2015,R,R,fast,
+Ahmed Shehzad,True,False,Opening batsman,False,Right-hand bat,spin,Barbados Tridents,2016,R,R,slow,ls
+Kyle Corbin,False,False,Batsman,False,Right-hand bat,,Barbados Tridents,2016,R,,,
+Marchant de Lange,True,False,Bowler,False,Right-hand bat,seam,Barbados Tridents,2016,R,R,fast,
+Jason Holder,False,False,Bowling allrounder,False,Right-hand bat,seam,Barbados Tridents,2016,R,R,med,
+Kyle Hope,False,False,Middle-order batsman,False,Right-hand bat,spin,Barbados Tridents,2016,R,R,slow,os
+Akeal Hosein,False,False,Bowler,False,Left-hand bat,spin,Barbados Tridents,2016,L,L,slow,sla
+Imran Khan,False,False,Bowler,False,Right-hand bat,spin,Barbados Tridents,2016,R,R,slow,ls
+Ashley Nurse,False,False,Bowler,False,Right-hand bat,spin,Barbados Tridents,2016,R,R,slow,os
+Robin Peterson,True,False,Bowler,False,Left-hand bat,spin,Barbados Tridents,2016,L,L,slow,sla
+Kieron Pollard,False,False,Allrounder,False,Right-hand bat,seam,Barbados Tridents,2016,R,R,med,
+Nicholas Pooran,False,False,Wicketkeeper batsman,True,Left-hand bat,,Barbados Tridents,2016,L,,,
+Ravi Rampaul,False,False,Bowler,False,Left-hand bat,seam,Barbados Tridents,2016,L,R,fast,
+Raymon Reifer,False,False,Allrounder,False,Left-hand bat,seam,Barbados Tridents,2016,L,L,med,
+Shoaib Malik,True,False,Allrounder,False,Right-hand bat,spin,Barbados Tridents,2016,R,R,slow,os
+Shamar Springer,False,False,Allrounder,False,Right-hand bat,seam,Barbados Tridents,2016,R,R,fast,
+Navin Stewart,False,False,Batsman,False,Right-hand bat,seam,Barbados Tridents,2016,R,R,fast,
+Steven Taylor,True,False,Opening batsman,False,Left-hand bat,spin,Barbados Tridents,2016,L,R,slow,os
+David Wiese,True,False,Allrounder,False,Right-hand bat,seam,Barbados Tridents,2016,R,R,med,
+AB de Villiers,False,True,Wicketkeeper batsman,True,Right-hand bat,seam,Barbados Tridents,2016,R,R,med,
+Wayne Parnell,False,True,Bowler,False,Left-hand bat,seam,Barbados Tridents,2016,L,L,med,
+Rayad Emrit,False,False,Bowling allrounder,False,Right-hand bat,seam,Guyana Amazon Warriors,2016,R,R,med,
+Chris Lynn,False,False,Batsman,False,Right-hand bat,spin,Guyana Amazon Warriors,2016,R,L,slow,sla
+Ali Khan,True,False,Bowler,False,Right-hand bat,seam,Guyana Amazon Warriors,2016,R,R,fast,
+Chris Barnwell,False,False,Allrounder,False,Right-hand bat,seam,Guyana Amazon Warriors,2016,R,R,med,
+Devendra Bishoo,False,False,Bowler,False,Left-hand bat,spin,Guyana Amazon Warriors,2016,L,R,slow,ls
+Anthony Bramble,False,False,Wicketkeeper batsman,True,Right-hand bat,,Guyana Amazon Warriors,2016,R,,,
+Assad Fudadin,False,False,Top-order batsman,False,Left-hand bat,seam,Guyana Amazon Warriors,2016,L,R,med,
+Shimron Hetmyer,False,False,Top-order batsman,False,Left-hand bat,,Guyana Amazon Warriors,2016,L,,,
+Steven Jacobs,False,False,Bowler,False,Right-hand bat,spin,Guyana Amazon Warriors,2016,R,R,slow,os
+Steven Katwaroo,False,False,Wicketkeeper batsman,True,Right-hand bat,,Guyana Amazon Warriors,2016,R,,,
+Nic Maddinson,True,False,Opening batsman,False,Left-hand bat,spin,Guyana Amazon Warriors,2016,L,L,slow,sla
+Jason Mohammed,False,False,Middle-order batsman,False,Right-hand bat,spin,Guyana Amazon Warriors,2016,R,R,slow,os
+Veerasammy Permaul,False,False,Bowler,False,Right-hand bat,spin,Guyana Amazon Warriors,2016,R,L,slow,sla
+Orlando Peters,False,False,Allrounder,False,Right-hand bat,seam,Guyana Amazon Warriors,2016,R,R,med,
+Dwayne Smith,False,False,Allrounder,False,Right-hand bat,seam,Guyana Amazon Warriors,2016,R,R,med,
+Sohail Tanvir,True,False,Bowler,False,Left-hand bat,seam,Guyana Amazon Warriors,2016,L,L,med,
+Paul Wintz,False,False,Bowler,False,Right-hand bat,seam,Guyana Amazon Warriors,2016,R,R,fast,
+Adam Zampa,True,False,Bowler,False,Right-hand bat,spin,Guyana Amazon Warriors,2016,R,R,slow,ls
+Martin Guptill,False,True,Opening batsman,False,Right-hand bat,spin,Guyana Amazon Warriors,2016,R,R,slow,os
+Timroy Allen,True,False,Bowler,False,Right-hand bat,seam,Jamaica Tallawahs,2016,R,R,fast,
+Nkrumah Bonner,False,False,Allrounder,False,Right-hand bat,spin,Jamaica Tallawahs,2016,R,R,slow,ls
+Jonathan Foo,False,False,Top-order batsman,False,Right-hand bat,spin,Jamaica Tallawahs,2016,R,R,slow,ls
+Chris Gayle,False,False,Allrounder,False,Left-hand bat,spin,Jamaica Tallawahs,2016,L,R,slow,os
+Imad Wasim,True,False,Allrounder,False,Left-hand bat,spin,Jamaica Tallawahs,2016,L,L,slow,sla
+Jon-Russ Jaggesar,False,False,Bowler,False,Right-hand bat,spin,Jamaica Tallawahs,2016,R,R,slow,os
+Andre McCarthy,False,False,Middle-order batsman,False,Right-hand bat,spin,Jamaica Tallawahs,2016,R,R,slow,os
+Garey Mathurin,False,False,Allrounder,False,Left-hand bat,spin,Jamaica Tallawahs,2016,L,L,slow,sla
+Dane Paterson,True,False,Bowler,False,Right-hand bat,seam,Jamaica Tallawahs,2016,R,R,fast,
+Rovman Powell,False,False,Middle-order batsman,False,Right-hand bat,seam,Jamaica Tallawahs,2016,R,R,med,
+Alex Ross,True,False,Middle-order batsman,False,Right-hand bat,spin,Jamaica Tallawahs,2016,R,R,slow,os
+Andre Russell,False,False,Allrounder,False,Right-hand bat,seam,Jamaica Tallawahs,2016,R,R,fast,
+Kumar Sangakkara,True,False,Wicketkeeper batsman,True,Left-hand bat,spin,Jamaica Tallawahs,2016,L,R,slow,os
+Shakib Al Hasan,True,False,Allrounder,False,Left-hand bat,spin,Jamaica Tallawahs,2016,L,L,slow,sla
+Oshane Thomas,False,False,Bowler,False,Left-hand bat,seam,Jamaica Tallawahs,2016,L,R,fast,
+Chadwick Walton,False,False,Top-order batsman,False,Right-hand bat,,Jamaica Tallawahs,2016,R,,,
+Kesrick Williams,False,False,Bowler,False,Right-hand bat,seam,Jamaica Tallawahs,2016,R,R,fast,
+Lasith Malinga,False,True,Bowler,False,Right-hand bat,seam,Jamaica Tallawahs,2016,R,R,fast,
+Dale Steyn,False,True,Bowler,False,Right-hand bat,seam,Jamaica Tallawahs,2016,R,R,fast,
+Faf du Plessis,False,False,Middle-order batsman,False,Right-hand bat,spin,St Kitts and Nevis Patriots,2016,R,R,slow,ls
+Samuel Badree,False,False,Bowler,False,Right-hand bat,spin,St Kitts and Nevis Patriots,2016,R,R,slow,ls
+Tino Best,False,False,Bowler,False,Right-hand bat,seam,St Kitts and Nevis Patriots,2016,R,R,fast,
+Carlos Brathwaite,False,False,Allrounder,False,Right-hand bat,seam,St Kitts and Nevis Patriots,2016,R,R,fast,
+Shamarh Brooks,False,False,Top-order batsman,False,Right-hand bat,spin,St Kitts and Nevis Patriots,2016,R,R,slow,ls
+Jonathan Carter,False,False,Batting allrounder,False,Left-hand bat,seam,St Kitts and Nevis Patriots,2016,L,R,med,
+Nikhil Dutta,True,False,Bowler,False,Right-hand bat,spin,St Kitts and Nevis Patriots,2016,R,R,slow,os
+Brad Hodge,True,False,Top-order batsman,False,Right-hand bat,spin,St Kitts and Nevis Patriots,2016,R,R,slow,os
+Alzarri Joseph,False,False,Bowler,False,Right-hand bat,seam,St Kitts and Nevis Patriots,2016,R,R,fast,
+Evin Lewis,False,False,Opening batsman,False,Left-hand bat,,St Kitts and Nevis Patriots,2016,L,,,
+Jeremiah Louis,False,False,Bowler,False,Right-hand bat,seam,St Kitts and Nevis Patriots,2016,R,R,med,
+Thisara Perera,True,False,Bowling allrounder,False,Left-hand bat,seam,St Kitts and Nevis Patriots,2016,L,R,med,
+Kieran Powell,False,False,Opening batsman,False,Left-hand bat,seam,St Kitts and Nevis Patriots,2016,L,R,med,
+Krishmar Santokie,False,False,Bowler,False,Left-hand bat,seam,St Kitts and Nevis Patriots,2016,L,L,med,
+Tabraiz Shamsi,True,False,Bowler,False,Right-hand bat,spin,St Kitts and Nevis Patriots,2016,R,L,slow,lls
+Lendl Simmons,False,False,Top-order batsman,False,Right-hand bat,seam,St Kitts and Nevis Patriots,2016,R,R,med,
+JJ Smuts,True,False,Batting allrounder,False,Right-hand bat,spin,St Kitts and Nevis Patriots,2016,R,L,slow,sla
+Devon Thomas,False,False,Top-order batsman,False,Right-hand bat,seam,St Kitts and Nevis Patriots,2016,R,R,med,
+Johnson Charles,False,False,Wicketkeeper batsman,True,Right-hand bat,,St Lucia Zouks,2016,R,,,
+Derone Davis,False,False,Bowler,False,Left-hand bat,spin,St Lucia Zouks,2016,L,L,slow,sla
+Grant Elliott,True,False,Allrounder,False,Right-hand bat,seam,St Lucia Zouks,2016,R,R,med,
+Andre Fletcher,False,False,Top-order batsman,False,Right-hand bat,seam,St Lucia Zouks,2016,R,R,med,
+Michael Hussey,True,False,Middle-order batsman,False,Left-hand bat,seam,St Lucia Zouks,2016,L,R,med,
+Delorn Johnson,False,False,Bowler,False,Left-hand bat,seam,St Lucia Zouks,2016,L,L,fast,
+Nitish Kumar,True,False,Top-order batsman,False,Right-hand bat,spin,St Lucia Zouks,2016,R,R,slow,os
+Eddie Leie,True,False,Bowler,False,Right-hand bat,spin,St Lucia Zouks,2016,R,R,slow,ls
+Keddy Lesporis,False,False,Top-order batsman,False,Right-hand bat,spin,St Lucia Zouks,2016,R,R,slow,os
+Kyle Mayers,False,False,Batting allrounder,False,Left-hand bat,seam,St Lucia Zouks,2016,L,R,med,
+David Miller,True,False,Middle-order batsman,False,Left-hand bat,spin,St Lucia Zouks,2016,L,R,slow,os
+Morne Morkel,True,False,Bowler,False,Left-hand bat,seam,St Lucia Zouks,2016,L,R,fast,
+Gidron Pope,False,False,Top-order batsman,False,Left-hand bat,spin,St Lucia Zouks,2016,L,R,slow,os
+Kristopher Ramsaran,False,False,Bowler,False,Right-hand bat,spin,St Lucia Zouks,2016,R,L,slow,lls
+Daren Sammy,False,False,Allrounder,False,Right-hand bat,seam,St Lucia Zouks,2016,R,R,med,
+Shane Shillingford,False,False,Bowler,False,Right-hand bat,spin,St Lucia Zouks,2016,R,R,slow,os
+Jerome Taylor,False,False,Bowler,False,Right-hand bat,seam,St Lucia Zouks,2016,R,R,fast,
+Shane Watson,True,False,Allrounder,False,Right-hand bat,seam,St Lucia Zouks,2016,R,R,fast,
+Miguel Cummins,False,True,Bowler,False,Left-hand bat,seam,St Lucia Zouks,2016,L,R,fast,
+Fidel Edwards,False,True,Bowler,False,Right-hand bat,seam,St Lucia Zouks,2016,R,R,fast,
+Hashim Amla,True,False,Top-order batsman,False,Right-hand bat,seam,Trinbago Knight Riders,2016,R,R,med,
+Ronsford Beaton,False,False,Bowler,False,Right-hand bat,seam,Trinbago Knight Riders,2016,R,R,fast,
+Sulieman Benn,False,False,Bowler,False,Left-hand bat,spin,Trinbago Knight Riders,2016,L,L,slow,sla
+Dwayne Bravo,False,False,Allrounder,False,Right-hand bat,seam,Trinbago Knight Riders,2016,R,R,med,
+Darren Bravo,False,False,Top-order batsman,False,Left-hand bat,seam,Trinbago Knight Riders,2016,L,R,med,
+Yannic Cariah,False,False,Bowler,False,Left-hand bat,spin,Trinbago Knight Riders,2016,L,R,slow,ls
+Kevon Cooper,False,False,Allrounder,False,Right-hand bat,seam,Trinbago Knight Riders,2016,R,R,med,
+Anton Devcich,True,False,Opening batsman,False,Left-hand bat,spin,Trinbago Knight Riders,2016,L,L,slow,sla
+Hamza Tariq,True,False,Wicketkeeper,True,Right-hand bat,,Trinbago Knight Riders,2016,R,,,
+Brendon McCullum,True,False,Wicketkeeper batsman,True,Right-hand bat,seam,Trinbago Knight Riders,2016,R,R,med,
+Nikita Miller,False,False,Bowler,False,Right-hand bat,spin,Trinbago Knight Riders,2016,R,L,slow,sla
+Colin Munro,True,False,Opening batsman,False,Left-hand bat,seam,Trinbago Knight Riders,2016,L,R,med,
+Sunil Narine,False,False,Bowling allrounder,False,Left-hand bat,spin,Trinbago Knight Riders,2016,L,R,slow,os
+William Perkins,False,False,Wicketkeeper batsman,True,Right-hand bat,,Trinbago Knight Riders,2016,R,,,
+Anderson Phillip,False,False,Bowler,False,Right-hand bat,seam,Trinbago Knight Riders,2016,R,R,fast,
+Denesh Ramdin,False,False,Wicketkeeper batsman,True,Right-hand bat,,Trinbago Knight Riders,2016,R,,,
+Ramnaresh Sarwan,False,False,Batsman,False,Right-hand bat,spin,Trinbago Knight Riders,2016,R,R,slow,ls
+Umar Akmal,True,False,Middle-order batsman,False,Right-hand bat,spin,Trinbago Knight Riders,2016,R,R,slow,os
+Javon Searles,False,True,Bowling allrounder,False,Right-hand bat,seam,Trinbago Knight Riders,2016,R,R,fast,
+Kieron Pollard,False,False,Allrounder,False,Right-hand bat,seam,Barbados Tridents,2017,R,R,med,
+Chris Barnwell,False,False,Allrounder,False,Right-hand bat,seam,Barbados Tridents,2017,R,R,med,
+Tino Best,False,False,Bowler,False,Right-hand bat,seam,Barbados Tridents,2017,R,R,fast,
+Akeem Dodson,False,False,,False,Left-hand bat,,Barbados Tridents,2017,L,,,
+Akeal Hosein,False,False,Bowler,False,Left-hand bat,spin,Barbados Tridents,2017,L,L,slow,sla
+Damion Jacobs,False,False,,False,Right-hand bat,spin,Barbados Tridents,2017,R,R,slow,ls
+Imran Khan,False,False,Bowler,False,Right-hand bat,spin,Barbados Tridents,2017,R,R,slow,ls
+Eoin Morgan,True,False,Middle-order batsman,False,Left-hand bat,seam,Barbados Tridents,2017,L,R,med,
+Wayne Parnell,True,False,Bowler,False,Left-hand bat,seam,Barbados Tridents,2017,L,L,med,
+Nicholas Pooran,False,False,Wicketkeeper batsman,True,Left-hand bat,,Barbados Tridents,2017,L,,,
+Ravi Rampaul,False,False,Bowler,False,Left-hand bat,seam,Barbados Tridents,2017,L,R,fast,
+Shoaib Malik,True,False,Allrounder,False,Right-hand bat,spin,Barbados Tridents,2017,R,R,slow,os
+Dwayne Smith,True,False,Allrounder,False,Right-hand bat,seam,Barbados Tridents,2017,R,R,med,
+Shamar Springer,False,False,Allrounder,False,Right-hand bat,seam,Barbados Tridents,2017,R,R,fast,
+Wahab Riaz,True,False,Bowler,False,Right-hand bat,seam,Barbados Tridents,2017,R,L,fast,
+Ryan Wiggins,False,False,,False,Right-hand bat,spin,Barbados Tridents,2017,R,R,slow,os
+Kane Williamson,True,False,Top-order batsman,False,Right-hand bat,spin,Barbados Tridents,2017,R,R,slow,os
+Ali Khan,False,False,Bowler,False,Right-hand bat,seam,Guyana Amazon Warriors,2017,R,R,fast,
+Babar Azam,True,False,Batsman,False,Right-hand bat,spin,Guyana Amazon Warriors,2017,R,R,slow,os
+Rayad Emrit,False,False,Bowling allrounder,False,Right-hand bat,seam,Guyana Amazon Warriors,2017,R,R,med,
+Assad Fudadin,False,False,Top-order batsman,False,Left-hand bat,seam,Guyana Amazon Warriors,2017,L,R,med,
+Steven Jacobs,False,False,Bowler,False,Right-hand bat,spin,Guyana Amazon Warriors,2017,R,R,slow,os
+Keon Joseph,False,False,,False,Right-hand bat,seam,Guyana Amazon Warriors,2017,R,R,fast,
+Steven Katwaroo,False,False,Wicketkeeper batsman,True,Right-hand bat,,Guyana Amazon Warriors,2017,R,,,
+Jason Mohammed,False,False,Middle-order batsman,False,Right-hand bat,spin,Guyana Amazon Warriors,2017,R,R,slow,os
+Keemo Paul,False,False,Allrounder,False,Right-hand bat,seam,Guyana Amazon Warriors,2017,R,R,fast,
+Veerasammy Permaul,False,False,Bowler,False,Right-hand bat,spin,Guyana Amazon Warriors,2017,R,L,slow,sla
+Rashid Khan,True,False,Bowler,False,Right-hand bat,spin,Guyana Amazon Warriors,2017,R,R,slow,ls
+Luke Ronchi,True,False,Wicketkeeper batsman,True,Right-hand bat,,Guyana Amazon Warriors,2017,R,,,
+Gajanand Singh,False,False,,False,Left-hand bat,seam,Guyana Amazon Warriors,2017,L,L,med,
+Sohail Tanvir,True,False,Bowler,False,Left-hand bat,seam,Guyana Amazon Warriors,2017,L,L,med,
+Steven Taylor,False,False,Opening batsman,False,Left-hand bat,spin,Guyana Amazon Warriors,2017,L,R,slow,os
+Chadwick Walton,False,False,Top-order batsman,False,Right-hand bat,,Guyana Amazon Warriors,2017,R,,,
+Martin Guptill,False,True,Opening batsman,False,Right-hand bat,spin,Guyana Amazon Warriors,2017,R,R,slow,os
+Shimron Hetmyer,False,True,Top-order batsman,False,Left-hand bat,,Guyana Amazon Warriors,2017,L,,,
+Chris Lynn,False,True,Batsman,False,Right-hand bat,spin,Guyana Amazon Warriors,2017,R,L,slow,sla
+Jonathan Foo,False,False,Top-order batsman,False,Right-hand bat,spin,Jamaica Tallawahs,2017,R,R,slow,ls
+Elmore Hutchinson,True,False,,False,Right-hand bat,seam,Jamaica Tallawahs,2017,R,L,fast,
+Imad Wasim,True,False,Allrounder,False,Left-hand bat,spin,Jamaica Tallawahs,2017,L,L,slow,sla
+Jon-Russ Jaggesar,False,False,Bowler,False,Right-hand bat,spin,Jamaica Tallawahs,2017,R,R,slow,os
+Andre McCarthy,False,False,Middle-order batsman,False,Right-hand bat,spin,Jamaica Tallawahs,2017,R,R,slow,os
+Mahmudullah,True,False,Allrounder,False,Right-hand bat,spin,Jamaica Tallawahs,2017,R,R,slow,os
+Garey Mathurin,False,False,Allrounder,False,Left-hand bat,spin,Jamaica Tallawahs,2017,L,L,slow,sla
+Mohammad Sami,True,False,Bowler,False,Right-hand bat,seam,Jamaica Tallawahs,2017,R,R,fast,
+Glenn Phillips,True,False,Wicketkeeper batsman,True,Right-hand bat,,Jamaica Tallawahs,2017,R,,,
+Gidron Pope,False,False,Top-order batsman,False,Left-hand bat,spin,Jamaica Tallawahs,2017,L,R,slow,os
+Rovman Powell,False,False,Middle-order batsman,False,Right-hand bat,seam,Jamaica Tallawahs,2017,R,R,med,
+Kumar Sangakkara,True,False,Wicketkeeper batsman,True,Left-hand bat,spin,Jamaica Tallawahs,2017,L,R,slow,os
+Krishmar Santokie,False,False,Bowler,False,Left-hand bat,seam,Jamaica Tallawahs,2017,L,L,med,
+Shakib Al Hasan,True,False,Allrounder,False,Left-hand bat,spin,Jamaica Tallawahs,2017,L,L,slow,sla
+Lendl Simmons,False,False,Top-order batsman,False,Right-hand bat,seam,Jamaica Tallawahs,2017,R,R,med,
+Odean Smith,False,False,Bowler,False,Right-hand bat,seam,Jamaica Tallawahs,2017,R,R,med,
+Oshane Thomas,False,False,Bowler,False,Left-hand bat,seam,Jamaica Tallawahs,2017,L,R,fast,
+Kesrick Williams,False,False,Bowler,False,Right-hand bat,seam,Jamaica Tallawahs,2017,R,R,fast,
+Timroy Allen,False,True,Bowler,False,Right-hand bat,seam,Jamaica Tallawahs,2017,R,R,fast,
+Fabian Allen,False,False,Bowling allrounder,False,Right-hand bat,spin,St Kitts and Nevis Patriots,2017,R,L,slow,sla
+Samuel Badree,False,False,Bowler,False,Right-hand bat,spin,St Kitts and Nevis Patriots,2017,R,R,slow,ls
+Carlos Brathwaite,False,False,Allrounder,False,Right-hand bat,seam,St Kitts and Nevis Patriots,2017,R,R,fast,
+Shamarh Brooks,False,False,Top-order batsman,False,Right-hand bat,spin,St Kitts and Nevis Patriots,2017,R,R,slow,ls
+Jonathan Carter,False,False,Batting allrounder,False,Left-hand bat,seam,St Kitts and Nevis Patriots,2017,L,R,med,
+Sheldon Cottrell,False,False,Bowler,False,Right-hand bat,seam,St Kitts and Nevis Patriots,2017,R,L,fast,
+Nikhil Dutta,False,False,Bowler,False,Right-hand bat,spin,St Kitts and Nevis Patriots,2017,R,R,slow,os
+Chris Gayle,False,False,Allrounder,False,Left-hand bat,spin,St Kitts and Nevis Patriots,2017,L,R,slow,os
+Hasan Ali,True,False,Bowler,False,Right-hand bat,seam,St Kitts and Nevis Patriots,2017,R,R,med,
+Alzarri Joseph,False,False,Bowler,False,Right-hand bat,seam,St Kitts and Nevis Patriots,2017,R,R,fast,
+Brandon King,False,False,Top-order batsman,False,Right-hand bat,,St Kitts and Nevis Patriots,2017,R,,,
+Evin Lewis,False,False,Opening batsman,False,Left-hand bat,,St Kitts and Nevis Patriots,2017,L,,,
+Jeremiah Louis,False,False,Bowler,False,Right-hand bat,seam,St Kitts and Nevis Patriots,2017,R,R,med,
+Mohammad Hafeez,True,False,Allrounder,False,Right-hand bat,spin,St Kitts and Nevis Patriots,2017,R,R,slow,os
+Mohammad Nabi,True,False,Allrounder,False,Right-hand bat,spin,St Kitts and Nevis Patriots,2017,R,R,slow,os
+Chris Morris,True,False,Bowling allrounder,False,Right-hand bat,seam,St Kitts and Nevis Patriots,2017,R,R,fast,
+Tabraiz Shamsi,True,False,Bowler,False,Right-hand bat,spin,St Kitts and Nevis Patriots,2017,R,L,slow,lls
+Devon Thomas,False,False,Top-order batsman,False,Right-hand bat,seam,St Kitts and Nevis Patriots,2017,R,R,med,
+Ben Cutting,False,True,Allrounder,False,Right-hand bat,seam,St Kitts and Nevis Patriots,2017,R,R,fast,
+Kieran Powell,False,True,Opening batsman,False,Left-hand bat,seam,St Kitts and Nevis Patriots,2017,L,R,med,
+Daren Sammy,False,False,Allrounder,False,Right-hand bat,seam,St Lucia Stars,2017,R,R,med,
+Sunil Ambris,False,False,Opening batsman,False,Right-hand bat,,St Lucia Stars,2017,R,,,
+Johnson Charles,False,False,Wicketkeeper batsman,True,Right-hand bat,,St Lucia Stars,2017,R,,,
+Rahkeem Cornwall,False,False,Allrounder,False,Right-hand bat,spin,St Lucia Stars,2017,R,R,slow,os
+Andre Fletcher,False,False,Top-order batsman,False,Right-hand bat,seam,St Lucia Stars,2017,R,R,med,
+Kamran Akmal,True,False,Wicketkeeper batsman,True,Right-hand bat,,St Lucia Stars,2017,R,,,
+Eddie Leie,True,False,Bowler,False,Right-hand bat,spin,St Lucia Stars,2017,R,R,slow,ls
+Keddy Lesporis,False,False,Top-order batsman,False,Right-hand bat,spin,St Lucia Stars,2017,R,R,slow,os
+Mitchell McClenaghan,True,False,Bowler,False,Left-hand bat,seam,St Lucia Stars,2017,L,L,fast,
+Kyle Mayers,False,False,Batting allrounder,False,Left-hand bat,seam,St Lucia Stars,2017,L,R,med,
+Timil Patel,False,False,,False,Right-hand bat,spin,St Lucia Stars,2017,R,R,slow,ls
+Jesse Ryder,True,False,Allrounder,False,Left-hand bat,seam,St Lucia Stars,2017,L,R,med,
+Marlon Samuels,False,False,Top-order batsman,False,Right-hand bat,spin,St Lucia Stars,2017,R,R,slow,os
+Shane Shillingford,False,False,Bowler,False,Right-hand bat,spin,St Lucia Stars,2017,R,R,slow,os
+Jerome Taylor,False,False,Bowler,False,Right-hand bat,seam,St Lucia Stars,2017,R,R,fast,
+Shane Watson,True,False,Allrounder,False,Right-hand bat,seam,St Lucia Stars,2017,R,R,fast,
+Lasith Malinga,False,True,Bowler,False,Right-hand bat,seam,St Lucia Stars,2017,R,R,fast,
+David Miller,False,True,Middle-order batsman,False,Left-hand bat,spin,St Lucia Stars,2017,L,R,slow,os
+Dwayne Bravo,False,False,Allrounder,False,Right-hand bat,seam,Trinbago Knight Riders,2017,R,R,med,
+Hashim Amla,True,False,Top-order batsman,False,Right-hand bat,seam,Trinbago Knight Riders,2017,R,R,med,
+Ronsford Beaton,False,False,Bowler,False,Right-hand bat,seam,Trinbago Knight Riders,2017,R,R,fast,
+Darren Bravo,False,False,Top-order batsman,False,Left-hand bat,seam,Trinbago Knight Riders,2017,L,R,med,
+Kevon Cooper,False,False,Allrounder,False,Right-hand bat,seam,Trinbago Knight Riders,2017,R,R,med,
+Robbie Frylinck,True,False,Allrounder,False,Right-hand bat,seam,Trinbago Knight Riders,2017,R,R,med,
+Hamza Tariq,False,False,Wicketkeeper,True,Right-hand bat,,Trinbago Knight Riders,2017,R,,,
+Brendon McCullum,True,False,Wicketkeeper batsman,True,Right-hand bat,seam,Trinbago Knight Riders,2017,R,R,med,
+Mehidy Hasan Miraz,True,False,Allrounder,False,Right-hand bat,spin,Trinbago Knight Riders,2017,R,R,slow,os
+Nikita Miller,False,False,Bowler,False,Right-hand bat,spin,Trinbago Knight Riders,2017,R,L,slow,sla
+Colin Munro,True,False,Opening batsman,False,Left-hand bat,seam,Trinbago Knight Riders,2017,L,R,med,
+Sunil Narine,False,False,Bowling allrounder,False,Left-hand bat,spin,Trinbago Knight Riders,2017,L,R,slow,os
+William Perkins,False,False,Wicketkeeper batsman,True,Right-hand bat,,Trinbago Knight Riders,2017,R,,,
+Anderson Phillip,False,False,Bowler,False,Right-hand bat,seam,Trinbago Knight Riders,2017,R,R,fast,
+Denesh Ramdin,False,False,Wicketkeeper batsman,True,Right-hand bat,,Trinbago Knight Riders,2017,R,,,
+Javon Searles,False,False,Bowling allrounder,False,Right-hand bat,seam,Trinbago Knight Riders,2017,R,R,fast,
+Shadab Khan,True,False,Allrounder,False,Right-hand bat,spin,Trinbago Knight Riders,2017,R,R,slow,ls
+Hashim Amla,True,False,Top-order batsman,False,Right-hand bat,seam,Barbados Tridents,2018,R,R,med,
+Roston Chase,False,False,Allrounder,False,Right-hand bat,spin,Barbados Tridents,2018,R,R,slow,os
+Martin Guptill,True,False,Opening batsman,False,Right-hand bat,spin,Barbados Tridents,2018,R,R,slow,os
+Chemar Holder,False,False,Bowler,False,Right-hand bat,seam,Barbados Tridents,2018,R,R,fast,
+Jason Holder,False,False,Bowling allrounder,False,Right-hand bat,seam,Barbados Tridents,2018,R,R,med,
+Shai Hope,False,False,Wicketkeeper batsman,True,Right-hand bat,,Barbados Tridents,2018,R,,,
+Imran Khan,False,False,Bowler,False,Right-hand bat,spin,Barbados Tridents,2018,R,R,slow,ls
+Mohammad Irfan,True,False,Bowler,False,Right-hand bat,seam,Barbados Tridents,2018,R,L,fast,
+Ashley Nurse,False,False,Bowler,False,Right-hand bat,spin,Barbados Tridents,2018,R,R,slow,os
+Nicholas Pooran,False,False,Wicketkeeper batsman,True,Left-hand bat,,Barbados Tridents,2018,L,,,
+Raymon Reifer,False,False,Allrounder,False,Left-hand bat,seam,Barbados Tridents,2018,L,L,med,
+Dwayne Smith,False,False,Allrounder,False,Right-hand bat,seam,Barbados Tridents,2018,R,R,med,
+Steven Smith,True,False,Middle-order batsman,False,Right-hand bat,spin,Barbados Tridents,2018,R,R,slow,ls
+Sunny Sohal,True,False,Batsman,False,Right-hand bat,spin,Barbados Tridents,2018,R,R,slow,ls
+Shamar Springer,False,False,Allrounder,False,Right-hand bat,seam,Barbados Tridents,2018,R,R,fast,
+Wahab Riaz,True,False,Bowler,False,Right-hand bat,seam,Barbados Tridents,2018,R,L,fast,
+Junaid Khan,False,True,Bowler,False,Right-hand bat,seam,Barbados Tridents,2018,R,L,fast,
+Shakib Al Hasan,False,True,Allrounder,False,Left-hand bat,spin,Barbados Tridents,2018,L,L,slow,sla
+Devendra Bishoo,False,False,Bowler,False,Left-hand bat,spin,Guyana Amazon Warriors,2018,L,R,slow,ls
+Cameron Delport,True,False,Top-order batsman,False,Left-hand bat,seam,Guyana Amazon Warriors,2018,L,R,med,
+Rayad Emrit,False,False,Bowling allrounder,False,Right-hand bat,seam,Guyana Amazon Warriors,2018,R,R,med,
+Chris Green,True,False,Allrounder,False,Right-hand bat,spin,Guyana Amazon Warriors,2018,R,R,slow,os
+Shimron Hetmyer,False,False,Top-order batsman,False,Left-hand bat,,Guyana Amazon Warriors,2018,L,,,
+Imran Tahir,True,False,Bowler,False,Right-hand bat,spin,Guyana Amazon Warriors,2018,R,R,slow,ls
+Jason Mohammed,False,False,Middle-order batsman,False,Right-hand bat,spin,Guyana Amazon Warriors,2018,R,R,slow,os
+Saurabh Netravalkar,True,False,Bowler,False,Right-hand bat,seam,Guyana Amazon Warriors,2018,R,L,fast,
+Keemo Paul,False,False,Allrounder,False,Right-hand bat,seam,Guyana Amazon Warriors,2018,R,R,fast,
+Veerasammy Permaul,False,False,Bowler,False,Right-hand bat,spin,Guyana Amazon Warriors,2018,R,L,slow,sla
+Luke Ronchi,True,False,Wicketkeeper batsman,True,Right-hand bat,,Guyana Amazon Warriors,2018,R,,,
+Sherfane Rutherford,False,False,Middle-order batsman,False,Left-hand bat,seam,Guyana Amazon Warriors,2018,L,R,fast,
+Shoaib Malik,True,False,Allrounder,False,Right-hand bat,spin,Guyana Amazon Warriors,2018,R,R,slow,os
+Gajanand Singh,False,False,,False,Left-hand bat,seam,Guyana Amazon Warriors,2018,L,L,med,
+Sohail Tanvir,True,False,Bowler,False,Left-hand bat,seam,Guyana Amazon Warriors,2018,L,L,med,
+Chadwick Walton,False,False,Top-order batsman,False,Right-hand bat,,Guyana Amazon Warriors,2018,R,,,
+Samuel Badree,False,False,Bowler,False,Right-hand bat,spin,Jamaica Tallawahs,2018,R,R,slow,ls
+Jermaine Blackwood,False,False,Middle-order batsman,False,Right-hand bat,spin,Jamaica Tallawahs,2018,R,R,slow,os
+Johnson Charles,False,False,Wicketkeeper batsman,True,Right-hand bat,,Jamaica Tallawahs,2018,R,,,
+Colin de Grandhomme,True,False,Allrounder,False,Right-hand bat,seam,Jamaica Tallawahs,2018,R,R,med,
+Elmore Hutchinson,True,False,,False,Right-hand bat,seam,Jamaica Tallawahs,2018,R,L,fast,
+Imad Wasim,True,False,Allrounder,False,Left-hand bat,spin,Jamaica Tallawahs,2018,L,L,slow,sla
+Steven Jacobs,False,False,Bowler,False,Right-hand bat,spin,Jamaica Tallawahs,2018,R,R,slow,os
+Andre McCarthy,False,False,Middle-order batsman,False,Right-hand bat,spin,Jamaica Tallawahs,2018,R,R,slow,os
+David Miller,True,False,Middle-order batsman,False,Left-hand bat,spin,Jamaica Tallawahs,2018,L,R,slow,os
+Glenn Phillips,True,False,Wicketkeeper batsman,True,Right-hand bat,,Jamaica Tallawahs,2018,R,,,
+Rovman Powell,False,False,Middle-order batsman,False,Right-hand bat,seam,Jamaica Tallawahs,2018,R,R,med,
+Kemar Roach,False,False,Bowler,False,Right-hand bat,seam,Jamaica Tallawahs,2018,R,R,fast,
+Andre Russell,False,False,Allrounder,False,Right-hand bat,seam,Jamaica Tallawahs,2018,R,R,fast,
+Krishmar Santokie,False,False,Bowler,False,Left-hand bat,seam,Jamaica Tallawahs,2018,L,L,med,
+Ish Sodhi,True,False,Bowler,False,Right-hand bat,spin,Jamaica Tallawahs,2018,R,R,slow,ls
+Ross Taylor,True,False,Middle-order batsman,False,Right-hand bat,spin,Jamaica Tallawahs,2018,R,R,slow,os
+Steven Taylor,True,False,Opening batsman,False,Left-hand bat,spin,Jamaica Tallawahs,2018,L,R,slow,os
+Oshane Thomas,False,False,Bowler,False,Left-hand bat,seam,Jamaica Tallawahs,2018,L,R,fast,
+Adam Zampa,False,False,Bowler,False,Right-hand bat,spin,Jamaica Tallawahs,2018,R,R,slow,ls
+Shahid Afridi,False,True,Allrounder,False,Right-hand bat,spin,Jamaica Tallawahs,2018,R,R,slow,ls
+Fabian Allen,False,False,Bowling allrounder,False,Right-hand bat,spin,St Kitts and Nevis Patriots,2018,R,L,slow,sla
+Carlos Brathwaite,False,False,Allrounder,False,Right-hand bat,seam,St Kitts and Nevis Patriots,2018,R,R,fast,
+Shamarh Brooks,False,False,Top-order batsman,False,Right-hand bat,spin,St Kitts and Nevis Patriots,2018,R,R,slow,ls
+Tom Cooper,True,False,Middle-order batsman,False,Right-hand bat,spin,St Kitts and Nevis Patriots,2018,R,R,slow,os
+Sheldon Cottrell,False,False,Bowler,False,Right-hand bat,seam,St Kitts and Nevis Patriots,2018,R,L,fast,
+Ben Cutting,True,False,Allrounder,False,Right-hand bat,seam,St Kitts and Nevis Patriots,2018,R,R,fast,
+Anton Devcich,True,False,Opening batsman,False,Left-hand bat,spin,St Kitts and Nevis Patriots,2018,L,L,slow,sla
+Chris Gayle,False,False,Allrounder,False,Left-hand bat,spin,St Kitts and Nevis Patriots,2018,L,R,slow,os
+Alzarri Joseph,False,False,Bowler,False,Right-hand bat,seam,St Kitts and Nevis Patriots,2018,R,R,fast,
+Ibrahim Khaleel,True,False,,False,Right-hand bat,,St Kitts and Nevis Patriots,2018,R,,,
+Brandon King,False,False,Top-order batsman,False,Right-hand bat,,St Kitts and Nevis Patriots,2018,R,,,
+Sandeep Lamichhane,True,False,Bowler,False,Right-hand bat,spin,St Kitts and Nevis Patriots,2018,R,R,slow,ls
+Evin Lewis,False,False,Opening batsman,False,Left-hand bat,,St Kitts and Nevis Patriots,2018,L,,,
+Jeremiah Louis,False,False,Bowler,False,Right-hand bat,seam,St Kitts and Nevis Patriots,2018,R,R,med,
+Saad Bin Zafar,True,False,Allrounder,False,Left-hand bat,spin,St Kitts and Nevis Patriots,2018,L,L,slow,sla
+Devon Thomas,False,False,Top-order batsman,False,Right-hand bat,seam,St Kitts and Nevis Patriots,2018,R,R,med,
+Rassie van der Dussen,True,False,Top-order batsman,False,Right-hand bat,spin,St Kitts and Nevis Patriots,2018,R,R,slow,ls
+Hayden Walsh,False,False,Bowler,False,Left-hand bat,spin,St Kitts and Nevis Patriots,2018,L,R,slow,ls
+Graeme Cremer,False,True,Bowler,False,Right-hand bat,spin,St Kitts and Nevis Patriots,2018,R,R,slow,ls
+Mahmudullah,False,True,Allrounder,False,Right-hand bat,spin,St Kitts and Nevis Patriots,2018,R,R,slow,os
+Tabraiz Shamsi,False,True,Bowler,False,Right-hand bat,spin,St Kitts and Nevis Patriots,2018,R,L,slow,lls
+Mark Chapman,True,False,Allrounder,False,Left-hand bat,spin,St Lucia Stars,2018,L,L,slow,sla
+Rahkeem Cornwall,False,False,Allrounder,False,Right-hand bat,spin,St Lucia Stars,2018,R,R,slow,os
+Niroshan Dickwella,True,False,Wicketkeeper batsman,True,Left-hand bat,,St Lucia Stars,2018,L,,,
+Andre Fletcher,False,False,Top-order batsman,False,Right-hand bat,seam,St Lucia Stars,2018,R,R,med,
+Chandrapaul Hemraj,False,False,Opening batsman,False,Left-hand bat,spin,St Lucia Stars,2018,L,L,slow,sla
+Kavem Hodge,False,False,Allrounder,False,Right-hand bat,spin,St Lucia Stars,2018,R,L,slow,sla
+Mitchell McClenaghan,True,False,Bowler,False,Left-hand bat,seam,St Lucia Stars,2018,L,L,fast,
+Jaskaran Malhotra,True,False,Wicketkeeper,True,Right-hand bat,spin,St Lucia Stars,2018,R,R,slow,ls
+Mohammad Sami,True,False,Bowler,False,Right-hand bat,seam,St Lucia Stars,2018,R,R,fast,
+Kieron Pollard,False,False,Allrounder,False,Right-hand bat,seam,St Lucia Stars,2018,R,R,med,
+Qais Ahmad,True,False,Bowler,False,Right-hand bat,spin,St Lucia Stars,2018,R,R,slow,ls
+Daren Sammy,False,False,Allrounder,False,Right-hand bat,seam,St Lucia Stars,2018,R,R,med,
+D'Arcy Short,False,False,Opening batsman,False,Left-hand bat,spin,St Lucia Stars,2018,L,L,slow,lls
+Lendl Simmons,False,False,Top-order batsman,False,Right-hand bat,seam,St Lucia Stars,2018,R,R,med,
+Odean Smith,False,False,Bowler,False,Right-hand bat,seam,St Lucia Stars,2018,R,R,med,
+David Warner,False,False,Opening batsman,False,Left-hand bat,spin,St Lucia Stars,2018,L,R,slow,ls
+Kesrick Williams,False,False,Bowler,False,Right-hand bat,seam,St Lucia Stars,2018,R,R,fast,
+Rumman Raees,False,True,Bowler,False,Right-hand bat,seam,St Lucia Stars,2018,R,L,med,
+Ali Khan,True,False,Bowler,False,Right-hand bat,seam,Trinbago Knight Riders,2018,R,R,fast,
+Dwayne Bravo,False,False,Allrounder,False,Right-hand bat,seam,Trinbago Knight Riders,2018,R,R,med,
+Darren Bravo,False,False,Top-order batsman,False,Left-hand bat,seam,Trinbago Knight Riders,2018,L,R,med,
+Kevon Cooper,False,False,Allrounder,False,Right-hand bat,seam,Trinbago Knight Riders,2018,R,R,med,
+Fawad Ahmed,True,False,Bowler,False,Right-hand bat,spin,Trinbago Knight Riders,2018,R,R,slow,ls
+Shannon Gabriel,False,False,Bowler,False,Right-hand bat,seam,Trinbago Knight Riders,2018,R,R,fast,
+Hamza Tariq,True,False,Wicketkeeper,True,Right-hand bat,,Trinbago Knight Riders,2018,R,,,
+Colin Ingram,True,False,Top-order batsman,False,Left-hand bat,spin,Trinbago Knight Riders,2018,L,R,slow,ls
+Amir Jangoo,False,False,Wicketkeeper batsman,True,Left-hand bat,,Trinbago Knight Riders,2018,L,,,
+Chris Lynn,True,False,Batsman,False,Right-hand bat,spin,Trinbago Knight Riders,2018,R,L,slow,sla
+Brendon McCullum,True,False,Wicketkeeper batsman,True,Right-hand bat,seam,Trinbago Knight Riders,2018,R,R,med,
+Nikita Miller,False,False,Bowler,False,Right-hand bat,spin,Trinbago Knight Riders,2018,R,L,slow,sla
+Colin Munro,True,False,Opening batsman,False,Left-hand bat,seam,Trinbago Knight Riders,2018,L,R,med,
+Sunil Narine,False,False,Bowling allrounder,False,Left-hand bat,spin,Trinbago Knight Riders,2018,L,R,slow,os
+Anderson Phillip,False,False,Bowler,False,Right-hand bat,seam,Trinbago Knight Riders,2018,R,R,fast,
+Denesh Ramdin,False,False,Wicketkeeper batsman,True,Right-hand bat,,Trinbago Knight Riders,2018,R,,,
+Javon Searles,False,False,Bowling allrounder,False,Right-hand bat,seam,Trinbago Knight Riders,2018,R,R,fast,
+Ronsford Beaton,False,True,Bowler,False,Right-hand bat,seam,Trinbago Knight Riders,2018,R,R,fast,
+Junior Dala,False,True,Bowler,False,Right-hand bat,seam,Trinbago Knight Riders,2018,R,R,med,
+Shadab Khan,False,True,Allrounder,False,Right-hand bat,spin,Trinbago Knight Riders,2018,R,R,slow,ls
+Jason Holder,False,False,Bowling allrounder,False,Right-hand bat,seam,Barbados Tridents,2019,R,R,med,
+Jonathan Carter,False,False,Batting allrounder,False,Left-hand bat,seam,Barbados Tridents,2019,L,R,med,
+Johnson Charles,False,False,Wicketkeeper batsman,True,Right-hand bat,,Barbados Tridents,2019,R,,,
+Daniel Christian,True,False,Allrounder,False,Right-hand bat,seam,Barbados Tridents,2019,R,R,fast,
+Jean-Paul Duminy,True,False,Batting allrounder,False,Left-hand bat,spin,Barbados Tridents,2019,L,R,slow,os
+Justin Greaves,False,False,Allrounder,False,Right-hand bat,seam,Barbados Tridents,2019,R,R,med,
+Harry Gurney,True,False,Bowler,False,Right-hand bat,seam,Barbados Tridents,2019,R,L,fast,
+Alex Hales,True,False,Opening batsman,False,Right-hand bat,seam,Barbados Tridents,2019,R,R,med,
+Chemar Holder,False,False,Bowler,False,Right-hand bat,seam,Barbados Tridents,2019,R,R,fast,
+Shai Hope,False,False,Wicketkeeper batsman,True,Right-hand bat,,Barbados Tridents,2019,R,,,
+Josh Lalor,True,False,Bowler,False,Right-hand bat,seam,Barbados Tridents,2019,R,L,fast,
+Ashley Nurse,False,False,Bowler,False,Right-hand bat,spin,Barbados Tridents,2019,R,R,slow,os
+Raymon Reifer,False,False,Allrounder,False,Left-hand bat,seam,Barbados Tridents,2019,L,L,med,
+Phil Salt,True,False,Top-order batsman,False,Right-hand bat,spin,Barbados Tridents,2019,R,R,slow,os
+Shakib Al Hasan,True,False,Allrounder,False,Left-hand bat,spin,Barbados Tridents,2019,L,L,slow,sla
+Hayden Walsh,True,False,Bowler,False,Left-hand bat,spin,Barbados Tridents,2019,L,R,slow,ls
+Asif Ali,False,True,Middle-order batsman,False,Right-hand bat,seam,Barbados Tridents,2019,R,R,med,
+Imad Wasim,False,True,Allrounder,False,Left-hand bat,spin,Barbados Tridents,2019,L,L,slow,sla
+Sandeep Lamichhane,False,True,Bowler,False,Right-hand bat,spin,Barbados Tridents,2019,R,R,slow,ls
+Wahab Riaz,False,True,Bowler,False,Right-hand bat,seam,Barbados Tridents,2019,R,L,fast,
+Anthony Bramble,False,False,Wicketkeeper batsman,True,Right-hand bat,,Guyana Amazon Warriors,2019,R,,,
+Chris Green,True,False,Allrounder,False,Right-hand bat,spin,Guyana Amazon Warriors,2019,R,R,slow,os
+Chandrapaul Hemraj,False,False,Opening batsman,False,Left-hand bat,spin,Guyana Amazon Warriors,2019,L,L,slow,sla
+Shimron Hetmyer,False,False,Top-order batsman,False,Left-hand bat,,Guyana Amazon Warriors,2019,L,,,
+Imran Tahir,True,False,Bowler,False,Right-hand bat,spin,Guyana Amazon Warriors,2019,R,R,slow,ls
+Brandon King,False,False,Top-order batsman,False,Right-hand bat,,Guyana Amazon Warriors,2019,R,,,
+Ben Laughlin,True,False,Bowler,False,Right-hand bat,seam,Guyana Amazon Warriors,2019,R,R,fast,
+Keemo Paul,False,False,Allrounder,False,Right-hand bat,seam,Guyana Amazon Warriors,2019,R,R,fast,
+Veerasammy Permaul,False,False,Bowler,False,Right-hand bat,spin,Guyana Amazon Warriors,2019,R,L,slow,sla
+Nicholas Pooran,False,False,Wicketkeeper batsman,True,Left-hand bat,,Guyana Amazon Warriors,2019,L,,,
+Qais Ahmad,True,False,Bowler,False,Right-hand bat,spin,Guyana Amazon Warriors,2019,R,R,slow,ls
+Sherfane Rutherford,False,False,Middle-order batsman,False,Left-hand bat,seam,Guyana Amazon Warriors,2019,L,R,fast,
+Shoaib Malik,True,False,Allrounder,False,Right-hand bat,spin,Guyana Amazon Warriors,2019,R,R,slow,os
+Odean Smith,False,False,Bowler,False,Right-hand bat,seam,Guyana Amazon Warriors,2019,R,R,med,
+Saurabh Netravalkar,False,True,Bowler,False,Right-hand bat,seam,Guyana Amazon Warriors,2019,R,L,fast,
+Shadab Khan,False,True,Allrounder,False,Right-hand bat,spin,Guyana Amazon Warriors,2019,R,R,slow,ls
+Jermaine Blackwood,False,False,Middle-order batsman,False,Right-hand bat,spin,Jamaica Tallawahs,2019,R,R,slow,os
+Jade Dernbach,True,False,Bowler,False,Right-hand bat,seam,Jamaica Tallawahs,2019,R,R,fast,
+Chris Gayle,False,False,Allrounder,False,Left-hand bat,spin,Jamaica Tallawahs,2019,L,R,slow,os
+Steven Jacobs,False,False,Bowler,False,Right-hand bat,spin,Jamaica Tallawahs,2019,R,R,slow,os
+Imran Khan,False,False,Bowler,False,Right-hand bat,spin,Jamaica Tallawahs,2019,R,R,slow,ls
+Ramaal Lewis,False,False,Bowler,False,Right-hand bat,spin,Jamaica Tallawahs,2019,R,R,slow,os
+Xavier Marshall,True,False,Opening batsman,False,Right-hand bat,spin,Jamaica Tallawahs,2019,R,R,slow,os
+Glenn Phillips,False,False,Wicketkeeper batsman,True,Right-hand bat,,Jamaica Tallawahs,2019,R,,,
+Rovman Powell,False,False,Middle-order batsman,False,Right-hand bat,seam,Jamaica Tallawahs,2019,R,R,med,
+Andre Russell,False,False,Allrounder,False,Right-hand bat,seam,Jamaica Tallawahs,2019,R,R,fast,
+Dwayne Smith,False,False,Allrounder,False,Right-hand bat,seam,Jamaica Tallawahs,2019,R,R,med,
+Shamar Springer,False,False,Allrounder,False,Right-hand bat,seam,Jamaica Tallawahs,2019,R,R,fast,
+Jerome Taylor,False,False,Bowler,False,Right-hand bat,seam,Jamaica Tallawahs,2019,R,R,fast,
+Oshane Thomas,False,False,Bowler,False,Left-hand bat,seam,Jamaica Tallawahs,2019,L,R,fast,
+Chadwick Walton,False,False,Top-order batsman,False,Right-hand bat,,Jamaica Tallawahs,2019,R,,,
+George Worker,True,False,Batting allrounder,False,Left-hand bat,spin,Jamaica Tallawahs,2019,L,L,slow,sla
+Zahir Khan,True,False,Bowler,False,Left-hand bat,spin,Jamaica Tallawahs,2019,L,L,slow,lls
+Carlos Brathwaite,False,False,Allrounder,False,Right-hand bat,seam,St Kitts and Nevis Patriots,2019,R,R,fast,
+Aaron Jones,True,False,Top-order batsman,False,Right-hand bat,spin,St Kitts and Nevis Patriots,2019,R,R,slow,ls
+Fabian Allen,False,False,Bowling allrounder,False,Right-hand bat,spin,St Kitts and Nevis Patriots,2019,R,L,slow,sla
+Shamarh Brooks,False,False,Top-order batsman,False,Right-hand bat,spin,St Kitts and Nevis Patriots,2019,R,R,slow,ls
+Sheldon Cottrell,False,False,Bowler,False,Right-hand bat,seam,St Kitts and Nevis Patriots,2019,R,L,fast,
+Rayad Emrit,False,False,Bowling allrounder,False,Right-hand bat,seam,St Kitts and Nevis Patriots,2019,R,R,med,
+Laurie Evans,True,False,Top-order batsman,False,Right-hand bat,spin,St Kitts and Nevis Patriots,2019,R,R,slow,os
+Alzarri Joseph,False,False,Bowler,False,Right-hand bat,seam,St Kitts and Nevis Patriots,2019,R,R,fast,
+Evin Lewis,False,False,Opening batsman,False,Left-hand bat,,St Kitts and Nevis Patriots,2019,L,,,
+Jeremiah Louis,False,False,Bowler,False,Right-hand bat,seam,St Kitts and Nevis Patriots,2019,R,R,med,
+Mohammad Hafeez,True,False,Allrounder,False,Right-hand bat,spin,St Kitts and Nevis Patriots,2019,R,R,slow,os
+Jason Mohammed,False,False,Middle-order batsman,False,Right-hand bat,spin,St Kitts and Nevis Patriots,2019,R,R,slow,os
+Kjorn Ottley,False,False,Opening batsman,False,Left-hand bat,spin,St Kitts and Nevis Patriots,2019,L,R,slow,os
+Devon Thomas,False,False,Top-order batsman,False,Right-hand bat,seam,St Kitts and Nevis Patriots,2019,R,R,med,
+Usama Mir,True,False,Bowler,False,Right-hand bat,spin,St Kitts and Nevis Patriots,2019,R,R,slow,ls
+Afif Hossain,False,True,Allrounder,False,Left-hand bat,spin,St Kitts and Nevis Patriots,2019,L,R,slow,os
+Isuru Udana,False,True,Allrounder,False,Right-hand bat,seam,St Kitts and Nevis Patriots,2019,R,L,med,
+Rassie van der Dussen,False,True,Top-order batsman,False,Right-hand bat,spin,St Kitts and Nevis Patriots,2019,R,R,slow,ls
+Daren Sammy,False,False,Allrounder,False,Right-hand bat,seam,St Lucia Zouks,2019,R,R,med,
+Chris Barnwell,False,False,Allrounder,False,Right-hand bat,seam,St Lucia Zouks,2019,R,R,med,
+John Campbell,False,False,Opening batsman,False,Left-hand bat,spin,St Lucia Zouks,2019,L,R,slow,os
+Roland Cato,False,False,Middle-order batsman,False,Right-hand bat,seam,St Lucia Zouks,2019,R,R,med,
+Rahkeem Cornwall,False,False,Allrounder,False,Right-hand bat,spin,St Lucia Zouks,2019,R,R,slow,os
+Colin de Grandhomme,True,False,Allrounder,False,Right-hand bat,seam,St Lucia Zouks,2019,R,R,med,
+Cameron Delport,True,False,Top-order batsman,False,Left-hand bat,seam,St Lucia Zouks,2019,L,R,med,
+Fawad Ahmed,True,False,Bowler,False,Right-hand bat,spin,St Lucia Zouks,2019,R,R,slow,ls
+Andre Fletcher,False,False,Top-order batsman,False,Right-hand bat,seam,St Lucia Zouks,2019,R,R,med,
+Jahmar Hamilton,False,False,Wicketkeeper batsman,True,Right-hand bat,,St Lucia Zouks,2019,R,,,
+Kavem Hodge,False,False,Allrounder,False,Right-hand bat,spin,St Lucia Zouks,2019,R,L,slow,sla
+Nitish Kumar,True,False,Top-order batsman,False,Right-hand bat,spin,St Lucia Zouks,2019,R,R,slow,os
+Keddy Lesporis,False,False,Top-order batsman,False,Right-hand bat,spin,St Lucia Zouks,2019,R,R,slow,os
+Andre McCarthy,False,False,Middle-order batsman,False,Right-hand bat,spin,St Lucia Zouks,2019,R,R,slow,os
+Lasith Malinga,True,False,Bowler,False,Right-hand bat,seam,St Lucia Zouks,2019,R,R,fast,
+Najibullah Zadran,True,False,Middle-order batsman,False,Left-hand bat,spin,St Lucia Zouks,2019,L,R,slow,os
+Thisara Perera,True,False,Bowling allrounder,False,Left-hand bat,seam,St Lucia Zouks,2019,L,R,med,
+Krishmar Santokie,False,False,Bowler,False,Left-hand bat,seam,St Lucia Zouks,2019,L,L,med,
+Hardus Viljoen,True,False,Bowler,False,Right-hand bat,seam,St Lucia Zouks,2019,R,R,fast,
+Kesrick Williams,False,False,Bowler,False,Right-hand bat,seam,St Lucia Zouks,2019,R,R,fast,
+Niroshan Dickwella,False,True,Wicketkeeper batsman,True,Left-hand bat,,St Lucia Zouks,2019,L,,,
+Beuran Hendricks,False,True,Bowler,False,Left-hand bat,seam,St Lucia Zouks,2019,L,L,fast,
+Kieron Pollard,False,False,Allrounder,False,Right-hand bat,seam,Trinbago Knight Riders,2019,R,R,med,
+Ali Khan,False,False,Bowler,False,Right-hand bat,seam,Trinbago Knight Riders,2019,R,R,fast,
+Dwayne Bravo,False,False,Allrounder,False,Right-hand bat,seam,Trinbago Knight Riders,2019,R,R,med,
+Darren Bravo,False,False,Top-order batsman,False,Left-hand bat,seam,Trinbago Knight Riders,2019,L,R,med,
+Akeal Hosein,False,False,Bowler,False,Left-hand bat,spin,Trinbago Knight Riders,2019,L,L,slow,sla
+Amir Jangoo,False,False,Wicketkeeper batsman,True,Left-hand bat,,Trinbago Knight Riders,2019,L,,,
+Chris Jordan,True,False,Bowler,False,Right-hand bat,seam,Trinbago Knight Riders,2019,R,R,fast,
+Colin Munro,True,False,Opening batsman,False,Left-hand bat,seam,Trinbago Knight Riders,2019,L,R,med,
+Sunil Narine,False,False,Bowling allrounder,False,Left-hand bat,spin,Trinbago Knight Riders,2019,L,R,slow,os
+James Neesham,True,False,Batting allrounder,False,Left-hand bat,seam,Trinbago Knight Riders,2019,L,R,med,
+Anderson Phillip,False,False,Bowler,False,Right-hand bat,seam,Trinbago Knight Riders,2019,R,R,fast,
+Seekkuge Prasanna,True,False,Allrounder,False,Right-hand bat,spin,Trinbago Knight Riders,2019,R,R,slow,ls
+Denesh Ramdin,False,False,Wicketkeeper batsman,True,Right-hand bat,,Trinbago Knight Riders,2019,R,,,
+Javon Searles,False,False,Bowling allrounder,False,Right-hand bat,seam,Trinbago Knight Riders,2019,R,R,fast,
+Lendl Simmons,False,False,Top-order batsman,False,Right-hand bat,seam,Trinbago Knight Riders,2019,R,R,med,
+Mohammad Hasnain,False,True,Bowler,False,Right-hand bat,seam,Trinbago Knight Riders,2019,R,R,fast,
+Jason Holder,False,False,Bowling allrounder,False,Right-hand bat,seam,Barbados Tridents,2020,R,R,med,
+Corey Anderson,True,False,Batting allrounder,False,Left-hand bat,seam,Barbados Tridents,2020,L,L,med,
+Shamarh Brooks,False,False,Top-order batsman,False,Right-hand bat,spin,Barbados Tridents,2020,R,R,slow,ls
+Jonathan Carter,False,False,Batting allrounder,False,Left-hand bat,seam,Barbados Tridents,2020,L,R,med,
+Johnson Charles,False,False,Wicketkeeper batsman,True,Right-hand bat,,Barbados Tridents,2020,R,,,
+Justin Greaves,False,False,Allrounder,False,Right-hand bat,seam,Barbados Tridents,2020,R,R,med,
+Keon Harding,False,False,Bowler,False,Right-hand bat,seam,Barbados Tridents,2020,R,R,fast,
+Shai Hope,False,False,Wicketkeeper batsman,True,Right-hand bat,,Barbados Tridents,2020,R,,,
+Kyle Mayers,False,False,Batting allrounder,False,Left-hand bat,seam,Barbados Tridents,2020,L,R,med,
+Ashley Nurse,False,False,Bowler,False,Right-hand bat,spin,Barbados Tridents,2020,R,R,slow,os
+Rashid Khan,True,False,Bowler,False,Right-hand bat,spin,Barbados Tridents,2020,R,R,slow,ls
+Raymon Reifer,False,False,Allrounder,False,Left-hand bat,seam,Barbados Tridents,2020,L,L,med,
+Mitchell Santner,True,False,Bowling allrounder,False,Left-hand bat,spin,Barbados Tridents,2020,L,L,slow,sla
+Hayden Walsh,False,False,Bowler,False,Left-hand bat,spin,Barbados Tridents,2020,L,R,slow,ls
+Harry Gurney,False,True,Bowler,False,Right-hand bat,seam,Barbados Tridents,2020,R,L,fast,
+Alex Hales,False,True,Opening batsman,False,Right-hand bat,seam,Barbados Tridents,2020,R,R,med,
+Rahmanullah Gurbaz,False,True,Wicketkeeper batsman,True,Right-hand bat,,Barbados Tridents,2020,R,,,
+Marcus Stoinis,False,True,Middle-order batsman,False,Right-hand bat,seam,Barbados Tridents,2020,R,R,med,
+Chris Green,False,False,Allrounder,False,Right-hand bat,spin,Guyana Amazon Warriors,2020,R,R,slow,os
+Anthony Bramble,False,False,Wicketkeeper batsman,True,Right-hand bat,,Guyana Amazon Warriors,2020,R,,,
+Chandrapaul Hemraj,False,False,Opening batsman,False,Left-hand bat,spin,Guyana Amazon Warriors,2020,L,L,slow,sla
+Shimron Hetmyer,False,False,Top-order batsman,False,Left-hand bat,,Guyana Amazon Warriors,2020,L,,,
+Imran Tahir,True,False,Bowler,False,Right-hand bat,spin,Guyana Amazon Warriors,2020,R,R,slow,ls
+Jessy Singh,True,False,Bowler,False,Right-hand bat,seam,Guyana Amazon Warriors,2020,R,R,med,
+Brandon King,False,False,Top-order batsman,False,Right-hand bat,,Guyana Amazon Warriors,2020,R,,,
+Naveen-ul-Haq,True,False,Bowler,False,Right-hand bat,seam,Guyana Amazon Warriors,2020,R,R,med,
+Keemo Paul,False,False,Allrounder,False,Right-hand bat,seam,Guyana Amazon Warriors,2020,R,R,fast,
+Nicholas Pooran,False,False,Wicketkeeper batsman,True,Left-hand bat,,Guyana Amazon Warriors,2020,L,,,
+Sherfane Rutherford,False,False,Middle-order batsman,False,Left-hand bat,seam,Guyana Amazon Warriors,2020,L,R,fast,
+Odean Smith,False,False,Bowler,False,Right-hand bat,seam,Guyana Amazon Warriors,2020,R,R,med,
+Ross Taylor,True,False,Middle-order batsman,False,Right-hand bat,spin,Guyana Amazon Warriors,2020,R,R,slow,os
+Qais Ahmad,False,True,Bowler,False,Right-hand bat,spin,Guyana Amazon Warriors,2020,R,R,slow,ls
+Rovman Powell,False,False,Middle-order batsman,False,Right-hand bat,seam,Jamaica Tallawahs,2020,R,R,med,
+Asif Ali,True,False,Middle-order batsman,False,Right-hand bat,seam,Jamaica Tallawahs,2020,R,R,med,
+Jermaine Blackwood,False,False,Middle-order batsman,False,Right-hand bat,spin,Jamaica Tallawahs,2020,R,R,slow,os
+Nkrumah Bonner,False,False,Allrounder,False,Right-hand bat,spin,Jamaica Tallawahs,2020,R,R,slow,ls
+Carlos Brathwaite,False,False,Allrounder,False,Right-hand bat,seam,Jamaica Tallawahs,2020,R,R,fast,
+Fidel Edwards,False,False,Bowler,False,Right-hand bat,seam,Jamaica Tallawahs,2020,R,R,fast,
+Sandeep Lamichhane,True,False,Bowler,False,Right-hand bat,spin,Jamaica Tallawahs,2020,R,R,slow,ls
+Ramaal Lewis,False,False,Bowler,False,Right-hand bat,spin,Jamaica Tallawahs,2020,R,R,slow,os
+Preston McSween,False,False,Bowler,False,Right-hand bat,seam,Jamaica Tallawahs,2020,R,L,fast,
+Mujeeb Ur Rahman,True,False,Bowler,False,Right-hand bat,spin,Jamaica Tallawahs,2020,R,R,slow,os
+Veerasammy Permaul,False,False,Bowler,False,Right-hand bat,spin,Jamaica Tallawahs,2020,R,L,slow,sla
+Ryan Persaud,False,False,Bowler,False,Right-hand bat,spin,Jamaica Tallawahs,2020,R,R,slow,ls
+Glenn Phillips,True,False,Wicketkeeper batsman,True,Right-hand bat,,Jamaica Tallawahs,2020,R,,,
+Andre Russell,False,False,Allrounder,False,Right-hand bat,seam,Jamaica Tallawahs,2020,R,R,fast,
+Oshane Thomas,False,False,Bowler,False,Left-hand bat,seam,Jamaica Tallawahs,2020,L,R,fast,
+Chadwick Walton,False,False,Top-order batsman,False,Right-hand bat,,Jamaica Tallawahs,2020,R,,,
+Andre McCarthy,False,True,Middle-order batsman,False,Right-hand bat,spin,Jamaica Tallawahs,2020,R,R,slow,os
+Tabraiz Shamsi,False,True,Bowler,False,Right-hand bat,spin,Jamaica Tallawahs,2020,R,L,slow,lls
+Rayad Emrit,False,False,Bowling allrounder,False,Right-hand bat,seam,St Kitts and Nevis Patriots,2020,R,R,med,
+Sheldon Cottrell,False,False,Bowler,False,Right-hand bat,seam,St Kitts and Nevis Patriots,2020,R,L,fast,
+Joshua Da Silva,False,False,Wicketkeeper batsman,True,Right-hand bat,,St Kitts and Nevis Patriots,2020,R,,,
+Ben Dunk,True,False,Wicketkeeper batsman,True,Left-hand bat,spin,St Kitts and Nevis Patriots,2020,L,R,slow,os
+Jahmar Hamilton,False,False,Wicketkeeper batsman,True,Right-hand bat,,St Kitts and Nevis Patriots,2020,R,,,
+Jon-Russ Jaggesar,False,False,Bowler,False,Right-hand bat,spin,St Kitts and Nevis Patriots,2020,R,R,slow,os
+Alzarri Joseph,False,False,Bowler,False,Right-hand bat,seam,St Kitts and Nevis Patriots,2020,R,R,fast,
+Imran Khan,False,False,Bowler,False,Right-hand bat,spin,St Kitts and Nevis Patriots,2020,R,R,slow,ls
+Evin Lewis,False,False,Opening batsman,False,Left-hand bat,,St Kitts and Nevis Patriots,2020,L,,,
+Chris Lynn,True,False,Batsman,False,Right-hand bat,spin,St Kitts and Nevis Patriots,2020,R,L,slow,sla
+Kieran Powell,False,False,Opening batsman,False,Left-hand bat,seam,St Kitts and Nevis Patriots,2020,L,R,med,
+Denesh Ramdin,False,False,Wicketkeeper batsman,True,Right-hand bat,,St Kitts and Nevis Patriots,2020,R,,,
+Ish Sodhi,True,False,Bowler,False,Right-hand bat,spin,St Kitts and Nevis Patriots,2020,R,R,slow,ls
+Sohail Tanvir,True,False,Bowler,False,Left-hand bat,seam,St Kitts and Nevis Patriots,2020,L,L,med,
+Fabian Allen,False,True,Bowling allrounder,False,Right-hand bat,spin,St Kitts and Nevis Patriots,2020,R,L,slow,sla
+Sunny Sohal,False,True,Batsman,False,Right-hand bat,spin,St Kitts and Nevis Patriots,2020,R,R,slow,ls
+Rassie van der Dussen,False,True,Top-order batsman,False,Right-hand bat,spin,St Kitts and Nevis Patriots,2020,R,R,slow,ls
+Daren Sammy,False,False,Allrounder,False,Right-hand bat,seam,St Lucia Zouks,2020,R,R,med,
+Roston Chase,False,False,Allrounder,False,Right-hand bat,spin,St Lucia Zouks,2020,R,R,slow,os
+Rahkeem Cornwall,False,False,Allrounder,False,Right-hand bat,spin,St Lucia Zouks,2020,R,R,slow,os
+Andre Fletcher,False,False,Top-order batsman,False,Right-hand bat,seam,St Lucia Zouks,2020,R,R,med,
+Kavem Hodge,False,False,Allrounder,False,Right-hand bat,spin,St Lucia Zouks,2020,R,L,slow,sla
+Chemar Holder,False,False,Bowler,False,Right-hand bat,seam,St Lucia Zouks,2020,R,R,fast,
+Scott Kuggeleijn,True,False,Bowling allrounder,False,Right-hand bat,seam,St Lucia Zouks,2020,R,R,fast,
+Mohammad Nabi,True,False,Allrounder,False,Right-hand bat,spin,St Lucia Zouks,2020,R,R,slow,os
+Najibullah Zadran,True,False,Middle-order batsman,False,Left-hand bat,spin,St Lucia Zouks,2020,L,R,slow,os
+Saad Bin Zafar,True,False,Allrounder,False,Left-hand bat,spin,St Lucia Zouks,2020,L,L,slow,sla
+Kesrick Williams,False,False,Bowler,False,Right-hand bat,seam,St Lucia Zouks,2020,R,R,fast,
+Zahir Khan,True,False,Bowler,False,Left-hand bat,spin,St Lucia Zouks,2020,L,L,slow,lls
+Colin Ingram,False,True,Top-order batsman,False,Left-hand bat,spin,St Lucia Zouks,2020,L,R,slow,ls
+Anrich Nortje,False,True,Bowler,False,Right-hand bat,seam,St Lucia Zouks,2020,R,R,fast,
+Rilee Rossouw,False,True,Top-order batsman,False,Left-hand bat,spin,St Lucia Zouks,2020,L,R,slow,os
+Kieron Pollard,False,False,Allrounder,False,Right-hand bat,seam,Trinbago Knight Riders,2020,R,R,med,
+Ali Khan,True,False,Bowler,False,Right-hand bat,seam,Trinbago Knight Riders,2020,R,R,fast,
+Dwayne Bravo,False,False,Allrounder,False,Right-hand bat,seam,Trinbago Knight Riders,2020,R,R,med,
+Darren Bravo,False,False,Top-order batsman,False,Left-hand bat,seam,Trinbago Knight Riders,2020,L,R,med,
+Fawad Ahmed,True,False,Bowler,False,Right-hand bat,spin,Trinbago Knight Riders,2020,R,R,slow,ls
+Akeal Hosein,False,False,Bowler,False,Left-hand bat,spin,Trinbago Knight Riders,2020,L,L,slow,sla
+Amir Jangoo,False,False,Wicketkeeper batsman,True,Left-hand bat,,Trinbago Knight Riders,2020,L,,,
+Jayden Seales,False,False,Bowler,False,Left-hand bat,seam,Trinbago Knight Riders,2020,L,R,med,
+Colin Munro,True,False,Opening batsman,False,Left-hand bat,seam,Trinbago Knight Riders,2020,L,R,med,
+Sunil Narine,False,False,Bowling allrounder,False,Left-hand bat,spin,Trinbago Knight Riders,2020,L,R,slow,os
+Anderson Phillip,False,False,Bowler,False,Right-hand bat,seam,Trinbago Knight Riders,2020,R,R,fast,
+Tim Seifert,True,False,Wicketkeeper batsman,True,Right-hand bat,,Trinbago Knight Riders,2020,R,,,
+Sikandar Raza,True,False,Batting allrounder,False,Right-hand bat,spin,Trinbago Knight Riders,2020,R,R,slow,os
+Lendl Simmons,False,False,Top-order batsman,False,Right-hand bat,seam,Trinbago Knight Riders,2020,R,R,med,
+Pravin Tambe,True,False,Bowler,False,Right-hand bat,spin,Trinbago Knight Riders,2020,R,R,slow,ls

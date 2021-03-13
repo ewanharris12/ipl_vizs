@@ -1,0 +1,61 @@
+match_id,venue,match_type,city,date,full_league,team_one,team_two,inn_one,inn_two,winner,margin,inn_one_score,inn_one_wickets,inn_two_score,inn_two_wickets
+1237181,Dubai International Cricket Stadium,Final (N),Dubai,2020-11-10,Indian Premier League,Delhi Capitals,Mumbai Indians,156/7,157/5,Mumbai Indians,5 wickets,156,7,157,5
+1237180,"Sheikh Zayed Stadium, Abu Dhabi",Qualifier 2 (N),Abu Dhabi,2020-11-08,Indian Premier League,Delhi Capitals,Sunrisers Hyderabad,189/3,172/8,Delhi Capitals,17 runs,189,3,172,8
+1237178,"Sheikh Zayed Stadium, Abu Dhabi",Eliminator (N),Abu Dhabi,2020-11-06,Indian Premier League,Royal Challengers Bangalore,Sunrisers Hyderabad,131/7,132/4,Sunrisers Hyderabad,6 wickets,131,7,132,4
+1237177,Dubai International Cricket Stadium,Qualifier 1 (N),Dubai,2020-11-05,Indian Premier League,Mumbai Indians,Delhi Capitals,200/5,143/8,Mumbai Indians,57 runs,200,5,143,8
+1216495,Sharjah Cricket Stadium,56th Match (N),Sharjah,2020-11-03,Indian Premier League,Mumbai Indians,Sunrisers Hyderabad,149/8,151/0,Sunrisers Hyderabad,10 wickets,149,8,151,0
+1216505,"Sheikh Zayed Stadium, Abu Dhabi",55th Match (N),Abu Dhabi,2020-11-02,Indian Premier League,Royal Challengers Bangalore,Delhi Capitals,152/7,154/4,Delhi Capitals,6 wickets,152,7,154,4
+1216530,Dubai International Cricket Stadium,54th Match (N),Dubai,2020-11-01,Indian Premier League,Kolkata Knight Riders,Rajasthan Royals,191/7,131/9,Kolkata Knight Riders,60 runs,191,7,131,9
+1216506,"Sheikh Zayed Stadium, Abu Dhabi",53rd Match,Abu Dhabi,2020-11-01,Indian Premier League,Kings XI Punjab,Chennai Super Kings,153/6,154/1,Chennai Super Kings,9 wickets,153,6,154,1
+1216502,Sharjah Cricket Stadium,52nd Match (N),Sharjah,2020-10-31,Indian Premier League,Royal Challengers Bangalore,Sunrisers Hyderabad,120/7,121/5,Sunrisers Hyderabad,5 wickets,120,7,121,5
+1216535,Dubai International Cricket Stadium,51st Match,Dubai,2020-10-31,Indian Premier League,Delhi Capitals,Mumbai Indians,110/9,111/1,Mumbai Indians,9 wickets,110,9,111,1
+1216537,"Sheikh Zayed Stadium, Abu Dhabi",50th Match (N),Abu Dhabi,2020-10-30,Indian Premier League,Kings XI Punjab,Rajasthan Royals,185/4,186/3,Rajasthan Royals,7 wickets,185,4,186,3
+1216536,Dubai International Cricket Stadium,49th Match (N),Dubai,2020-10-29,Indian Premier League,Kolkata Knight Riders,Chennai Super Kings,172/5,178/4,Chennai Super Kings,6 wickets,172,5,178,4
+1216499,"Sheikh Zayed Stadium, Abu Dhabi",48th Match (N),Abu Dhabi,2020-10-28,Indian Premier League,Royal Challengers Bangalore,Mumbai Indians,164/6,166/5,Mumbai Indians,5 wickets,164,6,166,5
+1216524,Dubai International Cricket Stadium,47th Match (N),Dubai,2020-10-27,Indian Premier League,Sunrisers Hyderabad,Delhi Capitals,219/2,131,Sunrisers Hyderabad,88 runs,219,2,131,10
+1216520,Sharjah Cricket Stadium,46th Match (N),Sharjah,2020-10-26,Indian Premier League,Kolkata Knight Riders,Kings XI Punjab,149/9,150/2,Kings XI Punjab,8 wickets,149,9,150,2
+1216541,"Sheikh Zayed Stadium, Abu Dhabi",45th Match (N),Abu Dhabi,2020-10-25,Indian Premier League,Mumbai Indians,Rajasthan Royals,195/5,196/2,Rajasthan Royals,8 wickets,195,5,196,2
+1216544,Dubai International Cricket Stadium,44th Match,Dubai,2020-10-25,Indian Premier League,Royal Challengers Bangalore,Chennai Super Kings,145/6,150/2,Chennai Super Kings,8 wickets,145,6,150,2
+1216498,Dubai International Cricket Stadium,43rd Match (N),Dubai,2020-10-24,Indian Premier League,Kings XI Punjab,Sunrisers Hyderabad,126/7,114,Kings XI Punjab,12 runs,126,7,114,10
+1216497,"Sheikh Zayed Stadium, Abu Dhabi",42nd Match,Abu Dhabi,2020-10-24,Indian Premier League,Kolkata Knight Riders,Delhi Capitals,194/6,135/9,Kolkata Knight Riders,59 runs,194,6,135,9
+1216521,Sharjah Cricket Stadium,41st Match (N),Sharjah,2020-10-23,Indian Premier League,Chennai Super Kings,Mumbai Indians,114/9,116/0,Mumbai Indians,10 wickets,114,9,116,0
+1216518,Dubai International Cricket Stadium,40th Match (N),Dubai,2020-10-22,Indian Premier League,Rajasthan Royals,Sunrisers Hyderabad,154/6,156/2,Sunrisers Hyderabad,8 wickets,154,6,156,2
+1216494,"Sheikh Zayed Stadium, Abu Dhabi",39th Match (N),Abu Dhabi,2020-10-21,Indian Premier League,Kolkata Knight Riders,Royal Challengers Bangalore,84/8,85/2,Royal Challengers Bangalore,8 wickets,84,8,85,2
+1216546,Dubai International Cricket Stadium,38th Match (N),Dubai,2020-10-20,Indian Premier League,Delhi Capitals,Kings XI Punjab,164/5,167/5,Kings XI Punjab,5 wickets,164,5,167,5
+1216533,"Sheikh Zayed Stadium, Abu Dhabi",37th Match (N),Abu Dhabi,2020-10-19,Indian Premier League,Chennai Super Kings,Rajasthan Royals,125/5,126/3,Rajasthan Royals,7 wickets,125,5,126,3
+1216517,Dubai International Cricket Stadium,36th Match (N),Dubai,2020-10-18,Indian Premier League,Mumbai Indians,Kings XI Punjab,176/6,176/6,Kings XI Punjab,Super Over,176,6,176,6
+1216512,"Sheikh Zayed Stadium, Abu Dhabi",35th Match,Abu Dhabi,2020-10-18,Indian Premier League,Kolkata Knight Riders,Sunrisers Hyderabad,163/5,163/6,Kolkata Knight Riders,Super Over,163,5,163,6
+1216509,Sharjah Cricket Stadium,34th Match (N),Sharjah,2020-10-17,Indian Premier League,Chennai Super Kings,Delhi Capitals,179/4,185/5,Delhi Capitals,5 wickets,179,4,185,5
+1216522,Dubai International Cricket Stadium,33rd Match,Dubai,2020-10-17,Indian Premier League,Rajasthan Royals,Royal Challengers Bangalore,177/6,179/3,Royal Challengers Bangalore,7 wickets,177,6,179,3
+1216526,"Sheikh Zayed Stadium, Abu Dhabi",32nd Match (N),Abu Dhabi,2020-10-16,Indian Premier League,Kolkata Knight Riders,Mumbai Indians,148/5,149/2,Mumbai Indians,8 wickets,148,5,149,2
+1216531,Sharjah Cricket Stadium,31st Match (N),Sharjah,2020-10-15,Indian Premier League,Royal Challengers Bangalore,Kings XI Punjab,171/6,177/2,Kings XI Punjab,8 wickets,171,6,177,2
+1216543,Dubai International Cricket Stadium,30th Match (N),Dubai,2020-10-14,Indian Premier League,Delhi Capitals,Rajasthan Royals,161/7,148/8,Delhi Capitals,13 runs,161,7,148,8
+1216528,Dubai International Cricket Stadium,29th Match (N),Dubai,2020-10-13,Indian Premier League,Chennai Super Kings,Sunrisers Hyderabad,167/6,147/8,Chennai Super Kings,20 runs,167,6,147,8
+1216540,Sharjah Cricket Stadium,28th Match (N),Sharjah,2020-10-12,Indian Premier League,Royal Challengers Bangalore,Kolkata Knight Riders,194/2,112/9,Royal Challengers Bangalore,82 runs,194,2,112,9
+1216529,"Sheikh Zayed Stadium, Abu Dhabi",27th Match (N),Abu Dhabi,2020-10-11,Indian Premier League,Delhi Capitals,Mumbai Indians,162/4,166/5,Mumbai Indians,5 wickets,162,4,166,5
+1216507,Dubai International Cricket Stadium,26th Match,Dubai,2020-10-11,Indian Premier League,Sunrisers Hyderabad,Rajasthan Royals,158/4,163/5,Rajasthan Royals,5 wickets,158,4,163,5
+1216525,Dubai International Cricket Stadium,25th Match (N),Dubai,2020-10-10,Indian Premier League,Royal Challengers Bangalore,Chennai Super Kings,169/4,132/8,Royal Challengers Bangalore,37 runs,169,4,132,8
+1216523,"Sheikh Zayed Stadium, Abu Dhabi",24th Match,Abu Dhabi,2020-10-10,Indian Premier League,Kolkata Knight Riders,Kings XI Punjab,164/6,162/5,Kolkata Knight Riders,2 runs,164,6,162,5
+1216500,Sharjah Cricket Stadium,23rd Match (N),Sharjah,2020-10-09,Indian Premier League,Delhi Capitals,Rajasthan Royals,184/8,138,Delhi Capitals,46 runs,184,8,138,10
+1216542,Dubai International Cricket Stadium,22nd Match (N),Dubai,2020-10-08,Indian Premier League,Sunrisers Hyderabad,Kings XI Punjab,201/6,132,Sunrisers Hyderabad,69 runs,201,6,132,10
+1216501,"Sheikh Zayed Stadium, Abu Dhabi",21st Match (N),Abu Dhabi,2020-10-07,Indian Premier League,Kolkata Knight Riders,Chennai Super Kings,167,157/5,Kolkata Knight Riders,10 runs,167,10,157,5
+1216511,"Sheikh Zayed Stadium, Abu Dhabi",20th Match (N),Abu Dhabi,2020-10-06,Indian Premier League,Mumbai Indians,Rajasthan Royals,193/4,136,Mumbai Indians,57 runs,193,4,136,10
+1216519,Dubai International Cricket Stadium,19th Match (N),Dubai,2020-10-05,Indian Premier League,Delhi Capitals,Royal Challengers Bangalore,196/4,137/9,Delhi Capitals,59 runs,196,4,137,9
+1216513,Dubai International Cricket Stadium,18th Match (N),Dubai,2020-10-04,Indian Premier League,Kings XI Punjab,Chennai Super Kings,178/4,181/0,Chennai Super Kings,10 wickets,178,4,181,0
+1216538,Sharjah Cricket Stadium,17th Match,Sharjah,2020-10-04,Indian Premier League,Mumbai Indians,Sunrisers Hyderabad,208/5,174/7,Mumbai Indians,34 runs,208,5,174,7
+1216515,Sharjah Cricket Stadium,16th Match (N),Sharjah,2020-10-03,Indian Premier League,Delhi Capitals,Kolkata Knight Riders,228/4,210/8,Delhi Capitals,18 runs,228,4,210,8
+1216514,"Sheikh Zayed Stadium, Abu Dhabi",15th Match,Abu Dhabi,2020-10-03,Indian Premier League,Rajasthan Royals,Royal Challengers Bangalore,154/6,158/2,Royal Challengers Bangalore,8 wickets,154,6,158,2
+1216516,Dubai International Cricket Stadium,14th Match (N),Dubai,2020-10-02,Indian Premier League,Sunrisers Hyderabad,Chennai Super Kings,164/5,157/5,Sunrisers Hyderabad,7 runs,164,5,157,5
+1216503,"Sheikh Zayed Stadium, Abu Dhabi",13th Match (N),Abu Dhabi,2020-10-01,Indian Premier League,Mumbai Indians,Kings XI Punjab,191/4,143/8,Mumbai Indians,48 runs,191,4,143,8
+1216504,Dubai International Cricket Stadium,12th Match (N),Dubai,2020-09-30,Indian Premier League,Kolkata Knight Riders,Rajasthan Royals,174/6,137/9,Kolkata Knight Riders,37 runs,174,6,137,9
+1216532,"Sheikh Zayed Stadium, Abu Dhabi",11th Match (N),Abu Dhabi,2020-09-29,Indian Premier League,Sunrisers Hyderabad,Delhi Capitals,162/4,147/7,Sunrisers Hyderabad,15 runs,162,4,147,7
+1216547,Dubai International Cricket Stadium,10th Match (N),Dubai,2020-09-28,Indian Premier League,Royal Challengers Bangalore,Mumbai Indians,201/3,201/5,Royal Challengers Bangalore,Super Over,201,3,201,5
+1216527,Sharjah Cricket Stadium,9th Match (N),Sharjah,2020-09-27,Indian Premier League,Kings XI Punjab,Rajasthan Royals,223/2,226/6,Rajasthan Royals,4 wickets,223,2,226,6
+1216545,"Sheikh Zayed Stadium, Abu Dhabi",8th Match (N),Abu Dhabi,2020-09-26,Indian Premier League,Sunrisers Hyderabad,Kolkata Knight Riders,142/4,145/3,Kolkata Knight Riders,7 wickets,142,4,145,3
+1216539,Dubai International Cricket Stadium,7th Match (N),Dubai,2020-09-25,Indian Premier League,Delhi Capitals,Chennai Super Kings,175/3,131/7,Delhi Capitals,44 runs,175,3,131,7
+1216510,Dubai International Cricket Stadium,6th Match (N),Dubai,2020-09-24,Indian Premier League,Kings XI Punjab,Royal Challengers Bangalore,206/3,109,Kings XI Punjab,97 runs,206,3,109,10
+1216508,"Sheikh Zayed Stadium, Abu Dhabi",5th Match (N),Abu Dhabi,2020-09-23,Indian Premier League,Mumbai Indians,Kolkata Knight Riders,195/5,146/9,Mumbai Indians,49 runs,195,5,146,9
+1216496,Sharjah Cricket Stadium,4th Match (N),Sharjah,2020-09-22,Indian Premier League,Rajasthan Royals,Chennai Super Kings,216/7,200/6,Rajasthan Royals,16 runs,216,7,200,6
+1216534,Dubai International Cricket Stadium,3rd Match (N),Dubai,2020-09-21,Indian Premier League,Royal Challengers Bangalore,Sunrisers Hyderabad,163/5,153,Royal Challengers Bangalore,10 runs,163,5,153,10
+1216493,Dubai International Cricket Stadium,2nd Match (N),Dubai,2020-09-20,Indian Premier League,Delhi Capitals,Kings XI Punjab,157/8,157/8,Delhi Capitals,Super Over,157,8,157,8
+1216492,"Sheikh Zayed Stadium, Abu Dhabi",1st Match (N),Abu Dhabi,2020-09-19,Indian Premier League,Mumbai Indians,Chennai Super Kings,162/9,166/5,Chennai Super Kings,5 wickets,162,9,166,5

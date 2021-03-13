@@ -1,0 +1,134 @@
+match_id,venue,match_type,city,date,full_league,team_one,team_two,inn_one,inn_two,winner,margin,inn_one_score,inn_one_wickets,inn_two_score,inn_two_wickets
+947355,"Edgbaston, Birmingham",Final,Birmingham,2016-08-20,NatWest t20 Blast,Durham,Northamptonshire,153/8,155/6,Northamptonshire,4 wickets,153,8,155,6
+947353,"Edgbaston, Birmingham",2nd Semi-Final,Birmingham,2016-08-20,NatWest t20 Blast,Durham,Yorkshire,156/6,149/9,Durham,7 runs,156,6,149,9
+947351,"Edgbaston, Birmingham",1st Semi-Final,Birmingham,2016-08-20,NatWest t20 Blast,Northamptonshire,Nottinghamshire,161/8,153/9,Northamptonshire,8 runs,161,8,153,9
+947349,"Sophia Gardens, Cardiff",4th Quarter-Final,Cardiff,2016-08-11,NatWest t20 Blast,Yorkshire,Glamorgan,180/8,90,Yorkshire,90 runs,180,8,90,10
+947347,"County Ground, Bristol",3rd Quarter-Final,Bristol,2016-08-10,NatWest t20 Blast,Durham,Gloucestershire,180/5,161,Durham,19 runs,180,5,161,10
+947345,"County Ground, Northampton",2nd Quarter-Final,Northampton,2016-08-09,NatWest t20 Blast,Middlesex,Northamptonshire,132/7,135/3,Northamptonshire,7 wickets,132,7,135,3
+947343,"Trent Bridge, Nottingham",1st Quarter-Final,Nottingham,2016-08-08,NatWest t20 Blast,Nottinghamshire,Essex,162/7,123,Nottinghamshire,39 runs,162,7,123,10
+947341,"County Ground, Northampton",North Group,Northampton,2016-07-29,NatWest t20 Blast,Yorkshire,Northamptonshire,177/5,163/7,Yorkshire,14 runs,177,5,163,7
+947339,"The Rose Bowl, Southampton",South Group,Southampton,2016-07-29,NatWest t20 Blast,Hampshire,Somerset,181/3,98,Hampshire,83 runs,181,3,98,10
+947337,"County Ground, Bristol",South Group,Bristol,2016-07-29,NatWest t20 Blast,Middlesex,Gloucestershire,156/5,162/6,Gloucestershire,4 wickets,156,5,162,6
+947335,"Trent Bridge, Nottingham",North Group,Nottingham,2016-07-29,NatWest t20 Blast,Leicestershire,Nottinghamshire,170/4,146/2,Nottinghamshire,8 wickets,170,4,146,2
+947333,"Kennington Oval, London",South Group,London,2016-07-29,NatWest t20 Blast,Surrey,Kent,212/4,175/7,Surrey,37 runs,212,4,175,7
+947331,"County Ground, Chelmsford",South Group,Chelmsford,2016-07-29,NatWest t20 Blast,Glamorgan,Essex,,,,,,,,
+947329,"Riverside Ground, Chester-le-Street",North Group,Chester-le-Street,2016-07-29,NatWest t20 Blast,Durham,Derbyshire,193/2,180/9,Durham,13 runs,193,2,180,9
+947327,"Old Trafford, Manchester",North Group,Manchester,2016-07-29,NatWest t20 Blast,Lancashire,Warwickshire,124/5,94/8,Lancashire,30 runs,124,5,94,8
+947325,"County Ground, Hove",South Group,Brighton,2016-07-28,NatWest t20 Blast,Glamorgan,Sussex,101,30/1,,,101,10,30,1
+947323,"Lord's, London",South Group,London,2016-07-28,NatWest t20 Blast,Middlesex,Essex,126/5,132/5,Essex,5 wickets,126,5,132,5
+947321,"County Ground, Derby",North Group,Derby,2016-07-22,NatWest t20 Blast,Derbyshire,Worcestershire,192/5,163,Derbyshire,29 runs,192,5,163,10
+947317,"Sophia Gardens, Cardiff",South Group,Cardiff,2016-07-22,NatWest t20 Blast,Somerset,Glamorgan,152,156/3,Glamorgan,7 wickets,152,10,156,3
+947315,"Edgbaston, Birmingham",North Group,Birmingham,2016-07-22,NatWest t20 Blast,Warwickshire,Nottinghamshire,172/2,173/4,Nottinghamshire,6 wickets,172,2,173,4
+947313,"Headingley, Leeds",North Group,Leeds,2016-07-22,NatWest t20 Blast,Yorkshire,Northamptonshire,215/6,140,Yorkshire,75 runs,215,6,140,10
+947311,"The Rose Bowl, Southampton",South Group,Southampton,2016-07-22,NatWest t20 Blast,Middlesex,Hampshire,181/6,138,Middlesex,43 runs,181,6,138,10
+947307,"St Lawrence Ground, Canterbury",South Group,Canterbury,2016-07-22,NatWest t20 Blast,Essex,Kent,190/2,157,Essex,33 runs,190,2,157,10
+947319,"Kennington Oval, London",South Group,London,2016-07-22,NatWest t20 Blast,Sussex,Surrey,153/6,154/4,Surrey,6 wickets,153,6,154,4
+947309,"Riverside Ground, Chester-le-Street",North Group,Chester-le-Street,2016-07-22,NatWest t20 Blast,Lancashire,Durham,176/3,172/5,Lancashire,4 runs,176,3,172,5
+947305,"County Ground, Chelmsford",South Group,Chelmsford,2016-07-21,NatWest t20 Blast,Sussex,Essex,200/6,176/8,Sussex,24 runs,200,6,176,8
+947303,"Lord's, London",South Group,London,2016-07-21,NatWest t20 Blast,Surrey,Middlesex,196/6,200/5,Middlesex,5 wickets,196,6,200,5
+947301,"Headingley, Leeds",North Group,Leeds,2016-07-20,NatWest t20 Blast,Yorkshire,Durham,223/6,174/8,Yorkshire,49 runs,223,6,174,8
+947299,"County Ground, Northampton",North Group,Northampton,2016-07-19,NatWest t20 Blast,Northamptonshire,Warwickshire,200/5,126,Northamptonshire,74 runs,200,5,126,10
+947297,"Edgbaston, Birmingham",North Group,Birmingham,2016-07-17,NatWest t20 Blast,Warwickshire,Leicestershire,186/4,158/9,Warwickshire,28 runs,186,4,158,9
+947295,"College Ground, Cheltenham",South Group,Cheltenham,2016-07-17,NatWest t20 Blast,Gloucestershire,Essex,212/1,182/9,Gloucestershire,30 runs,212,1,182,9
+947283,"County Ground, Hove",South Group,Brighton,2016-07-15,NatWest t20 Blast,Hampshire,Sussex,134/9,133/8,Hampshire,1 run,134,9,133,8
+947293,"Trent Bridge, Nottingham",North Group,Nottingham,2016-07-15,NatWest t20 Blast,Yorkshire,Nottinghamshire,160/7,162/7,Nottinghamshire,3 wickets,160,7,162,7
+947289,"Riverside Ground, Chester-le-Street",North Group,Chester-le-Street,2016-07-15,NatWest t20 Blast,Northamptonshire,Durham,149/5,153/4,Durham,6 wickets,149,5,153,4
+947285,"Grace Road, Leicester",North Group,Leicester,2016-07-15,NatWest t20 Blast,Leicestershire,Lancashire,207/3,198/4,Leicestershire,9 runs,207,3,198,4
+947291,"Nevill Ground, Tunbridge Wells",South Group,Tunbridge Wells,2016-07-15,NatWest t20 Blast,Surrey,Kent,180/8,181/2,Kent,8 wickets,180,8,181,2
+947287,"The Cooper Associates County Ground, Taunton",South Group,Taunton,2016-07-15,NatWest t20 Blast,Somerset,Middlesex,137,141/5,Middlesex,5 wickets,137,10,141,5
+947281,"County Ground, New Road, Worcester",North Group,Worcester,2016-07-15,NatWest t20 Blast,Warwickshire,Worcestershire,164,166/5,Worcestershire,5 wickets,164,10,166,5
+947279,"The Rose Bowl, Southampton",South Group,Southampton,2016-07-14,NatWest t20 Blast,Hampshire,Glamorgan,167/6,142/7,Hampshire,25 runs,167,6,142,7
+947277,"County Ground, Derby",North Group,Derby,2016-07-13,NatWest t20 Blast,Lancashire,Derbyshire,167/9,170/4,Derbyshire,6 wickets,167,9,170,4
+947275,"Grace Road, Leicester",North Group,Leicester,2016-07-12,NatWest t20 Blast,Leicestershire,Nottinghamshire,,,,,,,,
+947273,"County Ground, Derby",North Group,Derby,2016-07-10,NatWest t20 Blast,Yorkshire,Derbyshire,166/6,165/8,Yorkshire,1 run,166,6,165,8
+947271,"Riverside Ground, Chester-le-Street",North Group,Chester-le-Street,2016-07-10,NatWest t20 Blast,Leicestershire,Durham,146/6,147/5,Durham,5 wickets,146,6,147,5
+947269,"Sophia Gardens, Cardiff",South Group,Cardiff,2016-07-10,NatWest t20 Blast,Glamorgan,Gloucestershire,119/6,120/1,Gloucestershire,9 wickets,119,6,120,1
+947267,"Trent Bridge, Nottingham",North Group,Nottingham,2016-07-09,NatWest t20 Blast,Worcestershire,Nottinghamshire,124/8,128/1,Nottinghamshire,9 wickets,124,8,128,1
+947255,"The Rose Bowl, Southampton",South Group,Southampton,2016-07-08,NatWest t20 Blast,Essex,Hampshire,153/6,150/7,Essex,3 runs,153,6,150,7
+947251,"Headingley, Leeds",North Group,Leeds,2016-07-08,NatWest t20 Blast,Yorkshire,Warwickshire,156/6,154,Yorkshire,2 runs,156,6,154,10
+947265,"Kennington Oval, London",South Group,London,2016-07-08,NatWest t20 Blast,Surrey,Somerset,154/8,139/6,Surrey,15 runs,154,8,139,6
+947263,"County Ground, Northampton",North Group,Northampton,2016-07-08,NatWest t20 Blast,Northamptonshire,Nottinghamshire,122,123/4,Nottinghamshire,6 wickets,122,10,123,4
+947259,"County Ground, Bristol",South Group,Bristol,2016-07-08,NatWest t20 Blast,Kent,Gloucestershire,148/7,145/8,Kent,3 runs,148,7,145,8
+947253,"Grace Road, Leicester",North Group,Leicester,2016-07-08,NatWest t20 Blast,Derbyshire,Leicestershire,158,164/1,Leicestershire,9 wickets,158,10,164,1
+947261,"County Ground, New Road, Worcester",North Group,Worcester,2016-07-08,NatWest t20 Blast,Worcestershire,Lancashire,198,200/3,Lancashire,7 wickets,198,10,200,3
+947257,"Old Deer Park, Richmond",South Group,Richmond,2016-07-08,NatWest t20 Blast,Middlesex,Glamorgan,144/8,145/1,Glamorgan,9 wickets,144,8,145,1
+947249,"Sophia Gardens, Cardiff",South Group,Cardiff,2016-07-07,NatWest t20 Blast,Glamorgan,Sussex,159/8,113,Glamorgan,46 runs,159,8,113,10
+947247,"The Cooper Associates County Ground, Taunton",South Group,Taunton,2016-07-07,NatWest t20 Blast,Kent,Somerset,187/5,175/9,Kent,12 runs,187,5,175,9
+947245,"County Ground, Bristol",South Group,Bristol,2016-07-06,NatWest t20 Blast,Surrey,Gloucestershire,151/9,152/4,Gloucestershire,6 wickets,151,9,152,4
+947243,"Queen's Park, Chesterfield",North Group,Chesterfield,2016-07-03,NatWest t20 Blast,Derbyshire,Northamptonshire,,,,,,,,
+947241,"Edgbaston, Birmingham",North Group,Birmingham,2016-07-01,NatWest t20 Blast,Warwickshire,Northamptonshire,86/8,89/2,Northamptonshire,8 wickets,86,8,89,2
+947239,"County Ground, Hove",South Group,Brighton,2016-07-01,NatWest t20 Blast,Middlesex,Sussex,146,147/3,Sussex,7 wickets,146,10,147,3
+947235,"County Ground, Chelmsford",South Group,Chelmsford,2016-07-01,NatWest t20 Blast,Essex,Kent,204/3,154/9,Essex,50 runs,204,3,154,9
+947237,"Headingley, Leeds",North Group,Leeds,2016-07-01,NatWest t20 Blast,Yorkshire,Lancashire,141/7,136,Yorkshire,5 runs,141,7,136,10
+947229,"Trent Bridge, Nottingham",North Group,Nottingham,2016-07-01,NatWest t20 Blast,Nottinghamshire,Durham,,,,,,,,
+947231,"The Cooper Associates County Ground, Taunton",South Group,Taunton,2016-07-01,NatWest t20 Blast,Somerset,Gloucestershire,167/7,168/3,Gloucestershire,7 wickets,167,7,168,3
+947227,"County Ground, New Road, Worcester",North Group,Worcester,2016-07-01,NatWest t20 Blast,Worcestershire,Derbyshire,185/7,188/3,Derbyshire,7 wickets,185,7,188,3
+947225,"St Lawrence Ground, Canterbury",South Group,Canterbury,2016-06-30,NatWest t20 Blast,Kent,Sussex,166/6,156/4,Kent,10 runs,166,6,156,4
+947223,"Riverside Ground, Chester-le-Street",North Group,Chester-le-Street,2016-06-30,NatWest t20 Blast,Worcestershire,Durham,,,,,,,,
+947221,"County Ground, Northampton",North Group,Northampton,2016-06-26,NatWest t20 Blast,Leicestershire,Northamptonshire,149/5,152/4,Northamptonshire,6 wickets,149,5,152,4
+947219,Arundel Castle Cricket Club Ground,South Group,Arundel,2016-06-26,NatWest t20 Blast,Gloucestershire,Sussex,184/4,173/9,Gloucestershire,11 runs,184,4,173,9
+947215,"Kennington Oval, London",South Group,London,2016-06-25,NatWest t20 Blast,Surrey,Essex,117/9,121/2,Essex,8 wickets,117,9,121,2
+947217,"The Rose Bowl, Southampton",South Group,Southampton,2016-06-25,NatWest t20 Blast,Hampshire,Gloucestershire,,,,,,,,
+947207,"County Ground, Derby",North Group,Derby,2016-06-24,NatWest t20 Blast,Derbyshire,Nottinghamshire,114,120/3,Nottinghamshire,7 wickets,114,10,120,3
+947205,"St Lawrence Ground, Canterbury",South Group,Canterbury,2016-06-24,NatWest t20 Blast,Middlesex,Kent,210/6,170/7,Middlesex,40 runs,210,6,170,7
+947203,"County Ground, Chelmsford",South Group,Chelmsford,2016-06-24,NatWest t20 Blast,Hampshire,Essex,135/8,136/5,Essex,5 wickets,135,8,136,5
+947213,"Riverside Ground, Chester-le-Street",North Group,Chester-le-Street,2016-06-24,NatWest t20 Blast,Yorkshire,Durham,134,68/3,Durham,6 runs,134,10,68,3
+947211,"Old Trafford, Manchester",North Group,Manchester,2016-06-24,NatWest t20 Blast,Lancashire,Worcestershire,149/5,53,Lancashire,96 runs,149,5,53,10
+947209,"Sophia Gardens, Cardiff",South Group,Cardiff,2016-06-24,NatWest t20 Blast,Surrey,Glamorgan,110,114/1,Glamorgan,9 wickets,110,10,114,1
+947201,"Grace Road, Leicester",North Group,Leicester,2016-06-24,NatWest t20 Blast,Leicestershire,Warwickshire,125/7,126/2,Warwickshire,8 wickets,125,7,126,2
+947199,"Lord's, London",South Group,London,2016-06-23,NatWest t20 Blast,Middlesex,Somerset,92/3,88/6,Middlesex,4 runs,92,3,88,6
+947197,"Edgbaston, Birmingham",North Group,Birmingham,2016-06-19,NatWest t20 Blast,Warwickshire,Lancashire,144/9,39/4,Warwickshire,18 runs,144,9,39,4
+947195,"The Cooper Associates County Ground, Taunton",South Group,Taunton,2016-06-19,NatWest t20 Blast,Hampshire,Somerset,133,136/4,Somerset,6 wickets,133,10,136,4
+947193,"Headingley, Leeds",North Group,Leeds,2016-06-19,NatWest t20 Blast,Derbyshire,Yorkshire,153/9,67/3,Yorkshire,1 run,153,9,67,3
+947191,"County Ground, New Road, Worcester",North Group,Worcester,2016-06-18,NatWest t20 Blast,Worcestershire,Nottinghamshire,164/5,167/6,Nottinghamshire,4 wickets,164,5,167,6
+947187,"The Rose Bowl, Southampton",South Group,Southampton,2016-06-17,NatWest t20 Blast,Hampshire,Sussex,,,,,,,,
+947183,"Headingley, Leeds",North Group,Leeds,2016-06-17,NatWest t20 Blast,Yorkshire,Nottinghamshire,,,,,,,,
+947175,"County Ground, Derby",North Group,Derby,2016-06-17,NatWest t20 Blast,Derbyshire,Warwickshire,141/7,145/6,Warwickshire,4 wickets,141,7,145,6
+947189,"Grace Road, Leicester",North Group,Leicester,2016-06-17,NatWest t20 Blast,Leicestershire,Worcestershire,,,,,,,,
+947185,"County Ground, Bristol",South Group,Bristol,2016-06-17,NatWest t20 Blast,Somerset,Gloucestershire,158/5,160/6,Gloucestershire,4 wickets,158,5,160,6
+947181,"Kennington Oval, London",South Group,London,2016-06-17,NatWest t20 Blast,Surrey,Middlesex,173/7,144,Surrey,29 runs,173,7,144,10
+947179,"Sophia Gardens, Cardiff",South Group,Cardiff,2016-06-17,NatWest t20 Blast,Glamorgan,Kent,175/4,121,Glamorgan,55 runs,175,4,121,10
+947177,"County Ground, Northampton",North Group,Northampton,2016-06-17,NatWest t20 Blast,Northamptonshire,Durham,161/9,135/8,Northamptonshire,26 runs,161,9,135,8
+947169,"County Ground, Chelmsford",South Group,Chelmsford,2016-06-16,NatWest t20 Blast,Essex,Gloucestershire,153/8,154/2,Gloucestershire,8 wickets,153,8,154,2
+947171,"Old Trafford, Manchester",North Group,Manchester,2016-06-16,NatWest t20 Blast,Lancashire,Northamptonshire,,,,,,,,
+947173,"Lord's, London",South Group,London,2016-06-16,NatWest t20 Blast,Middlesex,Sussex,,,,,,,,
+947167,"The Cooper Associates County Ground, Taunton",South Group,Taunton,2016-06-15,NatWest t20 Blast,Somerset,Glamorgan,,,,,,,,
+947151,"Trent Bridge, Nottingham",North Group,Nottingham,2016-06-10,NatWest t20 Blast,Nottinghamshire,Derbyshire,,,,,,,,
+947165,"Edgbaston, Birmingham",North Group,Birmingham,2016-06-10,NatWest t20 Blast,Warwickshire,Yorkshire,,,,,,,,
+947159,"County Ground, Chelmsford",South Group,Chelmsford,2016-06-10,NatWest t20 Blast,Middlesex,Essex,173/8,156/8,Middlesex,17 runs,173,8,156,8
+947155,"County Ground, Hove",South Group,Brighton,2016-06-10,NatWest t20 Blast,Kent,Sussex,140,143/6,Sussex,4 wickets,140,10,143,6
+947157,"Old Trafford, Manchester",North Group,Manchester,2016-06-10,NatWest t20 Blast,Leicestershire,Lancashire,131/3,77/1,Lancashire,9 wickets,131,3,77,1
+947153,"County Ground, Bristol",South Group,Bristol,2016-06-10,NatWest t20 Blast,Gloucestershire,Glamorgan,168/8,172/4,Glamorgan,6 wickets,168,8,172,4
+947163,"The Cooper Associates County Ground, Taunton",South Group,Taunton,2016-06-10,NatWest t20 Blast,Surrey,Somerset,186/4,189/4,Somerset,6 wickets,186,4,189,4
+947161,"County Ground, New Road, Worcester",North Group,Worcester,2016-06-10,NatWest t20 Blast,Northamptonshire,Worcestershire,169/7,170/7,Worcestershire,3 wickets,169,7,170,7
+947233,"Kennington Oval, London",South Group,London,2016-06-09,NatWest t20 Blast,Surrey,Hampshire,188/5,108,Surrey,80 runs,188,5,108,10
+947149,"St Lawrence Ground, Canterbury",South Group,Canterbury,2016-06-08,NatWest t20 Blast,Kent,Hampshire,193/3,185/9,Kent,8 runs,193,3,185,9
+947145,"Grace Road, Leicester",North Group,Leicester,2016-06-04,NatWest t20 Blast,Durham,Leicestershire,120/9,123/4,Leicestershire,6 wickets,120,9,123,4
+947147,"Trent Bridge, Nottingham",North Group,Nottingham,2016-06-04,NatWest t20 Blast,Lancashire,Nottinghamshire,184/4,185/8,Nottinghamshire,2 wickets,184,4,185,8
+947139,"County Ground, Hove",South Group,Brighton,2016-06-03,NatWest t20 Blast,Surrey,Sussex,205/4,182/5,Surrey,23 runs,205,4,182,5
+947137,"County Ground, Derby",North Group,Derby,2016-06-03,NatWest t20 Blast,Leicestershire,Derbyshire,120,123/6,Derbyshire,4 wickets,120,10,123,6
+947129,"Edgbaston, Birmingham",North Group,Birmingham,2016-06-03,NatWest t20 Blast,Durham,Warwickshire,154/9,155/1,Warwickshire,9 wickets,154,9,155,1
+947143,"Old Trafford, Manchester",North Group,Manchester,2016-06-03,NatWest t20 Blast,Lancashire,Yorkshire,204/7,178/7,Lancashire,26 runs,204,7,178,7
+947141,"County Ground, Northampton",North Group,Northampton,2016-06-03,NatWest t20 Blast,Worcestershire,Northamptonshire,144/6,147/3,Northamptonshire,7 wickets,144,6,147,3
+947135,"Sophia Gardens, Cardiff",South Group,Cardiff,2016-06-03,NatWest t20 Blast,Hampshire,Glamorgan,141,143/5,Glamorgan,5 wickets,141,10,143,5
+947133,"The Kent County Cricket Ground, Beckenham",South Group,Beckenham,2016-06-03,NatWest t20 Blast,Kent,Gloucestershire,144/7,146/3,Gloucestershire,7 wickets,144,7,146,3
+947131,"The Cooper Associates County Ground, Taunton",South Group,Taunton,2016-06-03,NatWest t20 Blast,Essex,Somerset,178/7,181/3,Somerset,7 wickets,178,7,181,3
+947125,"The Rose Bowl, Southampton",South Group,Southampton,2016-06-02,NatWest t20 Blast,Hampshire,Kent,158/8,149,Hampshire,9 runs,158,8,149,10
+947127,"County Ground, New Road, Worcester",North Group,Worcester,2016-06-02,NatWest t20 Blast,Yorkshire,Worcestershire,173/6,174/3,Worcestershire,7 wickets,173,6,174,3
+947123,"Merchant Taylors' School Ground, Northwood",South Group,Northwood,2016-06-02,NatWest t20 Blast,Middlesex,Gloucestershire,159/9,163/6,Gloucestershire,4 wickets,159,9,163,6
+947121,"County Ground, Hove",South Group,Brighton,2016-06-01,NatWest t20 Blast,Sussex,Somerset,222/3,174,Sussex,48 runs,222,3,174,10
+947119,"Riverside Ground, Chester-le-Street",North Group,Chester-le-Street,2016-06-01,NatWest t20 Blast,Durham,Nottinghamshire,178/7,112,Durham,66 runs,178,7,112,10
+947117,"Sophia Gardens, Cardiff",South Group,Cardiff,2016-06-01,NatWest t20 Blast,Glamorgan,Essex,140/6,143/3,Essex,7 wickets,140,6,143,3
+947115,"Edgbaston, Birmingham",North Group,Birmingham,2016-05-27,NatWest t20 Blast,Warwickshire,Worcestershire,155/7,161/5,Worcestershire,5 wickets,155,7,161,5
+947113,"Headingley, Leeds",North Group,Leeds,2016-05-27,NatWest t20 Blast,Leicestershire,Yorkshire,174/7,120,Leicestershire,54 runs,174,7,120,10
+947111,"Old Trafford, Manchester",North Group,Manchester,2016-05-27,NatWest t20 Blast,Lancashire,Durham,149/8,151/4,Durham,6 wickets,149,8,151,4
+947109,"County Ground, Northampton",North Group,Northampton,2016-05-27,NatWest t20 Blast,Derbyshire,Northamptonshire,195/7,197/7,Northamptonshire,3 wickets,195,7,197,7
+947107,Uxbridge Cricket Club Ground,South Group,Uxbridge,2016-05-27,NatWest t20 Blast,Middlesex,Hampshire,195/6,126,Middlesex,69 runs,195,6,126,10
+947105,"Kennington Oval, London",South Group,London,2016-05-26,NatWest t20 Blast,Surrey,Glamorgan,93,96/2,Glamorgan,8 wickets,93,10,96,2
+947103,"Old Trafford, Manchester",North Group,Manchester,2016-05-21,NatWest t20 Blast,Lancashire,Derbyshire,131/7,132/1,Derbyshire,9 wickets,131,7,132,1
+947099,"County Ground, Chelmsford",South Group,Chelmsford,2016-05-20,NatWest t20 Blast,Surrey,Essex,170/8,162,Surrey,8 runs,170,8,162,10
+947097,"St Lawrence Ground, Canterbury",South Group,Canterbury,2016-05-20,NatWest t20 Blast,Somerset,Kent,197/7,200/2,Kent,8 wickets,197,7,200,2
+947101,"County Ground, Bristol",South Group,Bristol,2016-05-20,NatWest t20 Blast,Sussex,Gloucestershire,242/5,83/1,Sussex,1 run,242,5,83,1
+947095,"Grace Road, Leicester",North Group,Leicester,2016-05-20,NatWest t20 Blast,Leicestershire,Northamptonshire,178/5,168/5,Northamptonshire,5 wickets,178,5,168,5
+947091,"Trent Bridge, Nottingham",North Group,Nottingham,2016-05-20,NatWest t20 Blast,Nottinghamshire,Warwickshire,179/7,185/4,Warwickshire,6 wickets,179,7,185,4
+947093,"County Ground, New Road, Worcester",North Group,Worcester,2016-05-20,NatWest t20 Blast,Worcestershire,Durham,225/6,187/8,Worcestershire,38 runs,225,6,187,8

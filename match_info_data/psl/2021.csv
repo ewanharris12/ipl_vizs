@@ -1,0 +1,6 @@
+match_id,venue,match_type,city,date,full_league,team_one,team_two,inn_one,inn_two,winner,margin,inn_one_score,inn_one_wickets,inn_two_score,inn_two_wickets
+1247015,"National Stadium, Karachi",5th Match (N),Karachi,2021-02-23,Pakistan Super League,Multan Sultans,Peshawar Zalmi,193/4,197/4,Peshawar Zalmi,6 wickets,193,4,197,4
+1247014,"National Stadium, Karachi",4th Match (N),Karachi,2021-02-22,Pakistan Super League,Quetta Gladiators,Lahore Qalandars,178/6,179/1,Lahore Qalandars,9 wickets,178,6,179,1
+1247013,"National Stadium, Karachi",3rd Match (N),Karachi,2021-02-21,Pakistan Super League,Multan Sultans,Islamabad United,150/8,151/7,Islamabad United,3 wickets,150,8,151,7
+1247012,"National Stadium, Karachi",2nd Match,Karachi,2021-02-21,Pakistan Super League,Peshawar Zalmi,Lahore Qalandars,140/6,143/6,Lahore Qalandars,4 wickets,140,6,143,6
+1247011,"National Stadium, Karachi",1st Match (N),Karachi,2021-02-20,Pakistan Super League,Quetta Gladiators,Karachi Kings,121,126/3,Karachi Kings,7 wickets,121,10,126,3

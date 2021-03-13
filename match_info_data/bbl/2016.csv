@@ -1,0 +1,36 @@
+match_id,venue,match_type,city,date,full_league,team_one,team_two,inn_one,inn_two,winner,margin,inn_one_score,inn_one_wickets,inn_two_score,inn_two_wickets
+1023649,"W.A.C.A. Ground, Perth",Final (N),Perth,2017-01-28,Big Bash League,Sydney Sixers,Perth Scorchers,141/9,144/1,Perth Scorchers,9 wickets,141,9,144,1
+1023647,"Brisbane Cricket Ground, Woolloongabba, Brisbane",2nd Semi-Final (N),Brisbane,2017-01-25,Big Bash League,Brisbane Heat,Sydney Sixers,167/9,167/8,Sydney Sixers,Super Over,167,9,167,8
+1023645,"W.A.C.A. Ground, Perth",1st Semi-Final (N),Perth,2017-01-24,Big Bash League,Melbourne Stars,Perth Scorchers,136/8,139/3,Perth Scorchers,7 wickets,136,8,139,3
+1023643,Melbourne Cricket Ground,32nd Match (N),Melbourne,2017-01-21,Big Bash League,Melbourne Stars,Sydney Sixers,156/8,160/7,Sydney Sixers,3 wickets,156,8,160,7
+1023641,"Bellerive Oval, Hobart",31st Match (N),Hobart,2017-01-21,Big Bash League,Hobart Hurricanes,Perth Scorchers,134/6,135/3,Perth Scorchers,7 wickets,134,6,135,3
+1023639,"Brisbane Cricket Ground, Woolloongabba, Brisbane",30th Match (N),Brisbane,2017-01-20,Big Bash League,Melbourne Renegades,Brisbane Heat,199/5,198,Melbourne Renegades,1 run,199,5,198,10
+1023637,Sydney Showground Stadium,29th Match (N),Sydney,2017-01-18,Big Bash League,Adelaide Strikers,Sydney Thunder,178/5,101,Adelaide Strikers,77 runs,178,5,101,10
+1023635,Melbourne Cricket Ground,28th Match (N),Melbourne,2017-01-17,Big Bash League,Melbourne Stars,Brisbane Heat,138/7,139/3,Brisbane Heat,7 wickets,138,7,139,3
+1023633,Adelaide Oval,27th Match (N),Adelaide,2017-01-16,Big Bash League,Melbourne Renegades,Adelaide Strikers,171/9,165/8,Melbourne Renegades,6 runs,171,9,165,8
+1023631,"W.A.C.A. Ground, Perth",26th Match (N),Perth,2017-01-14,Big Bash League,Perth Scorchers,Melbourne Stars,134/7,137/3,Melbourne Stars,7 wickets,134,7,137,3
+1023629,Sydney Cricket Ground,25th Match (N),Sydney,2017-01-14,Big Bash League,Sydney Sixers,Sydney Thunder,99/9,100/2,Sydney Thunder,8 wickets,99,9,100,2
+1023627,"Docklands Stadium, Melbourne",24th Match (N),Melbourne,2017-01-12,Big Bash League,Melbourne Renegades,Hobart Hurricanes,222/4,223/8,Hobart Hurricanes,2 wickets,222,4,223,8
+1023625,"Brisbane Cricket Ground, Woolloongabba, Brisbane",23rd Match (N),Brisbane,2017-01-11,Big Bash League,Perth Scorchers,Brisbane Heat,156/5,129,Perth Scorchers,27 runs,156,5,129,10
+1023623,Melbourne Cricket Ground,22nd Match (N),Melbourne,2017-01-10,Big Bash League,Adelaide Strikers,Melbourne Stars,152/8,153/8,Melbourne Stars,2 wickets,152,8,153,8
+1023621,Sydney Cricket Ground,21st Match (N),Sydney,2017-01-09,Big Bash League,Melbourne Renegades,Sydney Sixers,170/6,171/4,Sydney Sixers,6 wickets,170,6,171,4
+1023619,"Bellerive Oval, Hobart",20th Match (N),Hobart,2017-01-08,Big Bash League,Hobart Hurricanes,Sydney Thunder,161/8,162/4,Sydney Thunder,6 wickets,161,8,162,4
+1023617,"Docklands Stadium, Melbourne",19th Match (N),Melbourne,2017-01-07,Big Bash League,Melbourne Stars,Melbourne Renegades,200/7,154/9,Melbourne Stars,46 runs,200,7,154,9
+1023615,Adelaide Oval,18th Match (N),Adelaide,2017-01-06,Big Bash League,Hobart Hurricanes,Adelaide Strikers,161/8,164/5,Adelaide Strikers,5 wickets,161,8,164,5
+1023613,"W.A.C.A. Ground, Perth",17th Match (N),Perth,2017-01-05,Big Bash League,Perth Scorchers,Brisbane Heat,173/6,174/1,Brisbane Heat,9 wickets,173,6,174,1
+1023611,Sydney Showground Stadium,16th Match (N),Sydney,2017-01-04,Big Bash League,Melbourne Stars,Sydney Thunder,166/8,168/4,Sydney Thunder,6 wickets,166,8,168,4
+1023609,"Brisbane Cricket Ground, Woolloongabba, Brisbane",15th Match (N),Brisbane,2017-01-03,Big Bash League,Brisbane Heat,Sydney Sixers,186/6,191/7,Sydney Sixers,3 wickets,186,6,191,7
+1023607,"Bellerive Oval, Hobart",14th Match (N),Hobart,2017-01-02,Big Bash League,Adelaide Strikers,Hobart Hurricanes,143,144/2,Hobart Hurricanes,8 wickets,143,10,144,2
+1023605,"W.A.C.A. Ground, Perth",13th Match (N),Perth,2017-01-01,Big Bash League,Perth Scorchers,Sydney Thunder,177/4,127/8,Perth Scorchers,50 runs,177,4,127,8
+1023603,Melbourne Cricket Ground,12th Match (N),Melbourne,2017-01-01,Big Bash League,Melbourne Renegades,Melbourne Stars,171/4,151/9,Melbourne Renegades,7 runs,171,4,151,9
+1023601,Adelaide Oval,11th Match (N),Adelaide,2016-12-31,Big Bash League,Adelaide Strikers,Sydney Sixers,152/9,104,Adelaide Strikers,48 runs,152,9,104,10
+1023599,"Brisbane Cricket Ground, Woolloongabba, Brisbane",10th Match (N),Brisbane,2016-12-30,Big Bash League,Hobart Hurricanes,Brisbane Heat,173/9,174/3,Brisbane Heat,7 wickets,173,9,174,3
+1023597,"Docklands Stadium, Melbourne",9th Match (N),Melbourne,2016-12-29,Big Bash League,Melbourne Renegades,Perth Scorchers,148/8,152/6,Perth Scorchers,4 wickets,148,8,152,6
+1023595,Sydney Showground Stadium,8th Match (N),Sydney,2016-12-28,Big Bash League,Sydney Thunder,Brisbane Heat,157/7,160/7,Brisbane Heat,3 wickets,157,7,160,7
+1023593,Sydney Cricket Ground,7th Match (N),Sydney,2016-12-27,Big Bash League,Perth Scorchers,Sydney Sixers,130/8,132/4,Sydney Sixers,6 wickets,130,8,132,4
+1023591,"Bellerive Oval, Hobart",6th Match (N),Hobart,2016-12-26,Big Bash League,Hobart Hurricanes,Melbourne Stars,188/4,191/3,Melbourne Stars,7 wickets,188,4,191,3
+1023589,"W.A.C.A. Ground, Perth",5th Match (N),Perth,2016-12-23,Big Bash League,Perth Scorchers,Adelaide Strikers,197/7,149/9,Perth Scorchers,48 runs,197,7,149,9
+1023587,Sydney Cricket Ground,4th Match (N),Sydney,2016-12-23,Big Bash League,Hobart Hurricanes,Sydney Sixers,200/6,140,Hobart Hurricanes,60 runs,200,6,140,10
+1023585,"Docklands Stadium, Melbourne",3rd Match (N),Melbourne,2016-12-22,Big Bash League,Melbourne Renegades,Sydney Thunder,179/7,130,Melbourne Renegades,49 runs,179,7,130,10
+1023583,Adelaide Oval,2nd Match (N),Adelaide,2016-12-21,Big Bash League,Brisbane Heat,Adelaide Strikers,206/5,196/6,Brisbane Heat,10 runs,206,5,196,6
+1023581,Sydney Showground Stadium,1st Match (N),Sydney,2016-12-20,Big Bash League,Sydney Thunder,Sydney Sixers,159/8,160/1,Sydney Sixers,9 wickets,159,8,160,1

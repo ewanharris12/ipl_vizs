@@ -1,0 +1,75 @@
+match_id,venue,match_type,city,date,full_league,team_one,team_two,inn_one,inn_two,winner,margin,inn_one_score,inn_one_wickets,inn_two_score,inn_two_wickets
+501271,"MA Chidambaram Stadium, Chepauk, Chennai",Final (N),Chennai,2011-05-28,Indian Premier League,Chennai Super Kings,Royal Challengers Bangalore,205/5,147/8,Chennai Super Kings,58 runs,205,5,147,8
+501270,"MA Chidambaram Stadium, Chepauk, Chennai",2nd Qualifying Final (N),Chennai,2011-05-27,Indian Premier League,Royal Challengers Bangalore,Mumbai Indians,185/4,142/8,Royal Challengers Bangalore,43 runs,185,4,142,8
+501269,"Wankhede Stadium, Mumbai",Elimination Final (N),Mumbai,2011-05-25,Indian Premier League,Kolkata Knight Riders,Mumbai Indians,147/7,148/6,Mumbai Indians,4 wickets,147,7,148,6
+501268,"Wankhede Stadium, Mumbai",1st Qualifying Final (N),Mumbai,2011-05-24,Indian Premier League,Royal Challengers Bangalore,Chennai Super Kings,175/4,177/4,Chennai Super Kings,6 wickets,175,4,177,4
+501267,"Eden Gardens, Kolkata",70th match (N),Kolkata,2011-05-22,Indian Premier League,Kolkata Knight Riders,Mumbai Indians,175/7,178/5,Mumbai Indians,5 wickets,175,7,178,5
+501266,"M.Chinnaswamy Stadium, Bengaluru",69th match (D/N),Bengaluru,2011-05-22,Indian Premier League,Chennai Super Kings,Royal Challengers Bangalore,128/8,129/2,Royal Challengers Bangalore,8 wickets,128,8,129,2
+501265,"Arun Jaitley Stadium, Delhi",68th match (N),Delhi,2011-05-21,Indian Premier League,Delhi Daredevils,Pune Warriors,,,,,,,,
+501264,"Himachal Pradesh Cricket Association Stadium, Dharamsala",67th match (D/N),Dharamsala,2011-05-21,Indian Premier League,Deccan Chargers,Kings XI Punjab,198/2,116,Deccan Chargers ,82 runs,198,2,116,10
+501263,"Wankhede Stadium, Mumbai",66th match (N),Mumbai,2011-05-20,Indian Premier League,Mumbai Indians,Rajasthan Royals,133/5,134/0,Rajasthan Royals,10 wickets,133,5,134,0
+501262,"Dr DY Patil Sports Academy, Mumbai",65th match (N),Mumbai,2011-05-19,Indian Premier League,Pune Warriors,Kolkata Knight Riders,118/7,119/3,Kolkata Knight Riders,7 wickets,118,7,119,3
+501261,"MA Chidambaram Stadium, Chepauk, Chennai",64th match (N),Chennai,2011-05-18,Indian Premier League,Chennai Super Kings,Kochi Tuskers Kerala,152/5,141/5,Chennai Super Kings,11 runs,152,5,141,5
+501260,"Himachal Pradesh Cricket Association Stadium, Dharamsala",63rd match (N),Dharamsala,2011-05-17,Indian Premier League,Kings XI Punjab,Royal Challengers Bangalore,232/2,121,Kings XI Punjab,111 runs,232,2,121,10
+501259,"Dr DY Patil Sports Academy, Mumbai",62nd match (N),Mumbai,2011-05-16,Indian Premier League,Pune Warriors,Deccan Chargers,136/9,138/4,Deccan Chargers ,6 wickets,136,9,138,4
+501258,"Holkar Cricket Stadium, Indore",61st match (N),Indore,2011-05-15,Indian Premier League,Rajasthan Royals,Kochi Tuskers Kerala,97,98/2,Kochi Tuskers Kerala,8 wickets,97,10,98,2
+501257,"Himachal Pradesh Cricket Association Stadium, Dharamsala",60th match (D/N),Dharamsala,2011-05-15,Indian Premier League,Kings XI Punjab,Delhi Daredevils,170/6,141/8,Kings XI Punjab,29 runs,170,6,141,8
+501256,"Wankhede Stadium, Mumbai",59th match (N),Mumbai,2011-05-14,Indian Premier League,Deccan Chargers,Mumbai Indians,135/6,125/8,Deccan Chargers ,10 runs,135,6,125,8
+501255,"M.Chinnaswamy Stadium, Bengaluru",58th match (D/N),Bengaluru,2011-05-14,Indian Premier League,Kolkata Knight Riders,Royal Challengers Bangalore,89/4,105/6,Royal Challengers Bangalore,4 wickets,89,4,105,6
+501254,"Holkar Cricket Stadium, Indore",57th match (N),Indore,2011-05-13,Indian Premier League,Kochi Tuskers Kerala,Kings XI Punjab,178/7,181/4,Kings XI Punjab,6 wickets,178,7,181,4
+501253,"MA Chidambaram Stadium, Chepauk, Chennai",56th match (N),Chennai,2011-05-12,Indian Premier League,Chennai Super Kings,Delhi Daredevils,176/4,158/6,Chennai Super Kings,18 runs,176,4,158,6
+501252,"Sawai Mansingh Stadium, Jaipur",55th match (N),Jaipur,2011-05-11,Indian Premier League,Rajasthan Royals,Royal Challengers Bangalore,146/6,151/1,Royal Challengers Bangalore,9 wickets,146,6,151,1
+501251,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",54th match (N),Chandigarh,2011-05-10,Indian Premier League,Kings XI Punjab,Mumbai Indians,163/8,87,Kings XI Punjab,76 runs,163,8,87,10
+501250,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",53rd match (D/N),Hyderabad,2011-05-10,Indian Premier League,Deccan Chargers,Pune Warriors,136/8,137/4,Pune Warriors,6 wickets,136,8,137,4
+501249,"Sawai Mansingh Stadium, Jaipur",52nd match (N),Jaipur,2011-05-09,Indian Premier League,Chennai Super Kings,Rajasthan Royals,196/3,133,Chennai Super Kings,63 runs,196,3,133,10
+501248,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",51st match (N),Chandigarh,2011-05-08,Indian Premier League,Kings XI Punjab,Pune Warriors,119/8,120/5,Pune Warriors,5 wickets,119,8,120,5
+501247,"M.Chinnaswamy Stadium, Bengaluru",50th match (D/N),Bengaluru,2011-05-08,Indian Premier League,Kochi Tuskers Kerala,Royal Challengers Bangalore,125/9,128/1,Royal Challengers Bangalore,9 wickets,125,9,128,1
+501246,"Wankhede Stadium, Mumbai",49th match (N),Mumbai,2011-05-07,Indian Premier League,Mumbai Indians,Delhi Daredevils,178/4,146,Mumbai Indians,32 runs,178,4,146,10
+501245,"Eden Gardens, Kolkata",48th match (D/N),Kolkata,2011-05-07,Indian Premier League,Chennai Super Kings,Kolkata Knight Riders,114/4,61/2,Kolkata Knight Riders,10 runs,114,4,61,2
+501244,"M.Chinnaswamy Stadium, Bengaluru",47th match (N),Bengaluru,2011-05-06,Indian Premier League,Royal Challengers Bangalore,Kings XI Punjab,205/6,120/9,Royal Challengers Bangalore,85 runs,205,6,120,9
+501243,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",46th match (N),Hyderabad,2011-05-05,Indian Premier League,Deccan Chargers,Delhi Daredevils,175/5,179/6,Delhi Daredevils,4 wickets,175,5,179,6
+501242,"Nehru Stadium, Kochi",45th match (D/N),Kochi,2011-05-05,Indian Premier League,Kochi Tuskers Kerala,Kolkata Knight Riders,156/5,139/7,Kochi Tuskers Kerala,17 runs,156,5,139,7
+501241,"Dr DY Patil Sports Academy, Mumbai",44th match (N),Mumbai,2011-05-04,Indian Premier League,Mumbai Indians,Pune Warriors,160/7,139/7,Mumbai Indians,21 runs,160,7,139,7
+501240,"MA Chidambaram Stadium, Chepauk, Chennai",43rd match (D/N),Chennai,2011-05-04,Indian Premier League,Rajasthan Royals,Chennai Super Kings,147/6,149/2,Chennai Super Kings,8 wickets,147,6,149,2
+501239,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",42nd match (N),Hyderabad,2011-05-03,Indian Premier League,Kolkata Knight Riders,Deccan Chargers,169/4,149/6,Kolkata Knight Riders,20 runs,169,4,149,6
+501238,"Arun Jaitley Stadium, Delhi",41st match (N),Delhi,2011-05-02,Indian Premier League,Delhi Daredevils,Kochi Tuskers Kerala,140/6,141/3,Kochi Tuskers Kerala,7 wickets,140,6,141,3
+501237,"Wankhede Stadium, Mumbai",40th match (D/N),Mumbai,2011-05-02,Indian Premier League,Mumbai Indians,Kings XI Punjab,159/5,136/8,Mumbai Indians,23 runs,159,5,136,8
+501236,"MA Chidambaram Stadium, Chepauk, Chennai",39th match (N),Chennai,2011-05-01,Indian Premier League,Chennai Super Kings,Deccan Chargers,165/5,146/8,Chennai Super Kings,19 runs,165,5,146,8
+501235,"Sawai Mansingh Stadium, Jaipur",38th match (D/N),Jaipur,2011-05-01,Indian Premier League,Pune Warriors,Rajasthan Royals,143/7,144/4,Rajasthan Royals,6 wickets,143,7,144,4
+501234,"Eden Gardens, Kolkata",37th match (N),Kolkata,2011-04-30,Indian Premier League,Kings XI Punjab,Kolkata Knight Riders,119/6,120/2,Kolkata Knight Riders,8 wickets,119,6,120,2
+501233,"Nehru Stadium, Kochi",36th match (D/N),Kochi,2011-04-30,Indian Premier League,Delhi Daredevils,Kochi Tuskers Kerala,157/7,119,Delhi Daredevils,38 runs,157,7,119,10
+501232,"M.Chinnaswamy Stadium, Bengaluru",35th match (N),Bengaluru,2011-04-29,Indian Premier League,Royal Challengers Bangalore,Pune Warriors,181/5,155/5,Royal Challengers Bangalore,26 runs,181,5,155,5
+501231,"Sawai Mansingh Stadium, Jaipur",34th match (D/N),Jaipur,2011-04-29,Indian Premier League,Mumbai Indians,Rajasthan Royals,94/8,95/3,Rajasthan Royals,7 wickets,94,8,95,3
+501230,"Arun Jaitley Stadium, Delhi",33rd match (N),Delhi,2011-04-28,Indian Premier League,Kolkata Knight Riders,Delhi Daredevils,148/7,131/9,Kolkata Knight Riders,17 runs,148,7,131,9
+501229,"Nehru Stadium, Kochi",32nd match (N),Kochi,2011-04-27,Indian Premier League,Deccan Chargers,Kochi Tuskers Kerala,129/7,74,Deccan Chargers ,55 runs,129,7,74,10
+501228,"Dr DY Patil Sports Academy, Mumbai",31st match (D/N),Mumbai,2011-04-27,Indian Premier League,Pune Warriors,Chennai Super Kings,141/6,145/2,Chennai Super Kings,8 wickets,141,6,145,2
+501227,"Arun Jaitley Stadium, Delhi",30th match (N),Delhi,2011-04-26,Indian Premier League,Delhi Daredevils,Royal Challengers Bangalore,160/6,161/7,Royal Challengers Bangalore,3 wickets,160,6,161,7
+501226,"MA Chidambaram Stadium, Chepauk, Chennai",29th match (N),Chennai,2011-04-25,Indian Premier League,Chennai Super Kings,Pune Warriors,142/6,117/9,Chennai Super Kings,25 runs,142,6,117,9
+501225,"Sawai Mansingh Stadium, Jaipur",28th match (N),Jaipur,2011-04-24,Indian Premier League,Kochi Tuskers Kerala,Rajasthan Royals,109,111/2,Rajasthan Royals,8 wickets,109,10,111,2
+501224,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",27th match (D/N),Hyderabad,2011-04-24,Indian Premier League,Mumbai Indians,Deccan Chargers,172/4,135/8,Mumbai Indians,37 runs,172,4,135,8
+501223,"Arun Jaitley Stadium, Delhi",26th match (N),Delhi,2011-04-23,Indian Premier League,Delhi Daredevils,Kings XI Punjab,231/4,202/6,Delhi Daredevils,29 runs,231,4,202,6
+501221,"Wankhede Stadium, Mumbai",25th match (N),Mumbai,2011-04-22,Indian Premier League,Mumbai Indians,Chennai Super Kings,164/4,156/9,Mumbai Indians,8 runs,164,4,156,9
+501222,"Eden Gardens, Kolkata",24th match (D/N),Kolkata,2011-04-22,Indian Premier League,Kolkata Knight Riders,Royal Challengers Bangalore,171/5,175/1,Royal Challengers Bangalore,9 wickets,171,5,175,1
+501220,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",23rd match (N),Chandigarh,2011-04-21,Indian Premier League,Kings XI Punjab,Rajasthan Royals,195/7,147/7,Kings XI Punjab,48 runs,195,7,147,7
+501219,"Eden Gardens, Kolkata",22nd match (N),Kolkata,2011-04-20,Indian Premier League,Kochi Tuskers Kerala,Kolkata Knight Riders,132/7,126/9,Kochi Tuskers Kerala,6 runs,132,7,126,9
+501218,"Wankhede Stadium, Mumbai",21st match (D/N),Mumbai,2011-04-20,Indian Premier League,Pune Warriors,Mumbai Indians,118,124/3,Mumbai Indians,7 wickets,118,10,124,3
+501217,"M.Chinnaswamy Stadium, Bengaluru",20th match (N),Bengaluru,2011-04-19,Indian Premier League,Royal Challengers Bangalore,Rajasthan Royals,,,,,,,,
+501216,"Arun Jaitley Stadium, Delhi",19th match (D/N),Delhi,2011-04-19,Indian Premier League,Deccan Chargers,Delhi Daredevils,168/4,152/7,Deccan Chargers ,16 runs,168,4,152,7
+501215,"Nehru Stadium, Kochi",18th match (N),Kochi,2011-04-18,Indian Premier League,Chennai Super Kings,Kochi Tuskers Kerala,131/4,135/3,Kochi Tuskers Kerala,7 wickets,131,4,135,3
+501214,"Eden Gardens, Kolkata",17th match (N),Kolkata,2011-04-17,Indian Premier League,Rajasthan Royals,Kolkata Knight Riders,81,85/2,Kolkata Knight Riders,8 wickets,81,10,85,2
+501213,"Dr DY Patil Sports Academy, Mumbai",16th match (D/N),Mumbai,2011-04-17,Indian Premier League,Pune Warriors,Delhi Daredevils,187/5,190/7,Delhi Daredevils,3 wickets,187,5,190,7
+501212,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",15th match (N),Hyderabad,2011-04-16,Indian Premier League,Deccan Chargers,Kings XI Punjab,165/8,166/2,Kings XI Punjab,8 wickets,165,8,166,2
+501211,"MA Chidambaram Stadium, Chepauk, Chennai",14th match (D/N),Chennai,2011-04-16,Indian Premier League,Chennai Super Kings,Royal Challengers Bangalore,183/5,162/7,Chennai Super Kings,21 runs,183,5,162,7
+501210,"Wankhede Stadium, Mumbai",13th match (N),Mumbai,2011-04-15,Indian Premier League,Mumbai Indians,Kochi Tuskers Kerala,182/2,184/2,Kochi Tuskers Kerala,8 wickets,182,2,184,2
+501209,"Sawai Mansingh Stadium, Jaipur",12th match (D/N),Jaipur,2011-04-15,Indian Premier League,Rajasthan Royals,Kolkata Knight Riders,159/4,160/1,Kolkata Knight Riders,9 wickets,159,4,160,1
+501208,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",11th match (N),Hyderabad,2011-04-14,Indian Premier League,Deccan Chargers,Royal Challengers Bangalore,175/5,142/9,Deccan Chargers ,33 runs,175,5,142,9
+501207,"Dr DY Patil Sports Academy, Mumbai",10th match (N),Mumbai,2011-04-13,Indian Premier League,Kochi Tuskers Kerala,Pune Warriors,148/8,151/6,Pune Warriors,4 wickets,148,8,151,6
+501206,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",9th match (D/N),Chandigarh,2011-04-13,Indian Premier League,Chennai Super Kings,Kings XI Punjab,188/4,193/4,Kings XI Punjab,6 wickets,188,4,193,4
+501205,"M.Chinnaswamy Stadium, Bengaluru",8th match (N),Bengaluru,2011-04-12,Indian Premier League,Royal Challengers Bangalore,Mumbai Indians,140/4,143/1,Mumbai Indians,9 wickets,140,4,143,1
+501204,"Sawai Mansingh Stadium, Jaipur",7th match (D/N),Jaipur,2011-04-12,Indian Premier League,Delhi Daredevils,Rajasthan Royals,151/6,152/4,Rajasthan Royals,6 wickets,151,6,152,4
+501203,"Eden Gardens, Kolkata",6th match (N),Kolkata,2011-04-11,Indian Premier League,Kolkata Knight Riders,Deccan Chargers,163/4,154/8,Kolkata Knight Riders,9 runs,163,4,154,8
+501202,"Dr DY Patil Sports Academy, Mumbai",5th match (N),Mumbai,2011-04-10,Indian Premier League,Kings XI Punjab,Pune Warriors,112/8,113/3,Pune Warriors,7 wickets,112,8,113,3
+501201,"Arun Jaitley Stadium, Delhi",4th match (D/N),Delhi,2011-04-10,Indian Premier League,Delhi Daredevils,Mumbai Indians,95,99/2,Mumbai Indians,8 wickets,95,10,99,2
+501200,"Nehru Stadium, Kochi",3rd match (N),Kochi,2011-04-09,Indian Premier League,Kochi Tuskers Kerala,Royal Challengers Bangalore,161/5,162/4,Royal Challengers Bangalore,6 wickets,161,5,162,4
+501199,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2nd match (D/N),Hyderabad,2011-04-09,Indian Premier League,Deccan Chargers,Rajasthan Royals,137/8,141/2,Rajasthan Royals,8 wickets,137,8,141,2
+501198,"MA Chidambaram Stadium, Chepauk, Chennai",1st match (N),Chennai,2011-04-08,Indian Premier League,Chennai Super Kings,Kolkata Knight Riders,153/4,151/7,Chennai Super Kings,2 runs,153,4,151,7

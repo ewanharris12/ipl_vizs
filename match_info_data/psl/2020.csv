@@ -1,0 +1,35 @@
+match_id,venue,match_type,city,date,full_league,team_one,team_two,inn_one,inn_two,winner,margin,inn_one_score,inn_one_wickets,inn_two_score,inn_two_wickets
+1231146,"National Stadium, Karachi",Final (N),Karachi,2020-11-17,Pakistan Super League,Lahore Qalandars,Karachi Kings,134/7,135/5,Karachi Kings,5 wickets,134,7,135,5
+1211675,"National Stadium, Karachi",Eliminator 2 (N),Karachi,2020-11-15,Pakistan Super League,Lahore Qalandars,Multan Sultans,182/6,157,Lahore Qalandars,25 runs,182,6,157,10
+1211673,"National Stadium, Karachi",Eliminator 1 (N),Karachi,2020-11-14,Pakistan Super League,Peshawar Zalmi,Lahore Qalandars,170/9,171/5,Lahore Qalandars,5 wickets,170,9,171,5
+1211672,"National Stadium, Karachi",Qualifier,Karachi,2020-11-14,Pakistan Super League,Multan Sultans,Karachi Kings,141/7,141/8,Karachi Kings,Super Over,141,7,141,8
+1211671,"National Stadium, Karachi",30th Match (N),Karachi,2020-03-15,Pakistan Super League,Karachi Kings,Quetta Gladiators,150/5,154/5,Quetta Gladiators,5 wickets,150,5,154,5
+1211670,"Gaddafi Stadium, Lahore",29th Match,Lahore,2020-03-15,Pakistan Super League,Multan Sultans,Lahore Qalandars,186/6,191/1,Lahore Qalandars,9 wickets,186,6,191,1
+1211669,"National Stadium, Karachi",28th Match (N),Karachi,2020-03-14,Pakistan Super League,Islamabad United,Karachi Kings,136/6,137/6,Karachi Kings,4 wickets,136,6,137,6
+1211668,"National Stadium, Karachi",27th Match (N),Karachi,2020-03-13,Pakistan Super League,Multan Sultans,Peshawar Zalmi,154/6,151/8,Multan Sultans,3 runs,154,6,151,8
+1211667,"National Stadium, Karachi",26th Match (N),Karachi,2020-03-12,Pakistan Super League,Lahore Qalandars,Karachi Kings,150/5,151/0,Karachi Kings,10 wickets,150,5,151,0
+1211666,"Gaddafi Stadium, Lahore",25th Match (N),Lahore,2020-03-11,Pakistan Super League,Multan Sultans,Quetta Gladiators,,,,,,,,
+1211665,"Gaddafi Stadium, Lahore",24th Match (N),Lahore,2020-03-10,Pakistan Super League,Peshawar Zalmi,Lahore Qalandars,187/7,189/5,Lahore Qalandars,5 wickets,187,7,189,5
+1211664,"Gaddafi Stadium, Lahore",23rd Match (N),Lahore,2020-03-08,Pakistan Super League,Karachi Kings,Lahore Qalandars,187/5,190/2,Lahore Qalandars,8 wickets,187,5,190,2
+1211663,Rawalpindi Cricket Stadium,22nd Match,Rawalpindi,2020-03-08,Pakistan Super League,Islamabad United,Multan Sultans,91/7,94/1,Multan Sultans,9 wickets,91,7,94,1
+1211662,"Gaddafi Stadium, Lahore",21st Match (N),Lahore,2020-03-07,Pakistan Super League,Quetta Gladiators,Lahore Qalandars,98/9,100/2,Lahore Qalandars,8 wickets,98,9,100,2
+1211661,Rawalpindi Cricket Stadium,20th Match,Rawalpindi,2020-03-07,Pakistan Super League,Islamabad United,Peshawar Zalmi,195/5,85/2,Peshawar Zalmi,7 runs,195,5,85,2
+1211660,"Gaddafi Stadium, Lahore",19th Match (N),Lahore,2020-03-06,Pakistan Super League,Multan Sultans,Karachi Kings,,,,,,,,
+1211659,Rawalpindi Cricket Stadium,18th Match (N),Rawalpindi,2020-03-05,Pakistan Super League,Peshawar Zalmi,Quetta Gladiators,170/6,140/7,Peshawar Zalmi,30 runs,170,6,140,7
+1211658,"Gaddafi Stadium, Lahore",17th Match (N),Lahore,2020-03-04,Pakistan Super League,Islamabad United,Lahore Qalandars,198/3,127,Islamabad United,71 runs,198,3,127,10
+1211657,"Gaddafi Stadium, Lahore",16th Match (N),Lahore,2020-03-03,Pakistan Super League,Lahore Qalandars,Quetta Gladiators,209/5,172,Lahore Qalandars,37 runs,209,5,172,10
+1211656,Rawalpindi Cricket Stadium,15th Match (N),Rawalpindi,2020-03-02,Pakistan Super League,Peshawar Zalmi,Karachi Kings,151/8,152/4,Karachi Kings,6 wickets,151,8,152,4
+1211655,Rawalpindi Cricket Stadium,14th Match (N),Rawalpindi,2020-03-01,Pakistan Super League,Islamabad United,Karachi Kings,183/3,187/5,Karachi Kings,5 wickets,183,3,187,5
+1211654,Rawalpindi Cricket Stadium,13th Match (N),Rawalpindi,2020-02-29,Pakistan Super League,Islamabad United,Peshawar Zalmi,,,,,,,,
+1211653,Multan Cricket Stadium,12th Match,Multan,2020-02-29,Pakistan Super League,Multan Sultans,Quetta Gladiators,199/5,169/7,Multan Sultans,30 runs,199,5,169,7
+1211652,Rawalpindi Cricket Stadium,11th Match (N),Rawalpindi,2020-02-28,Pakistan Super League,Peshawar Zalmi,Lahore Qalandars,132/7,116/6,Peshawar Zalmi,16 runs,132,7,116,6
+1211651,Multan Cricket Stadium,10th Match,Multan,2020-02-28,Pakistan Super League,Multan Sultans,Karachi Kings,186/6,134,Multan Sultans,52 runs,186,6,134,10
+1211650,Rawalpindi Cricket Stadium,9th Match (N),Rawalpindi,2020-02-27,Pakistan Super League,Islamabad United,Quetta Gladiators,187/7,190/5,Quetta Gladiators,5 wickets,187,7,190,5
+1211649,Multan Cricket Stadium,8th Match (N),Multan,2020-02-26,Pakistan Super League,Peshawar Zalmi,Multan Sultans,123,124/4,Multan Sultans,6 wickets,123,10,124,4
+1211648,"Gaddafi Stadium, Lahore",7th Match (N),Lahore,2020-02-23,Pakistan Super League,Lahore Qalandars,Islamabad United,182/6,183/9,Islamabad United,1 wicket,182,6,183,9
+1211647,"National Stadium, Karachi",6th Match,Karachi,2020-02-23,Pakistan Super League,Karachi Kings,Quetta Gladiators,156/9,157/5,Quetta Gladiators,5 wickets,156,9,157,5
+1211646,"Gaddafi Stadium, Lahore",5th Match (N),Lahore,2020-02-22,Pakistan Super League,Multan Sultans,Islamabad United,164/8,165/2,Islamabad United,8 wickets,164,8,165,2
+1211645,"National Stadium, Karachi",4th Match,Karachi,2020-02-22,Pakistan Super League,Quetta Gladiators,Peshawar Zalmi,148/5,153/4,Peshawar Zalmi,6 wickets,148,5,153,4
+1211644,"Gaddafi Stadium, Lahore",3rd Match (N),Lahore,2020-02-21,Pakistan Super League,Lahore Qalandars,Multan Sultans,138/8,142/5,Multan Sultans,5 wickets,138,8,142,5
+1211643,"National Stadium, Karachi",2nd Match,Karachi,2020-02-21,Pakistan Super League,Karachi Kings,Peshawar Zalmi,201/4,191/7,Karachi Kings,10 runs,201,4,191,7
+1211642,"National Stadium, Karachi",1st Match (N),Karachi,2020-02-20,Pakistan Super League,Islamabad United,Quetta Gladiators,168,171/7,Quetta Gladiators,3 wickets,168,10,171,7

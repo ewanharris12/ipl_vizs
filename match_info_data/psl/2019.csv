@@ -1,0 +1,35 @@
+match_id,venue,match_type,city,date,full_league,team_one,team_two,inn_one,inn_two,winner,margin,inn_one_score,inn_one_wickets,inn_two_score,inn_two_wickets
+1168853,"National Stadium, Karachi",Final (N),Karachi,2019-03-17,Pakistan Super League,Peshawar Zalmi,Quetta Gladiators,138/8,139/2,Quetta Gladiators,8 wickets,138,8,139,2
+1168852,"National Stadium, Karachi",Eliminator 2 (N),Karachi,2019-03-15,Pakistan Super League,Peshawar Zalmi,Islamabad United,214/5,166/9,Peshawar Zalmi,48 runs,214,5,166,9
+1168850,"National Stadium, Karachi",Eliminator 1 (N),Karachi,2019-03-14,Pakistan Super League,Karachi Kings,Islamabad United,161/9,164/6,Islamabad United,4 wickets,161,9,164,6
+1168851,"National Stadium, Karachi",Qualifier (N),Karachi,2019-03-13,Pakistan Super League,Quetta Gladiators,Peshawar Zalmi,186/6,176/7,Quetta Gladiators,10 runs,186,6,176,7
+1168846,"National Stadium, Karachi",30th Match (N),Karachi,2019-03-11,Pakistan Super League,Peshawar Zalmi,Karachi Kings,203/7,142,Peshawar Zalmi,61 runs,203,7,142,10
+1168849,"National Stadium, Karachi",29th Match,Karachi,2019-03-11,Pakistan Super League,Lahore Qalandars,Multan Sultans,140/8,141/3,Multan Sultans,7 wickets,140,8,141,3
+1168848,"National Stadium, Karachi",28th Match (D/N),Karachi,2019-03-10,Pakistan Super League,Karachi Kings,Quetta Gladiators,190/5,189/7,Karachi Kings,1 run,190,5,189,7
+1168847,"National Stadium, Karachi",27th Match (N),Karachi,2019-03-09,Pakistan Super League,Islamabad United,Lahore Qalandars,238/3,189/9,Islamabad United,49 runs,238,3,189,9
+1168845,"Sheikh Zayed Stadium, Abu Dhabi",26th Match (N),Abu Dhabi,2019-03-05,Pakistan Super League,Quetta Gladiators,Islamabad United,180/9,137/9,Quetta Gladiators,43 runs,180,9,137,9
+1168844,"Sheikh Zayed Stadium, Abu Dhabi",25th Match (D/N),Abu Dhabi,2019-03-05,Pakistan Super League,Lahore Qalandars,Peshawar Zalmi,124/7,125/6,Peshawar Zalmi,4 wickets,124,7,125,6
+1168843,"Sheikh Zayed Stadium, Abu Dhabi",24th Match (N),Abu Dhabi,2019-03-04,Pakistan Super League,Multan Sultans,Karachi Kings,118/7,120/5,Karachi Kings,5 wickets,118,7,120,5
+1168842,"Sheikh Zayed Stadium, Abu Dhabi",23rd Match (D/N),Abu Dhabi,2019-03-04,Pakistan Super League,Peshawar Zalmi,Quetta Gladiators,165/4,166/2,Quetta Gladiators,8 wickets,165,4,166,2
+1168841,Dubai International Cricket Stadium,22nd Match (N),Dubai,2019-03-01,Pakistan Super League,Multan Sultans,Quetta Gladiators,121,122/4,Quetta Gladiators,6 wickets,121,10,122,4
+1168840,Dubai International Cricket Stadium,21st Match (D/N),Dubai,2019-03-01,Pakistan Super League,Islamabad United,Peshawar Zalmi,176,177/6,Peshawar Zalmi,4 wickets,176,10,177,6
+1168839,Dubai International Cricket Stadium,20th Match (N),Dubai,2019-02-28,Pakistan Super League,Lahore Qalandars,Karachi Kings,133/5,134/5,Karachi Kings,5 wickets,133,5,134,5
+1168838,Dubai International Cricket Stadium,19th Match (D/N),Dubai,2019-02-28,Pakistan Super League,Multan Sultans,Peshawar Zalmi,172/5,176/3,Peshawar Zalmi,7 wickets,172,5,176,3
+1168837,Dubai International Cricket Stadium,18th Match (N),Dubai,2019-02-27,Pakistan Super League,Karachi Kings,Islamabad United,168/8,169/5,Islamabad United,5 wickets,168,8,169,5
+1168836,Dubai International Cricket Stadium,17th Match (D/N),Dubai,2019-02-27,Pakistan Super League,Quetta Gladiators,Lahore Qalandars,106,107/2,Lahore Qalandars,8 wickets,106,10,107,2
+1168835,Dubai International Cricket Stadium,16th Match (N),Dubai,2019-02-26,Pakistan Super League,Islamabad United,Multan Sultans,121,122/4,Multan Sultans,6 wickets,121,10,122,4
+1168834,Sharjah Cricket Stadium,15th Match (N),Sharjah,2019-02-24,Pakistan Super League,Quetta Gladiators,Karachi Kings,186/5,188/4,Karachi Kings,6 wickets,186,5,188,4
+1168833,Sharjah Cricket Stadium,14th Match (D/N),Sharjah,2019-02-24,Pakistan Super League,Multan Sultans,Peshawar Zalmi,145,146/5,Peshawar Zalmi,5 wickets,145,10,146,5
+1168832,Sharjah Cricket Stadium,13th Match (N),Sharjah,2019-02-23,Pakistan Super League,Karachi Kings,Islamabad United,143/6,147/3,Islamabad United,7 wickets,143,6,147,3
+1168831,Sharjah Cricket Stadium,12th Match (D/N),Sharjah,2019-02-23,Pakistan Super League,Lahore Qalandars,Quetta Gladiators,143/7,148/7,Quetta Gladiators,3 wickets,143,7,148,7
+1168830,Sharjah Cricket Stadium,11th Match (N),Sharjah,2019-02-22,Pakistan Super League,Islamabad United,Peshawar Zalmi,158/9,146,Islamabad United,12 runs,158,9,146,10
+1168829,Sharjah Cricket Stadium,10th Match (D/N),Sharjah,2019-02-22,Pakistan Super League,Multan Sultans,Lahore Qalandars,200/6,204/4,Lahore Qalandars,6 wickets,200,6,204,4
+1168828,Sharjah Cricket Stadium,9th Match (N),Sharjah,2019-02-21,Pakistan Super League,Peshawar Zalmi,Karachi Kings,153/8,109/9,Peshawar Zalmi,44 runs,153,8,109,9
+1168827,Sharjah Cricket Stadium,8th Match (N),Sharjah,2019-02-20,Pakistan Super League,Multan Sultans,Quetta Gladiators,160/9,161/2,Quetta Gladiators,8 wickets,160,9,161,2
+1168826,Dubai International Cricket Stadium,7th Match (N),Dubai,2019-02-17,Pakistan Super League,Lahore Qalandars,Peshawar Zalmi,78,81/3,Peshawar Zalmi,7 wickets,78,10,81,3
+1168825,Dubai International Cricket Stadium,6th Match (D/N),Dubai,2019-02-17,Pakistan Super League,Islamabad United,Quetta Gladiators,157/8,161/3,Quetta Gladiators,7 wickets,157,8,161,3
+1168824,Dubai International Cricket Stadium,5th Match (N),Dubai,2019-02-16,Pakistan Super League,Lahore Qalandars,Karachi Kings,138/6,116,Lahore Qalandars,22 runs,138,6,116,10
+1168823,Dubai International Cricket Stadium,4th Match (D/N),Dubai,2019-02-16,Pakistan Super League,Islamabad United,Multan Sultans,125/7,126/5,Multan Sultans,5 wickets,125,7,126,5
+1168822,Dubai International Cricket Stadium,3rd Match (N),Dubai,2019-02-15,Pakistan Super League,Peshawar Zalmi,Quetta Gladiators,155/4,161/4,Quetta Gladiators,6 wickets,155,4,161,4
+1168821,Dubai International Cricket Stadium,2nd Match (D/N),Dubai,2019-02-15,Pakistan Super League,Karachi Kings,Multan Sultans,183/6,176/9,Karachi Kings,7 runs,183,6,176,9
+1168820,Dubai International Cricket Stadium,1st Match (N),Dubai,2019-02-14,Pakistan Super League,Lahore Qalandars,Islamabad United,171/8,177/5,Islamabad United,5 wickets,171,8,177,5
